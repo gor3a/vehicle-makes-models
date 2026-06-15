@@ -1,0 +1,175 @@
+{
+  "group": "vauxhall",
+  "makes": [
+    {
+      "name": "Vauxhall",
+      "models": [
+        {
+          "name": "Agila",
+          "yearStart": 2000,
+          "yearEnd": 2015
+        },
+        {
+          "name": "Antara",
+          "yearStart": 2007,
+          "yearEnd": 2015
+        },
+        {
+          "name": "Astra",
+          "yearStart": 2004,
+          "yearEnd": null
+        },
+        {
+          "name": "Astra Sport Hatch",
+          "yearStart": 2004,
+          "yearEnd": 2010
+        },
+        {
+          "name": "Astra Twin Top",
+          "yearStart": 2007,
+          "yearEnd": 2010
+        },
+        {
+          "name": "Astra VXR",
+          "yearStart": 2005,
+          "yearEnd": 2015
+        },
+        {
+          "name": "Corsa",
+          "yearStart": 2001,
+          "yearEnd": 2023
+        },
+        {
+          "name": "Corsa GSE",
+          "yearStart": 2026,
+          "yearEnd": null
+        },
+        {
+          "name": "Corsa VXR",
+          "yearStart": 2011,
+          "yearEnd": 2013
+        },
+        {
+          "name": "Crossland X",
+          "yearStart": 2017,
+          "yearEnd": 2018
+        },
+        {
+          "name": "Grandland",
+          "yearStart": 2021,
+          "yearEnd": null
+        },
+        {
+          "name": "Insignia",
+          "yearStart": 2008,
+          "yearEnd": 2017
+        },
+        {
+          "name": "Insignia Country Tourer",
+          "yearStart": 2013,
+          "yearEnd": 2017
+        },
+        {
+          "name": "Insignia Sports Tourer",
+          "yearStart": 2009,
+          "yearEnd": 2017
+        },
+        {
+          "name": "Insignia VXR",
+          "yearStart": 2012,
+          "yearEnd": 2017
+        },
+        {
+          "name": "Insignia VXR Sports Tourer",
+          "yearStart": 2010,
+          "yearEnd": 2019
+        },
+        {
+          "name": "Meriva",
+          "yearStart": 2003,
+          "yearEnd": 2017
+        },
+        {
+          "name": "Meriva VXR",
+          "yearStart": 2003,
+          "yearEnd": 2009
+        },
+        {
+          "name": "Mokka",
+          "yearStart": 2012,
+          "yearEnd": 2016
+        },
+        {
+          "name": "Mokka X",
+          "yearStart": 2016,
+          "yearEnd": 2019
+        },
+        {
+          "name": "Monaro",
+          "yearStart": 2001,
+          "yearEnd": 2007
+        },
+        {
+          "name": "Monaro VXR",
+          "yearStart": 2005,
+          "yearEnd": 2007
+        },
+        {
+          "name": "Signum",
+          "yearStart": 2005,
+          "yearEnd": 2008
+        },
+        {
+          "name": "Tigra Twin Top",
+          "yearStart": 2004,
+          "yearEnd": 2009
+        },
+        {
+          "name": "Vectra",
+          "yearStart": 2005,
+          "yearEnd": 2008
+        },
+        {
+          "name": "Vectra Estate VXR",
+          "yearStart": 2005,
+          "yearEnd": 2008
+        },
+        {
+          "name": "Vectra Saloon",
+          "yearStart": 2005,
+          "yearEnd": 2008
+        },
+        {
+          "name": "Vectra VXR",
+          "yearStart": 2005,
+          "yearEnd": 2008
+        },
+        {
+          "name": "Viva",
+          "yearStart": 2015,
+          "yearEnd": 2019
+        },
+        {
+          "name": "VX 220",
+          "yearStart": 2000,
+          "yearEnd": 2005
+        },
+        {
+          "name": "VXR8",
+          "yearStart": 2008,
+          "yearEnd": 2017
+        },
+        {
+          "name": "Zafira",
+          "yearStart": 2005,
+          "yearEnd": 2018
+        },
+        {
+          "name": "Zafira VXR",
+          "yearStart": 2005,
+          "yearEnd": 2010
+        }
+      ]
+    }
+  ]
+}

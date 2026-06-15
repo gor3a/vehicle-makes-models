@@ -1,0 +1,56 @@
+{
+  "group": "el-nasr",
+  "makes": [
+    {
+      "name": "El Nasr",
+      "country": "Egypt",
+      "models": [
+        {
+          "name": "128",
+          "yearStart": 1974,
+          "yearEnd": 2009
+        },
+        {
+          "name": "1300",
+          "yearStart": 1971,
+          "yearEnd": 1985
+        },
+        {
+          "name": "133",
+          "yearStart": 1977,
+          "yearEnd": 1990
+        },
+        {
+          "name": "1500",
+          "yearStart": 1971,
+          "yearEnd": 1985
+        },
+        {
+          "name": "Dogan",
+          "yearStart": 1992,
+          "yearEnd": 2007
+        },
+        {
+          "name": "Florida",
+          "yearStart": 1990,
+          "yearEnd": 2009
+        },
+        {
+          "name": "Nasr Jeep",
+          "yearStart": 1980,
+          "yearEnd": 2010
+        },
+        {
+          "name": "Polonez",
+          "yearStart": 1986,
+          "yearEnd": 2002
+        },
+        {
+          "name": "Shahin",
+          "yearStart": 1985,
+          "yearEnd": 2000
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "group": "wuling",
+  "makes": [
+    {
+      "name": "Wuling",
+      "country": "China",
+      "models": [
+        {
+          "name": "Air EV",
+          "yearStart": 2022,
+          "yearEnd": null
+        },
+        {
+          "name": "Bingo",
+          "yearStart": 2023,
+          "yearEnd": null
+        },
+        {
+          "name": "Hongguang",
+          "yearStart": 2010,
+          "yearEnd": null
+        },
+        {
+          "name": "Hongguang Mini EV",
+          "yearStart": 2020,
+          "yearEnd": null
+        }
+      ]
+    }
+  ]
+}

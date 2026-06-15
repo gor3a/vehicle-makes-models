@@ -1,0 +1,30 @@
+{
+  "group": "alpine",
+  "makes": [
+    {
+      "name": "Alpine",
+      "models": [
+        {
+          "name": "A110",
+          "yearStart": 1962,
+          "yearEnd": null
+        },
+        {
+          "name": "A110S",
+          "yearStart": 2019,
+          "yearEnd": null
+        },
+        {
+          "name": "A290",
+          "yearStart": 2024,
+          "yearEnd": null
+        },
+        {
+          "name": "A390",
+          "yearStart": 2025,
+          "yearEnd": null
+        }
+      ]
+    }
+  ]
+}

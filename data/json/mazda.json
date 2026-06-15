@@ -1,0 +1,205 @@
+{
+  "group": "mazda",
+  "makes": [
+    {
+      "name": "Mazda",
+      "models": [
+        {
+          "name": "121",
+          "yearStart": 1987,
+          "yearEnd": 1998
+        },
+        {
+          "name": "2 / Demio",
+          "yearStart": 2002,
+          "yearEnd": null
+        },
+        {
+          "name": "3 / Axela",
+          "yearStart": 2004,
+          "yearEnd": null
+        },
+        {
+          "name": "3 MPS / MAZDASPEED 3",
+          "yearStart": 2006,
+          "yearEnd": 2013
+        },
+        {
+          "name": "323",
+          "yearStart": 1989,
+          "yearEnd": 1998
+        },
+        {
+          "name": "323 Station",
+          "yearStart": 1986,
+          "yearEnd": 1994
+        },
+        {
+          "name": "5 / Premacy",
+          "yearStart": 2005,
+          "yearEnd": 2013
+        },
+        {
+          "name": "6 / Atenza",
+          "yearStart": 2002,
+          "yearEnd": 2019
+        },
+        {
+          "name": "626",
+          "yearStart": 1988,
+          "yearEnd": 2002
+        },
+        {
+          "name": "626 Station",
+          "yearStart": 1988,
+          "yearEnd": 1991
+        },
+        {
+          "name": "6e",
+          "yearStart": 2025,
+          "yearEnd": null
+        },
+        {
+          "name": "B Series / Bravo Dual Cab",
+          "yearStart": 1999,
+          "yearEnd": 2006
+        },
+        {
+          "name": "B Series / Bravo Freestyle Cab",
+          "yearStart": 1999,
+          "yearEnd": 2006
+        },
+        {
+          "name": "Biante",
+          "yearStart": 2008,
+          "yearEnd": 2018
+        },
+        {
+          "name": "BT-50",
+          "yearStart": 2006,
+          "yearEnd": 2020
+        },
+        {
+          "name": "CX-3",
+          "yearStart": 2015,
+          "yearEnd": 2025
+        },
+        {
+          "name": "CX-30",
+          "yearStart": 2019,
+          "yearEnd": null
+        },
+        {
+          "name": "CX-5",
+          "yearStart": 2012,
+          "yearEnd": null
+        },
+        {
+          "name": "CX-50",
+          "yearStart": 2021,
+          "yearEnd": null
+        },
+        {
+          "name": "CX-60",
+          "yearStart": 2022,
+          "yearEnd": null
+        },
+        {
+          "name": "CX-6e",
+          "yearStart": 2026,
+          "yearEnd": null
+        },
+        {
+          "name": "CX-7",
+          "yearStart": 2007,
+          "yearEnd": 2012
+        },
+        {
+          "name": "CX-70",
+          "yearStart": 2024,
+          "yearEnd": null
+        },
+        {
+          "name": "CX-8",
+          "yearStart": 2017,
+          "yearEnd": 2023
+        },
+        {
+          "name": "CX-80",
+          "yearStart": 2024,
+          "yearEnd": null
+        },
+        {
+          "name": "CX-9",
+          "yearStart": 2007,
+          "yearEnd": 2024
+        },
+        {
+          "name": "CX-90",
+          "yearStart": 2023,
+          "yearEnd": null
+        },
+        {
+          "name": "Flair",
+          "yearStart": 2012,
+          "yearEnd": 2017
+        },
+        {
+          "name": "Flairwagon",
+          "yearStart": 2012,
+          "yearEnd": 2013
+        },
+        {
+          "name": "MX-3",
+          "yearStart": 1991,
+          "yearEnd": 1998
+        },
+        {
+          "name": "MX-30",
+          "yearStart": 2019,
+          "yearEnd": null
+        },
+        {
+          "name": "MX-5 / Miata",
+          "yearStart": 1989,
+          "yearEnd": null
+        },
+        {
+          "name": "MX-6",
+          "yearStart": 1992,
+          "yearEnd": 1997
+        },
+        {
+          "name": "RX-7",
+          "yearStart": 1970,
+          "yearEnd": 2002
+        },
+        {
+          "name": "RX-8",
+          "yearStart": 2003,
+          "yearEnd": 2012
+        },
+        {
+          "name": "Tribute",
+          "yearStart": 2001,
+          "yearEnd": 2011
+        },
+        {
+          "name": "Verisa",
+          "yearStart": 2004,
+          "yearEnd": 2015
+        },
+        {
+          "name": "Xedos 6",
+          "yearStart": 1992,
+          "yearEnd": 1999
+        },
+        {
+          "name": "Xedos 9",
+          "yearStart": 1993,
+          "yearEnd": 2002
+        }
+      ]
+    }
+  ]
+}

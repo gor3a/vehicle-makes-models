@@ -1,0 +1,100 @@
+{
+  "group": "gmc",
+  "makes": [
+    {
+      "name": "GMC",
+      "models": [
+        {
+          "name": "Acadia",
+          "yearStart": 2007,
+          "yearEnd": 2023
+        },
+        {
+          "name": "Canyon",
+          "yearStart": 2004,
+          "yearEnd": 2021
+        },
+        {
+          "name": "Canyon Regular Cab",
+          "yearStart": 2004,
+          "yearEnd": 2013
+        },
+        {
+          "name": "Envoy",
+          "yearStart": 2001,
+          "yearEnd": 2009
+        },
+        {
+          "name": "Envoy XL",
+          "yearStart": 2001,
+          "yearEnd": 2006
+        },
+        {
+          "name": "Envoy XUV",
+          "yearStart": 2003,
+          "yearEnd": 2005
+        },
+        {
+          "name": "Hummer EV",
+          "yearStart": 2021,
+          "yearEnd": null
+        },
+        {
+          "name": "Hummer EV SUV",
+          "yearStart": 2023,
+          "yearEnd": null
+        },
+        {
+          "name": "Jimmy",
+          "yearStart": 1997,
+          "yearEnd": 2001
+        },
+        {
+          "name": "Safari",
+          "yearStart": 1994,
+          "yearEnd": 2005
+        },
+        {
+          "name": "Savana",
+          "yearStart": 1995,
+          "yearEnd": null
+        },
+        {
+          "name": "Sierra",
+          "yearStart": 2007,
+          "yearEnd": null
+        },
+        {
+          "name": "Sierra 2500HD",
+          "yearStart": 2008,
+          "yearEnd": 2022
+        },
+        {
+          "name": "Sierra 3500HD",
+          "yearStart": 2008,
+          "yearEnd": 2019
+        },
+        {
+          "name": "Terrain",
+          "yearStart": 2009,
+          "yearEnd": null
+        },
+        {
+          "name": "Typhoon",
+          "yearStart": 1992,
+          "yearEnd": 1993
+        },
+        {
+          "name": "Yukon",
+          "yearStart": 1999,
+          "yearEnd": null
+        },
+        {
+          "name": "Yukon XL",
+          "yearStart": 1999,
+          "yearEnd": null
+        }
+      ]
+    }
+  ]
+}

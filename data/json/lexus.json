@@ -1,0 +1,120 @@
+{
+  "group": "lexus",
+  "makes": [
+    {
+      "name": "Lexus",
+      "models": [
+        {
+          "name": "CT",
+          "yearStart": 2011,
+          "yearEnd": 2022
+        },
+        {
+          "name": "ES",
+          "yearStart": 2002,
+          "yearEnd": null
+        },
+        {
+          "name": "GS",
+          "yearStart": 1993,
+          "yearEnd": 2020
+        },
+        {
+          "name": "GS F",
+          "yearStart": 2015,
+          "yearEnd": 2020
+        },
+        {
+          "name": "GX",
+          "yearStart": 2003,
+          "yearEnd": null
+        },
+        {
+          "name": "HS",
+          "yearStart": 2009,
+          "yearEnd": 2013
+        },
+        {
+          "name": "IS",
+          "yearStart": 1998,
+          "yearEnd": null
+        },
+        {
+          "name": "LBX",
+          "yearStart": 2023,
+          "yearEnd": null
+        },
+        {
+          "name": "LC",
+          "yearStart": 2016,
+          "yearEnd": null
+        },
+        {
+          "name": "LFA",
+          "yearStart": 2010,
+          "yearEnd": 2013
+        },
+        {
+          "name": "LM",
+          "yearStart": 2023,
+          "yearEnd": null
+        },
+        {
+          "name": "LS",
+          "yearStart": 1989,
+          "yearEnd": null
+        },
+        {
+          "name": "LX",
+          "yearStart": 1996,
+          "yearEnd": null
+        },
+        {
+          "name": "NX",
+          "yearStart": 2014,
+          "yearEnd": null
+        },
+        {
+          "name": "RC",
+          "yearStart": 2014,
+          "yearEnd": 2025
+        },
+        {
+          "name": "RC F",
+          "yearStart": 2014,
+          "yearEnd": 2025
+        },
+        {
+          "name": "RX",
+          "yearStart": 1998,
+          "yearEnd": null
+        },
+        {
+          "name": "RZ",
+          "yearStart": 2022,
+          "yearEnd": null
+        },
+        {
+          "name": "SC",
+          "yearStart": 1991,
+          "yearEnd": 2010
+        },
+        {
+          "name": "TX",
+          "yearStart": 2023,
+          "yearEnd": null
+        },
+        {
+          "name": "TZ",
+          "yearStart": 2026,
+          "yearEnd": null
+        },
+        {
+          "name": "UX",
+          "yearStart": 2018,
+          "yearEnd": 2023
+        }
+      ]
+    }
+  ]
+}

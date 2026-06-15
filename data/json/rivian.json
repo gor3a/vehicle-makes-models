@@ -1,0 +1,35 @@
+{
+  "group": "rivian",
+  "makes": [
+    {
+      "name": "Rivian",
+      "models": [
+        {
+          "name": "R1S",
+          "yearStart": 2021,
+          "yearEnd": null
+        },
+        {
+          "name": "R1T",
+          "yearStart": 2021,
+          "yearEnd": null
+        },
+        {
+          "name": "R2",
+          "yearStart": 2024,
+          "yearEnd": null
+        },
+        {
+          "name": "R3",
+          "yearStart": 2024,
+          "yearEnd": null
+        },
+        {
+          "name": "R3X",
+          "yearStart": 2024,
+          "yearEnd": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "group": "artega",
+  "makes": [
+    {
+      "name": "Artega",
+      "models": [
+        {
+          "name": "GT",
+          "yearStart": 2010,
+          "yearEnd": 2012
+        },
+        {
+          "name": "Scalo",
+          "yearStart": 2015,
+          "yearEnd": 2017
+        }
+      ]
+    }
+  ]
+}

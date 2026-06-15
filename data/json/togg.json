@@ -1,0 +1,20 @@
+{
+  "group": "togg",
+  "makes": [
+    {
+      "name": "Togg",
+      "models": [
+        {
+          "name": "T10F",
+          "yearStart": 2024,
+          "yearEnd": null
+        },
+        {
+          "name": "T10X",
+          "yearStart": 2022,
+          "yearEnd": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "group": "omoda",
+  "makes": [
+    {
+      "name": "Omoda",
+      "models": [
+        {
+          "name": "7",
+          "yearStart": 2026,
+          "yearEnd": null
+        }
+      ]
+    }
+  ]
+}

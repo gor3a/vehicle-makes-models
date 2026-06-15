@@ -1,0 +1,30 @@
+{
+  "group": "dr",
+  "makes": [
+    {
+      "name": "DR",
+      "models": [
+        {
+          "name": "MOTOR dr cityCROSS",
+          "yearStart": 2013,
+          "yearEnd": 2016
+        },
+        {
+          "name": "MOTOR dr1",
+          "yearStart": 2009,
+          "yearEnd": 2014
+        },
+        {
+          "name": "MOTOR dr2",
+          "yearStart": 2010,
+          "yearEnd": 2014
+        },
+        {
+          "name": "MOTOR dr5",
+          "yearStart": 2007,
+          "yearEnd": 2020
+        }
+      ]
+    }
+  ]
+}

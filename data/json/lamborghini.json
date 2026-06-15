@@ -1,0 +1,120 @@
+{
+  "group": "lamborghini",
+  "makes": [
+    {
+      "name": "Lamborghini",
+      "models": [
+        {
+          "name": "350 GTS",
+          "yearStart": null,
+          "yearEnd": null
+        },
+        {
+          "name": "Aventador",
+          "yearStart": 2011,
+          "yearEnd": null
+        },
+        {
+          "name": "Centenario",
+          "yearStart": 2016,
+          "yearEnd": 2017
+        },
+        {
+          "name": "Countach",
+          "yearStart": 1973,
+          "yearEnd": 1990
+        },
+        {
+          "name": "Diablo",
+          "yearStart": 1990,
+          "yearEnd": 2001
+        },
+        {
+          "name": "Espada",
+          "yearStart": 1968,
+          "yearEnd": 1976
+        },
+        {
+          "name": "Fenomeno",
+          "yearStart": 2026,
+          "yearEnd": null
+        },
+        {
+          "name": "Gallardo",
+          "yearStart": 2003,
+          "yearEnd": 2014
+        },
+        {
+          "name": "Huracan",
+          "yearStart": 2014,
+          "yearEnd": null
+        },
+        {
+          "name": "Jalpa",
+          "yearStart": 1981,
+          "yearEnd": 1988
+        },
+        {
+          "name": "Jarama",
+          "yearStart": 1970,
+          "yearEnd": 1976
+        },
+        {
+          "name": "LM 002",
+          "yearStart": 1986,
+          "yearEnd": 1993
+        },
+        {
+          "name": "Miura",
+          "yearStart": 1966,
+          "yearEnd": 1987
+        },
+        {
+          "name": "Murcielago",
+          "yearStart": 2001,
+          "yearEnd": 2010
+        },
+        {
+          "name": "Reventon",
+          "yearStart": 2008,
+          "yearEnd": 2009
+        },
+        {
+          "name": "Revuelto",
+          "yearStart": 2023,
+          "yearEnd": null
+        },
+        {
+          "name": "Sian",
+          "yearStart": 2019,
+          "yearEnd": null
+        },
+        {
+          "name": "Silhouette",
+          "yearStart": 1976,
+          "yearEnd": 1979
+        },
+        {
+          "name": "Temerario",
+          "yearStart": 2024,
+          "yearEnd": null
+        },
+        {
+          "name": "Urraco",
+          "yearStart": 1972,
+          "yearEnd": 1979
+        },
+        {
+          "name": "Urus",
+          "yearStart": 2018,
+          "yearEnd": null
+        },
+        {
+          "name": "Veneno",
+          "yearStart": 2013,
+          "yearEnd": 2014
+        }
+      ]
+    }
+  ]
+}

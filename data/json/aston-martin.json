@@ -1,0 +1,205 @@
+{
+  "group": "aston-martin",
+  "makes": [
+    {
+      "name": "Aston Martin",
+      "models": [
+        {
+          "name": "Cygnet",
+          "yearStart": 2011,
+          "yearEnd": 2013
+        },
+        {
+          "name": "DB AR1",
+          "yearStart": 2003,
+          "yearEnd": 2004
+        },
+        {
+          "name": "DB11",
+          "yearStart": 2016,
+          "yearEnd": 2023
+        },
+        {
+          "name": "DB11 Volante",
+          "yearStart": 2018,
+          "yearEnd": 2023
+        },
+        {
+          "name": "DB12",
+          "yearStart": 2023,
+          "yearEnd": null
+        },
+        {
+          "name": "DB12 Volante",
+          "yearStart": 2023,
+          "yearEnd": null
+        },
+        {
+          "name": "DB6",
+          "yearStart": 1965,
+          "yearEnd": 1970
+        },
+        {
+          "name": "DB6 Volante",
+          "yearStart": 1965,
+          "yearEnd": 1970
+        },
+        {
+          "name": "DB7",
+          "yearStart": 1993,
+          "yearEnd": 2004
+        },
+        {
+          "name": "DB7 Volante",
+          "yearStart": 1996,
+          "yearEnd": 2003
+        },
+        {
+          "name": "DB9",
+          "yearStart": 2004,
+          "yearEnd": 2016
+        },
+        {
+          "name": "DB9 Volante",
+          "yearStart": 2004,
+          "yearEnd": 2015
+        },
+        {
+          "name": "DBS",
+          "yearStart": 1967,
+          "yearEnd": null
+        },
+        {
+          "name": "DBS Volante",
+          "yearStart": 2009,
+          "yearEnd": 2012
+        },
+        {
+          "name": "DBX",
+          "yearStart": 2020,
+          "yearEnd": null
+        },
+        {
+          "name": "Lagonda",
+          "yearStart": 1976,
+          "yearEnd": 1989
+        },
+        {
+          "name": "One-77",
+          "yearStart": 2009,
+          "yearEnd": 2012
+        },
+        {
+          "name": "Rapide",
+          "yearStart": 2010,
+          "yearEnd": 2013
+        },
+        {
+          "name": "Rapide AMR",
+          "yearStart": 2017,
+          "yearEnd": 2020
+        },
+        {
+          "name": "Rapide E",
+          "yearStart": 2019,
+          "yearEnd": 2019
+        },
+        {
+          "name": "Rapide S",
+          "yearStart": 2013,
+          "yearEnd": 2018
+        },
+        {
+          "name": "V12 Speedster",
+          "yearStart": 2020,
+          "yearEnd": 2022
+        },
+        {
+          "name": "V12 Vantage",
+          "yearStart": 2009,
+          "yearEnd": null
+        },
+        {
+          "name": "V12 Vantage AMR",
+          "yearStart": 2017,
+          "yearEnd": 2019
+        },
+        {
+          "name": "V12 Vantage S",
+          "yearStart": 2014,
+          "yearEnd": 2018
+        },
+        {
+          "name": "V12 Zagato",
+          "yearStart": 2012,
+          "yearEnd": 2013
+        },
+        {
+          "name": "V8 Vantage",
+          "yearStart": 1973,
+          "yearEnd": null
+        },
+        {
+          "name": "V8 Vantage S",
+          "yearStart": 2011,
+          "yearEnd": 2017
+        },
+        {
+          "name": "V8 Volante",
+          "yearStart": 1978,
+          "yearEnd": 2014
+        },
+        {
+          "name": "Valhalla",
+          "yearStart": 2022,
+          "yearEnd": null
+        },
+        {
+          "name": "Vanquish",
+          "yearStart": 2001,
+          "yearEnd": null
+        },
+        {
+          "name": "Vanquish S",
+          "yearStart": 2004,
+          "yearEnd": 2018
+        },
+        {
+          "name": "Vanquish Volante",
+          "yearStart": 2013,
+          "yearEnd": null
+        },
+        {
+          "name": "Vantage",
+          "yearStart": 2020,
+          "yearEnd": null
+        },
+        {
+          "name": "Vantage GT12",
+          "yearStart": 2015,
+          "yearEnd": 2016
+        },
+        {
+          "name": "Vantage GT8",
+          "yearStart": 2016,
+          "yearEnd": 2017
+        },
+        {
+          "name": "Virage",
+          "yearStart": 1988,
+          "yearEnd": 2012
+        },
+        {
+          "name": "Virage Volante",
+          "yearStart": 1992,
+          "yearEnd": 2012
+        },
+        {
+          "name": "Vulcan",
+          "yearStart": 2015,
+          "yearEnd": 2016
+        }
+      ]
+    }
+  ]
+}

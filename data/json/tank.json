@@ -1,0 +1,31 @@
+{
+  "group": "tank",
+  "makes": [
+    {
+      "name": "Tank",
+      "country": "China",
+      "models": [
+        {
+          "name": "Tank 300",
+          "yearStart": 2020,
+          "yearEnd": null
+        },
+        {
+          "name": "Tank 400",
+          "yearStart": 2023,
+          "yearEnd": null
+        },
+        {
+          "name": "Tank 500",
+          "yearStart": 2021,
+          "yearEnd": null
+        },
+        {
+          "name": "Tank 700",
+          "yearStart": 2023,
+          "yearEnd": null
+        }
+      ]
+    }
+  ]
+}

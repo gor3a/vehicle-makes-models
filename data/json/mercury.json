@@ -1,0 +1,60 @@
+{
+  "group": "mercury",
+  "makes": [
+    {
+      "name": "Mercury",
+      "models": [
+        {
+          "name": "Cougar",
+          "yearStart": 1998,
+          "yearEnd": 2002
+        },
+        {
+          "name": "Grand Marquis",
+          "yearStart": 2002,
+          "yearEnd": 2011
+        },
+        {
+          "name": "Marauder",
+          "yearStart": 2003,
+          "yearEnd": 2004
+        },
+        {
+          "name": "Mariner",
+          "yearStart": 2004,
+          "yearEnd": 2011
+        },
+        {
+          "name": "Milan",
+          "yearStart": 2005,
+          "yearEnd": 2011
+        },
+        {
+          "name": "Montego",
+          "yearStart": 2004,
+          "yearEnd": 2007
+        },
+        {
+          "name": "Monterey",
+          "yearStart": 2004,
+          "yearEnd": 2006
+        },
+        {
+          "name": "Mountaineer",
+          "yearStart": 2006,
+          "yearEnd": 2010
+        },
+        {
+          "name": "Sable",
+          "yearStart": 2007,
+          "yearEnd": 2009
+        },
+        {
+          "name": "Villager",
+          "yearStart": 1992,
+          "yearEnd": 2002
+        }
+      ]
+    }
+  ]
+}

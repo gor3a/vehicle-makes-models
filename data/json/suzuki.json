@@ -1,0 +1,135 @@
+{
+  "group": "suzuki",
+  "makes": [
+    {
+      "name": "Suzuki",
+      "models": [
+        {
+          "name": "Across",
+          "yearStart": 2020,
+          "yearEnd": null
+        },
+        {
+          "name": "Aerio / Liana",
+          "yearStart": 2001,
+          "yearEnd": 2007
+        },
+        {
+          "name": "Alto",
+          "yearStart": 2002,
+          "yearEnd": 2013
+        },
+        {
+          "name": "APV",
+          "yearStart": 2004,
+          "yearEnd": 2009
+        },
+        {
+          "name": "Baleno",
+          "yearStart": 2016,
+          "yearEnd": 2019
+        },
+        {
+          "name": "Equator",
+          "yearStart": 2009,
+          "yearEnd": 2012
+        },
+        {
+          "name": "Ertiga",
+          "yearStart": 2012,
+          "yearEnd": 2015
+        },
+        {
+          "name": "Escudo / Grand Vitara",
+          "yearStart": 1991,
+          "yearEnd": 2019
+        },
+        {
+          "name": "Escudo / Vitara",
+          "yearStart": 1989,
+          "yearEnd": 2008
+        },
+        {
+          "name": "Forenza",
+          "yearStart": 2004,
+          "yearEnd": 2008
+        },
+        {
+          "name": "Ignis",
+          "yearStart": 2000,
+          "yearEnd": 2024
+        },
+        {
+          "name": "Jimny",
+          "yearStart": 2005,
+          "yearEnd": null
+        },
+        {
+          "name": "Kizashi",
+          "yearStart": 2009,
+          "yearEnd": 2016
+        },
+        {
+          "name": "Reno",
+          "yearStart": 2004,
+          "yearEnd": 2008
+        },
+        {
+          "name": "S-Cross",
+          "yearStart": 2021,
+          "yearEnd": null
+        },
+        {
+          "name": "Splash",
+          "yearStart": 2007,
+          "yearEnd": 2014
+        },
+        {
+          "name": "Swace",
+          "yearStart": 2020,
+          "yearEnd": null
+        },
+        {
+          "name": "Swift",
+          "yearStart": 1991,
+          "yearEnd": null
+        },
+        {
+          "name": "SX4",
+          "yearStart": 2006,
+          "yearEnd": 2014
+        },
+        {
+          "name": "SX4 Crossover",
+          "yearStart": 2006,
+          "yearEnd": 2021
+        },
+        {
+          "name": "Verona",
+          "yearStart": 2004,
+          "yearEnd": 2006
+        },
+        {
+          "name": "Vitara",
+          "yearStart": 2014,
+          "yearEnd": null
+        },
+        {
+          "name": "Wagon R",
+          "yearStart": 1997,
+          "yearEnd": 2007
+        },
+        {
+          "name": "X90",
+          "yearStart": 1996,
+          "yearEnd": 1997
+        },
+        {
+          "name": "XL7",
+          "yearStart": 2004,
+          "yearEnd": 2009
+        }
+      ]
+    }
+  ]
+}

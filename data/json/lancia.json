@@ -1,0 +1,145 @@
+{
+  "group": "lancia",
+  "makes": [
+    {
+      "name": "Lancia",
+      "models": [
+        {
+          "name": "2000",
+          "yearStart": 1971,
+          "yearEnd": 1974
+        },
+        {
+          "name": "A112",
+          "yearStart": 1982,
+          "yearEnd": 1986
+        },
+        {
+          "name": "A112 Abarth",
+          "yearStart": 1984,
+          "yearEnd": 1986
+        },
+        {
+          "name": "Beta",
+          "yearStart": 1909,
+          "yearEnd": 1984
+        },
+        {
+          "name": "Beta Montecarlo",
+          "yearStart": 1974,
+          "yearEnd": 1979
+        },
+        {
+          "name": "Dedra",
+          "yearStart": 1990,
+          "yearEnd": 1999
+        },
+        {
+          "name": "Dedra Station",
+          "yearStart": 1994,
+          "yearEnd": 1998
+        },
+        {
+          "name": "Delta",
+          "yearStart": 1979,
+          "yearEnd": 2014
+        },
+        {
+          "name": "Delta HPE",
+          "yearStart": 1995,
+          "yearEnd": 1998
+        },
+        {
+          "name": "Flaminia",
+          "yearStart": 1958,
+          "yearEnd": 1970
+        },
+        {
+          "name": "Flavia",
+          "yearStart": 1960,
+          "yearEnd": 2015
+        },
+        {
+          "name": "Fulvia Berlina",
+          "yearStart": 1963,
+          "yearEnd": 1972
+        },
+        {
+          "name": "Gamma",
+          "yearStart": 1976,
+          "yearEnd": 1980
+        },
+        {
+          "name": "Kappa",
+          "yearStart": 1995,
+          "yearEnd": 2000
+        },
+        {
+          "name": "Kappa SW",
+          "yearStart": 1996,
+          "yearEnd": 2000
+        },
+        {
+          "name": "Lybra",
+          "yearStart": 1999,
+          "yearEnd": 2005
+        },
+        {
+          "name": "Lybra SW",
+          "yearStart": 1999,
+          "yearEnd": 2005
+        },
+        {
+          "name": "Musa",
+          "yearStart": 2003,
+          "yearEnd": 2012
+        },
+        {
+          "name": "Phedra",
+          "yearStart": 2002,
+          "yearEnd": 2010
+        },
+        {
+          "name": "Prisma",
+          "yearStart": 1983,
+          "yearEnd": 1990
+        },
+        {
+          "name": "Stratos",
+          "yearStart": 1973,
+          "yearEnd": 1975
+        },
+        {
+          "name": "Thema",
+          "yearStart": 1984,
+          "yearEnd": 2014
+        },
+        {
+          "name": "Thesis",
+          "yearStart": 2001,
+          "yearEnd": 2009
+        },
+        {
+          "name": "Trevi",
+          "yearStart": 1981,
+          "yearEnd": 1985
+        },
+        {
+          "name": "Voyager",
+          "yearStart": 2011,
+          "yearEnd": 2015
+        },
+        {
+          "name": "Ypsilon",
+          "yearStart": 2003,
+          "yearEnd": null
+        },
+        {
+          "name": "Zeta",
+          "yearStart": 1994,
+          "yearEnd": 2001
+        }
+      ]
+    }
+  ]
+}

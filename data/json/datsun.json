@@ -1,0 +1,30 @@
+{
+  "group": "datsun",
+  "makes": [
+    {
+      "name": "Datsun",
+      "models": [
+        {
+          "name": "GO",
+          "yearStart": 2013,
+          "yearEnd": 2022
+        },
+        {
+          "name": "GO+",
+          "yearStart": 2013,
+          "yearEnd": 2022
+        },
+        {
+          "name": "Mi-Do",
+          "yearStart": 2014,
+          "yearEnd": 2020
+        },
+        {
+          "name": "on-Do",
+          "yearStart": 2014,
+          "yearEnd": 2020
+        }
+      ]
+    }
+  ]
+}

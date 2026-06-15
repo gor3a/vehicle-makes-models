@@ -1,0 +1,20 @@
+{
+  "group": "lucid",
+  "makes": [
+    {
+      "name": "Lucid",
+      "models": [
+        {
+          "name": "Motors Air",
+          "yearStart": 2021,
+          "yearEnd": null
+        },
+        {
+          "name": "Motors Gravity",
+          "yearStart": 2023,
+          "yearEnd": null
+        }
+      ]
+    }
+  ]
+}

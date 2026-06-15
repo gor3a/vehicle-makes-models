@@ -1,0 +1,40 @@
+{
+  "group": "zender",
+  "makes": [
+    {
+      "name": "Zender",
+      "models": [
+        {
+          "name": "Escape 6",
+          "yearStart": null,
+          "yearEnd": null
+        },
+        {
+          "name": "Fact 4",
+          "yearStart": null,
+          "yearEnd": null
+        },
+        {
+          "name": "Fact 4 BiTurbo",
+          "yearStart": null,
+          "yearEnd": null
+        },
+        {
+          "name": "Progetto 5",
+          "yearStart": null,
+          "yearEnd": null
+        },
+        {
+          "name": "Straight 8",
+          "yearStart": null,
+          "yearEnd": null
+        },
+        {
+          "name": "Thirty 7",
+          "yearStart": null,
+          "yearEnd": null
+        }
+      ]
+    }
+  ]
+}

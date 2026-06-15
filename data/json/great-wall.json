@@ -1,0 +1,31 @@
+{
+  "group": "great-wall",
+  "makes": [
+    {
+      "name": "Great Wall",
+      "country": "China",
+      "models": [
+        {
+          "name": "Poer",
+          "yearStart": 2019,
+          "yearEnd": null
+        },
+        {
+          "name": "Steed",
+          "yearStart": 2006,
+          "yearEnd": 2020
+        },
+        {
+          "name": "Voleex C30",
+          "yearStart": 2010,
+          "yearEnd": 2017
+        },
+        {
+          "name": "Wingle",
+          "yearStart": 2006,
+          "yearEnd": null
+        }
+      ]
+    }
+  ]
+}

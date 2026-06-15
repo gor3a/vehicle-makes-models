@@ -1,0 +1,40 @@
+{
+  "group": "fso",
+  "makes": [
+    {
+      "name": "FSO",
+      "models": [
+        {
+          "name": "125",
+          "yearStart": 1968,
+          "yearEnd": 1978
+        },
+        {
+          "name": "Polonez",
+          "yearStart": 1978,
+          "yearEnd": 1985
+        },
+        {
+          "name": "Polonez Atu",
+          "yearStart": 1993,
+          "yearEnd": 2003
+        },
+        {
+          "name": "Polonez Caro",
+          "yearStart": 1991,
+          "yearEnd": 2002
+        },
+        {
+          "name": "Polonez Kombi",
+          "yearStart": 1999,
+          "yearEnd": 2002
+        },
+        {
+          "name": "Prima",
+          "yearStart": 1988,
+          "yearEnd": 1996
+        }
+      ]
+    }
+  ]
+}

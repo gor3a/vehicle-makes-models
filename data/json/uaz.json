@@ -1,0 +1,31 @@
+{
+  "group": "uaz",
+  "makes": [
+    {
+      "name": "UAZ",
+      "country": "Russia",
+      "models": [
+        {
+          "name": "452",
+          "yearStart": 1965,
+          "yearEnd": null
+        },
+        {
+          "name": "469",
+          "yearStart": 1972,
+          "yearEnd": 2011
+        },
+        {
+          "name": "Hunter",
+          "yearStart": 2003,
+          "yearEnd": null
+        },
+        {
+          "name": "Patriot",
+          "yearStart": 2005,
+          "yearEnd": null
+        }
+      ]
+    }
+  ]
+}

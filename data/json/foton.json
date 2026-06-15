@@ -1,0 +1,26 @@
+{
+  "group": "foton",
+  "makes": [
+    {
+      "name": "Foton",
+      "country": "China",
+      "models": [
+        {
+          "name": "Sauvana",
+          "yearStart": 2015,
+          "yearEnd": null
+        },
+        {
+          "name": "Tunland",
+          "yearStart": 2012,
+          "yearEnd": null
+        },
+        {
+          "name": "View",
+          "yearStart": 2008,
+          "yearEnd": null
+        }
+      ]
+    }
+  ]
+}

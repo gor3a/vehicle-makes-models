@@ -1,0 +1,20 @@
+{
+  "group": "gordon-murray-automotive",
+  "makes": [
+    {
+      "name": "Gordon Murray Automotive",
+      "models": [
+        {
+          "name": "T.33",
+          "yearStart": 2022,
+          "yearEnd": null
+        },
+        {
+          "name": "T.50",
+          "yearStart": 2022,
+          "yearEnd": null
+        }
+      ]
+    }
+  ]
+}

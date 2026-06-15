@@ -1,0 +1,31 @@
+{
+  "group": "jetour",
+  "makes": [
+    {
+      "name": "Jetour",
+      "country": "China",
+      "models": [
+        {
+          "name": "Dashing",
+          "yearStart": 2022,
+          "yearEnd": null
+        },
+        {
+          "name": "T2",
+          "yearStart": 2023,
+          "yearEnd": null
+        },
+        {
+          "name": "X70",
+          "yearStart": 2018,
+          "yearEnd": null
+        },
+        {
+          "name": "X90",
+          "yearStart": 2019,
+          "yearEnd": null
+        }
+      ]
+    }
+  ]
+}

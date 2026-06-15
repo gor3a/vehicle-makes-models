@@ -1,0 +1,41 @@
+{
+  "group": "lynk-co",
+  "makes": [
+    {
+      "name": "Lynk & Co",
+      "country": "China",
+      "models": [
+        {
+          "name": "01",
+          "yearStart": 2017,
+          "yearEnd": null
+        },
+        {
+          "name": "02",
+          "yearStart": 2018,
+          "yearEnd": null
+        },
+        {
+          "name": "03",
+          "yearStart": 2018,
+          "yearEnd": null
+        },
+        {
+          "name": "05",
+          "yearStart": 2020,
+          "yearEnd": null
+        },
+        {
+          "name": "06",
+          "yearStart": 2020,
+          "yearEnd": null
+        },
+        {
+          "name": "09",
+          "yearStart": 2021,
+          "yearEnd": null
+        }
+      ]
+    }
+  ]
+}

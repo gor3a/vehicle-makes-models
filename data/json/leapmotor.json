@@ -1,0 +1,31 @@
+{
+  "group": "leapmotor",
+  "makes": [
+    {
+      "name": "Leapmotor",
+      "country": "China",
+      "models": [
+        {
+          "name": "C01",
+          "yearStart": 2022,
+          "yearEnd": null
+        },
+        {
+          "name": "C10",
+          "yearStart": 2024,
+          "yearEnd": null
+        },
+        {
+          "name": "C11",
+          "yearStart": 2021,
+          "yearEnd": null
+        },
+        {
+          "name": "T03",
+          "yearStart": 2020,
+          "yearEnd": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "group": "gaz",
+  "makes": [
+    {
+      "name": "GAZ",
+      "country": "Russia",
+      "models": [
+        {
+          "name": "Gazelle",
+          "yearStart": 1994,
+          "yearEnd": null
+        },
+        {
+          "name": "Sobol",
+          "yearStart": 1998,
+          "yearEnd": null
+        },
+        {
+          "name": "Volga",
+          "yearStart": 1956,
+          "yearEnd": 2010
+        }
+      ]
+    }
+  ]
+}

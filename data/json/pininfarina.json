@@ -1,0 +1,20 @@
+{
+  "group": "pininfarina",
+  "makes": [
+    {
+      "name": "Pininfarina",
+      "models": [
+        {
+          "name": "B95",
+          "yearStart": 2023,
+          "yearEnd": null
+        },
+        {
+          "name": "Battista",
+          "yearStart": 2019,
+          "yearEnd": 2025
+        }
+      ]
+    }
+  ]
+}

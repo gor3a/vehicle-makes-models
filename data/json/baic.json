@@ -1,0 +1,46 @@
+{
+  "group": "baic",
+  "makes": [
+    {
+      "name": "BAIC",
+      "country": "China",
+      "models": [
+        {
+          "name": "BJ40",
+          "yearStart": 2013,
+          "yearEnd": null
+        },
+        {
+          "name": "BJ80",
+          "yearStart": 2016,
+          "yearEnd": null
+        },
+        {
+          "name": "D20",
+          "yearStart": 2015,
+          "yearEnd": null
+        },
+        {
+          "name": "MOTOR BJ60",
+          "yearStart": 2023,
+          "yearEnd": null
+        },
+        {
+          "name": "X25",
+          "yearStart": 2016,
+          "yearEnd": null
+        },
+        {
+          "name": "X35",
+          "yearStart": 2017,
+          "yearEnd": null
+        },
+        {
+          "name": "X55",
+          "yearStart": 2019,
+          "yearEnd": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "group": "lotus",
+  "makes": [
+    {
+      "name": "Lotus",
+      "models": [
+        {
+          "name": "2 Eleven",
+          "yearStart": 2007,
+          "yearEnd": 2015
+        },
+        {
+          "name": "3 Eleven",
+          "yearStart": 2018,
+          "yearEnd": 2018
+        },
+        {
+          "name": "Elan",
+          "yearStart": 1962,
+          "yearEnd": 1994
+        },
+        {
+          "name": "Eletre",
+          "yearStart": 2022,
+          "yearEnd": null
+        },
+        {
+          "name": "Elise",
+          "yearStart": 1997,
+          "yearEnd": 2021
+        },
+        {
+          "name": "Elite",
+          "yearStart": 1957,
+          "yearEnd": 1983
+        },
+        {
+          "name": "Emeya",
+          "yearStart": 2023,
+          "yearEnd": null
+        },
+        {
+          "name": "Emira",
+          "yearStart": 2021,
+          "yearEnd": 2024
+        },
+        {
+          "name": "Esprit",
+          "yearStart": 1976,
+          "yearEnd": 2004
+        },
+        {
+          "name": "Europa",
+          "yearStart": 1965,
+          "yearEnd": 2010
+        },
+        {
+          "name": "Evija",
+          "yearStart": 2020,
+          "yearEnd": null
+        },
+        {
+          "name": "Evora",
+          "yearStart": 2008,
+          "yearEnd": 2021
+        },
+        {
+          "name": "Excel",
+          "yearStart": 1982,
+          "yearEnd": 1992
+        },
+        {
+          "name": "Exige",
+          "yearStart": 2000,
+          "yearEnd": 2021
+        }
+      ]
+    }
+  ]
+}

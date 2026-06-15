@@ -1,0 +1,40 @@
+{
+  "group": "plymouth",
+  "makes": [
+    {
+      "name": "Plymouth",
+      "models": [
+        {
+          "name": "ACCLAIM",
+          "yearStart": 1988,
+          "yearEnd": 1994
+        },
+        {
+          "name": "BREEZE",
+          "yearStart": 1995,
+          "yearEnd": 2000
+        },
+        {
+          "name": "LASER",
+          "yearStart": 1989,
+          "yearEnd": 1994
+        },
+        {
+          "name": "NEON",
+          "yearStart": 1994,
+          "yearEnd": 1999
+        },
+        {
+          "name": "Valiant",
+          "yearStart": 1967,
+          "yearEnd": 1973
+        },
+        {
+          "name": "VOYAGER",
+          "yearStart": 1984,
+          "yearEnd": 2000
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "group": "bufori",
+  "makes": [
+    {
+      "name": "Bufori",
+      "models": [
+        {
+          "name": "CS8",
+          "yearStart": 2025,
+          "yearEnd": null
+        },
+        {
+          "name": "Geneva",
+          "yearStart": 2010,
+          "yearEnd": null
+        },
+        {
+          "name": "La Joya",
+          "yearStart": 2004,
+          "yearEnd": null
+        }
+      ]
+    }
+  ]
+}

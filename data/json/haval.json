@@ -1,0 +1,46 @@
+{
+  "group": "haval",
+  "makes": [
+    {
+      "name": "Haval",
+      "country": "China",
+      "models": [
+        {
+          "name": "Dargo",
+          "yearStart": 2021,
+          "yearEnd": null
+        },
+        {
+          "name": "F7",
+          "yearStart": 2018,
+          "yearEnd": null
+        },
+        {
+          "name": "F7x",
+          "yearStart": 2019,
+          "yearEnd": null
+        },
+        {
+          "name": "H2",
+          "yearStart": 2014,
+          "yearEnd": 2021
+        },
+        {
+          "name": "H6",
+          "yearStart": 2011,
+          "yearEnd": null
+        },
+        {
+          "name": "H9",
+          "yearStart": 2015,
+          "yearEnd": null
+        },
+        {
+          "name": "Jolion",
+          "yearStart": 2020,
+          "yearEnd": null
+        }
+      ]
+    }
+  ]
+}

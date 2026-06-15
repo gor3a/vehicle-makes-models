@@ -1,0 +1,15 @@
+{
+  "group": "borgward",
+  "makes": [
+    {
+      "name": "Borgward",
+      "models": [
+        {
+          "name": "BX7",
+          "yearStart": 2016,
+          "yearEnd": 2021
+        }
+      ]
+    }
+  ]
+}

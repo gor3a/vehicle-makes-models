@@ -1,0 +1,295 @@
+{
+  "group": "chevrolet",
+  "makes": [
+    {
+      "name": "Chevrolet",
+      "models": [
+        {
+          "name": "Agile",
+          "yearStart": 2009,
+          "yearEnd": 2016
+        },
+        {
+          "name": "Astro",
+          "yearStart": 1994,
+          "yearEnd": 2005
+        },
+        {
+          "name": "Avalanche",
+          "yearStart": 2001,
+          "yearEnd": 2013
+        },
+        {
+          "name": "Aveo / Kalos",
+          "yearStart": 2002,
+          "yearEnd": 2016
+        },
+        {
+          "name": "Blazer",
+          "yearStart": 1995,
+          "yearEnd": null
+        },
+        {
+          "name": "Bolt",
+          "yearStart": 2016,
+          "yearEnd": null
+        },
+        {
+          "name": "Camaro",
+          "yearStart": 1967,
+          "yearEnd": 2023
+        },
+        {
+          "name": "Captiva",
+          "yearStart": 2006,
+          "yearEnd": 2016
+        },
+        {
+          "name": "Cavalier",
+          "yearStart": 1994,
+          "yearEnd": 2005
+        },
+        {
+          "name": "Celta",
+          "yearStart": 2000,
+          "yearEnd": 2015
+        },
+        {
+          "name": "Chevelle",
+          "yearStart": 1963,
+          "yearEnd": 1977
+        },
+        {
+          "name": "Classic",
+          "yearStart": 2002,
+          "yearEnd": 2016
+        },
+        {
+          "name": "Cobalt",
+          "yearStart": 2004,
+          "yearEnd": 2020
+        },
+        {
+          "name": "Colorado",
+          "yearStart": 2003,
+          "yearEnd": null
+        },
+        {
+          "name": "Colorado Regular Cab",
+          "yearStart": 2003,
+          "yearEnd": 2012
+        },
+        {
+          "name": "Corvette",
+          "yearStart": 1953,
+          "yearEnd": null
+        },
+        {
+          "name": "Corvette E-Ray",
+          "yearStart": 2023,
+          "yearEnd": null
+        },
+        {
+          "name": "Corvette Grand Sport",
+          "yearStart": 2026,
+          "yearEnd": null
+        },
+        {
+          "name": "Corvette Grand Sport X",
+          "yearStart": null,
+          "yearEnd": null
+        },
+        {
+          "name": "Corvette Z06",
+          "yearStart": 2008,
+          "yearEnd": null
+        },
+        {
+          "name": "Corvette ZR1",
+          "yearStart": 2008,
+          "yearEnd": null
+        },
+        {
+          "name": "Cruze",
+          "yearStart": 2009,
+          "yearEnd": 2019
+        },
+        {
+          "name": "Epica",
+          "yearStart": 2006,
+          "yearEnd": 2011
+        },
+        {
+          "name": "Equinox",
+          "yearStart": 2004,
+          "yearEnd": null
+        },
+        {
+          "name": "Evanda",
+          "yearStart": 2004,
+          "yearEnd": 2006
+        },
+        {
+          "name": "Express",
+          "yearStart": 1995,
+          "yearEnd": null
+        },
+        {
+          "name": "HHR",
+          "yearStart": 2005,
+          "yearEnd": 2011
+        },
+        {
+          "name": "Impala",
+          "yearStart": 1958,
+          "yearEnd": 2020
+        },
+        {
+          "name": "Malibu",
+          "yearStart": 1996,
+          "yearEnd": 2024
+        },
+        {
+          "name": "Malibu Maxx",
+          "yearStart": 2003,
+          "yearEnd": 2008
+        },
+        {
+          "name": "Matiz / Spark",
+          "yearStart": 2000,
+          "yearEnd": 2022
+        },
+        {
+          "name": "Monte Carlo",
+          "yearStart": 2005,
+          "yearEnd": 2007
+        },
+        {
+          "name": "Nubira / Lacetti",
+          "yearStart": 2002,
+          "yearEnd": 2009
+        },
+        {
+          "name": "Onix",
+          "yearStart": 2012,
+          "yearEnd": 2019
+        },
+        {
+          "name": "Orlando",
+          "yearStart": 2010,
+          "yearEnd": 2018
+        },
+        {
+          "name": "Prisma",
+          "yearStart": 2013,
+          "yearEnd": 2016
+        },
+        {
+          "name": "S-10",
+          "yearStart": 1997,
+          "yearEnd": 2004
+        },
+        {
+          "name": "Silverado",
+          "yearStart": 2008,
+          "yearEnd": null
+        },
+        {
+          "name": "Silverado 2500HD",
+          "yearStart": 2007,
+          "yearEnd": null
+        },
+        {
+          "name": "Silverado 3500HD",
+          "yearStart": 2008,
+          "yearEnd": 2013
+        },
+        {
+          "name": "Silverado Hybrid",
+          "yearStart": 2008,
+          "yearEnd": 2013
+        },
+        {
+          "name": "Sonic",
+          "yearStart": 2011,
+          "yearEnd": 2020
+        },
+        {
+          "name": "Sonic RS",
+          "yearStart": 2012,
+          "yearEnd": 2020
+        },
+        {
+          "name": "Spark EV",
+          "yearStart": 2013,
+          "yearEnd": 2016
+        },
+        {
+          "name": "Spin",
+          "yearStart": 2012,
+          "yearEnd": 2018
+        },
+        {
+          "name": "SS",
+          "yearStart": 2013,
+          "yearEnd": 2017
+        },
+        {
+          "name": "SSR",
+          "yearStart": 2003,
+          "yearEnd": 2006
+        },
+        {
+          "name": "Suburban",
+          "yearStart": 1999,
+          "yearEnd": null
+        },
+        {
+          "name": "Tacuma",
+          "yearStart": 2004,
+          "yearEnd": 2008
+        },
+        {
+          "name": "Tahoe",
+          "yearStart": 1991,
+          "yearEnd": null
+        },
+        {
+          "name": "Tracker",
+          "yearStart": 1999,
+          "yearEnd": 2017
+        },
+        {
+          "name": "TrailBlazer",
+          "yearStart": 2000,
+          "yearEnd": null
+        },
+        {
+          "name": "Traverse",
+          "yearStart": 2008,
+          "yearEnd": null
+        },
+        {
+          "name": "Trax",
+          "yearStart": 2013,
+          "yearEnd": null
+        },
+        {
+          "name": "Uplander",
+          "yearStart": 2004,
+          "yearEnd": 2009
+        },
+        {
+          "name": "Venture",
+          "yearStart": 1996,
+          "yearEnd": 2005
+        },
+        {
+          "name": "Volt",
+          "yearStart": 2011,
+          "yearEnd": 2019
+        }
+      ]
+    }
+  ]
+}

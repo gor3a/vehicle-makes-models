@@ -1,0 +1,380 @@
+{
+  "group": "audi",
+  "makes": [
+    {
+      "name": "Audi",
+      "models": [
+        {
+          "name": "100",
+          "yearStart": 1969,
+          "yearEnd": 1976
+        },
+        {
+          "name": "100/ 200",
+          "yearStart": 1968,
+          "yearEnd": 1994
+        },
+        {
+          "name": "100/ 200 Avant",
+          "yearStart": 1983,
+          "yearEnd": 1994
+        },
+        {
+          "name": "80 Avant RS2",
+          "yearStart": 1994,
+          "yearEnd": 1996
+        },
+        {
+          "name": "80 Avant S2",
+          "yearStart": 1993,
+          "yearEnd": 1995
+        },
+        {
+          "name": "80 S2",
+          "yearStart": 1993,
+          "yearEnd": 1995
+        },
+        {
+          "name": "80/ 90",
+          "yearStart": 1984,
+          "yearEnd": 1995
+        },
+        {
+          "name": "80/ 90 Avant",
+          "yearStart": 1991,
+          "yearEnd": 1995
+        },
+        {
+          "name": "90",
+          "yearStart": 1987,
+          "yearEnd": 1991
+        },
+        {
+          "name": "A1",
+          "yearStart": 2010,
+          "yearEnd": null
+        },
+        {
+          "name": "A1 Quattro",
+          "yearStart": 2012,
+          "yearEnd": 2013
+        },
+        {
+          "name": "A2",
+          "yearStart": 1999,
+          "yearEnd": 2005
+        },
+        {
+          "name": "A3",
+          "yearStart": 1996,
+          "yearEnd": null
+        },
+        {
+          "name": "A3 allstreet",
+          "yearStart": 2024,
+          "yearEnd": null
+        },
+        {
+          "name": "A4",
+          "yearStart": 1994,
+          "yearEnd": 2025
+        },
+        {
+          "name": "A4 Allroad",
+          "yearStart": 2009,
+          "yearEnd": 2025
+        },
+        {
+          "name": "A4 Avant",
+          "yearStart": 1996,
+          "yearEnd": 2025
+        },
+        {
+          "name": "A4 DTM Edition",
+          "yearStart": 2005,
+          "yearEnd": 2007
+        },
+        {
+          "name": "A5",
+          "yearStart": 2007,
+          "yearEnd": null
+        },
+        {
+          "name": "A5 Avant",
+          "yearStart": 2024,
+          "yearEnd": null
+        },
+        {
+          "name": "A6",
+          "yearStart": 1994,
+          "yearEnd": null
+        },
+        {
+          "name": "A6 Avant",
+          "yearStart": 1994,
+          "yearEnd": null
+        },
+        {
+          "name": "A7",
+          "yearStart": 2010,
+          "yearEnd": 2025
+        },
+        {
+          "name": "A8",
+          "yearStart": 1994,
+          "yearEnd": null
+        },
+        {
+          "name": "Allroad",
+          "yearStart": 2000,
+          "yearEnd": null
+        },
+        {
+          "name": "Cabriolet",
+          "yearStart": 1991,
+          "yearEnd": 2000
+        },
+        {
+          "name": "Coupe",
+          "yearStart": 1981,
+          "yearEnd": 1996
+        },
+        {
+          "name": "Coupe S2",
+          "yearStart": 1990,
+          "yearEnd": 1996
+        },
+        {
+          "name": "e-tron",
+          "yearStart": 2019,
+          "yearEnd": null
+        },
+        {
+          "name": "e-tron GT",
+          "yearStart": 2021,
+          "yearEnd": null
+        },
+        {
+          "name": "E5",
+          "yearStart": 2025,
+          "yearEnd": null
+        },
+        {
+          "name": "Nuvolari",
+          "yearStart": 2026,
+          "yearEnd": null
+        },
+        {
+          "name": "Q2",
+          "yearStart": 2016,
+          "yearEnd": null
+        },
+        {
+          "name": "Q3",
+          "yearStart": 2011,
+          "yearEnd": null
+        },
+        {
+          "name": "Q4",
+          "yearStart": 2021,
+          "yearEnd": null
+        },
+        {
+          "name": "Q4 e-tron",
+          "yearStart": 2021,
+          "yearEnd": null
+        },
+        {
+          "name": "Q5",
+          "yearStart": 2008,
+          "yearEnd": null
+        },
+        {
+          "name": "Q6",
+          "yearStart": 2024,
+          "yearEnd": null
+        },
+        {
+          "name": "Q7",
+          "yearStart": 2006,
+          "yearEnd": null
+        },
+        {
+          "name": "Q8",
+          "yearStart": 2018,
+          "yearEnd": null
+        },
+        {
+          "name": "Q8 e-tron",
+          "yearStart": 2022,
+          "yearEnd": null
+        },
+        {
+          "name": "Quattro",
+          "yearStart": 1980,
+          "yearEnd": 1991
+        },
+        {
+          "name": "R8",
+          "yearStart": 2007,
+          "yearEnd": null
+        },
+        {
+          "name": "R8 GT",
+          "yearStart": 2010,
+          "yearEnd": 2024
+        },
+        {
+          "name": "RS 3",
+          "yearStart": 2010,
+          "yearEnd": null
+        },
+        {
+          "name": "RS 4",
+          "yearStart": 2005,
+          "yearEnd": 2009
+        },
+        {
+          "name": "RS 4 Avant",
+          "yearStart": 2000,
+          "yearEnd": 2025
+        },
+        {
+          "name": "RS 5",
+          "yearStart": 2010,
+          "yearEnd": null
+        },
+        {
+          "name": "RS Q3",
+          "yearStart": 2013,
+          "yearEnd": 2015
+        },
+        {
+          "name": "RS Q8",
+          "yearStart": 2019,
+          "yearEnd": null
+        },
+        {
+          "name": "RS5 Avant",
+          "yearStart": 2026,
+          "yearEnd": null
+        },
+        {
+          "name": "RS6",
+          "yearStart": 2002,
+          "yearEnd": 2010
+        },
+        {
+          "name": "RS6 Avant",
+          "yearStart": 2002,
+          "yearEnd": null
+        },
+        {
+          "name": "RS7",
+          "yearStart": 2013,
+          "yearEnd": null
+        },
+        {
+          "name": "S1",
+          "yearStart": 2014,
+          "yearEnd": 2018
+        },
+        {
+          "name": "S3",
+          "yearStart": 1999,
+          "yearEnd": null
+        },
+        {
+          "name": "S4",
+          "yearStart": 1997,
+          "yearEnd": 2023
+        },
+        {
+          "name": "S4 Avant",
+          "yearStart": 1997,
+          "yearEnd": 2023
+        },
+        {
+          "name": "S5",
+          "yearStart": 2007,
+          "yearEnd": null
+        },
+        {
+          "name": "S5 Avant",
+          "yearStart": 2024,
+          "yearEnd": null
+        },
+        {
+          "name": "S6",
+          "yearStart": 1994,
+          "yearEnd": 2025
+        },
+        {
+          "name": "S6 Avant",
+          "yearStart": 1994,
+          "yearEnd": null
+        },
+        {
+          "name": "S7",
+          "yearStart": 2011,
+          "yearEnd": 2025
+        },
+        {
+          "name": "S8",
+          "yearStart": 1996,
+          "yearEnd": null
+        },
+        {
+          "name": "S8 Plus",
+          "yearStart": 2015,
+          "yearEnd": 2019
+        },
+        {
+          "name": "SQ2",
+          "yearStart": 2018,
+          "yearEnd": null
+        },
+        {
+          "name": "SQ5",
+          "yearStart": 2013,
+          "yearEnd": null
+        },
+        {
+          "name": "SQ6",
+          "yearStart": 2024,
+          "yearEnd": null
+        },
+        {
+          "name": "SQ7",
+          "yearStart": 2016,
+          "yearEnd": null
+        },
+        {
+          "name": "SQ8",
+          "yearStart": 2019,
+          "yearEnd": null
+        },
+        {
+          "name": "SQ8 e-tron",
+          "yearStart": 2023,
+          "yearEnd": null
+        },
+        {
+          "name": "TT",
+          "yearStart": 1998,
+          "yearEnd": null
+        },
+        {
+          "name": "TT RS",
+          "yearStart": 2009,
+          "yearEnd": 2023
+        },
+        {
+          "name": "V8",
+          "yearStart": 1988,
+          "yearEnd": 1994
+        }
+      ]
+    }
+  ]
+}

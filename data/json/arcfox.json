@@ -1,0 +1,20 @@
+{
+  "group": "arcfox",
+  "makes": [
+    {
+      "name": "Arcfox",
+      "models": [
+        {
+          "name": "Alpha S",
+          "yearStart": 2024,
+          "yearEnd": null
+        },
+        {
+          "name": "Alpha T",
+          "yearStart": 2024,
+          "yearEnd": null
+        }
+      ]
+    }
+  ]
+}

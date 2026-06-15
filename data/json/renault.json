@@ -1,0 +1,330 @@
+{
+  "group": "renault",
+  "makes": [
+    {
+      "name": "Renault",
+      "models": [
+        {
+          "name": "11",
+          "yearStart": 1983,
+          "yearEnd": 1986
+        },
+        {
+          "name": "12",
+          "yearStart": 1969,
+          "yearEnd": 1980
+        },
+        {
+          "name": "14",
+          "yearStart": 1976,
+          "yearEnd": 1983
+        },
+        {
+          "name": "16",
+          "yearStart": 1965,
+          "yearEnd": 1980
+        },
+        {
+          "name": "18",
+          "yearStart": 1978,
+          "yearEnd": 1984
+        },
+        {
+          "name": "19",
+          "yearStart": 1988,
+          "yearEnd": 1996
+        },
+        {
+          "name": "20",
+          "yearStart": 1975,
+          "yearEnd": 1984
+        },
+        {
+          "name": "21",
+          "yearStart": 1986,
+          "yearEnd": 1994
+        },
+        {
+          "name": "25",
+          "yearStart": 1984,
+          "yearEnd": 1992
+        },
+        {
+          "name": "30",
+          "yearStart": 1979,
+          "yearEnd": 1984
+        },
+        {
+          "name": "4 E-Tech",
+          "yearStart": 2025,
+          "yearEnd": null
+        },
+        {
+          "name": "5",
+          "yearStart": 1972,
+          "yearEnd": 1984
+        },
+        {
+          "name": "5 E-Tech",
+          "yearStart": 2024,
+          "yearEnd": null
+        },
+        {
+          "name": "8",
+          "yearStart": 1962,
+          "yearEnd": 1971
+        },
+        {
+          "name": "9",
+          "yearStart": 1981,
+          "yearEnd": 1988
+        },
+        {
+          "name": "Alaskan",
+          "yearStart": 2016,
+          "yearEnd": 2025
+        },
+        {
+          "name": "Alpine",
+          "yearStart": 1977,
+          "yearEnd": 1994
+        },
+        {
+          "name": "Arkana",
+          "yearStart": 2019,
+          "yearEnd": null
+        },
+        {
+          "name": "Austral",
+          "yearStart": 2022,
+          "yearEnd": null
+        },
+        {
+          "name": "Avantime",
+          "yearStart": 2001,
+          "yearEnd": 2003
+        },
+        {
+          "name": "Boreal",
+          "yearStart": 2025,
+          "yearEnd": null
+        },
+        {
+          "name": "Captur",
+          "yearStart": 2013,
+          "yearEnd": null
+        },
+        {
+          "name": "City K-ZE",
+          "yearStart": 2019,
+          "yearEnd": null
+        },
+        {
+          "name": "Clio",
+          "yearStart": 1990,
+          "yearEnd": null
+        },
+        {
+          "name": "Clio RS",
+          "yearStart": 2013,
+          "yearEnd": 2016
+        },
+        {
+          "name": "Clio Symbol / Thalia",
+          "yearStart": 2000,
+          "yearEnd": 2013
+        },
+        {
+          "name": "Duster OROCH",
+          "yearStart": 2015,
+          "yearEnd": 2022
+        },
+        {
+          "name": "Espace",
+          "yearStart": 1985,
+          "yearEnd": null
+        },
+        {
+          "name": "Filante",
+          "yearStart": 2026,
+          "yearEnd": null
+        },
+        {
+          "name": "Fluence",
+          "yearStart": 2009,
+          "yearEnd": 2016
+        },
+        {
+          "name": "Fuego",
+          "yearStart": 1980,
+          "yearEnd": 1985
+        },
+        {
+          "name": "Grand Kangoo",
+          "yearStart": 2023,
+          "yearEnd": null
+        },
+        {
+          "name": "Grand Modus",
+          "yearStart": 2008,
+          "yearEnd": 2012
+        },
+        {
+          "name": "Grand Scenic",
+          "yearStart": 2003,
+          "yearEnd": 2022
+        },
+        {
+          "name": "Kadjar",
+          "yearStart": 2015,
+          "yearEnd": 2020
+        },
+        {
+          "name": "Kangoo",
+          "yearStart": 1997,
+          "yearEnd": null
+        },
+        {
+          "name": "Kardian",
+          "yearStart": 2023,
+          "yearEnd": null
+        },
+        {
+          "name": "Kiger",
+          "yearStart": 2021,
+          "yearEnd": null
+        },
+        {
+          "name": "Koleos",
+          "yearStart": 2007,
+          "yearEnd": 2025
+        },
+        {
+          "name": "Kwid",
+          "yearStart": 2015,
+          "yearEnd": 2019
+        },
+        {
+          "name": "Laguna",
+          "yearStart": 1994,
+          "yearEnd": 2016
+        },
+        {
+          "name": "Latitude",
+          "yearStart": 2010,
+          "yearEnd": 2015
+        },
+        {
+          "name": "Logan",
+          "yearStart": 2014,
+          "yearEnd": 2022
+        },
+        {
+          "name": "Megane",
+          "yearStart": 1996,
+          "yearEnd": null
+        },
+        {
+          "name": "Megane E-Tech",
+          "yearStart": 2021,
+          "yearEnd": null
+        },
+        {
+          "name": "Modus",
+          "yearStart": 2005,
+          "yearEnd": 2012
+        },
+        {
+          "name": "Pulse",
+          "yearStart": 2011,
+          "yearEnd": 2017
+        },
+        {
+          "name": "Rafale",
+          "yearStart": 2023,
+          "yearEnd": null
+        },
+        {
+          "name": "Safrane",
+          "yearStart": 1992,
+          "yearEnd": 2000
+        },
+        {
+          "name": "Sandero",
+          "yearStart": 2007,
+          "yearEnd": 2025
+        },
+        {
+          "name": "Sandero GT",
+          "yearStart": 2012,
+          "yearEnd": 2015
+        },
+        {
+          "name": "Scala",
+          "yearStart": 2012,
+          "yearEnd": 2017
+        },
+        {
+          "name": "Scenic",
+          "yearStart": 1995,
+          "yearEnd": null
+        },
+        {
+          "name": "SCENIC XMOD",
+          "yearStart": 2013,
+          "yearEnd": 2016
+        },
+        {
+          "name": "Spider",
+          "yearStart": 1996,
+          "yearEnd": 1998
+        },
+        {
+          "name": "Symbioz",
+          "yearStart": 2024,
+          "yearEnd": null
+        },
+        {
+          "name": "Talisman",
+          "yearStart": 2016,
+          "yearEnd": 2022
+        },
+        {
+          "name": "Triber",
+          "yearStart": 2019,
+          "yearEnd": 2025
+        },
+        {
+          "name": "Twingo",
+          "yearStart": 2007,
+          "yearEnd": null
+        },
+        {
+          "name": "Twingo RS",
+          "yearStart": 2008,
+          "yearEnd": 2013
+        },
+        {
+          "name": "Twizy",
+          "yearStart": 2012,
+          "yearEnd": 2023
+        },
+        {
+          "name": "Vel Satis",
+          "yearStart": 2002,
+          "yearEnd": 2009
+        },
+        {
+          "name": "Wind",
+          "yearStart": 2010,
+          "yearEnd": 2013
+        },
+        {
+          "name": "ZOE",
+          "yearStart": 2013,
+          "yearEnd": 2024
+        }
+      ]
+    }
+  ]
+}

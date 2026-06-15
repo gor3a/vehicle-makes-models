@@ -1,0 +1,80 @@
+{
+  "group": "jeep",
+  "makes": [
+    {
+      "name": "Jeep",
+      "models": [
+        {
+          "name": "Avenger",
+          "yearStart": 2022,
+          "yearEnd": null
+        },
+        {
+          "name": "Cherokee",
+          "yearStart": 2013,
+          "yearEnd": null
+        },
+        {
+          "name": "Cherokee/Liberty",
+          "yearStart": 1984,
+          "yearEnd": 2012
+        },
+        {
+          "name": "Commander",
+          "yearStart": 2005,
+          "yearEnd": 2010
+        },
+        {
+          "name": "Compass",
+          "yearStart": 2006,
+          "yearEnd": null
+        },
+        {
+          "name": "Gladiator",
+          "yearStart": 2020,
+          "yearEnd": null
+        },
+        {
+          "name": "Grand Cherokee",
+          "yearStart": 1992,
+          "yearEnd": null
+        },
+        {
+          "name": "Patriot",
+          "yearStart": 2007,
+          "yearEnd": 2014
+        },
+        {
+          "name": "Recon",
+          "yearStart": 2025,
+          "yearEnd": null
+        },
+        {
+          "name": "Renegade",
+          "yearStart": 2014,
+          "yearEnd": 2022
+        },
+        {
+          "name": "Wagoneer",
+          "yearStart": 1962,
+          "yearEnd": null
+        },
+        {
+          "name": "Wrangler",
+          "yearStart": 1986,
+          "yearEnd": null
+        },
+        {
+          "name": "Wrangler Rubicon",
+          "yearStart": 2023,
+          "yearEnd": null
+        },
+        {
+          "name": "Wrangler Unlimited",
+          "yearStart": 2004,
+          "yearEnd": 2024
+        }
+      ]
+    }
+  ]
+}

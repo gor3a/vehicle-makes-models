@@ -1,0 +1,45 @@
+{
+  "group": "wiesmann",
+  "makes": [
+    {
+      "name": "Wiesmann",
+      "models": [
+        {
+          "name": "GT MF4",
+          "yearStart": 2003,
+          "yearEnd": 2013
+        },
+        {
+          "name": "GT MF4-CS",
+          "yearStart": null,
+          "yearEnd": null
+        },
+        {
+          "name": "GT MF4-S",
+          "yearStart": 2010,
+          "yearEnd": 2014
+        },
+        {
+          "name": "GT MF5",
+          "yearStart": 2008,
+          "yearEnd": null
+        },
+        {
+          "name": "MF4",
+          "yearStart": 2009,
+          "yearEnd": 2013
+        },
+        {
+          "name": "MF4-S",
+          "yearStart": 2010,
+          "yearEnd": 2013
+        },
+        {
+          "name": "MF5",
+          "yearStart": 2009,
+          "yearEnd": null
+        }
+      ]
+    }
+  ]
+}

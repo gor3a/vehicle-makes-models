@@ -1,0 +1,95 @@
+{
+  "group": "mg",
+  "makes": [
+    {
+      "name": "MG",
+      "models": [
+        {
+          "name": "F/ TF",
+          "yearStart": 1995,
+          "yearEnd": 2005
+        },
+        {
+          "name": "GS",
+          "yearStart": 2015,
+          "yearEnd": 2019
+        },
+        {
+          "name": "HS",
+          "yearStart": 2019,
+          "yearEnd": 2024
+        },
+        {
+          "name": "IM5",
+          "yearStart": 2025,
+          "yearEnd": null
+        },
+        {
+          "name": "IM6",
+          "yearStart": 2025,
+          "yearEnd": null
+        },
+        {
+          "name": "Marvel R",
+          "yearStart": 2021,
+          "yearEnd": null
+        },
+        {
+          "name": "MG 3",
+          "yearStart": 2013,
+          "yearEnd": null
+        },
+        {
+          "name": "MG 4",
+          "yearStart": 2022,
+          "yearEnd": null
+        },
+        {
+          "name": "MG 5",
+          "yearStart": 2021,
+          "yearEnd": null
+        },
+        {
+          "name": "MG 6",
+          "yearStart": 2011,
+          "yearEnd": 2016
+        },
+        {
+          "name": "S5 EV",
+          "yearStart": 2025,
+          "yearEnd": null
+        },
+        {
+          "name": "U9",
+          "yearStart": 2025,
+          "yearEnd": null
+        },
+        {
+          "name": "XPower",
+          "yearStart": 2004,
+          "yearEnd": 2005
+        },
+        {
+          "name": "ZR",
+          "yearStart": 2001,
+          "yearEnd": 2005
+        },
+        {
+          "name": "ZS",
+          "yearStart": 2001,
+          "yearEnd": null
+        },
+        {
+          "name": "ZT",
+          "yearStart": 2001,
+          "yearEnd": 2005
+        },
+        {
+          "name": "ZT-T",
+          "yearStart": 2001,
+          "yearEnd": 2005
+        }
+      ]
+    }
+  ]
+}

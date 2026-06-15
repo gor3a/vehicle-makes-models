@@ -1,0 +1,15 @@
+{
+  "group": "gta",
+  "makes": [
+    {
+      "name": "GTA",
+      "models": [
+        {
+          "name": "Motor Spano",
+          "yearStart": 2012,
+          "yearEnd": 2015
+        }
+      ]
+    }
+  ]
+}

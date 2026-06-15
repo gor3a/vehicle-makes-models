@@ -1,0 +1,71 @@
+{
+  "group": "changan",
+  "makes": [
+    {
+      "name": "Changan",
+      "country": "China",
+      "models": [
+        {
+          "name": "Alsvin",
+          "yearStart": 2018,
+          "yearEnd": null
+        },
+        {
+          "name": "CS15",
+          "yearStart": 2016,
+          "yearEnd": null
+        },
+        {
+          "name": "CS35",
+          "yearStart": 2012,
+          "yearEnd": null
+        },
+        {
+          "name": "CS55",
+          "yearStart": 2017,
+          "yearEnd": null
+        },
+        {
+          "name": "CS75",
+          "yearStart": 2014,
+          "yearEnd": null
+        },
+        {
+          "name": "CS85",
+          "yearStart": 2019,
+          "yearEnd": null
+        },
+        {
+          "name": "CS95",
+          "yearStart": 2017,
+          "yearEnd": null
+        },
+        {
+          "name": "Eado",
+          "yearStart": 2012,
+          "yearEnd": null
+        },
+        {
+          "name": "Hunter",
+          "yearStart": 2019,
+          "yearEnd": null
+        },
+        {
+          "name": "UNI-K",
+          "yearStart": 2021,
+          "yearEnd": null
+        },
+        {
+          "name": "UNI-T",
+          "yearStart": 2020,
+          "yearEnd": null
+        },
+        {
+          "name": "UNI-V",
+          "yearStart": 2022,
+          "yearEnd": null
+        }
+      ]
+    }
+  ]
+}

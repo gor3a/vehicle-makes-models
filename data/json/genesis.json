@@ -1,0 +1,45 @@
+{
+  "group": "genesis",
+  "makes": [
+    {
+      "name": "Genesis",
+      "models": [
+        {
+          "name": "G70",
+          "yearStart": 2017,
+          "yearEnd": null
+        },
+        {
+          "name": "G70 Shooting Brake",
+          "yearStart": 2021,
+          "yearEnd": null
+        },
+        {
+          "name": "G80",
+          "yearStart": 2016,
+          "yearEnd": null
+        },
+        {
+          "name": "G90",
+          "yearStart": 2016,
+          "yearEnd": null
+        },
+        {
+          "name": "GV60",
+          "yearStart": 2022,
+          "yearEnd": null
+        },
+        {
+          "name": "GV70",
+          "yearStart": 2020,
+          "yearEnd": null
+        },
+        {
+          "name": "GV80",
+          "yearStart": 2023,
+          "yearEnd": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "group": "zastava",
+  "makes": [
+    {
+      "name": "Zastava",
+      "country": "Serbia",
+      "models": [
+        {
+          "name": "101",
+          "yearStart": 1971,
+          "yearEnd": 2008
+        },
+        {
+          "name": "128",
+          "yearStart": 1980,
+          "yearEnd": 2003
+        },
+        {
+          "name": "750",
+          "yearStart": 1955,
+          "yearEnd": 1985
+        },
+        {
+          "name": "Florida",
+          "yearStart": 1988,
+          "yearEnd": 2008
+        },
+        {
+          "name": "Koral",
+          "yearStart": 1980,
+          "yearEnd": 2008
+        }
+      ]
+    }
+  ]
+}

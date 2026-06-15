@@ -1,0 +1,25 @@
+{
+  "group": "hindustan",
+  "makes": [
+    {
+      "name": "Hindustan",
+      "models": [
+        {
+          "name": "Ambassador",
+          "yearStart": 1959,
+          "yearEnd": 2014
+        },
+        {
+          "name": "Pushpak/Trekker",
+          "yearStart": 1999,
+          "yearEnd": 2014
+        },
+        {
+          "name": "RTV/Ranger",
+          "yearStart": 1998,
+          "yearEnd": 2014
+        }
+      ]
+    }
+  ]
+}

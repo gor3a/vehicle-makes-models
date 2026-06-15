@@ -1,0 +1,35 @@
+{
+  "group": "panoz",
+  "makes": [
+    {
+      "name": "Panoz",
+      "models": [
+        {
+          "name": "Avezzano",
+          "yearStart": 2017,
+          "yearEnd": null
+        },
+        {
+          "name": "Esperante",
+          "yearStart": 1999,
+          "yearEnd": 2007
+        },
+        {
+          "name": "Esperante GT",
+          "yearStart": 2000,
+          "yearEnd": 2007
+        },
+        {
+          "name": "Esperante GTLM",
+          "yearStart": 2003,
+          "yearEnd": 2007
+        },
+        {
+          "name": "Roadster",
+          "yearStart": 1992,
+          "yearEnd": 1995
+        }
+      ]
+    }
+  ]
+}

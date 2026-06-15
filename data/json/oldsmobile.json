@@ -1,0 +1,45 @@
+{
+  "group": "oldsmobile",
+  "makes": [
+    {
+      "name": "Oldsmobile",
+      "models": [
+        {
+          "name": "442",
+          "yearStart": 1970,
+          "yearEnd": 1971
+        },
+        {
+          "name": "Alero",
+          "yearStart": 1999,
+          "yearEnd": 2004
+        },
+        {
+          "name": "Aurora",
+          "yearStart": 1994,
+          "yearEnd": 2003
+        },
+        {
+          "name": "Bravada",
+          "yearStart": 2001,
+          "yearEnd": 2004
+        },
+        {
+          "name": "Intrigue",
+          "yearStart": 1997,
+          "yearEnd": 2002
+        },
+        {
+          "name": "Silhouette",
+          "yearStart": 1996,
+          "yearEnd": 2004
+        },
+        {
+          "name": "Toronado",
+          "yearStart": 1966,
+          "yearEnd": 1992
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "group": "trabant",
+  "makes": [
+    {
+      "name": "Trabant",
+      "country": "Germany",
+      "models": [
+        {
+          "name": "1.1",
+          "yearStart": 1990,
+          "yearEnd": 1991
+        },
+        {
+          "name": "601",
+          "yearStart": 1963,
+          "yearEnd": 1990
+        }
+      ]
+    }
+  ]
+}

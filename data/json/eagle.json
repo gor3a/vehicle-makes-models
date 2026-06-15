@@ -1,0 +1,25 @@
+{
+  "group": "eagle",
+  "makes": [
+    {
+      "name": "Eagle",
+      "models": [
+        {
+          "name": "Premier",
+          "yearStart": 1987,
+          "yearEnd": 1993
+        },
+        {
+          "name": "Summit",
+          "yearStart": 1992,
+          "yearEnd": 1996
+        },
+        {
+          "name": "Talon",
+          "yearStart": 1995,
+          "yearEnd": 1998
+        }
+      ]
+    }
+  ]
+}

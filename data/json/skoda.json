@@ -1,0 +1,185 @@
+{
+  "group": "skoda",
+  "makes": [
+    {
+      "name": "Škoda",
+      "models": [
+        {
+          "name": "SKODA 100 series",
+          "yearStart": 1969,
+          "yearEnd": 1982
+        },
+        {
+          "name": "SKODA Citigo",
+          "yearStart": 2011,
+          "yearEnd": 2020
+        },
+        {
+          "name": "SKODA Elroq",
+          "yearStart": 2024,
+          "yearEnd": null
+        },
+        {
+          "name": "SKODA Elroq RS",
+          "yearStart": 2025,
+          "yearEnd": null
+        },
+        {
+          "name": "SKODA Enyaq",
+          "yearStart": 2020,
+          "yearEnd": null
+        },
+        {
+          "name": "SKODA Enyaq Coupe RS",
+          "yearStart": 2025,
+          "yearEnd": null
+        },
+        {
+          "name": "SKODA Enyaq RS",
+          "yearStart": 2025,
+          "yearEnd": null
+        },
+        {
+          "name": "SKODA Epiq",
+          "yearStart": 2026,
+          "yearEnd": null
+        },
+        {
+          "name": "SKODA Fabia",
+          "yearStart": 2000,
+          "yearEnd": null
+        },
+        {
+          "name": "SKODA Fabia Combi",
+          "yearStart": 2000,
+          "yearEnd": 2021
+        },
+        {
+          "name": "SKODA Fabia Combi RS",
+          "yearStart": 2010,
+          "yearEnd": 2014
+        },
+        {
+          "name": "SKODA Fabia RS",
+          "yearStart": 2003,
+          "yearEnd": 2014
+        },
+        {
+          "name": "SKODA Favorit",
+          "yearStart": 1989,
+          "yearEnd": 1995
+        },
+        {
+          "name": "SKODA Felicia",
+          "yearStart": 1995,
+          "yearEnd": 2001
+        },
+        {
+          "name": "SKODA Felicia Combi",
+          "yearStart": 1995,
+          "yearEnd": 2001
+        },
+        {
+          "name": "SKODA Kamiq",
+          "yearStart": 2018,
+          "yearEnd": null
+        },
+        {
+          "name": "SKODA Karoq",
+          "yearStart": 2017,
+          "yearEnd": null
+        },
+        {
+          "name": "SKODA Kodiaq",
+          "yearStart": 2016,
+          "yearEnd": null
+        },
+        {
+          "name": "SKODA Kodiaq RS",
+          "yearStart": 2018,
+          "yearEnd": null
+        },
+        {
+          "name": "SKODA Kushaq",
+          "yearStart": 2021,
+          "yearEnd": null
+        },
+        {
+          "name": "SKODA Kylaq",
+          "yearStart": 2024,
+          "yearEnd": null
+        },
+        {
+          "name": "SKODA Octavia",
+          "yearStart": 1997,
+          "yearEnd": null
+        },
+        {
+          "name": "SKODA Octavia Combi",
+          "yearStart": 1997,
+          "yearEnd": null
+        },
+        {
+          "name": "SKODA Octavia Combi 4x4",
+          "yearStart": 2009,
+          "yearEnd": 2020
+        },
+        {
+          "name": "SKODA Octavia Combi RS",
+          "yearStart": 2002,
+          "yearEnd": null
+        },
+        {
+          "name": "SKODA Octavia RS",
+          "yearStart": 2001,
+          "yearEnd": null
+        },
+        {
+          "name": "SKODA Octavia Scout",
+          "yearStart": 2006,
+          "yearEnd": null
+        },
+        {
+          "name": "SKODA Rapid",
+          "yearStart": 2011,
+          "yearEnd": 2021
+        },
+        {
+          "name": "SKODA Rapid Spaceback",
+          "yearStart": 2013,
+          "yearEnd": 2019
+        },
+        {
+          "name": "SKODA Roomster",
+          "yearStart": 2006,
+          "yearEnd": 2015
+        },
+        {
+          "name": "SKODA Scala",
+          "yearStart": 2018,
+          "yearEnd": null
+        },
+        {
+          "name": "SKODA Slavia",
+          "yearStart": 2021,
+          "yearEnd": null
+        },
+        {
+          "name": "SKODA Superb",
+          "yearStart": 2002,
+          "yearEnd": null
+        },
+        {
+          "name": "SKODA Superb Combi / Scout",
+          "yearStart": 2009,
+          "yearEnd": null
+        },
+        {
+          "name": "SKODA Yeti",
+          "yearStart": 2009,
+          "yearEnd": 2017
+        }
+      ]
+    }
+  ]
+}

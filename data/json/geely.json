@@ -1,0 +1,121 @@
+{
+  "group": "geely",
+  "makes": [
+    {
+      "name": "Geely",
+      "country": "China",
+      "models": [
+        {
+          "name": "Atlas",
+          "yearStart": 2016,
+          "yearEnd": null
+        },
+        {
+          "name": "Azkarra",
+          "yearStart": 2018,
+          "yearEnd": null
+        },
+        {
+          "name": "Binrui",
+          "yearStart": 2018,
+          "yearEnd": null
+        },
+        {
+          "name": "Binyue",
+          "yearStart": 2018,
+          "yearEnd": null
+        },
+        {
+          "name": "CK",
+          "yearStart": 2005,
+          "yearEnd": 2016
+        },
+        {
+          "name": "Coolray",
+          "yearStart": 2018,
+          "yearEnd": null
+        },
+        {
+          "name": "Emgrand",
+          "yearStart": 2009,
+          "yearEnd": null
+        },
+        {
+          "name": "Emgrand 7",
+          "yearStart": 2016,
+          "yearEnd": null
+        },
+        {
+          "name": "Emgrand EC7",
+          "yearStart": 2009,
+          "yearEnd": 2014
+        },
+        {
+          "name": "Galaxy",
+          "yearStart": 2023,
+          "yearEnd": null
+        },
+        {
+          "name": "Galaxy M9",
+          "yearStart": 2025,
+          "yearEnd": null
+        },
+        {
+          "name": "Geometry A",
+          "yearStart": 2019,
+          "yearEnd": null
+        },
+        {
+          "name": "Geometry C",
+          "yearStart": 2020,
+          "yearEnd": null
+        },
+        {
+          "name": "GX3",
+          "yearStart": 2014,
+          "yearEnd": null
+        },
+        {
+          "name": "LC",
+          "yearStart": 2009,
+          "yearEnd": 2017
+        },
+        {
+          "name": "MK",
+          "yearStart": 2006,
+          "yearEnd": 2014
+        },
+        {
+          "name": "Monjaro",
+          "yearStart": 2021,
+          "yearEnd": null
+        },
+        {
+          "name": "Okavango",
+          "yearStart": 2020,
+          "yearEnd": null
+        },
+        {
+          "name": "Panda",
+          "yearStart": 2008,
+          "yearEnd": null
+        },
+        {
+          "name": "Preface",
+          "yearStart": 2020,
+          "yearEnd": null
+        },
+        {
+          "name": "Starray",
+          "yearStart": 2023,
+          "yearEnd": null
+        },
+        {
+          "name": "Tugella",
+          "yearStart": 2019,
+          "yearEnd": null
+        }
+      ]
+    }
+  ]
+}

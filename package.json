@@ -1,0 +1,23 @@
+{
+  "name": "vehicle-makes-models",
+  "version": "1.0.0",
+  "description": "Free, open dataset of car makes, models, and production year ranges (global, with Egypt-market additions). Available as JSON, CSV, and SQLite.",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "build": "tsx scripts/build.ts",
+    "test": "vitest run",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "better-sqlite3": "11.3.0",
+    "zod": "3.23.8"
+  },
+  "devDependencies": {
+    "@types/better-sqlite3": "7.6.11",
+    "@types/node": "22.7.4",
+    "tsx": "4.19.1",
+    "typescript": "5.6.2",
+    "vitest": "2.1.1"
+  }
+}

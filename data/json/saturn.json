@@ -1,0 +1,50 @@
+{
+  "group": "saturn",
+  "makes": [
+    {
+      "name": "Saturn",
+      "models": [
+        {
+          "name": "Astra",
+          "yearStart": 2007,
+          "yearEnd": 2010
+        },
+        {
+          "name": "Aura",
+          "yearStart": 2006,
+          "yearEnd": 2009
+        },
+        {
+          "name": "Ion",
+          "yearStart": 2003,
+          "yearEnd": 2007
+        },
+        {
+          "name": "Ion Quad",
+          "yearStart": 2003,
+          "yearEnd": 2007
+        },
+        {
+          "name": "Outlook",
+          "yearStart": 2006,
+          "yearEnd": 2010
+        },
+        {
+          "name": "Relay",
+          "yearStart": 2004,
+          "yearEnd": 2007
+        },
+        {
+          "name": "Sky",
+          "yearStart": 2006,
+          "yearEnd": 2009
+        },
+        {
+          "name": "Vue",
+          "yearStart": 2001,
+          "yearEnd": 2010
+        }
+      ]
+    }
+  ]
+}

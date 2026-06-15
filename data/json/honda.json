@@ -1,0 +1,265 @@
+{
+  "group": "honda",
+  "makes": [
+    {
+      "name": "Honda",
+      "models": [
+        {
+          "name": "1300",
+          "yearStart": 1969,
+          "yearEnd": 1973
+        },
+        {
+          "name": "Accord",
+          "yearStart": 1976,
+          "yearEnd": null
+        },
+        {
+          "name": "Accord Crosstour",
+          "yearStart": 2009,
+          "yearEnd": 2016
+        },
+        {
+          "name": "Accord Euro",
+          "yearStart": 1998,
+          "yearEnd": 2010
+        },
+        {
+          "name": "Accord Tourer",
+          "yearStart": 1993,
+          "yearEnd": 2012
+        },
+        {
+          "name": "Accord Type R",
+          "yearStart": 1998,
+          "yearEnd": 2005
+        },
+        {
+          "name": "Airwave",
+          "yearStart": 2005,
+          "yearEnd": 2010
+        },
+        {
+          "name": "Avancier",
+          "yearStart": 1999,
+          "yearEnd": 2003
+        },
+        {
+          "name": "Beat",
+          "yearStart": 1991,
+          "yearEnd": 1996
+        },
+        {
+          "name": "Civic",
+          "yearStart": 1972,
+          "yearEnd": null
+        },
+        {
+          "name": "Civic Aero Deck",
+          "yearStart": 1998,
+          "yearEnd": 2001
+        },
+        {
+          "name": "Civic CRX",
+          "yearStart": 1988,
+          "yearEnd": 1993
+        },
+        {
+          "name": "Civic Shuttle",
+          "yearStart": 1987,
+          "yearEnd": 1993
+        },
+        {
+          "name": "Civic Si Sedan US",
+          "yearStart": 2024,
+          "yearEnd": null
+        },
+        {
+          "name": "Civic Tourer",
+          "yearStart": 2013,
+          "yearEnd": 2017
+        },
+        {
+          "name": "Civic Type-R",
+          "yearStart": 2001,
+          "yearEnd": null
+        },
+        {
+          "name": "Clarity",
+          "yearStart": 2007,
+          "yearEnd": 2014
+        },
+        {
+          "name": "Concerto",
+          "yearStart": 1990,
+          "yearEnd": 1994
+        },
+        {
+          "name": "CR-V",
+          "yearStart": 1996,
+          "yearEnd": null
+        },
+        {
+          "name": "CR-Z",
+          "yearStart": 2010,
+          "yearEnd": 2016
+        },
+        {
+          "name": "CRX Del Sol",
+          "yearStart": 1992,
+          "yearEnd": 1997
+        },
+        {
+          "name": "e",
+          "yearStart": 2020,
+          "yearEnd": null
+        },
+        {
+          "name": "e:Ny1",
+          "yearStart": 2023,
+          "yearEnd": null
+        },
+        {
+          "name": "Element",
+          "yearStart": 2003,
+          "yearEnd": 2011
+        },
+        {
+          "name": "Fit EV",
+          "yearStart": 2012,
+          "yearEnd": 2014
+        },
+        {
+          "name": "FR-V / Edix",
+          "yearStart": 2004,
+          "yearEnd": 2011
+        },
+        {
+          "name": "HR-V",
+          "yearStart": 1999,
+          "yearEnd": null
+        },
+        {
+          "name": "Insight",
+          "yearStart": 1999,
+          "yearEnd": 2022
+        },
+        {
+          "name": "Jazz / City",
+          "yearStart": 1983,
+          "yearEnd": 1986
+        },
+        {
+          "name": "Jazz / Fit",
+          "yearStart": 2002,
+          "yearEnd": null
+        },
+        {
+          "name": "Legend",
+          "yearStart": 1987,
+          "yearEnd": 2017
+        },
+        {
+          "name": "Logo / Fit",
+          "yearStart": 1996,
+          "yearEnd": 2001
+        },
+        {
+          "name": "MDX",
+          "yearStart": 2003,
+          "yearEnd": 2006
+        },
+        {
+          "name": "Mobilio",
+          "yearStart": 2001,
+          "yearEnd": 2008
+        },
+        {
+          "name": "N360",
+          "yearStart": 1967,
+          "yearEnd": 1972
+        },
+        {
+          "name": "N600",
+          "yearStart": 1969,
+          "yearEnd": 1972
+        },
+        {
+          "name": "NSX",
+          "yearStart": 1991,
+          "yearEnd": 2021
+        },
+        {
+          "name": "Odyssey",
+          "yearStart": 2005,
+          "yearEnd": null
+        },
+        {
+          "name": "Passport",
+          "yearStart": 2018,
+          "yearEnd": null
+        },
+        {
+          "name": "Pilot",
+          "yearStart": 2009,
+          "yearEnd": null
+        },
+        {
+          "name": "Prelude",
+          "yearStart": 1979,
+          "yearEnd": null
+        },
+        {
+          "name": "Prologue",
+          "yearStart": 2023,
+          "yearEnd": null
+        },
+        {
+          "name": "Ridgeline",
+          "yearStart": 2005,
+          "yearEnd": null
+        },
+        {
+          "name": "S2000",
+          "yearStart": 1999,
+          "yearEnd": 2009
+        },
+        {
+          "name": "S660",
+          "yearStart": 2015,
+          "yearEnd": 2022
+        },
+        {
+          "name": "S800",
+          "yearStart": 1966,
+          "yearEnd": 1970
+        },
+        {
+          "name": "S800C",
+          "yearStart": 1966,
+          "yearEnd": 1970
+        },
+        {
+          "name": "Shuttle",
+          "yearStart": 1995,
+          "yearEnd": 2001
+        },
+        {
+          "name": "Stream",
+          "yearStart": 2000,
+          "yearEnd": 2009
+        },
+        {
+          "name": "That's",
+          "yearStart": 2002,
+          "yearEnd": 2007
+        },
+        {
+          "name": "ZR-V",
+          "yearStart": 2023,
+          "yearEnd": null
+        }
+      ]
+    }
+  ]
+}

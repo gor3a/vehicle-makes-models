@@ -1,0 +1,51 @@
+{
+  "group": "jac",
+  "makes": [
+    {
+      "name": "JAC",
+      "country": "China",
+      "models": [
+        {
+          "name": "J7",
+          "yearStart": 2020,
+          "yearEnd": null
+        },
+        {
+          "name": "S2",
+          "yearStart": 2015,
+          "yearEnd": null
+        },
+        {
+          "name": "S3",
+          "yearStart": 2014,
+          "yearEnd": null
+        },
+        {
+          "name": "S4",
+          "yearStart": 2018,
+          "yearEnd": null
+        },
+        {
+          "name": "S7",
+          "yearStart": 2018,
+          "yearEnd": null
+        },
+        {
+          "name": "Sunray",
+          "yearStart": 2016,
+          "yearEnd": null
+        },
+        {
+          "name": "T6",
+          "yearStart": 2015,
+          "yearEnd": null
+        },
+        {
+          "name": "T8",
+          "yearStart": 2018,
+          "yearEnd": null
+        }
+      ]
+    }
+  ]
+}

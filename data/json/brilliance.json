@@ -1,0 +1,41 @@
+{
+  "group": "brilliance",
+  "makes": [
+    {
+      "name": "Brilliance",
+      "country": "China",
+      "models": [
+        {
+          "name": "H230",
+          "yearStart": 2012,
+          "yearEnd": null
+        },
+        {
+          "name": "H330",
+          "yearStart": 2013,
+          "yearEnd": null
+        },
+        {
+          "name": "H530",
+          "yearStart": 2011,
+          "yearEnd": null
+        },
+        {
+          "name": "V3",
+          "yearStart": 2015,
+          "yearEnd": null
+        },
+        {
+          "name": "V5",
+          "yearStart": 2012,
+          "yearEnd": null
+        },
+        {
+          "name": "V7",
+          "yearStart": 2018,
+          "yearEnd": null
+        }
+      ]
+    }
+  ]
+}

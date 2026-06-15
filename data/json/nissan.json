@@ -1,0 +1,300 @@
+{
+  "group": "nissan",
+  "makes": [
+    {
+      "name": "Nissan",
+      "models": [
+        {
+          "name": "100 NX",
+          "yearStart": 1991,
+          "yearEnd": 1996
+        },
+        {
+          "name": "200 SX",
+          "yearStart": 1989,
+          "yearEnd": 2000
+        },
+        {
+          "name": "300 ZX",
+          "yearStart": 1984,
+          "yearEnd": 1996
+        },
+        {
+          "name": "350Z",
+          "yearStart": 2002,
+          "yearEnd": 2009
+        },
+        {
+          "name": "370Z",
+          "yearStart": 2008,
+          "yearEnd": 2020
+        },
+        {
+          "name": "370Z Nismo",
+          "yearStart": 2009,
+          "yearEnd": 2021
+        },
+        {
+          "name": "Almera / Pulsar",
+          "yearStart": 1995,
+          "yearEnd": 2019
+        },
+        {
+          "name": "Almera Tino",
+          "yearStart": 2000,
+          "yearEnd": 2006
+        },
+        {
+          "name": "Altima",
+          "yearStart": 1998,
+          "yearEnd": null
+        },
+        {
+          "name": "Ariya",
+          "yearStart": 2020,
+          "yearEnd": null
+        },
+        {
+          "name": "Armada",
+          "yearStart": 2003,
+          "yearEnd": null
+        },
+        {
+          "name": "Bluebird",
+          "yearStart": 1986,
+          "yearEnd": 1990
+        },
+        {
+          "name": "Bluebird Traveller",
+          "yearStart": 1986,
+          "yearEnd": 1990
+        },
+        {
+          "name": "Cube",
+          "yearStart": 2008,
+          "yearEnd": 2019
+        },
+        {
+          "name": "Elgrand",
+          "yearStart": 2025,
+          "yearEnd": null
+        },
+        {
+          "name": "Grand Livina",
+          "yearStart": 2006,
+          "yearEnd": 2013
+        },
+        {
+          "name": "GT-R",
+          "yearStart": 1969,
+          "yearEnd": null
+        },
+        {
+          "name": "GT-R Nismo",
+          "yearStart": 2014,
+          "yearEnd": null
+        },
+        {
+          "name": "Juke",
+          "yearStart": 2010,
+          "yearEnd": null
+        },
+        {
+          "name": "Juke EV",
+          "yearStart": 2026,
+          "yearEnd": null
+        },
+        {
+          "name": "Juke Nismo",
+          "yearStart": 2013,
+          "yearEnd": 2017
+        },
+        {
+          "name": "Kicks",
+          "yearStart": 2016,
+          "yearEnd": null
+        },
+        {
+          "name": "Leaf",
+          "yearStart": 2010,
+          "yearEnd": null
+        },
+        {
+          "name": "Liberty",
+          "yearStart": 1999,
+          "yearEnd": 2004
+        },
+        {
+          "name": "Maxima",
+          "yearStart": 1989,
+          "yearEnd": 2023
+        },
+        {
+          "name": "Micra",
+          "yearStart": 1982,
+          "yearEnd": null
+        },
+        {
+          "name": "Micra C+C",
+          "yearStart": 2005,
+          "yearEnd": 2008
+        },
+        {
+          "name": "Murano",
+          "yearStart": 2003,
+          "yearEnd": null
+        },
+        {
+          "name": "Murano CrossCabriolet",
+          "yearStart": 2011,
+          "yearEnd": 2014
+        },
+        {
+          "name": "N7",
+          "yearStart": 2024,
+          "yearEnd": null
+        },
+        {
+          "name": "Navara / Frontier",
+          "yearStart": 2005,
+          "yearEnd": null
+        },
+        {
+          "name": "Note",
+          "yearStart": 2005,
+          "yearEnd": 2019
+        },
+        {
+          "name": "NP300",
+          "yearStart": 2008,
+          "yearEnd": 2015
+        },
+        {
+          "name": "NV",
+          "yearStart": 2009,
+          "yearEnd": 2019
+        },
+        {
+          "name": "Pathfinder",
+          "yearStart": 2001,
+          "yearEnd": null
+        },
+        {
+          "name": "Patrol LWB",
+          "yearStart": 1988,
+          "yearEnd": null
+        },
+        {
+          "name": "Patrol SWB",
+          "yearStart": 1988,
+          "yearEnd": 2010
+        },
+        {
+          "name": "Pixo",
+          "yearStart": 2009,
+          "yearEnd": 2013
+        },
+        {
+          "name": "Platina",
+          "yearStart": 2006,
+          "yearEnd": 2010
+        },
+        {
+          "name": "Prairie",
+          "yearStart": 1989,
+          "yearEnd": 1996
+        },
+        {
+          "name": "Primera",
+          "yearStart": 1990,
+          "yearEnd": 2008
+        },
+        {
+          "name": "Primera Break",
+          "yearStart": 1990,
+          "yearEnd": 2007
+        },
+        {
+          "name": "Qashqai",
+          "yearStart": 2007,
+          "yearEnd": null
+        },
+        {
+          "name": "Quest",
+          "yearStart": 2004,
+          "yearEnd": 2017
+        },
+        {
+          "name": "Rogue",
+          "yearStart": 2007,
+          "yearEnd": null
+        },
+        {
+          "name": "Sakura",
+          "yearStart": 2022,
+          "yearEnd": null
+        },
+        {
+          "name": "Sentra",
+          "yearStart": 2000,
+          "yearEnd": null
+        },
+        {
+          "name": "Serena",
+          "yearStart": 1991,
+          "yearEnd": 2022
+        },
+        {
+          "name": "Skyline",
+          "yearStart": 2001,
+          "yearEnd": 2010
+        },
+        {
+          "name": "Sunny",
+          "yearStart": 1993,
+          "yearEnd": 2019
+        },
+        {
+          "name": "Sunny Traveller",
+          "yearStart": 1993,
+          "yearEnd": 1996
+        },
+        {
+          "name": "Teana",
+          "yearStart": 2003,
+          "yearEnd": 2013
+        },
+        {
+          "name": "Terrano",
+          "yearStart": 1988,
+          "yearEnd": 2019
+        },
+        {
+          "name": "Tiida / Versa",
+          "yearStart": 2006,
+          "yearEnd": null
+        },
+        {
+          "name": "Titan",
+          "yearStart": 2004,
+          "yearEnd": 2024
+        },
+        {
+          "name": "X-Trail",
+          "yearStart": 2001,
+          "yearEnd": null
+        },
+        {
+          "name": "XTerra",
+          "yearStart": 2002,
+          "yearEnd": 2015
+        },
+        {
+          "name": "Z Nismo",
+          "yearStart": 2021,
+          "yearEnd": null
+        }
+      ]
+    }
+  ]
+}

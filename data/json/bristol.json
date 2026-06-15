@@ -1,0 +1,45 @@
+{
+  "group": "bristol",
+  "makes": [
+    {
+      "name": "Bristol",
+      "models": [
+        {
+          "name": "411",
+          "yearStart": 1972,
+          "yearEnd": 1974
+        },
+        {
+          "name": "412",
+          "yearStart": 1975,
+          "yearEnd": 1978
+        },
+        {
+          "name": "603",
+          "yearStart": 1976,
+          "yearEnd": 1994
+        },
+        {
+          "name": "Blenheim",
+          "yearStart": 1994,
+          "yearEnd": 2011
+        },
+        {
+          "name": "Bullet",
+          "yearStart": 2017,
+          "yearEnd": 2017
+        },
+        {
+          "name": "Fighter",
+          "yearStart": 2002,
+          "yearEnd": 2011
+        },
+        {
+          "name": "Series 6",
+          "yearStart": 2010,
+          "yearEnd": 2011
+        }
+      ]
+    }
+  ]
+}

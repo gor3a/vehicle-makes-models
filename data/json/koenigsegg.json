@@ -1,0 +1,60 @@
+{
+  "group": "koenigsegg",
+  "makes": [
+    {
+      "name": "Koenigsegg",
+      "models": [
+        {
+          "name": "Agera",
+          "yearStart": 2010,
+          "yearEnd": 2016
+        },
+        {
+          "name": "CC8S",
+          "yearStart": 2002,
+          "yearEnd": 2005
+        },
+        {
+          "name": "CCR",
+          "yearStart": 2004,
+          "yearEnd": 2006
+        },
+        {
+          "name": "CCX",
+          "yearStart": 2006,
+          "yearEnd": 2010
+        },
+        {
+          "name": "CCXR",
+          "yearStart": 2007,
+          "yearEnd": 2010
+        },
+        {
+          "name": "Gemera",
+          "yearStart": 2020,
+          "yearEnd": null
+        },
+        {
+          "name": "Jesko",
+          "yearStart": 2019,
+          "yearEnd": null
+        },
+        {
+          "name": "One:1",
+          "yearStart": 2014,
+          "yearEnd": 2015
+        },
+        {
+          "name": "Regera",
+          "yearStart": 2015,
+          "yearEnd": 2022
+        },
+        {
+          "name": "Sadairs Spear",
+          "yearStart": 2025,
+          "yearEnd": null
+        }
+      ]
+    }
+  ]
+}

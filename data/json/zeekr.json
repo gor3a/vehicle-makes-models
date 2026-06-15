@@ -1,0 +1,30 @@
+{
+  "group": "zeekr",
+  "makes": [
+    {
+      "name": "Zeekr",
+      "models": [
+        {
+          "name": "001",
+          "yearStart": 2025,
+          "yearEnd": null
+        },
+        {
+          "name": "7GT",
+          "yearStart": 2026,
+          "yearEnd": null
+        },
+        {
+          "name": "7X",
+          "yearStart": 2024,
+          "yearEnd": null
+        },
+        {
+          "name": "X",
+          "yearStart": 2023,
+          "yearEnd": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,380 @@
+{
+  "group": "fiat",
+  "makes": [
+    {
+      "name": "Fiat",
+      "models": [
+        {
+          "name": "124",
+          "yearStart": 1966,
+          "yearEnd": 2021
+        },
+        {
+          "name": "124 Familiale",
+          "yearStart": 1966,
+          "yearEnd": 1970
+        },
+        {
+          "name": "124 Saloon",
+          "yearStart": 1966,
+          "yearEnd": 1974
+        },
+        {
+          "name": "125",
+          "yearStart": 1967,
+          "yearEnd": 1972
+        },
+        {
+          "name": "126",
+          "yearStart": 1972,
+          "yearEnd": 2000
+        },
+        {
+          "name": "127",
+          "yearStart": 1971,
+          "yearEnd": 1981
+        },
+        {
+          "name": "127 Panorama",
+          "yearStart": 1980,
+          "yearEnd": 1983
+        },
+        {
+          "name": "128",
+          "yearStart": 1972,
+          "yearEnd": 1974
+        },
+        {
+          "name": "128 Saloon",
+          "yearStart": 1969,
+          "yearEnd": 1976
+        },
+        {
+          "name": "130",
+          "yearStart": 1971,
+          "yearEnd": 1972
+        },
+        {
+          "name": "130 Limousine",
+          "yearStart": 1969,
+          "yearEnd": 1976
+        },
+        {
+          "name": "131",
+          "yearStart": 1974,
+          "yearEnd": 1981
+        },
+        {
+          "name": "132",
+          "yearStart": 1972,
+          "yearEnd": 1981
+        },
+        {
+          "name": "3 1/2 HP",
+          "yearStart": null,
+          "yearEnd": null
+        },
+        {
+          "name": "500",
+          "yearStart": 1957,
+          "yearEnd": null
+        },
+        {
+          "name": "500 3+1",
+          "yearStart": 2020,
+          "yearEnd": null
+        },
+        {
+          "name": "500 Abarth",
+          "yearStart": 2008,
+          "yearEnd": null
+        },
+        {
+          "name": "500 K / Giardiniera",
+          "yearStart": 1960,
+          "yearEnd": 1977
+        },
+        {
+          "name": "500e",
+          "yearStart": 2013,
+          "yearEnd": 2020
+        },
+        {
+          "name": "500L",
+          "yearStart": 2012,
+          "yearEnd": 2017
+        },
+        {
+          "name": "500L Living",
+          "yearStart": 2013,
+          "yearEnd": 2022
+        },
+        {
+          "name": "500L Trekking",
+          "yearStart": 2013,
+          "yearEnd": 2017
+        },
+        {
+          "name": "500L Urban",
+          "yearStart": 2017,
+          "yearEnd": 2022
+        },
+        {
+          "name": "500X",
+          "yearStart": 2015,
+          "yearEnd": 2024
+        },
+        {
+          "name": "600",
+          "yearStart": 1955,
+          "yearEnd": null
+        },
+        {
+          "name": "850",
+          "yearStart": 1964,
+          "yearEnd": 1971
+        },
+        {
+          "name": "Albea / Siena",
+          "yearStart": 2002,
+          "yearEnd": 2012
+        },
+        {
+          "name": "Argenta",
+          "yearStart": 1981,
+          "yearEnd": 1985
+        },
+        {
+          "name": "Argo",
+          "yearStart": null,
+          "yearEnd": null
+        },
+        {
+          "name": "Barchetta",
+          "yearStart": 1995,
+          "yearEnd": 2005
+        },
+        {
+          "name": "Brava",
+          "yearStart": 1995,
+          "yearEnd": 2001
+        },
+        {
+          "name": "Bravo",
+          "yearStart": 1995,
+          "yearEnd": 2010
+        },
+        {
+          "name": "Campagnola",
+          "yearStart": 1955,
+          "yearEnd": 1979
+        },
+        {
+          "name": "Cinquecento",
+          "yearStart": 1991,
+          "yearEnd": 1998
+        },
+        {
+          "name": "Coupe",
+          "yearStart": 1994,
+          "yearEnd": 2000
+        },
+        {
+          "name": "Croma",
+          "yearStart": 1986,
+          "yearEnd": 2011
+        },
+        {
+          "name": "Dino",
+          "yearStart": 1967,
+          "yearEnd": 1972
+        },
+        {
+          "name": "Doblo",
+          "yearStart": 2001,
+          "yearEnd": 2022
+        },
+        {
+          "name": "Freemont",
+          "yearStart": 2011,
+          "yearEnd": 2018
+        },
+        {
+          "name": "Fullback",
+          "yearStart": 2016,
+          "yearEnd": 2019
+        },
+        {
+          "name": "Grande Panda",
+          "yearStart": 2024,
+          "yearEnd": null
+        },
+        {
+          "name": "Grande Punto / Punto Evo",
+          "yearStart": 2005,
+          "yearEnd": 2012
+        },
+        {
+          "name": "Idea",
+          "yearStart": 2003,
+          "yearEnd": 2016
+        },
+        {
+          "name": "Linea",
+          "yearStart": 2006,
+          "yearEnd": 2015
+        },
+        {
+          "name": "Marea",
+          "yearStart": 1996,
+          "yearEnd": 2002
+        },
+        {
+          "name": "Marea Weekend",
+          "yearStart": 1996,
+          "yearEnd": 2002
+        },
+        {
+          "name": "Mille",
+          "yearStart": 1983,
+          "yearEnd": 2013
+        },
+        {
+          "name": "Multipla",
+          "yearStart": 1998,
+          "yearEnd": 2010
+        },
+        {
+          "name": "Palio",
+          "yearStart": 2011,
+          "yearEnd": 2016
+        },
+        {
+          "name": "Palio Weekend",
+          "yearStart": 2012,
+          "yearEnd": 2019
+        },
+        {
+          "name": "Panda",
+          "yearStart": 1981,
+          "yearEnd": 2024
+        },
+        {
+          "name": "Panda 4X4",
+          "yearStart": 1986,
+          "yearEnd": 2023
+        },
+        {
+          "name": "Panda City Cross",
+          "yearStart": 2017,
+          "yearEnd": 2020
+        },
+        {
+          "name": "Panda Cross",
+          "yearStart": 2014,
+          "yearEnd": 2017
+        },
+        {
+          "name": "Punto",
+          "yearStart": 1994,
+          "yearEnd": 2018
+        },
+        {
+          "name": "Punto Cabrio",
+          "yearStart": 1994,
+          "yearEnd": 1999
+        },
+        {
+          "name": "Qubo",
+          "yearStart": 2008,
+          "yearEnd": 2019
+        },
+        {
+          "name": "Regata",
+          "yearStart": 1984,
+          "yearEnd": 1989
+        },
+        {
+          "name": "Regata Weekend",
+          "yearStart": 1986,
+          "yearEnd": 1989
+        },
+        {
+          "name": "Ritmo",
+          "yearStart": 1978,
+          "yearEnd": 1982
+        },
+        {
+          "name": "Sedici",
+          "yearStart": 2006,
+          "yearEnd": 2014
+        },
+        {
+          "name": "Seicento",
+          "yearStart": 1998,
+          "yearEnd": 2006
+        },
+        {
+          "name": "Stilo",
+          "yearStart": 2001,
+          "yearEnd": 2007
+        },
+        {
+          "name": "Stilo Multi",
+          "yearStart": 2003,
+          "yearEnd": 2010
+        },
+        {
+          "name": "Tempra",
+          "yearStart": 1990,
+          "yearEnd": 1998
+        },
+        {
+          "name": "Tempra SW",
+          "yearStart": 1990,
+          "yearEnd": 1998
+        },
+        {
+          "name": "Tipo",
+          "yearStart": 1988,
+          "yearEnd": null
+        },
+        {
+          "name": "Tipo Cross",
+          "yearStart": 2020,
+          "yearEnd": null
+        },
+        {
+          "name": "Tipo Station",
+          "yearStart": 2016,
+          "yearEnd": 2021
+        },
+        {
+          "name": "Topolino",
+          "yearStart": 1936,
+          "yearEnd": null
+        },
+        {
+          "name": "Ulysse",
+          "yearStart": 1994,
+          "yearEnd": 2007
+        },
+        {
+          "name": "Uno",
+          "yearStart": 1983,
+          "yearEnd": 2021
+        },
+        {
+          "name": "Viaggio",
+          "yearStart": 2013,
+          "yearEnd": 2017
+        },
+        {
+          "name": "X1/9",
+          "yearStart": 1972,
+          "yearEnd": 1989
+        }
+      ]
+    }
+  ]
+}

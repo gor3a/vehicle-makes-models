@@ -1,0 +1,41 @@
+{
+  "group": "li-auto",
+  "makes": [
+    {
+      "name": "Li Auto",
+      "country": "China",
+      "models": [
+        {
+          "name": "L6",
+          "yearStart": 2024,
+          "yearEnd": null
+        },
+        {
+          "name": "L7",
+          "yearStart": 2023,
+          "yearEnd": null
+        },
+        {
+          "name": "L8",
+          "yearStart": 2022,
+          "yearEnd": null
+        },
+        {
+          "name": "L9",
+          "yearStart": 2022,
+          "yearEnd": null
+        },
+        {
+          "name": "Li One",
+          "yearStart": 2019,
+          "yearEnd": 2022
+        },
+        {
+          "name": "Mega",
+          "yearStart": 2024,
+          "yearEnd": null
+        }
+      ]
+    }
+  ]
+}

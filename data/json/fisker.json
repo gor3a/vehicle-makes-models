@@ -1,0 +1,20 @@
+{
+  "group": "fisker",
+  "makes": [
+    {
+      "name": "Fisker",
+      "models": [
+        {
+          "name": "Karma",
+          "yearStart": 2011,
+          "yearEnd": 2012
+        },
+        {
+          "name": "Ocean",
+          "yearStart": 2021,
+          "yearEnd": null
+        }
+      ]
+    }
+  ]
+}

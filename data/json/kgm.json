@@ -1,0 +1,35 @@
+{
+  "group": "kgm",
+  "makes": [
+    {
+      "name": "KGM",
+      "models": [
+        {
+          "name": "Actyon",
+          "yearStart": 2024,
+          "yearEnd": null
+        },
+        {
+          "name": "Korando",
+          "yearStart": 2023,
+          "yearEnd": null
+        },
+        {
+          "name": "Rexton",
+          "yearStart": 2023,
+          "yearEnd": null
+        },
+        {
+          "name": "Tivoli",
+          "yearStart": 2023,
+          "yearEnd": null
+        },
+        {
+          "name": "Torres",
+          "yearStart": 2023,
+          "yearEnd": null
+        }
+      ]
+    }
+  ]
+}

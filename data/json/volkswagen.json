@@ -1,0 +1,410 @@
+{
+  "group": "volkswagen",
+  "makes": [
+    {
+      "name": "Volkswagen",
+      "models": [
+        {
+          "name": "Amarok",
+          "yearStart": 2009,
+          "yearEnd": null
+        },
+        {
+          "name": "Ameo",
+          "yearStart": 2016,
+          "yearEnd": 2020
+        },
+        {
+          "name": "Arteon",
+          "yearStart": 2017,
+          "yearEnd": null
+        },
+        {
+          "name": "Arteon Shooting Brake",
+          "yearStart": 2020,
+          "yearEnd": null
+        },
+        {
+          "name": "Atlas",
+          "yearStart": 2017,
+          "yearEnd": null
+        },
+        {
+          "name": "Atlas Cross Sport",
+          "yearStart": 2019,
+          "yearEnd": null
+        },
+        {
+          "name": "Beetle",
+          "yearStart": 1945,
+          "yearEnd": 2019
+        },
+        {
+          "name": "Beetle Cabrio",
+          "yearStart": 2003,
+          "yearEnd": 2019
+        },
+        {
+          "name": "Caddy",
+          "yearStart": 2005,
+          "yearEnd": 2025
+        },
+        {
+          "name": "CC",
+          "yearStart": 2012,
+          "yearEnd": 2017
+        },
+        {
+          "name": "Corrado",
+          "yearStart": 1989,
+          "yearEnd": 1995
+        },
+        {
+          "name": "Cross UP!",
+          "yearStart": 2013,
+          "yearEnd": 2019
+        },
+        {
+          "name": "Derby",
+          "yearStart": 1977,
+          "yearEnd": 1981
+        },
+        {
+          "name": "e-Golf",
+          "yearStart": 2014,
+          "yearEnd": 2021
+        },
+        {
+          "name": "e-UP!",
+          "yearStart": 2013,
+          "yearEnd": 2023
+        },
+        {
+          "name": "Eos",
+          "yearStart": 2006,
+          "yearEnd": 2016
+        },
+        {
+          "name": "Fox",
+          "yearStart": 2005,
+          "yearEnd": 2009
+        },
+        {
+          "name": "Gol",
+          "yearStart": 2008,
+          "yearEnd": 2016
+        },
+        {
+          "name": "Golf",
+          "yearStart": 1974,
+          "yearEnd": null
+        },
+        {
+          "name": "Golf Alltrack",
+          "yearStart": 2014,
+          "yearEnd": null
+        },
+        {
+          "name": "Golf Cabrio",
+          "yearStart": 1993,
+          "yearEnd": 2016
+        },
+        {
+          "name": "Golf GTD Variant",
+          "yearStart": 2015,
+          "yearEnd": 2021
+        },
+        {
+          "name": "Golf GTI / GTD / GTE",
+          "yearStart": 1976,
+          "yearEnd": null
+        },
+        {
+          "name": "Golf GTI cabrio",
+          "yearStart": 2012,
+          "yearEnd": 2015
+        },
+        {
+          "name": "Golf Plus",
+          "yearStart": 2005,
+          "yearEnd": 2013
+        },
+        {
+          "name": "Golf R",
+          "yearStart": 2002,
+          "yearEnd": null
+        },
+        {
+          "name": "Golf R Cabrio",
+          "yearStart": 2013,
+          "yearEnd": 2017
+        },
+        {
+          "name": "Golf R Variant",
+          "yearStart": 2015,
+          "yearEnd": null
+        },
+        {
+          "name": "Golf Sportsvan",
+          "yearStart": 2014,
+          "yearEnd": 2020
+        },
+        {
+          "name": "Golf Variant",
+          "yearStart": 1993,
+          "yearEnd": null
+        },
+        {
+          "name": "ID. Buzz",
+          "yearStart": 2023,
+          "yearEnd": null
+        },
+        {
+          "name": "ID.3",
+          "yearStart": 2020,
+          "yearEnd": null
+        },
+        {
+          "name": "ID.3 GTX",
+          "yearStart": 2024,
+          "yearEnd": null
+        },
+        {
+          "name": "ID.4",
+          "yearStart": 2020,
+          "yearEnd": null
+        },
+        {
+          "name": "ID.5",
+          "yearStart": 2021,
+          "yearEnd": null
+        },
+        {
+          "name": "ID.5 GTX",
+          "yearStart": 2021,
+          "yearEnd": null
+        },
+        {
+          "name": "ID.7",
+          "yearStart": 2023,
+          "yearEnd": null
+        },
+        {
+          "name": "ID.7 GTX",
+          "yearStart": 2024,
+          "yearEnd": null
+        },
+        {
+          "name": "ID.7 GTX Tourer",
+          "yearStart": 2024,
+          "yearEnd": null
+        },
+        {
+          "name": "ID.7 Tourer",
+          "yearStart": 2024,
+          "yearEnd": null
+        },
+        {
+          "name": "ID.Polo GTI",
+          "yearStart": 2026,
+          "yearEnd": null
+        },
+        {
+          "name": "Jetta / Vento / Bora",
+          "yearStart": 1992,
+          "yearEnd": null
+        },
+        {
+          "name": "Jetta GLI",
+          "yearStart": 2021,
+          "yearEnd": null
+        },
+        {
+          "name": "Lavida",
+          "yearStart": 2008,
+          "yearEnd": 2012
+        },
+        {
+          "name": "Lupo",
+          "yearStart": 1998,
+          "yearEnd": 2005
+        },
+        {
+          "name": "Multivan",
+          "yearStart": 2003,
+          "yearEnd": null
+        },
+        {
+          "name": "Nivus",
+          "yearStart": 2020,
+          "yearEnd": null
+        },
+        {
+          "name": "Passat",
+          "yearStart": 1973,
+          "yearEnd": 2022
+        },
+        {
+          "name": "Passat Alltrack",
+          "yearStart": 2012,
+          "yearEnd": 2023
+        },
+        {
+          "name": "Passat GTE",
+          "yearStart": 2015,
+          "yearEnd": 2022
+        },
+        {
+          "name": "Passat R",
+          "yearStart": 2008,
+          "yearEnd": 2010
+        },
+        {
+          "name": "Passat Variant",
+          "yearStart": 1974,
+          "yearEnd": null
+        },
+        {
+          "name": "Passat Variant GTE",
+          "yearStart": 2015,
+          "yearEnd": 2023
+        },
+        {
+          "name": "Phaeton",
+          "yearStart": 2002,
+          "yearEnd": 2016
+        },
+        {
+          "name": "Pointer",
+          "yearStart": 1994,
+          "yearEnd": 1996
+        },
+        {
+          "name": "Polo",
+          "yearStart": 1975,
+          "yearEnd": null
+        },
+        {
+          "name": "Polo BlueGT",
+          "yearStart": 2013,
+          "yearEnd": 2019
+        },
+        {
+          "name": "Polo GTI",
+          "yearStart": 2005,
+          "yearEnd": null
+        },
+        {
+          "name": "Polo Variant",
+          "yearStart": 1997,
+          "yearEnd": 2001
+        },
+        {
+          "name": "Routan",
+          "yearStart": 2008,
+          "yearEnd": 2013
+        },
+        {
+          "name": "Santana",
+          "yearStart": 1982,
+          "yearEnd": 1985
+        },
+        {
+          "name": "Scirocco",
+          "yearStart": 1977,
+          "yearEnd": 2018
+        },
+        {
+          "name": "Scirocco R",
+          "yearStart": 2009,
+          "yearEnd": 2018
+        },
+        {
+          "name": "Sharan",
+          "yearStart": 1996,
+          "yearEnd": 2022
+        },
+        {
+          "name": "T-Cross",
+          "yearStart": 2018,
+          "yearEnd": null
+        },
+        {
+          "name": "T-Roc",
+          "yearStart": 2017,
+          "yearEnd": null
+        },
+        {
+          "name": "T-Roc R",
+          "yearStart": 2019,
+          "yearEnd": null
+        },
+        {
+          "name": "Taigo",
+          "yearStart": 2021,
+          "yearEnd": null
+        },
+        {
+          "name": "Taos",
+          "yearStart": 2024,
+          "yearEnd": null
+        },
+        {
+          "name": "Tayron",
+          "yearStart": 2025,
+          "yearEnd": null
+        },
+        {
+          "name": "Tiguan",
+          "yearStart": 2008,
+          "yearEnd": null
+        },
+        {
+          "name": "Tiguan Allspace",
+          "yearStart": 2017,
+          "yearEnd": null
+        },
+        {
+          "name": "Touareg",
+          "yearStart": 2002,
+          "yearEnd": null
+        },
+        {
+          "name": "Touareg R",
+          "yearStart": 2020,
+          "yearEnd": null
+        },
+        {
+          "name": "Touran",
+          "yearStart": 2003,
+          "yearEnd": null
+        },
+        {
+          "name": "Transporter Kombi",
+          "yearStart": 2015,
+          "yearEnd": 2024
+        },
+        {
+          "name": "up!",
+          "yearStart": 2012,
+          "yearEnd": 2023
+        },
+        {
+          "name": "up! GTI",
+          "yearStart": 2018,
+          "yearEnd": 2023
+        },
+        {
+          "name": "Vento",
+          "yearStart": 2010,
+          "yearEnd": 2019
+        },
+        {
+          "name": "XL1",
+          "yearStart": 2013,
+          "yearEnd": 2016
+        }
+      ]
+    }
+  ]
+}

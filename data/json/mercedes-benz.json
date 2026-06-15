@@ -1,0 +1,450 @@
+{
+  "group": "mercedes-benz",
+  "makes": [
+    {
+      "name": "Mercedes-Benz",
+      "models": [
+        {
+          "name": "MERCEDES BENZ A-Class",
+          "yearStart": 2018,
+          "yearEnd": 2023
+        },
+        {
+          "name": "MERCEDES BENZ A-Klasse",
+          "yearStart": 1997,
+          "yearEnd": null
+        },
+        {
+          "name": "MERCEDES BENZ A-Klasse AMG",
+          "yearStart": 2013,
+          "yearEnd": 2015
+        },
+        {
+          "name": "MERCEDES BENZ A-Klasse Saloon",
+          "yearStart": 2022,
+          "yearEnd": null
+        },
+        {
+          "name": "MERCEDES BENZ B-Klasse",
+          "yearStart": 2005,
+          "yearEnd": null
+        },
+        {
+          "name": "MERCEDES BENZ C-Class",
+          "yearStart": 2016,
+          "yearEnd": 2022
+        },
+        {
+          "name": "MERCEDES BENZ C-Class EV",
+          "yearStart": 2026,
+          "yearEnd": null
+        },
+        {
+          "name": "MERCEDES BENZ C-Klasse",
+          "yearStart": 2011,
+          "yearEnd": 2018
+        },
+        {
+          "name": "MERCEDES BENZ C-Klasse All-Terrain",
+          "yearStart": 2021,
+          "yearEnd": null
+        },
+        {
+          "name": "MERCEDES BENZ C-Klasse AMG",
+          "yearStart": 1984,
+          "yearEnd": 2015
+        },
+        {
+          "name": "MERCEDES BENZ C-Klasse and predecessors",
+          "yearStart": 1982,
+          "yearEnd": null
+        },
+        {
+          "name": "MERCEDES BENZ C-Klasse Coupe AMG",
+          "yearStart": 2011,
+          "yearEnd": 2016
+        },
+        {
+          "name": "MERCEDES BENZ C-Klasse SportCoupe AMG",
+          "yearStart": 2002,
+          "yearEnd": 2004
+        },
+        {
+          "name": "MERCEDES BENZ C-Klasse SportCoupe/CLC",
+          "yearStart": 2000,
+          "yearEnd": 2011
+        },
+        {
+          "name": "MERCEDES BENZ C-Klasse T-Modell",
+          "yearStart": 1996,
+          "yearEnd": null
+        },
+        {
+          "name": "MERCEDES BENZ C-Klasse T-Modell AMG",
+          "yearStart": 2004,
+          "yearEnd": 2007
+        },
+        {
+          "name": "MERCEDES BENZ Citan",
+          "yearStart": 2021,
+          "yearEnd": null
+        },
+        {
+          "name": "MERCEDES BENZ CL AMG",
+          "yearStart": 2000,
+          "yearEnd": 2014
+        },
+        {
+          "name": "MERCEDES BENZ CL-Klasse and predecessors",
+          "yearStart": 1952,
+          "yearEnd": 2014
+        },
+        {
+          "name": "MERCEDES BENZ CLA 45",
+          "yearStart": 2013,
+          "yearEnd": 2016
+        },
+        {
+          "name": "MERCEDES BENZ CLA Klasse",
+          "yearStart": 2013,
+          "yearEnd": null
+        },
+        {
+          "name": "MERCEDES BENZ CLA Shooting Brake",
+          "yearStart": 2015,
+          "yearEnd": null
+        },
+        {
+          "name": "MERCEDES BENZ CLE",
+          "yearStart": 2023,
+          "yearEnd": null
+        },
+        {
+          "name": "MERCEDES BENZ CLK AMG",
+          "yearStart": 1999,
+          "yearEnd": 2009
+        },
+        {
+          "name": "MERCEDES BENZ CLK AMG Cabrio",
+          "yearStart": 2000,
+          "yearEnd": 2009
+        },
+        {
+          "name": "MERCEDES BENZ CLK GTR",
+          "yearStart": 1998,
+          "yearEnd": 1999
+        },
+        {
+          "name": "MERCEDES BENZ CLS AMG",
+          "yearStart": 2004,
+          "yearEnd": 2018
+        },
+        {
+          "name": "MERCEDES BENZ CLS Shooting Brake",
+          "yearStart": 2012,
+          "yearEnd": 2017
+        },
+        {
+          "name": "MERCEDES BENZ CLS Shooting Brake AMG",
+          "yearStart": 2014,
+          "yearEnd": 2018
+        },
+        {
+          "name": "MERCEDES BENZ CLS-Klasse",
+          "yearStart": 2004,
+          "yearEnd": null
+        },
+        {
+          "name": "MERCEDES BENZ E-Class T-Modell All-Terrain",
+          "yearStart": 2017,
+          "yearEnd": null
+        },
+        {
+          "name": "MERCEDES BENZ E-Klasse AMG",
+          "yearStart": 1996,
+          "yearEnd": 2016
+        },
+        {
+          "name": "MERCEDES BENZ E-Klasse and predecessors",
+          "yearStart": 1946,
+          "yearEnd": null
+        },
+        {
+          "name": "MERCEDES BENZ E-Klasse Cabriolet and predecessors",
+          "yearStart": 1992,
+          "yearEnd": 2024
+        },
+        {
+          "name": "MERCEDES BENZ E-Klasse Coupe and predecessors",
+          "yearStart": 1969,
+          "yearEnd": 2020
+        },
+        {
+          "name": "MERCEDES BENZ E-Klasse T-Modell",
+          "yearStart": 1965,
+          "yearEnd": 2020
+        },
+        {
+          "name": "MERCEDES BENZ E-Klasse T-Modell AMG",
+          "yearStart": 2004,
+          "yearEnd": 2017
+        },
+        {
+          "name": "MERCEDES BENZ EQA",
+          "yearStart": 2021,
+          "yearEnd": null
+        },
+        {
+          "name": "MERCEDES BENZ EQB",
+          "yearStart": 2021,
+          "yearEnd": null
+        },
+        {
+          "name": "MERCEDES BENZ EQC",
+          "yearStart": 2019,
+          "yearEnd": 2023
+        },
+        {
+          "name": "MERCEDES BENZ EQE",
+          "yearStart": 2021,
+          "yearEnd": null
+        },
+        {
+          "name": "MERCEDES BENZ EQE SUV",
+          "yearStart": 2022,
+          "yearEnd": null
+        },
+        {
+          "name": "MERCEDES BENZ EQS",
+          "yearStart": 2021,
+          "yearEnd": null
+        },
+        {
+          "name": "MERCEDES BENZ EQS SUV",
+          "yearStart": 2022,
+          "yearEnd": null
+        },
+        {
+          "name": "MERCEDES BENZ EQS SUV Maybach",
+          "yearStart": 2023,
+          "yearEnd": null
+        },
+        {
+          "name": "MERCEDES BENZ EQT",
+          "yearStart": 2023,
+          "yearEnd": null
+        },
+        {
+          "name": "MERCEDES BENZ EQV",
+          "yearStart": 2019,
+          "yearEnd": 2023
+        },
+        {
+          "name": "MERCEDES BENZ G-Klasse",
+          "yearStart": 1979,
+          "yearEnd": null
+        },
+        {
+          "name": "MERCEDES BENZ G-Klasse AMG",
+          "yearStart": 1999,
+          "yearEnd": 2018
+        },
+        {
+          "name": "MERCEDES BENZ G-Klasse Kurz",
+          "yearStart": 1979,
+          "yearEnd": 2012
+        },
+        {
+          "name": "MERCEDES BENZ GL-Klasse",
+          "yearStart": 2006,
+          "yearEnd": 2016
+        },
+        {
+          "name": "MERCEDES BENZ GL-Klasse AMG",
+          "yearStart": 2012,
+          "yearEnd": 2016
+        },
+        {
+          "name": "MERCEDES BENZ GLA",
+          "yearStart": 2013,
+          "yearEnd": null
+        },
+        {
+          "name": "MERCEDES BENZ GLB",
+          "yearStart": 2019,
+          "yearEnd": null
+        },
+        {
+          "name": "MERCEDES BENZ GLC Class",
+          "yearStart": 2015,
+          "yearEnd": null
+        },
+        {
+          "name": "MERCEDES BENZ GLE-Class",
+          "yearStart": 2015,
+          "yearEnd": null
+        },
+        {
+          "name": "MERCEDES BENZ GLK-Klasse",
+          "yearStart": 2008,
+          "yearEnd": 2016
+        },
+        {
+          "name": "MERCEDES BENZ GLS Maybach",
+          "yearStart": 2020,
+          "yearEnd": null
+        },
+        {
+          "name": "MERCEDES BENZ GLS-Class",
+          "yearStart": 2016,
+          "yearEnd": null
+        },
+        {
+          "name": "MERCEDES BENZ Laundalet",
+          "yearStart": 1960,
+          "yearEnd": 1981
+        },
+        {
+          "name": "MERCEDES BENZ M-Klasse",
+          "yearStart": 1997,
+          "yearEnd": 2015
+        },
+        {
+          "name": "MERCEDES BENZ M-Klasse AMG",
+          "yearStart": 1999,
+          "yearEnd": 2015
+        },
+        {
+          "name": "MERCEDES BENZ Maybach EQS SUV",
+          "yearStart": 2023,
+          "yearEnd": null
+        },
+        {
+          "name": "MERCEDES BENZ Pullman",
+          "yearStart": 1930,
+          "yearEnd": 2020
+        },
+        {
+          "name": "MERCEDES BENZ R-Klasse",
+          "yearStart": 2005,
+          "yearEnd": 2013
+        },
+        {
+          "name": "MERCEDES BENZ R-Klasse AMG",
+          "yearStart": 2006,
+          "yearEnd": 2008
+        },
+        {
+          "name": "MERCEDES BENZ R-Klasse Lang",
+          "yearStart": 2005,
+          "yearEnd": 2013
+        },
+        {
+          "name": "MERCEDES BENZ S-Class",
+          "yearStart": 1952,
+          "yearEnd": 2020
+        },
+        {
+          "name": "MERCEDES BENZ S-Class Coupe AMG",
+          "yearStart": 2014,
+          "yearEnd": 2017
+        },
+        {
+          "name": "MERCEDES BENZ S-Class Maybach",
+          "yearStart": 2015,
+          "yearEnd": null
+        },
+        {
+          "name": "MERCEDES BENZ S-Klasse",
+          "yearStart": 2014,
+          "yearEnd": 2020
+        },
+        {
+          "name": "MERCEDES BENZ S-Klasse AMG",
+          "yearStart": 1999,
+          "yearEnd": 2017
+        },
+        {
+          "name": "MERCEDES BENZ S-Klasse and predecessors",
+          "yearStart": 1951,
+          "yearEnd": null
+        },
+        {
+          "name": "MERCEDES BENZ SL AMG",
+          "yearStart": 1999,
+          "yearEnd": 2019
+        },
+        {
+          "name": "MERCEDES BENZ SL Monogram Maybach",
+          "yearStart": 2025,
+          "yearEnd": null
+        },
+        {
+          "name": "MERCEDES BENZ SL-Klasse",
+          "yearStart": 1954,
+          "yearEnd": 2020
+        },
+        {
+          "name": "MERCEDES BENZ SLC-Class",
+          "yearStart": 2016,
+          "yearEnd": 2020
+        },
+        {
+          "name": "MERCEDES BENZ SLK AMG",
+          "yearStart": 2000,
+          "yearEnd": 2016
+        },
+        {
+          "name": "MERCEDES BENZ SLK-Klasse",
+          "yearStart": 1955,
+          "yearEnd": 2016
+        },
+        {
+          "name": "MERCEDES BENZ SLR McLaren",
+          "yearStart": 2003,
+          "yearEnd": 2009
+        },
+        {
+          "name": "MERCEDES BENZ SLS AMG",
+          "yearStart": 2010,
+          "yearEnd": 2015
+        },
+        {
+          "name": "MERCEDES BENZ T-Class",
+          "yearStart": 2022,
+          "yearEnd": null
+        },
+        {
+          "name": "MERCEDES BENZ V-Class and predecessors",
+          "yearStart": 1996,
+          "yearEnd": 2023
+        },
+        {
+          "name": "MERCEDES BENZ VANEO",
+          "yearStart": 2002,
+          "yearEnd": 2006
+        },
+        {
+          "name": "MERCEDES BENZ VIANO",
+          "yearStart": 2003,
+          "yearEnd": 2014
+        },
+        {
+          "name": "MERCEDES BENZ Vito",
+          "yearStart": 2020,
+          "yearEnd": null
+        },
+        {
+          "name": "MERCEDES BENZ VLE",
+          "yearStart": 2026,
+          "yearEnd": null
+        },
+        {
+          "name": "MERCEDES BENZ X-Class",
+          "yearStart": 2017,
+          "yearEnd": 2020
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "group": "rimac",
+  "makes": [
+    {
+      "name": "Rimac",
+      "models": [
+        {
+          "name": "Nevera",
+          "yearStart": 2021,
+          "yearEnd": null
+        }
+      ]
+    }
+  ]
+}

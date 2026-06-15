@@ -1,0 +1,30 @@
+{
+  "group": "santana",
+  "makes": [
+    {
+      "name": "Santana",
+      "models": [
+        {
+          "name": "300 - 350",
+          "yearStart": 2005,
+          "yearEnd": 2011
+        },
+        {
+          "name": "PS 10 Pickup",
+          "yearStart": 2003,
+          "yearEnd": 2008
+        },
+        {
+          "name": "PS 10 Plus",
+          "yearStart": 2002,
+          "yearEnd": 2006
+        },
+        {
+          "name": "PS 10 Shortline",
+          "yearStart": 2006,
+          "yearEnd": 2008
+        }
+      ]
+    }
+  ]
+}

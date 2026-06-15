@@ -1,0 +1,265 @@
+{
+  "group": "volvo",
+  "makes": [
+    {
+      "name": "Volvo",
+      "models": [
+        {
+          "name": "142",
+          "yearStart": 1967,
+          "yearEnd": 1974
+        },
+        {
+          "name": "144",
+          "yearStart": 1966,
+          "yearEnd": 1974
+        },
+        {
+          "name": "145",
+          "yearStart": 1967,
+          "yearEnd": 1974
+        },
+        {
+          "name": "244",
+          "yearStart": 1975,
+          "yearEnd": 1990
+        },
+        {
+          "name": "245",
+          "yearStart": 1975,
+          "yearEnd": 1990
+        },
+        {
+          "name": "262",
+          "yearStart": 1977,
+          "yearEnd": 1981
+        },
+        {
+          "name": "264",
+          "yearStart": 1980,
+          "yearEnd": 1982
+        },
+        {
+          "name": "265",
+          "yearStart": 1980,
+          "yearEnd": 1982
+        },
+        {
+          "name": "343",
+          "yearStart": 1976,
+          "yearEnd": 1982
+        },
+        {
+          "name": "345",
+          "yearStart": 1979,
+          "yearEnd": 1982
+        },
+        {
+          "name": "440",
+          "yearStart": 1988,
+          "yearEnd": 1996
+        },
+        {
+          "name": "460",
+          "yearStart": 1990,
+          "yearEnd": 1996
+        },
+        {
+          "name": "480",
+          "yearStart": 1986,
+          "yearEnd": 1995
+        },
+        {
+          "name": "66",
+          "yearStart": 1975,
+          "yearEnd": 1981
+        },
+        {
+          "name": "760",
+          "yearStart": 1982,
+          "yearEnd": 1990
+        },
+        {
+          "name": "780",
+          "yearStart": 1986,
+          "yearEnd": 1990
+        },
+        {
+          "name": "850",
+          "yearStart": 1992,
+          "yearEnd": 1997
+        },
+        {
+          "name": "940",
+          "yearStart": 1990,
+          "yearEnd": 1998
+        },
+        {
+          "name": "960",
+          "yearStart": 1990,
+          "yearEnd": 1997
+        },
+        {
+          "name": "C30",
+          "yearStart": 2006,
+          "yearEnd": 2013
+        },
+        {
+          "name": "C40",
+          "yearStart": 2021,
+          "yearEnd": null
+        },
+        {
+          "name": "C70",
+          "yearStart": 1996,
+          "yearEnd": 2013
+        },
+        {
+          "name": "EM90",
+          "yearStart": 2023,
+          "yearEnd": null
+        },
+        {
+          "name": "ES90",
+          "yearStart": 2025,
+          "yearEnd": null
+        },
+        {
+          "name": "EX30",
+          "yearStart": 2023,
+          "yearEnd": null
+        },
+        {
+          "name": "EX30 Cross Country",
+          "yearStart": 2025,
+          "yearEnd": null
+        },
+        {
+          "name": "EX60",
+          "yearStart": 2026,
+          "yearEnd": null
+        },
+        {
+          "name": "EX60 Cross Country",
+          "yearStart": 2026,
+          "yearEnd": null
+        },
+        {
+          "name": "EX90",
+          "yearStart": 2022,
+          "yearEnd": null
+        },
+        {
+          "name": "P1800",
+          "yearStart": 1961,
+          "yearEnd": 1973
+        },
+        {
+          "name": "S40",
+          "yearStart": 1996,
+          "yearEnd": 2012
+        },
+        {
+          "name": "S60",
+          "yearStart": 2000,
+          "yearEnd": 2024
+        },
+        {
+          "name": "S60 Cross Country",
+          "yearStart": 2015,
+          "yearEnd": 2018
+        },
+        {
+          "name": "S60 Polestar",
+          "yearStart": 2014,
+          "yearEnd": 2018
+        },
+        {
+          "name": "S70",
+          "yearStart": 1997,
+          "yearEnd": 2000
+        },
+        {
+          "name": "S80",
+          "yearStart": 1998,
+          "yearEnd": 2016
+        },
+        {
+          "name": "S90",
+          "yearStart": 1997,
+          "yearEnd": null
+        },
+        {
+          "name": "V40",
+          "yearStart": 1996,
+          "yearEnd": 2019
+        },
+        {
+          "name": "V40 Cross Country",
+          "yearStart": 2012,
+          "yearEnd": 2019
+        },
+        {
+          "name": "V50",
+          "yearStart": 2004,
+          "yearEnd": 2011
+        },
+        {
+          "name": "V60",
+          "yearStart": 2010,
+          "yearEnd": null
+        },
+        {
+          "name": "V60 Cross Country",
+          "yearStart": 2015,
+          "yearEnd": null
+        },
+        {
+          "name": "V60 Polestar",
+          "yearStart": 2013,
+          "yearEnd": 2018
+        },
+        {
+          "name": "V70",
+          "yearStart": 1997,
+          "yearEnd": 2016
+        },
+        {
+          "name": "V90",
+          "yearStart": 1997,
+          "yearEnd": 2025
+        },
+        {
+          "name": "V90 Cross Country",
+          "yearStart": 2016,
+          "yearEnd": 2025
+        },
+        {
+          "name": "XC40",
+          "yearStart": 2017,
+          "yearEnd": null
+        },
+        {
+          "name": "XC60",
+          "yearStart": 2008,
+          "yearEnd": null
+        },
+        {
+          "name": "XC60 Polestar",
+          "yearStart": 2018,
+          "yearEnd": 2021
+        },
+        {
+          "name": "XC70",
+          "yearStart": 2000,
+          "yearEnd": null
+        },
+        {
+          "name": "XC90",
+          "yearStart": 2002,
+          "yearEnd": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+# Data License — Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+The dataset in this repository — every file under `data/` (the JSON, CSV, and
+SQLite outputs) — is licensed under the Creative Commons Attribution 4.0
+International License (CC BY 4.0).
+
+You are free to:
+
+- **Share** — copy and redistribute the data in any medium or format.
+- **Adapt** — remix, transform, and build upon the data for any purpose, even
+  commercially.
+
+Under the following terms:
+
+- **Attribution** — You must give appropriate credit to the
+  "vehicle-makes-models" project, provide a link to this repository, and
+  indicate if changes were made. You may do so in any reasonable manner, but
+  not in any way that suggests the licensor endorses you or your use.
+
+Full legal text: https://creativecommons.org/licenses/by/4.0/legalcode
+Human-readable summary: https://creativecommons.org/licenses/by/4.0/
+
+## Sources
+
+The make/model/year facts were compiled, collapsed, and normalized from
+publicly available information on autoevolution.com. Egypt-market additions
+(e.g. Speranza, El Nasr) are original curation by this project. Factual data
+such as vehicle make/model/year carries thin copyright protection; this
+compilation is provided as the project's own curated dataset, with attribution
+to the upstream source above.
+
+The code in this repository (everything outside `data/`) is licensed
+separately under the MIT License — see `LICENSE`.

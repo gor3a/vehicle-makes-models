@@ -1,0 +1,35 @@
+{
+  "group": "perodua",
+  "makes": [
+    {
+      "name": "Perodua",
+      "models": [
+        {
+          "name": "Alza",
+          "yearStart": 2009,
+          "yearEnd": 2022
+        },
+        {
+          "name": "Aruz",
+          "yearStart": 2019,
+          "yearEnd": null
+        },
+        {
+          "name": "Axia",
+          "yearStart": 2014,
+          "yearEnd": 2023
+        },
+        {
+          "name": "Bezza",
+          "yearStart": 2016,
+          "yearEnd": 2025
+        },
+        {
+          "name": "Myvi",
+          "yearStart": 2015,
+          "yearEnd": 2017
+        }
+      ]
+    }
+  ]
+}

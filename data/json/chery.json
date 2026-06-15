@@ -1,0 +1,111 @@
+{
+  "group": "chery",
+  "makes": [
+    {
+      "name": "Chery",
+      "country": "China",
+      "models": [
+        {
+          "name": "A1",
+          "yearStart": 2007,
+          "yearEnd": 2013
+        },
+        {
+          "name": "A3",
+          "yearStart": 2008,
+          "yearEnd": 2016
+        },
+        {
+          "name": "A5",
+          "yearStart": 2006,
+          "yearEnd": 2010
+        },
+        {
+          "name": "Arrizo 3",
+          "yearStart": 2014,
+          "yearEnd": null
+        },
+        {
+          "name": "Arrizo 5",
+          "yearStart": 2016,
+          "yearEnd": null
+        },
+        {
+          "name": "Arrizo 6",
+          "yearStart": 2018,
+          "yearEnd": null
+        },
+        {
+          "name": "Arrizo 8",
+          "yearStart": 2022,
+          "yearEnd": null
+        },
+        {
+          "name": "Eastar",
+          "yearStart": 2003,
+          "yearEnd": 2012
+        },
+        {
+          "name": "Fora",
+          "yearStart": 2006,
+          "yearEnd": 2010
+        },
+        {
+          "name": "QQ",
+          "yearStart": 2003,
+          "yearEnd": 2019
+        },
+        {
+          "name": "Tiggo 2",
+          "yearStart": 2017,
+          "yearEnd": null
+        },
+        {
+          "name": "Tiggo 3",
+          "yearStart": 2014,
+          "yearEnd": null
+        },
+        {
+          "name": "Tiggo 4",
+          "yearStart": 2017,
+          "yearEnd": null
+        },
+        {
+          "name": "Tiggo 5",
+          "yearStart": 2013,
+          "yearEnd": null
+        },
+        {
+          "name": "Tiggo 7",
+          "yearStart": 2016,
+          "yearEnd": null
+        },
+        {
+          "name": "TIGGO 7",
+          "yearStart": 2024,
+          "yearEnd": null
+        },
+        {
+          "name": "Tiggo 8",
+          "yearStart": 2018,
+          "yearEnd": null
+        },
+        {
+          "name": "TIGGO 8",
+          "yearStart": 2022,
+          "yearEnd": null
+        },
+        {
+          "name": "Tiggo 9",
+          "yearStart": 2023,
+          "yearEnd": null
+        },
+        {
+          "name": "TIGGO 9",
+          "yearStart": 2025,
+          "yearEnd": null
+        }
+      ]
+    }
+  ]
+}

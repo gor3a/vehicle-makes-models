@@ -1,0 +1,205 @@
+{
+  "group": "cadillac",
+  "makes": [
+    {
+      "name": "Cadillac",
+      "models": [
+        {
+          "name": "Allante",
+          "yearStart": 1987,
+          "yearEnd": 1993
+        },
+        {
+          "name": "ATS",
+          "yearStart": 2012,
+          "yearEnd": 2019
+        },
+        {
+          "name": "ATS-V",
+          "yearStart": 2015,
+          "yearEnd": 2019
+        },
+        {
+          "name": "BLS",
+          "yearStart": 2006,
+          "yearEnd": 2010
+        },
+        {
+          "name": "Brougham",
+          "yearStart": 1992,
+          "yearEnd": 1996
+        },
+        {
+          "name": "Catera",
+          "yearStart": 1997,
+          "yearEnd": 2001
+        },
+        {
+          "name": "Celestiq",
+          "yearStart": 2023,
+          "yearEnd": null
+        },
+        {
+          "name": "CT4",
+          "yearStart": 2019,
+          "yearEnd": null
+        },
+        {
+          "name": "CT4-V",
+          "yearStart": 2019,
+          "yearEnd": null
+        },
+        {
+          "name": "CT5",
+          "yearStart": 2019,
+          "yearEnd": null
+        },
+        {
+          "name": "CT5-V",
+          "yearStart": 2019,
+          "yearEnd": null
+        },
+        {
+          "name": "CT6",
+          "yearStart": 2016,
+          "yearEnd": 2023
+        },
+        {
+          "name": "CTS",
+          "yearStart": 2002,
+          "yearEnd": 2019
+        },
+        {
+          "name": "CTS Sport",
+          "yearStart": 2009,
+          "yearEnd": 2014
+        },
+        {
+          "name": "CTS V-Series",
+          "yearStart": 2003,
+          "yearEnd": 2019
+        },
+        {
+          "name": "CTS-V",
+          "yearStart": 2012,
+          "yearEnd": 2015
+        },
+        {
+          "name": "CTS-V Sport",
+          "yearStart": 2010,
+          "yearEnd": 2014
+        },
+        {
+          "name": "DeVille",
+          "yearStart": 1994,
+          "yearEnd": 2005
+        },
+        {
+          "name": "DTS",
+          "yearStart": 2005,
+          "yearEnd": 2011
+        },
+        {
+          "name": "Eldorado",
+          "yearStart": 1957,
+          "yearEnd": 2003
+        },
+        {
+          "name": "ELR",
+          "yearStart": 2014,
+          "yearEnd": 2016
+        },
+        {
+          "name": "Escalade",
+          "yearStart": 2000,
+          "yearEnd": null
+        },
+        {
+          "name": "Escalade ESV",
+          "yearStart": 2002,
+          "yearEnd": 2024
+        },
+        {
+          "name": "Escalade EXT",
+          "yearStart": 2001,
+          "yearEnd": 2013
+        },
+        {
+          "name": "Escalade IQL",
+          "yearStart": 2025,
+          "yearEnd": null
+        },
+        {
+          "name": "Lyriq",
+          "yearStart": 2022,
+          "yearEnd": null
+        },
+        {
+          "name": "Lyriq-V",
+          "yearStart": 2025,
+          "yearEnd": null
+        },
+        {
+          "name": "Optiq",
+          "yearStart": 2023,
+          "yearEnd": null
+        },
+        {
+          "name": "Optiq-V",
+          "yearStart": 2025,
+          "yearEnd": null
+        },
+        {
+          "name": "Seville",
+          "yearStart": 1992,
+          "yearEnd": 2004
+        },
+        {
+          "name": "SRX",
+          "yearStart": 2004,
+          "yearEnd": 2016
+        },
+        {
+          "name": "STS",
+          "yearStart": 2004,
+          "yearEnd": 2010
+        },
+        {
+          "name": "Vistiq",
+          "yearStart": 2023,
+          "yearEnd": null
+        },
+        {
+          "name": "XLR",
+          "yearStart": 2003,
+          "yearEnd": 2009
+        },
+        {
+          "name": "XLR V-Series",
+          "yearStart": 2008,
+          "yearEnd": 2009
+        },
+        {
+          "name": "XT4",
+          "yearStart": 2018,
+          "yearEnd": 2025
+        },
+        {
+          "name": "XT5",
+          "yearStart": 2016,
+          "yearEnd": 2024
+        },
+        {
+          "name": "XT6",
+          "yearStart": 2019,
+          "yearEnd": 2025
+        },
+        {
+          "name": "XTS",
+          "yearStart": 2013,
+          "yearEnd": 2019
+        }
+      ]
+    }
+  ]
+}

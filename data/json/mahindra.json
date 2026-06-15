@@ -1,0 +1,30 @@
+{
+  "group": "mahindra",
+  "makes": [
+    {
+      "name": "Mahindra",
+      "models": [
+        {
+          "name": "Bolero",
+          "yearStart": 2011,
+          "yearEnd": 2020
+        },
+        {
+          "name": "Scorpio / GOA",
+          "yearStart": 2002,
+          "yearEnd": 2014
+        },
+        {
+          "name": "Thar",
+          "yearStart": 2010,
+          "yearEnd": 2020
+        },
+        {
+          "name": "Verito",
+          "yearStart": 2012,
+          "yearEnd": 2019
+        }
+      ]
+    }
+  ]
+}

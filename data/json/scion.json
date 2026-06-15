@@ -1,0 +1,50 @@
+{
+  "group": "scion",
+  "makes": [
+    {
+      "name": "Scion",
+      "models": [
+        {
+          "name": "FR-S",
+          "yearStart": 2013,
+          "yearEnd": 2016
+        },
+        {
+          "name": "iA",
+          "yearStart": 2016,
+          "yearEnd": 2017
+        },
+        {
+          "name": "iM",
+          "yearStart": 2016,
+          "yearEnd": 2017
+        },
+        {
+          "name": "iQ",
+          "yearStart": 2011,
+          "yearEnd": 2016
+        },
+        {
+          "name": "tC",
+          "yearStart": 2003,
+          "yearEnd": 2016
+        },
+        {
+          "name": "xA",
+          "yearStart": 2003,
+          "yearEnd": 2006
+        },
+        {
+          "name": "xB",
+          "yearStart": 2003,
+          "yearEnd": 2015
+        },
+        {
+          "name": "xD",
+          "yearStart": 2007,
+          "yearEnd": 2014
+        }
+      ]
+    }
+  ]
+}

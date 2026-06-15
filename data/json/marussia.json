@@ -1,0 +1,20 @@
+{
+  "group": "marussia",
+  "makes": [
+    {
+      "name": "Marussia",
+      "models": [
+        {
+          "name": "B1",
+          "yearStart": 2010,
+          "yearEnd": 2010
+        },
+        {
+          "name": "B2",
+          "yearStart": 2010,
+          "yearEnd": 2014
+        }
+      ]
+    }
+  ]
+}

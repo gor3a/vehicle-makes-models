@@ -1,0 +1,105 @@
+{
+  "group": "jaguar",
+  "makes": [
+    {
+      "name": "Jaguar",
+      "models": [
+        {
+          "name": "E-Pace",
+          "yearStart": 2017,
+          "yearEnd": 2024
+        },
+        {
+          "name": "F-Pace",
+          "yearStart": 2015,
+          "yearEnd": null
+        },
+        {
+          "name": "F-Pace SVR",
+          "yearStart": 2018,
+          "yearEnd": null
+        },
+        {
+          "name": "F-Type",
+          "yearStart": 2013,
+          "yearEnd": null
+        },
+        {
+          "name": "F-Type SVR",
+          "yearStart": 2016,
+          "yearEnd": 2020
+        },
+        {
+          "name": "I-Pace",
+          "yearStart": 2018,
+          "yearEnd": 2024
+        },
+        {
+          "name": "S-Type",
+          "yearStart": 1999,
+          "yearEnd": 2007
+        },
+        {
+          "name": "S-Type R",
+          "yearStart": 2002,
+          "yearEnd": 2007
+        },
+        {
+          "name": "X-Type",
+          "yearStart": 2001,
+          "yearEnd": 2009
+        },
+        {
+          "name": "XE",
+          "yearStart": 2015,
+          "yearEnd": 2024
+        },
+        {
+          "name": "XE SV",
+          "yearStart": 2017,
+          "yearEnd": 2019
+        },
+        {
+          "name": "XF",
+          "yearStart": 2008,
+          "yearEnd": null
+        },
+        {
+          "name": "XF Sportbrake",
+          "yearStart": 2012,
+          "yearEnd": null
+        },
+        {
+          "name": "XFR",
+          "yearStart": 2009,
+          "yearEnd": 2011
+        },
+        {
+          "name": "XJ",
+          "yearStart": 1979,
+          "yearEnd": 2019
+        },
+        {
+          "name": "XJ220",
+          "yearStart": 1992,
+          "yearEnd": 1994
+        },
+        {
+          "name": "XJR",
+          "yearStart": 1990,
+          "yearEnd": 2019
+        },
+        {
+          "name": "XK",
+          "yearStart": 1996,
+          "yearEnd": 2014
+        },
+        {
+          "name": "XKR",
+          "yearStart": 1998,
+          "yearEnd": 2014
+        }
+      ]
+    }
+  ]
+}

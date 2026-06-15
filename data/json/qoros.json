@@ -1,0 +1,20 @@
+{
+  "group": "qoros",
+  "makes": [
+    {
+      "name": "Qoros",
+      "models": [
+        {
+          "name": "3",
+          "yearStart": 2013,
+          "yearEnd": 2020
+        },
+        {
+          "name": "5",
+          "yearStart": 2016,
+          "yearEnd": 2020
+        }
+      ]
+    }
+  ]
+}

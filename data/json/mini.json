@@ -1,0 +1,60 @@
+{
+  "group": "mini",
+  "makes": [
+    {
+      "name": "MINI",
+      "models": [
+        {
+          "name": "Aceman",
+          "yearStart": 2024,
+          "yearEnd": null
+        },
+        {
+          "name": "Classic",
+          "yearStart": 1997,
+          "yearEnd": null
+        },
+        {
+          "name": "Clubman",
+          "yearStart": 2007,
+          "yearEnd": 2023
+        },
+        {
+          "name": "Clubvan",
+          "yearStart": 2012,
+          "yearEnd": 2014
+        },
+        {
+          "name": "Convertible",
+          "yearStart": 2004,
+          "yearEnd": null
+        },
+        {
+          "name": "Countryman",
+          "yearStart": 2010,
+          "yearEnd": null
+        },
+        {
+          "name": "Coupe",
+          "yearStart": 2011,
+          "yearEnd": 2015
+        },
+        {
+          "name": "Hatch",
+          "yearStart": 1997,
+          "yearEnd": null
+        },
+        {
+          "name": "Paceman",
+          "yearStart": 2013,
+          "yearEnd": 2016
+        },
+        {
+          "name": "Roadster",
+          "yearStart": 2011,
+          "yearEnd": 2015
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "group": "daihatsu",
+  "makes": [
+    {
+      "name": "Daihatsu",
+      "models": [
+        {
+          "name": "Altis",
+          "yearStart": 2000,
+          "yearEnd": 2017
+        },
+        {
+          "name": "Applause",
+          "yearStart": 1989,
+          "yearEnd": 2000
+        },
+        {
+          "name": "Ayla",
+          "yearStart": 2013,
+          "yearEnd": 2017
+        },
+        {
+          "name": "Copen",
+          "yearStart": 2004,
+          "yearEnd": 2012
+        },
+        {
+          "name": "Cuore",
+          "yearStart": 2007,
+          "yearEnd": 2009
+        },
+        {
+          "name": "Feroza Hardtop",
+          "yearStart": 1991,
+          "yearEnd": 1998
+        },
+        {
+          "name": "Feroza Softtop",
+          "yearStart": 1995,
+          "yearEnd": 1998
+        },
+        {
+          "name": "Gran Move",
+          "yearStart": 1996,
+          "yearEnd": 2002
+        },
+        {
+          "name": "Materia",
+          "yearStart": 2007,
+          "yearEnd": 2010
+        },
+        {
+          "name": "Move",
+          "yearStart": 1997,
+          "yearEnd": 2002
+        },
+        {
+          "name": "Rocky",
+          "yearStart": 1988,
+          "yearEnd": 1994
+        },
+        {
+          "name": "Rocky Hardtop",
+          "yearStart": 1988,
+          "yearEnd": 1994
+        },
+        {
+          "name": "Sirion",
+          "yearStart": 1998,
+          "yearEnd": 2018
+        },
+        {
+          "name": "Sirion 2",
+          "yearStart": 2005,
+          "yearEnd": 2008
+        },
+        {
+          "name": "Terios",
+          "yearStart": 1997,
+          "yearEnd": 2017
+        },
+        {
+          "name": "Trevis",
+          "yearStart": 2004,
+          "yearEnd": 2009
+        },
+        {
+          "name": "Valera",
+          "yearStart": 1996,
+          "yearEnd": 2001
+        }
+      ]
+    }
+  ]
+}

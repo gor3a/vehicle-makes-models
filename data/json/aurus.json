@@ -1,0 +1,15 @@
+{
+  "group": "aurus",
+  "makes": [
+    {
+      "name": "Aurus",
+      "models": [
+        {
+          "name": "Senat",
+          "yearStart": 2018,
+          "yearEnd": null
+        }
+      ]
+    }
+  ]
+}

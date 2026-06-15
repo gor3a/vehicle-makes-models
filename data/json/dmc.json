@@ -1,0 +1,15 @@
+{
+  "group": "dmc",
+  "makes": [
+    {
+      "name": "DMC",
+      "models": [
+        {
+          "name": "DeLorean DMC-12",
+          "yearStart": 1981,
+          "yearEnd": 1983
+        }
+      ]
+    }
+  ]
+}

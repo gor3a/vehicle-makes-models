@@ -1,0 +1,21 @@
+{
+  "group": "wartburg",
+  "makes": [
+    {
+      "name": "Wartburg",
+      "country": "Germany",
+      "models": [
+        {
+          "name": "1.3",
+          "yearStart": 1988,
+          "yearEnd": 1991
+        },
+        {
+          "name": "353",
+          "yearStart": 1966,
+          "yearEnd": 1988
+        }
+      ]
+    }
+  ]
+}

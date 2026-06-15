@@ -1,0 +1,35 @@
+{
+  "group": "spyker",
+  "makes": [
+    {
+      "name": "Spyker",
+      "models": [
+        {
+          "name": "C12 LaTurbie",
+          "yearStart": 2006,
+          "yearEnd": 2006
+        },
+        {
+          "name": "C8",
+          "yearStart": 2000,
+          "yearEnd": 2009
+        },
+        {
+          "name": "C8 Double 12 S",
+          "yearStart": 2002,
+          "yearEnd": 2007
+        },
+        {
+          "name": "C8 Laviolette",
+          "yearStart": 2001,
+          "yearEnd": 2009
+        },
+        {
+          "name": "C8 Preliator",
+          "yearStart": 2016,
+          "yearEnd": 2016
+        }
+      ]
+    }
+  ]
+}

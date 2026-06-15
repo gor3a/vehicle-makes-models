@@ -1,0 +1,150 @@
+{
+  "group": "mitsubishi",
+  "makes": [
+    {
+      "name": "Mitsubishi",
+      "models": [
+        {
+          "name": "3000 GT",
+          "yearStart": 1990,
+          "yearEnd": 2001
+        },
+        {
+          "name": "ASX / RVR / Outlander Sport",
+          "yearStart": 2010,
+          "yearEnd": null
+        },
+        {
+          "name": "Attrage",
+          "yearStart": 2013,
+          "yearEnd": 2024
+        },
+        {
+          "name": "Carisma",
+          "yearStart": 1995,
+          "yearEnd": 2004
+        },
+        {
+          "name": "Colt",
+          "yearStart": 1988,
+          "yearEnd": null
+        },
+        {
+          "name": "Colt CZC",
+          "yearStart": 2006,
+          "yearEnd": 2012
+        },
+        {
+          "name": "Eclipse",
+          "yearStart": 1989,
+          "yearEnd": 2012
+        },
+        {
+          "name": "Eclipse Cross",
+          "yearStart": 2017,
+          "yearEnd": null
+        },
+        {
+          "name": "Endeavor",
+          "yearStart": 2002,
+          "yearEnd": 2011
+        },
+        {
+          "name": "Galant",
+          "yearStart": 1988,
+          "yearEnd": 2012
+        },
+        {
+          "name": "Galant Station",
+          "yearStart": 1997,
+          "yearEnd": 2001
+        },
+        {
+          "name": "Grandis",
+          "yearStart": 2005,
+          "yearEnd": 2011
+        },
+        {
+          "name": "i-MiEV",
+          "yearStart": 2009,
+          "yearEnd": 2021
+        },
+        {
+          "name": "L 200",
+          "yearStart": 1995,
+          "yearEnd": 2019
+        },
+        {
+          "name": "L300",
+          "yearStart": 1986,
+          "yearEnd": 1994
+        },
+        {
+          "name": "Lancer",
+          "yearStart": 1988,
+          "yearEnd": 2017
+        },
+        {
+          "name": "Lancer Combi",
+          "yearStart": 1989,
+          "yearEnd": 2006
+        },
+        {
+          "name": "Lancer Evolution",
+          "yearStart": 1992,
+          "yearEnd": 2016
+        },
+        {
+          "name": "Mirage",
+          "yearStart": 2012,
+          "yearEnd": 2024
+        },
+        {
+          "name": "Mirage G4",
+          "yearStart": 2013,
+          "yearEnd": 2019
+        },
+        {
+          "name": "Outlander / Airtrek",
+          "yearStart": 2003,
+          "yearEnd": null
+        },
+        {
+          "name": "Pajero",
+          "yearStart": 1982,
+          "yearEnd": 2009
+        },
+        {
+          "name": "Pajero Pinin / Shogun Pinin / Montero iO",
+          "yearStart": 1998,
+          "yearEnd": 2007
+        },
+        {
+          "name": "Raider",
+          "yearStart": 2005,
+          "yearEnd": 2009
+        },
+        {
+          "name": "Sigma",
+          "yearStart": 1991,
+          "yearEnd": 1996
+        },
+        {
+          "name": "Space Runner",
+          "yearStart": 1991,
+          "yearEnd": 1999
+        },
+        {
+          "name": "Space Star",
+          "yearStart": 2002,
+          "yearEnd": 2017
+        },
+        {
+          "name": "Starion",
+          "yearStart": 1982,
+          "yearEnd": 1991
+        }
+      ]
+    }
+  ]
+}

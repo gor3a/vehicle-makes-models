@@ -1,0 +1,15 @@
+{
+  "group": "xiaomi",
+  "makes": [
+    {
+      "name": "Xiaomi",
+      "models": [
+        {
+          "name": "SU7",
+          "yearStart": 2024,
+          "yearEnd": null
+        }
+      ]
+    }
+  ]
+}

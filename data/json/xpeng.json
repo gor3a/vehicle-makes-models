@@ -1,0 +1,35 @@
+{
+  "group": "xpeng",
+  "makes": [
+    {
+      "name": "XPeng",
+      "models": [
+        {
+          "name": "G3",
+          "yearStart": 2018,
+          "yearEnd": null
+        },
+        {
+          "name": "G6",
+          "yearStart": 2023,
+          "yearEnd": null
+        },
+        {
+          "name": "G9",
+          "yearStart": 2021,
+          "yearEnd": null
+        },
+        {
+          "name": "P5",
+          "yearStart": 2021,
+          "yearEnd": null
+        },
+        {
+          "name": "P7",
+          "yearStart": 2020,
+          "yearEnd": null
+        }
+      ]
+    }
+  ]
+}

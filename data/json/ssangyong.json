@@ -1,0 +1,60 @@
+{
+  "group": "ssangyong",
+  "makes": [
+    {
+      "name": "SsangYong",
+      "models": [
+        {
+          "name": "Actyon",
+          "yearStart": 2006,
+          "yearEnd": 2011
+        },
+        {
+          "name": "Chairman",
+          "yearStart": 2004,
+          "yearEnd": 2017
+        },
+        {
+          "name": "Korando",
+          "yearStart": 1997,
+          "yearEnd": 2023
+        },
+        {
+          "name": "Kyron",
+          "yearStart": 2004,
+          "yearEnd": 2014
+        },
+        {
+          "name": "Musso",
+          "yearStart": 1998,
+          "yearEnd": 2023
+        },
+        {
+          "name": "Musso Sports",
+          "yearStart": 1998,
+          "yearEnd": 2005
+        },
+        {
+          "name": "Rexton",
+          "yearStart": 2001,
+          "yearEnd": null
+        },
+        {
+          "name": "Rodius",
+          "yearStart": 2004,
+          "yearEnd": 2013
+        },
+        {
+          "name": "Tivoli",
+          "yearStart": 2015,
+          "yearEnd": 2023
+        },
+        {
+          "name": "Tivoli XLV",
+          "yearStart": 2016,
+          "yearEnd": 2023
+        }
+      ]
+    }
+  ]
+}

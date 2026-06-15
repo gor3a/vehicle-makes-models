@@ -1,0 +1,20 @@
+{
+  "group": "donkervoort",
+  "makes": [
+    {
+      "name": "Donkervoort",
+      "models": [
+        {
+          "name": "D8",
+          "yearStart": 1993,
+          "yearEnd": 2012
+        },
+        {
+          "name": "P24",
+          "yearStart": 2026,
+          "yearEnd": null
+        }
+      ]
+    }
+  ]
+}

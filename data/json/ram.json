@@ -1,0 +1,25 @@
+{
+  "group": "ram",
+  "makes": [
+    {
+      "name": "Ram",
+      "models": [
+        {
+          "name": "Trucks 1500",
+          "yearStart": 2013,
+          "yearEnd": null
+        },
+        {
+          "name": "Trucks 2500",
+          "yearStart": 2013,
+          "yearEnd": 2025
+        },
+        {
+          "name": "Trucks 3500",
+          "yearStart": 2013,
+          "yearEnd": 2025
+        }
+      ]
+    }
+  ]
+}

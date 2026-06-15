@@ -1,0 +1,100 @@
+{
+  "group": "pontiac",
+  "makes": [
+    {
+      "name": "Pontiac",
+      "models": [
+        {
+          "name": "Aztek",
+          "yearStart": 2000,
+          "yearEnd": 2005
+        },
+        {
+          "name": "Bonneville",
+          "yearStart": 1958,
+          "yearEnd": 2005
+        },
+        {
+          "name": "Fiero",
+          "yearStart": 1985,
+          "yearEnd": 1988
+        },
+        {
+          "name": "Firebird",
+          "yearStart": 1967,
+          "yearEnd": 2002
+        },
+        {
+          "name": "G3",
+          "yearStart": 2009,
+          "yearEnd": 2011
+        },
+        {
+          "name": "G5",
+          "yearStart": 2004,
+          "yearEnd": 2010
+        },
+        {
+          "name": "G6",
+          "yearStart": 2004,
+          "yearEnd": 2010
+        },
+        {
+          "name": "G8",
+          "yearStart": 2007,
+          "yearEnd": 2009
+        },
+        {
+          "name": "Grand Am",
+          "yearStart": 1998,
+          "yearEnd": 2005
+        },
+        {
+          "name": "Grand Prix",
+          "yearStart": 1990,
+          "yearEnd": 2008
+        },
+        {
+          "name": "GTO",
+          "yearStart": 1964,
+          "yearEnd": 2006
+        },
+        {
+          "name": "Montana",
+          "yearStart": 2000,
+          "yearEnd": 2009
+        },
+        {
+          "name": "Solstice",
+          "yearStart": 2005,
+          "yearEnd": 2009
+        },
+        {
+          "name": "Sunfire",
+          "yearStart": 1994,
+          "yearEnd": 2005
+        },
+        {
+          "name": "Sunfire Cabrio",
+          "yearStart": 1994,
+          "yearEnd": 1999
+        },
+        {
+          "name": "Torrent",
+          "yearStart": 2005,
+          "yearEnd": 2009
+        },
+        {
+          "name": "Trans Sport",
+          "yearStart": 1990,
+          "yearEnd": 1996
+        },
+        {
+          "name": "Vibe",
+          "yearStart": 2002,
+          "yearEnd": 2010
+        }
+      ]
+    }
+  ]
+}

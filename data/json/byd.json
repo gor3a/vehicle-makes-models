@@ -1,0 +1,151 @@
+{
+  "group": "byd",
+  "makes": [
+    {
+      "name": "BYD",
+      "country": "China",
+      "models": [
+        {
+          "name": "ATTO 2",
+          "yearStart": 2025,
+          "yearEnd": null
+        },
+        {
+          "name": "Atto 3",
+          "yearStart": 2022,
+          "yearEnd": null
+        },
+        {
+          "name": "ATTO 3",
+          "yearStart": 2022,
+          "yearEnd": null
+        },
+        {
+          "name": "Destroyer 05",
+          "yearStart": 2022,
+          "yearEnd": null
+        },
+        {
+          "name": "Dolphin",
+          "yearStart": 2021,
+          "yearEnd": null
+        },
+        {
+          "name": "DOLPHIN",
+          "yearStart": 2025,
+          "yearEnd": null
+        },
+        {
+          "name": "e6",
+          "yearStart": 2009,
+          "yearEnd": 2021
+        },
+        {
+          "name": "F0",
+          "yearStart": 2008,
+          "yearEnd": 2016
+        },
+        {
+          "name": "F3",
+          "yearStart": 2005,
+          "yearEnd": 2022
+        },
+        {
+          "name": "F6",
+          "yearStart": 2007,
+          "yearEnd": 2011
+        },
+        {
+          "name": "Frigate 07",
+          "yearStart": 2022,
+          "yearEnd": null
+        },
+        {
+          "name": "G3",
+          "yearStart": 2009,
+          "yearEnd": 2014
+        },
+        {
+          "name": "G6",
+          "yearStart": 2011,
+          "yearEnd": 2015
+        },
+        {
+          "name": "Han",
+          "yearStart": 2020,
+          "yearEnd": null
+        },
+        {
+          "name": "L3",
+          "yearStart": 2010,
+          "yearEnd": 2015
+        },
+        {
+          "name": "Qin",
+          "yearStart": 2012,
+          "yearEnd": null
+        },
+        {
+          "name": "Qin Plus",
+          "yearStart": 2021,
+          "yearEnd": null
+        },
+        {
+          "name": "S6",
+          "yearStart": 2010,
+          "yearEnd": 2015
+        },
+        {
+          "name": "Seagull",
+          "yearStart": 2023,
+          "yearEnd": null
+        },
+        {
+          "name": "Seal",
+          "yearStart": 2022,
+          "yearEnd": null
+        },
+        {
+          "name": "Sealion",
+          "yearStart": 2023,
+          "yearEnd": null
+        },
+        {
+          "name": "Sealion 7",
+          "yearStart": 2024,
+          "yearEnd": null
+        },
+        {
+          "name": "Shark",
+          "yearStart": 2024,
+          "yearEnd": null
+        },
+        {
+          "name": "Song",
+          "yearStart": 2016,
+          "yearEnd": null
+        },
+        {
+          "name": "Song Plus",
+          "yearStart": 2020,
+          "yearEnd": null
+        },
+        {
+          "name": "Tang",
+          "yearStart": 2015,
+          "yearEnd": null
+        },
+        {
+          "name": "Yuan",
+          "yearStart": 2016,
+          "yearEnd": null
+        },
+        {
+          "name": "Yuan Plus",
+          "yearStart": 2022,
+          "yearEnd": null
+        }
+      ]
+    }
+  ]
+}

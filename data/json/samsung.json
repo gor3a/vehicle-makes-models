@@ -1,0 +1,25 @@
+{
+  "group": "samsung",
+  "makes": [
+    {
+      "name": "Samsung",
+      "models": [
+        {
+          "name": "SM 3",
+          "yearStart": 2002,
+          "yearEnd": 2013
+        },
+        {
+          "name": "SM 5",
+          "yearStart": 1998,
+          "yearEnd": 2010
+        },
+        {
+          "name": "SM 7",
+          "yearStart": 2005,
+          "yearEnd": 2011
+        }
+      ]
+    }
+  ]
+}

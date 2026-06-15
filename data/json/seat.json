@@ -1,0 +1,155 @@
+{
+  "group": "seat",
+  "makes": [
+    {
+      "name": "SEAT",
+      "models": [
+        {
+          "name": "Alhambra",
+          "yearStart": 1996,
+          "yearEnd": 2020
+        },
+        {
+          "name": "Altea",
+          "yearStart": 2004,
+          "yearEnd": 2015
+        },
+        {
+          "name": "Arona",
+          "yearStart": 2017,
+          "yearEnd": null
+        },
+        {
+          "name": "Arosa",
+          "yearStart": 1997,
+          "yearEnd": 2004
+        },
+        {
+          "name": "Ateca",
+          "yearStart": 2016,
+          "yearEnd": null
+        },
+        {
+          "name": "Cordoba",
+          "yearStart": 1996,
+          "yearEnd": 2009
+        },
+        {
+          "name": "Cordoba Cupra",
+          "yearStart": 2000,
+          "yearEnd": 2003
+        },
+        {
+          "name": "Cordoba SX",
+          "yearStart": 1996,
+          "yearEnd": 2003
+        },
+        {
+          "name": "Cordoba Vario",
+          "yearStart": 1996,
+          "yearEnd": 2003
+        },
+        {
+          "name": "Exeo",
+          "yearStart": 2008,
+          "yearEnd": 2013
+        },
+        {
+          "name": "Exeo ST",
+          "yearStart": 2009,
+          "yearEnd": 2013
+        },
+        {
+          "name": "Ibiza",
+          "yearStart": 1993,
+          "yearEnd": null
+        },
+        {
+          "name": "Ibiza Bocanegra",
+          "yearStart": 2009,
+          "yearEnd": 2017
+        },
+        {
+          "name": "Ibiza Cupra",
+          "yearStart": 1996,
+          "yearEnd": 2017
+        },
+        {
+          "name": "Ibiza FR",
+          "yearStart": 2009,
+          "yearEnd": 2017
+        },
+        {
+          "name": "Ibiza ST",
+          "yearStart": 2010,
+          "yearEnd": 2017
+        },
+        {
+          "name": "Leon",
+          "yearStart": 2000,
+          "yearEnd": null
+        },
+        {
+          "name": "Leon Cupra",
+          "yearStart": 2001,
+          "yearEnd": 2018
+        },
+        {
+          "name": "Leon Cupra R",
+          "yearStart": 2002,
+          "yearEnd": 2018
+        },
+        {
+          "name": "Leon FR / Topsport",
+          "yearStart": 2002,
+          "yearEnd": 2012
+        },
+        {
+          "name": "Leon SC",
+          "yearStart": 2013,
+          "yearEnd": 2020
+        },
+        {
+          "name": "Leon ST",
+          "yearStart": 2013,
+          "yearEnd": null
+        },
+        {
+          "name": "Leon ST Cupra",
+          "yearStart": 2015,
+          "yearEnd": 2020
+        },
+        {
+          "name": "Leon X-Perience",
+          "yearStart": 2014,
+          "yearEnd": 2017
+        },
+        {
+          "name": "Malaga",
+          "yearStart": 1985,
+          "yearEnd": 1992
+        },
+        {
+          "name": "Marbella",
+          "yearStart": 1986,
+          "yearEnd": 1998
+        },
+        {
+          "name": "Mii",
+          "yearStart": 2011,
+          "yearEnd": 2021
+        },
+        {
+          "name": "Tarraco",
+          "yearStart": 2018,
+          "yearEnd": 2024
+        },
+        {
+          "name": "Toledo",
+          "yearStart": 1991,
+          "yearEnd": 2018
+        }
+      ]
+    }
+  ]
+}

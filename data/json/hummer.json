@@ -1,0 +1,50 @@
+{
+  "group": "hummer",
+  "makes": [
+    {
+      "name": "Hummer",
+      "models": [
+        {
+          "name": "H1 2 Door Hardtop",
+          "yearStart": 1992,
+          "yearEnd": 2006
+        },
+        {
+          "name": "H1 4 Door",
+          "yearStart": 1992,
+          "yearEnd": 2006
+        },
+        {
+          "name": "H1 4 Door Hardtop",
+          "yearStart": 1992,
+          "yearEnd": 2006
+        },
+        {
+          "name": "H1 4 Door Opentop",
+          "yearStart": 1992,
+          "yearEnd": 2006
+        },
+        {
+          "name": "H2",
+          "yearStart": 2002,
+          "yearEnd": 2009
+        },
+        {
+          "name": "H2 SUT",
+          "yearStart": 2004,
+          "yearEnd": 2009
+        },
+        {
+          "name": "H3",
+          "yearStart": 2005,
+          "yearEnd": 2010
+        },
+        {
+          "name": "H3 Alpha",
+          "yearStart": 2007,
+          "yearEnd": 2010
+        }
+      ]
+    }
+  ]
+}

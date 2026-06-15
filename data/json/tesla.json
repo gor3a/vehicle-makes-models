@@ -1,0 +1,40 @@
+{
+  "group": "tesla",
+  "makes": [
+    {
+      "name": "Tesla",
+      "models": [
+        {
+          "name": "Cybertruck",
+          "yearStart": 2021,
+          "yearEnd": null
+        },
+        {
+          "name": "Model 3",
+          "yearStart": 2017,
+          "yearEnd": null
+        },
+        {
+          "name": "Model S",
+          "yearStart": 2012,
+          "yearEnd": null
+        },
+        {
+          "name": "Model X",
+          "yearStart": 2015,
+          "yearEnd": null
+        },
+        {
+          "name": "Model Y",
+          "yearStart": 2019,
+          "yearEnd": null
+        },
+        {
+          "name": "Roadster",
+          "yearStart": 2008,
+          "yearEnd": null
+        }
+      ]
+    }
+  ]
+}

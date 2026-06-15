@@ -1,0 +1,75 @@
+{
+  "group": "saab",
+  "makes": [
+    {
+      "name": "Saab",
+      "models": [
+        {
+          "name": "9-2X",
+          "yearStart": 2004,
+          "yearEnd": 2006
+        },
+        {
+          "name": "9-3",
+          "yearStart": 1998,
+          "yearEnd": 2012
+        },
+        {
+          "name": "9-3 Aero",
+          "yearStart": 2014,
+          "yearEnd": 2014
+        },
+        {
+          "name": "9-3 Sport",
+          "yearStart": 1998,
+          "yearEnd": 2012
+        },
+        {
+          "name": "9-3 SportCombi",
+          "yearStart": 2004,
+          "yearEnd": 2012
+        },
+        {
+          "name": "9-3X",
+          "yearStart": 2009,
+          "yearEnd": 2012
+        },
+        {
+          "name": "9-5",
+          "yearStart": 1997,
+          "yearEnd": 2012
+        },
+        {
+          "name": "9-5 SportCombi",
+          "yearStart": 1998,
+          "yearEnd": 2009
+        },
+        {
+          "name": "9-7X",
+          "yearStart": 2005,
+          "yearEnd": 2009
+        },
+        {
+          "name": "90",
+          "yearStart": 1984,
+          "yearEnd": 1987
+        },
+        {
+          "name": "900",
+          "yearStart": 1994,
+          "yearEnd": 1998
+        },
+        {
+          "name": "900 Cabrio",
+          "yearStart": 1986,
+          "yearEnd": 1998
+        },
+        {
+          "name": "9000",
+          "yearStart": 1991,
+          "yearEnd": 1998
+        }
+      ]
+    }
+  ]
+}

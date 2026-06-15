@@ -1,0 +1,15 @@
+{
+  "group": "ineos",
+  "makes": [
+    {
+      "name": "Ineos",
+      "models": [
+        {
+          "name": "Grenadier",
+          "yearStart": 2022,
+          "yearEnd": null
+        }
+      ]
+    }
+  ]
+}

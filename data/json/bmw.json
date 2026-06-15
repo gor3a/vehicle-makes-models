@@ -1,0 +1,330 @@
+{
+  "group": "bmw",
+  "makes": [
+    {
+      "name": "BMW",
+      "models": [
+        {
+          "name": "1 Series",
+          "yearStart": 2004,
+          "yearEnd": null
+        },
+        {
+          "name": "1 Series M",
+          "yearStart": 2010,
+          "yearEnd": 2012
+        },
+        {
+          "name": "1500/1600",
+          "yearStart": 1962,
+          "yearEnd": 1975
+        },
+        {
+          "name": "2 Series",
+          "yearStart": 2013,
+          "yearEnd": null
+        },
+        {
+          "name": "2 Series Active Tourer",
+          "yearStart": 2014,
+          "yearEnd": null
+        },
+        {
+          "name": "2 Series Gran",
+          "yearStart": 2019,
+          "yearEnd": null
+        },
+        {
+          "name": "2 Series Gran Tourer",
+          "yearStart": 2015,
+          "yearEnd": 2021
+        },
+        {
+          "name": "2002",
+          "yearStart": 1968,
+          "yearEnd": 1975
+        },
+        {
+          "name": "2800 CS",
+          "yearStart": 1968,
+          "yearEnd": 1971
+        },
+        {
+          "name": "3 Series",
+          "yearStart": 1975,
+          "yearEnd": null
+        },
+        {
+          "name": "3 Series Compact",
+          "yearStart": 1994,
+          "yearEnd": 2005
+        },
+        {
+          "name": "3 Series Gran Turismo",
+          "yearStart": 2013,
+          "yearEnd": 2020
+        },
+        {
+          "name": "3.0 CSi",
+          "yearStart": 1971,
+          "yearEnd": 1975
+        },
+        {
+          "name": "3.0 CSL",
+          "yearStart": 1971,
+          "yearEnd": 1975
+        },
+        {
+          "name": "4 Series",
+          "yearStart": 2013,
+          "yearEnd": null
+        },
+        {
+          "name": "4 Series Gran",
+          "yearStart": 2014,
+          "yearEnd": null
+        },
+        {
+          "name": "5 Series",
+          "yearStart": 1972,
+          "yearEnd": null
+        },
+        {
+          "name": "5 Series Gran Turismo",
+          "yearStart": 2009,
+          "yearEnd": 2017
+        },
+        {
+          "name": "6 Series",
+          "yearStart": 1976,
+          "yearEnd": 2018
+        },
+        {
+          "name": "6 Series Gran",
+          "yearStart": 2012,
+          "yearEnd": 2018
+        },
+        {
+          "name": "6 Series Gran Turismo",
+          "yearStart": 2017,
+          "yearEnd": null
+        },
+        {
+          "name": "7 Series",
+          "yearStart": 1977,
+          "yearEnd": null
+        },
+        {
+          "name": "8 Series",
+          "yearStart": 1989,
+          "yearEnd": null
+        },
+        {
+          "name": "8 Series Gran",
+          "yearStart": 2019,
+          "yearEnd": 2022
+        },
+        {
+          "name": "i3",
+          "yearStart": 2013,
+          "yearEnd": null
+        },
+        {
+          "name": "i4",
+          "yearStart": 2021,
+          "yearEnd": null
+        },
+        {
+          "name": "i5",
+          "yearStart": 2023,
+          "yearEnd": null
+        },
+        {
+          "name": "i7",
+          "yearStart": 2022,
+          "yearEnd": null
+        },
+        {
+          "name": "i8",
+          "yearStart": 2014,
+          "yearEnd": 2020
+        },
+        {
+          "name": "iX",
+          "yearStart": 2021,
+          "yearEnd": null
+        },
+        {
+          "name": "iX M",
+          "yearStart": 2022,
+          "yearEnd": 2025
+        },
+        {
+          "name": "iX1",
+          "yearStart": 2022,
+          "yearEnd": null
+        },
+        {
+          "name": "iX2",
+          "yearStart": 2023,
+          "yearEnd": null
+        },
+        {
+          "name": "iX3",
+          "yearStart": 2020,
+          "yearEnd": null
+        },
+        {
+          "name": "M1",
+          "yearStart": 1978,
+          "yearEnd": 1981
+        },
+        {
+          "name": "M2",
+          "yearStart": 2015,
+          "yearEnd": null
+        },
+        {
+          "name": "M2 CS",
+          "yearStart": 2019,
+          "yearEnd": null
+        },
+        {
+          "name": "M3",
+          "yearStart": 1986,
+          "yearEnd": null
+        },
+        {
+          "name": "M3 CS",
+          "yearStart": 2025,
+          "yearEnd": null
+        },
+        {
+          "name": "M4",
+          "yearStart": 2014,
+          "yearEnd": null
+        },
+        {
+          "name": "M4 CS",
+          "yearStart": 2017,
+          "yearEnd": null
+        },
+        {
+          "name": "M4 GTS",
+          "yearStart": 2015,
+          "yearEnd": 2016
+        },
+        {
+          "name": "M5",
+          "yearStart": 1979,
+          "yearEnd": null
+        },
+        {
+          "name": "M6",
+          "yearStart": 1984,
+          "yearEnd": 2018
+        },
+        {
+          "name": "M6 Cabrio",
+          "yearStart": 2006,
+          "yearEnd": 2018
+        },
+        {
+          "name": "M6 Gran",
+          "yearStart": 2013,
+          "yearEnd": 2018
+        },
+        {
+          "name": "M8",
+          "yearStart": 2019,
+          "yearEnd": null
+        },
+        {
+          "name": "M8 Gran",
+          "yearStart": 2022,
+          "yearEnd": null
+        },
+        {
+          "name": "X1",
+          "yearStart": 2009,
+          "yearEnd": null
+        },
+        {
+          "name": "X2",
+          "yearStart": 2018,
+          "yearEnd": null
+        },
+        {
+          "name": "X3",
+          "yearStart": 2004,
+          "yearEnd": null
+        },
+        {
+          "name": "X3 M",
+          "yearStart": 2019,
+          "yearEnd": null
+        },
+        {
+          "name": "X4",
+          "yearStart": 2014,
+          "yearEnd": null
+        },
+        {
+          "name": "X4 M",
+          "yearStart": 2019,
+          "yearEnd": null
+        },
+        {
+          "name": "X5",
+          "yearStart": 2000,
+          "yearEnd": null
+        },
+        {
+          "name": "X5 M",
+          "yearStart": 2009,
+          "yearEnd": null
+        },
+        {
+          "name": "X6",
+          "yearStart": 2008,
+          "yearEnd": null
+        },
+        {
+          "name": "X6 M",
+          "yearStart": 2009,
+          "yearEnd": null
+        },
+        {
+          "name": "X7",
+          "yearStart": 2018,
+          "yearEnd": null
+        },
+        {
+          "name": "XM",
+          "yearStart": 2022,
+          "yearEnd": null
+        },
+        {
+          "name": "Z1",
+          "yearStart": 1988,
+          "yearEnd": 1991
+        },
+        {
+          "name": "Z3",
+          "yearStart": 1996,
+          "yearEnd": 2003
+        },
+        {
+          "name": "Z4",
+          "yearStart": 2002,
+          "yearEnd": null
+        },
+        {
+          "name": "Z8",
+          "yearStart": 2000,
+          "yearEnd": 2003
+        }
+      ]
+    }
+  ]
+}

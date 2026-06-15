@@ -1,0 +1,260 @@
+{
+  "group": "opel",
+  "makes": [
+    {
+      "name": "Opel",
+      "models": [
+        {
+          "name": "Adam",
+          "yearStart": 2013,
+          "yearEnd": 2019
+        },
+        {
+          "name": "Adam Rocks",
+          "yearStart": 2013,
+          "yearEnd": 2019
+        },
+        {
+          "name": "Agila",
+          "yearStart": 2000,
+          "yearEnd": 2015
+        },
+        {
+          "name": "Ampera",
+          "yearStart": 2011,
+          "yearEnd": 2019
+        },
+        {
+          "name": "Antara",
+          "yearStart": 2007,
+          "yearEnd": 2017
+        },
+        {
+          "name": "Astra",
+          "yearStart": 1991,
+          "yearEnd": null
+        },
+        {
+          "name": "Astra Caravan",
+          "yearStart": 1994,
+          "yearEnd": 2011
+        },
+        {
+          "name": "Astra GTC",
+          "yearStart": 2011,
+          "yearEnd": 2018
+        },
+        {
+          "name": "Astra OPC",
+          "yearStart": 2000,
+          "yearEnd": 2018
+        },
+        {
+          "name": "Astra Sports Tourer",
+          "yearStart": 2010,
+          "yearEnd": null
+        },
+        {
+          "name": "Astra Twin Top /",
+          "yearStart": 2006,
+          "yearEnd": 2011
+        },
+        {
+          "name": "Calibra",
+          "yearStart": 1989,
+          "yearEnd": 1997
+        },
+        {
+          "name": "Cascada",
+          "yearStart": 2013,
+          "yearEnd": 2019
+        },
+        {
+          "name": "Combo",
+          "yearStart": 2001,
+          "yearEnd": 2023
+        },
+        {
+          "name": "Corsa",
+          "yearStart": 1993,
+          "yearEnd": null
+        },
+        {
+          "name": "Corsa GSE",
+          "yearStart": 2026,
+          "yearEnd": null
+        },
+        {
+          "name": "Corsa OPC",
+          "yearStart": 2007,
+          "yearEnd": 2019
+        },
+        {
+          "name": "Crossland",
+          "yearStart": 2017,
+          "yearEnd": null
+        },
+        {
+          "name": "Frontera",
+          "yearStart": 1992,
+          "yearEnd": null
+        },
+        {
+          "name": "Grandland",
+          "yearStart": 2017,
+          "yearEnd": null
+        },
+        {
+          "name": "GT",
+          "yearStart": 1968,
+          "yearEnd": 2009
+        },
+        {
+          "name": "Insignia",
+          "yearStart": 2008,
+          "yearEnd": 2022
+        },
+        {
+          "name": "Insignia Country Tourer",
+          "yearStart": 2013,
+          "yearEnd": 2017
+        },
+        {
+          "name": "Insignia GSi",
+          "yearStart": 2017,
+          "yearEnd": 2020
+        },
+        {
+          "name": "Insignia OPC",
+          "yearStart": 2009,
+          "yearEnd": 2013
+        },
+        {
+          "name": "Insignia Sports Tourer",
+          "yearStart": 2009,
+          "yearEnd": 2020
+        },
+        {
+          "name": "Insignia Sports Tourer GSi",
+          "yearStart": 2017,
+          "yearEnd": 2020
+        },
+        {
+          "name": "Insignia Sports Tourer OPC",
+          "yearStart": 2009,
+          "yearEnd": 2017
+        },
+        {
+          "name": "Kadett",
+          "yearStart": 1984,
+          "yearEnd": 1993
+        },
+        {
+          "name": "Kadett Caravan",
+          "yearStart": 1984,
+          "yearEnd": 1991
+        },
+        {
+          "name": "Karl",
+          "yearStart": 2015,
+          "yearEnd": 2019
+        },
+        {
+          "name": "Manta",
+          "yearStart": 1975,
+          "yearEnd": 1989
+        },
+        {
+          "name": "Meriva",
+          "yearStart": 2003,
+          "yearEnd": 2017
+        },
+        {
+          "name": "Mokka",
+          "yearStart": 2012,
+          "yearEnd": null
+        },
+        {
+          "name": "Monterey",
+          "yearStart": 1992,
+          "yearEnd": 1998
+        },
+        {
+          "name": "Monza",
+          "yearStart": 1983,
+          "yearEnd": 1987
+        },
+        {
+          "name": "Omega",
+          "yearStart": 1986,
+          "yearEnd": 2003
+        },
+        {
+          "name": "Omega Caravan",
+          "yearStart": 1986,
+          "yearEnd": 2003
+        },
+        {
+          "name": "Rekord",
+          "yearStart": 1977,
+          "yearEnd": 1986
+        },
+        {
+          "name": "Rekord Caravan",
+          "yearStart": 1977,
+          "yearEnd": 1986
+        },
+        {
+          "name": "Rocks-e",
+          "yearStart": 2021,
+          "yearEnd": null
+        },
+        {
+          "name": "Senator",
+          "yearStart": 1983,
+          "yearEnd": 1993
+        },
+        {
+          "name": "Signum",
+          "yearStart": 2003,
+          "yearEnd": 2008
+        },
+        {
+          "name": "Sintra",
+          "yearStart": 1997,
+          "yearEnd": 1999
+        },
+        {
+          "name": "Speedster",
+          "yearStart": 2001,
+          "yearEnd": 2005
+        },
+        {
+          "name": "Tigra",
+          "yearStart": 1994,
+          "yearEnd": 2009
+        },
+        {
+          "name": "Vectra",
+          "yearStart": 1988,
+          "yearEnd": 2008
+        },
+        {
+          "name": "Vectra Caravan",
+          "yearStart": 1996,
+          "yearEnd": 2008
+        },
+        {
+          "name": "Vectra OPC",
+          "yearStart": 2005,
+          "yearEnd": 2008
+        },
+        {
+          "name": "Zafira",
+          "yearStart": 1999,
+          "yearEnd": null
+        }
+      ]
+    }
+  ]
+}

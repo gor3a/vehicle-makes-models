@@ -1,0 +1,120 @@
+{
+  "group": "mclaren",
+  "makes": [
+    {
+      "name": "McLaren",
+      "models": [
+        {
+          "name": "12C GT Sprint",
+          "yearStart": 2013,
+          "yearEnd": 2014
+        },
+        {
+          "name": "540C",
+          "yearStart": 2015,
+          "yearEnd": 2021
+        },
+        {
+          "name": "570GT",
+          "yearStart": 2016,
+          "yearEnd": 2021
+        },
+        {
+          "name": "570S",
+          "yearStart": 2015,
+          "yearEnd": 2021
+        },
+        {
+          "name": "600LT",
+          "yearStart": 2018,
+          "yearEnd": 2020
+        },
+        {
+          "name": "620R",
+          "yearStart": 2019,
+          "yearEnd": 2021
+        },
+        {
+          "name": "650S",
+          "yearStart": 2014,
+          "yearEnd": 2017
+        },
+        {
+          "name": "675LT",
+          "yearStart": 2015,
+          "yearEnd": 2017
+        },
+        {
+          "name": "720S",
+          "yearStart": 2017,
+          "yearEnd": 2023
+        },
+        {
+          "name": "750S",
+          "yearStart": 2023,
+          "yearEnd": null
+        },
+        {
+          "name": "765LT",
+          "yearStart": 2020,
+          "yearEnd": null
+        },
+        {
+          "name": "Artura",
+          "yearStart": 2021,
+          "yearEnd": null
+        },
+        {
+          "name": "Elva",
+          "yearStart": 2020,
+          "yearEnd": null
+        },
+        {
+          "name": "F1",
+          "yearStart": 1993,
+          "yearEnd": 1998
+        },
+        {
+          "name": "F1 GT",
+          "yearStart": null,
+          "yearEnd": null
+        },
+        {
+          "name": "F1 LM",
+          "yearStart": null,
+          "yearEnd": null
+        },
+        {
+          "name": "GT",
+          "yearStart": 2019,
+          "yearEnd": 2023
+        },
+        {
+          "name": "GTS",
+          "yearStart": 2023,
+          "yearEnd": null
+        },
+        {
+          "name": "MP4-12C",
+          "yearStart": 2011,
+          "yearEnd": 2015
+        },
+        {
+          "name": "P1",
+          "yearStart": 2013,
+          "yearEnd": 2015
+        },
+        {
+          "name": "Senna",
+          "yearStart": 2018,
+          "yearEnd": 2020
+        },
+        {
+          "name": "Speedtail",
+          "yearStart": 2018,
+          "yearEnd": null
+        }
+      ]
+    }
+  ]
+}

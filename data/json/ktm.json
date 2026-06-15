@@ -1,0 +1,15 @@
+{
+  "group": "ktm",
+  "makes": [
+    {
+      "name": "KTM",
+      "models": [
+        {
+          "name": "X-Bow",
+          "yearStart": 2008,
+          "yearEnd": null
+        }
+      ]
+    }
+  ]
+}

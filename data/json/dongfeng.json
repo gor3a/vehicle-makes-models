@@ -1,0 +1,36 @@
+{
+  "group": "dongfeng",
+  "makes": [
+    {
+      "name": "Dongfeng",
+      "country": "China",
+      "models": [
+        {
+          "name": "AX7",
+          "yearStart": 2014,
+          "yearEnd": null
+        },
+        {
+          "name": "Fengon 500",
+          "yearStart": 2018,
+          "yearEnd": null
+        },
+        {
+          "name": "Fengon 580",
+          "yearStart": 2016,
+          "yearEnd": null
+        },
+        {
+          "name": "Rich 6",
+          "yearStart": 2017,
+          "yearEnd": null
+        },
+        {
+          "name": "T5 Evo",
+          "yearStart": 2021,
+          "yearEnd": null
+        }
+      ]
+    }
+  ]
+}

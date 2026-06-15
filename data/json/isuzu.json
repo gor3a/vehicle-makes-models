@@ -1,0 +1,60 @@
+{
+  "group": "isuzu",
+  "makes": [
+    {
+      "name": "Isuzu",
+      "models": [
+        {
+          "name": "117",
+          "yearStart": 1968,
+          "yearEnd": 1981
+        },
+        {
+          "name": "Amigo",
+          "yearStart": 1997,
+          "yearEnd": 2003
+        },
+        {
+          "name": "Amigo Cabrio",
+          "yearStart": 1998,
+          "yearEnd": 2003
+        },
+        {
+          "name": "Ascender",
+          "yearStart": 2001,
+          "yearEnd": 2008
+        },
+        {
+          "name": "Axiom",
+          "yearStart": 2001,
+          "yearEnd": 2004
+        },
+        {
+          "name": "Hombre",
+          "yearStart": 1995,
+          "yearEnd": 2000
+        },
+        {
+          "name": "i-Series",
+          "yearStart": 2005,
+          "yearEnd": 2009
+        },
+        {
+          "name": "MU-7",
+          "yearStart": 2004,
+          "yearEnd": 2013
+        },
+        {
+          "name": "Rodeo / D-Max",
+          "yearStart": 2002,
+          "yearEnd": 2019
+        },
+        {
+          "name": "Trooper",
+          "yearStart": 1998,
+          "yearEnd": 2002
+        }
+      ]
+    }
+  ]
+}

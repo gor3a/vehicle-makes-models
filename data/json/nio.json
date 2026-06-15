@@ -1,0 +1,35 @@
+{
+  "group": "nio",
+  "makes": [
+    {
+      "name": "NIO",
+      "models": [
+        {
+          "name": "EC6",
+          "yearStart": 2020,
+          "yearEnd": null
+        },
+        {
+          "name": "EP9",
+          "yearStart": 2016,
+          "yearEnd": 2019
+        },
+        {
+          "name": "ES6",
+          "yearStart": 2018,
+          "yearEnd": 2023
+        },
+        {
+          "name": "ES8",
+          "yearStart": 2018,
+          "yearEnd": 2020
+        },
+        {
+          "name": "ET7",
+          "yearStart": 2020,
+          "yearEnd": null
+        }
+      ]
+    }
+  ]
+}

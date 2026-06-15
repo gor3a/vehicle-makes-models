@@ -1,0 +1,105 @@
+{
+  "group": "acura",
+  "makes": [
+    {
+      "name": "Acura",
+      "models": [
+        {
+          "name": "ADX",
+          "yearStart": 2024,
+          "yearEnd": null
+        },
+        {
+          "name": "CL",
+          "yearStart": 1997,
+          "yearEnd": 2004
+        },
+        {
+          "name": "CSX",
+          "yearStart": 2005,
+          "yearEnd": 2011
+        },
+        {
+          "name": "EL",
+          "yearStart": 1997,
+          "yearEnd": 2000
+        },
+        {
+          "name": "ILX",
+          "yearStart": 2012,
+          "yearEnd": 2022
+        },
+        {
+          "name": "Integra",
+          "yearStart": 1986,
+          "yearEnd": null
+        },
+        {
+          "name": "Legend",
+          "yearStart": 1986,
+          "yearEnd": 1996
+        },
+        {
+          "name": "MDX",
+          "yearStart": 2001,
+          "yearEnd": null
+        },
+        {
+          "name": "NSX",
+          "yearStart": 1991,
+          "yearEnd": 2022
+        },
+        {
+          "name": "RDX",
+          "yearStart": 2006,
+          "yearEnd": null
+        },
+        {
+          "name": "RL",
+          "yearStart": 2004,
+          "yearEnd": 2012
+        },
+        {
+          "name": "RLX",
+          "yearStart": 2013,
+          "yearEnd": 2020
+        },
+        {
+          "name": "RSX",
+          "yearStart": 2002,
+          "yearEnd": 2006
+        },
+        {
+          "name": "RSX TYPE-S",
+          "yearStart": 2005,
+          "yearEnd": 2006
+        },
+        {
+          "name": "SLX",
+          "yearStart": 1996,
+          "yearEnd": 1999
+        },
+        {
+          "name": "TL",
+          "yearStart": 1995,
+          "yearEnd": 2014
+        },
+        {
+          "name": "TLX",
+          "yearStart": 2015,
+          "yearEnd": 2024
+        },
+        {
+          "name": "TSX",
+          "yearStart": 2003,
+          "yearEnd": 2014
+        },
+        {
+          "name": "ZDX",
+          "yearStart": 2009,
+          "yearEnd": null
+        }
+      ]
+    }
+  ]
+}

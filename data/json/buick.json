@@ -1,0 +1,145 @@
+{
+  "group": "buick",
+  "makes": [
+    {
+      "name": "Buick",
+      "models": [
+        {
+          "name": "Cascada",
+          "yearStart": 2016,
+          "yearEnd": 2019
+        },
+        {
+          "name": "Century",
+          "yearStart": 1939,
+          "yearEnd": 2005
+        },
+        {
+          "name": "Enclave",
+          "yearStart": 2007,
+          "yearEnd": null
+        },
+        {
+          "name": "Encore",
+          "yearStart": 2013,
+          "yearEnd": null
+        },
+        {
+          "name": "Envision",
+          "yearStart": 2014,
+          "yearEnd": null
+        },
+        {
+          "name": "Envista",
+          "yearStart": 2023,
+          "yearEnd": null
+        },
+        {
+          "name": "Gran Sport",
+          "yearStart": 1970,
+          "yearEnd": 1971
+        },
+        {
+          "name": "LaCrosse",
+          "yearStart": 2004,
+          "yearEnd": 2019
+        },
+        {
+          "name": "LeSabre",
+          "yearStart": 1991,
+          "yearEnd": 2005
+        },
+        {
+          "name": "Lucerne",
+          "yearStart": 2005,
+          "yearEnd": 2011
+        },
+        {
+          "name": "Model 26",
+          "yearStart": null,
+          "yearEnd": null
+        },
+        {
+          "name": "Model 27",
+          "yearStart": null,
+          "yearEnd": null
+        },
+        {
+          "name": "Model 32",
+          "yearStart": null,
+          "yearEnd": null
+        },
+        {
+          "name": "Model 33",
+          "yearStart": null,
+          "yearEnd": null
+        },
+        {
+          "name": "Model 38",
+          "yearStart": null,
+          "yearEnd": null
+        },
+        {
+          "name": "Model 39",
+          "yearStart": null,
+          "yearEnd": null
+        },
+        {
+          "name": "Model 41",
+          "yearStart": null,
+          "yearEnd": null
+        },
+        {
+          "name": "Model C",
+          "yearStart": null,
+          "yearEnd": null
+        },
+        {
+          "name": "Park Avenue",
+          "yearStart": 1991,
+          "yearEnd": 2005
+        },
+        {
+          "name": "Rainier",
+          "yearStart": 2003,
+          "yearEnd": 2007
+        },
+        {
+          "name": "Reatta",
+          "yearStart": 1988,
+          "yearEnd": 1991
+        },
+        {
+          "name": "Regal",
+          "yearStart": 1988,
+          "yearEnd": 2020
+        },
+        {
+          "name": "Rendezvous",
+          "yearStart": 2002,
+          "yearEnd": 2007
+        },
+        {
+          "name": "Riviera",
+          "yearStart": 1963,
+          "yearEnd": 1993
+        },
+        {
+          "name": "Skylark",
+          "yearStart": 1953,
+          "yearEnd": 1997
+        },
+        {
+          "name": "Terraza",
+          "yearStart": 2005,
+          "yearEnd": 2007
+        },
+        {
+          "name": "Verano",
+          "yearStart": 2012,
+          "yearEnd": 2017
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "group": "infiniti",
+  "makes": [
+    {
+      "name": "Infiniti",
+      "models": [
+        {
+          "name": "EX",
+          "yearStart": 2007,
+          "yearEnd": 2014
+        },
+        {
+          "name": "FX",
+          "yearStart": 2002,
+          "yearEnd": 2013
+        },
+        {
+          "name": "G",
+          "yearStart": 2008,
+          "yearEnd": 2014
+        },
+        {
+          "name": "G20",
+          "yearStart": 1991,
+          "yearEnd": 2002
+        },
+        {
+          "name": "G35",
+          "yearStart": 2001,
+          "yearEnd": 2008
+        },
+        {
+          "name": "I",
+          "yearStart": 1995,
+          "yearEnd": 2004
+        },
+        {
+          "name": "J",
+          "yearStart": 1993,
+          "yearEnd": 1997
+        },
+        {
+          "name": "JX",
+          "yearStart": 2012,
+          "yearEnd": 2014
+        },
+        {
+          "name": "M",
+          "yearStart": 1990,
+          "yearEnd": 2013
+        },
+        {
+          "name": "Q",
+          "yearStart": 1989,
+          "yearEnd": 2006
+        },
+        {
+          "name": "Q40",
+          "yearStart": 2014,
+          "yearEnd": 2015
+        },
+        {
+          "name": "Q50",
+          "yearStart": 2013,
+          "yearEnd": 2024
+        },
+        {
+          "name": "Q60",
+          "yearStart": 2013,
+          "yearEnd": 2022
+        },
+        {
+          "name": "Q70",
+          "yearStart": 2013,
+          "yearEnd": 2019
+        },
+        {
+          "name": "QX",
+          "yearStart": 1997,
+          "yearEnd": 2014
+        },
+        {
+          "name": "QX30",
+          "yearStart": 2015,
+          "yearEnd": 2019
+        },
+        {
+          "name": "QX50",
+          "yearStart": 2013,
+          "yearEnd": null
+        },
+        {
+          "name": "QX55",
+          "yearStart": 2021,
+          "yearEnd": null
+        },
+        {
+          "name": "QX60",
+          "yearStart": 2013,
+          "yearEnd": null
+        },
+        {
+          "name": "QX65",
+          "yearStart": 2026,
+          "yearEnd": null
+        },
+        {
+          "name": "QX70",
+          "yearStart": 2013,
+          "yearEnd": 2019
+        },
+        {
+          "name": "QX80",
+          "yearStart": 2014,
+          "yearEnd": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,265 @@
+{
+  "group": "hyundai",
+  "makes": [
+    {
+      "name": "Hyundai",
+      "models": [
+        {
+          "name": "Accent",
+          "yearStart": 1999,
+          "yearEnd": 2023
+        },
+        {
+          "name": "Atos",
+          "yearStart": 2003,
+          "yearEnd": 2008
+        },
+        {
+          "name": "Atos Multi",
+          "yearStart": 1998,
+          "yearEnd": 2003
+        },
+        {
+          "name": "Atos Spirit",
+          "yearStart": 1999,
+          "yearEnd": 2003
+        },
+        {
+          "name": "Bayon",
+          "yearStart": 2021,
+          "yearEnd": null
+        },
+        {
+          "name": "Coupe / Tiburon",
+          "yearStart": 1996,
+          "yearEnd": 2009
+        },
+        {
+          "name": "Elantra",
+          "yearStart": 2000,
+          "yearEnd": null
+        },
+        {
+          "name": "Elantra GT",
+          "yearStart": 2012,
+          "yearEnd": 2020
+        },
+        {
+          "name": "Elantra N",
+          "yearStart": 2020,
+          "yearEnd": null
+        },
+        {
+          "name": "Equus",
+          "yearStart": 2010,
+          "yearEnd": 2016
+        },
+        {
+          "name": "Excel",
+          "yearStart": 1989,
+          "yearEnd": 2000
+        },
+        {
+          "name": "Genesis",
+          "yearStart": 2008,
+          "yearEnd": 2016
+        },
+        {
+          "name": "Getz",
+          "yearStart": 2002,
+          "yearEnd": 2011
+        },
+        {
+          "name": "Grandeur / Azera",
+          "yearStart": 2005,
+          "yearEnd": null
+        },
+        {
+          "name": "i10",
+          "yearStart": 2008,
+          "yearEnd": null
+        },
+        {
+          "name": "i20",
+          "yearStart": 2009,
+          "yearEnd": null
+        },
+        {
+          "name": "i20 Active",
+          "yearStart": 2015,
+          "yearEnd": 2020
+        },
+        {
+          "name": "i20 N",
+          "yearStart": 2020,
+          "yearEnd": null
+        },
+        {
+          "name": "i30",
+          "yearStart": 2007,
+          "yearEnd": null
+        },
+        {
+          "name": "i30 N",
+          "yearStart": 2017,
+          "yearEnd": null
+        },
+        {
+          "name": "i40",
+          "yearStart": 2011,
+          "yearEnd": 2020
+        },
+        {
+          "name": "i800 / H-1",
+          "yearStart": 2008,
+          "yearEnd": 2018
+        },
+        {
+          "name": "Ioniq",
+          "yearStart": 2016,
+          "yearEnd": null
+        },
+        {
+          "name": "Ioniq 3",
+          "yearStart": 2026,
+          "yearEnd": null
+        },
+        {
+          "name": "Ioniq 5",
+          "yearStart": 2023,
+          "yearEnd": null
+        },
+        {
+          "name": "Ioniq 6",
+          "yearStart": 2022,
+          "yearEnd": null
+        },
+        {
+          "name": "Ioniq 9",
+          "yearStart": 2024,
+          "yearEnd": null
+        },
+        {
+          "name": "ix20",
+          "yearStart": 2010,
+          "yearEnd": 2019
+        },
+        {
+          "name": "ix35 / Tucson",
+          "yearStart": 2004,
+          "yearEnd": null
+        },
+        {
+          "name": "ix55 / Veracruz",
+          "yearStart": 2009,
+          "yearEnd": 2012
+        },
+        {
+          "name": "Kona",
+          "yearStart": 2017,
+          "yearEnd": null
+        },
+        {
+          "name": "Kona Electric",
+          "yearStart": 2018,
+          "yearEnd": null
+        },
+        {
+          "name": "Kona N",
+          "yearStart": 2021,
+          "yearEnd": 2023
+        },
+        {
+          "name": "Lantra",
+          "yearStart": 1991,
+          "yearEnd": 2001
+        },
+        {
+          "name": "Matrix",
+          "yearStart": 2001,
+          "yearEnd": 2010
+        },
+        {
+          "name": "Mistra",
+          "yearStart": 2014,
+          "yearEnd": 2017
+        },
+        {
+          "name": "NEXO",
+          "yearStart": 2018,
+          "yearEnd": null
+        },
+        {
+          "name": "Palisade",
+          "yearStart": 2019,
+          "yearEnd": null
+        },
+        {
+          "name": "Pony",
+          "yearStart": 1989,
+          "yearEnd": 1994
+        },
+        {
+          "name": "Santa Cruz",
+          "yearStart": 2021,
+          "yearEnd": null
+        },
+        {
+          "name": "Santa Fe",
+          "yearStart": 2000,
+          "yearEnd": null
+        },
+        {
+          "name": "Satellite",
+          "yearStart": 1997,
+          "yearEnd": 2000
+        },
+        {
+          "name": "Scoupe",
+          "yearStart": 1990,
+          "yearEnd": 1996
+        },
+        {
+          "name": "Sonata",
+          "yearStart": 1989,
+          "yearEnd": null
+        },
+        {
+          "name": "Sonata Hybrid",
+          "yearStart": 2010,
+          "yearEnd": 2019
+        },
+        {
+          "name": "Staria",
+          "yearStart": 2021,
+          "yearEnd": null
+        },
+        {
+          "name": "Terracan",
+          "yearStart": 2001,
+          "yearEnd": 2007
+        },
+        {
+          "name": "Trajet",
+          "yearStart": 2000,
+          "yearEnd": 2008
+        },
+        {
+          "name": "Veloster",
+          "yearStart": 2011,
+          "yearEnd": 2021
+        },
+        {
+          "name": "Venue",
+          "yearStart": 2019,
+          "yearEnd": null
+        },
+        {
+          "name": "XG",
+          "yearStart": 1999,
+          "yearEnd": 2005
+        }
+      ]
+    }
+  ]
+}

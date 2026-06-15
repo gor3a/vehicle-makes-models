@@ -1,0 +1,270 @@
+{
+  "group": "citroen",
+  "makes": [
+    {
+      "name": "Citroën",
+      "models": [
+        {
+          "name": "CITROEN 2CV",
+          "yearStart": 1949,
+          "yearEnd": 1990
+        },
+        {
+          "name": "CITROEN AMI",
+          "yearStart": 2020,
+          "yearEnd": null
+        },
+        {
+          "name": "CITROEN AX",
+          "yearStart": 1986,
+          "yearEnd": 1998
+        },
+        {
+          "name": "CITROEN Axel",
+          "yearStart": 1985,
+          "yearEnd": 1989
+        },
+        {
+          "name": "CITROEN Berlingo",
+          "yearStart": 1996,
+          "yearEnd": null
+        },
+        {
+          "name": "CITROEN BX",
+          "yearStart": 1983,
+          "yearEnd": 1993
+        },
+        {
+          "name": "CITROEN BX Break",
+          "yearStart": 1985,
+          "yearEnd": 1994
+        },
+        {
+          "name": "CITROEN C-Crosser",
+          "yearStart": 2007,
+          "yearEnd": 2012
+        },
+        {
+          "name": "CITROEN C-Elysee",
+          "yearStart": 2013,
+          "yearEnd": 2016
+        },
+        {
+          "name": "CITROEN C-Zero",
+          "yearStart": 2010,
+          "yearEnd": 2020
+        },
+        {
+          "name": "CITROEN C1",
+          "yearStart": 2005,
+          "yearEnd": 2022
+        },
+        {
+          "name": "CITROEN C2",
+          "yearStart": 2003,
+          "yearEnd": 2010
+        },
+        {
+          "name": "CITROEN C3",
+          "yearStart": 2002,
+          "yearEnd": null
+        },
+        {
+          "name": "CITROEN C3 Aircross",
+          "yearStart": 2017,
+          "yearEnd": null
+        },
+        {
+          "name": "CITROEN C3 Picasso",
+          "yearStart": 2008,
+          "yearEnd": 2017
+        },
+        {
+          "name": "CITROEN C3 Pluriel",
+          "yearStart": 2003,
+          "yearEnd": 2010
+        },
+        {
+          "name": "CITROEN C4",
+          "yearStart": 2004,
+          "yearEnd": null
+        },
+        {
+          "name": "CITROEN C4 Aircross",
+          "yearStart": 2012,
+          "yearEnd": 2017
+        },
+        {
+          "name": "CITROEN C4 Cactus",
+          "yearStart": 2014,
+          "yearEnd": 2020
+        },
+        {
+          "name": "CITROEN C4 Picasso",
+          "yearStart": 2007,
+          "yearEnd": 2018
+        },
+        {
+          "name": "CITROEN C5",
+          "yearStart": 2001,
+          "yearEnd": 2019
+        },
+        {
+          "name": "CITROEN C5 Aircross",
+          "yearStart": 2018,
+          "yearEnd": null
+        },
+        {
+          "name": "CITROEN C5 Crosstourer",
+          "yearStart": 2014,
+          "yearEnd": 2019
+        },
+        {
+          "name": "CITROEN C5 X",
+          "yearStart": 2021,
+          "yearEnd": null
+        },
+        {
+          "name": "CITROEN C6",
+          "yearStart": 2005,
+          "yearEnd": 2012
+        },
+        {
+          "name": "CITROEN C8",
+          "yearStart": 2002,
+          "yearEnd": 2014
+        },
+        {
+          "name": "CITROEN CX",
+          "yearStart": 1974,
+          "yearEnd": 1989
+        },
+        {
+          "name": "CITROEN CX Break",
+          "yearStart": 1976,
+          "yearEnd": 1991
+        },
+        {
+          "name": "CITROEN DS",
+          "yearStart": 1955,
+          "yearEnd": 1976
+        },
+        {
+          "name": "CITROEN DS3",
+          "yearStart": 2009,
+          "yearEnd": 2014
+        },
+        {
+          "name": "CITROEN DS4",
+          "yearStart": 2010,
+          "yearEnd": 2014
+        },
+        {
+          "name": "CITROEN DS5",
+          "yearStart": 2011,
+          "yearEnd": 2018
+        },
+        {
+          "name": "CITROEN Dyane",
+          "yearStart": 1969,
+          "yearEnd": 1983
+        },
+        {
+          "name": "CITROEN E-Mehari",
+          "yearStart": 2016,
+          "yearEnd": 2019
+        },
+        {
+          "name": "CITROEN Evasion",
+          "yearStart": 1994,
+          "yearEnd": 2002
+        },
+        {
+          "name": "CITROEN Grand C4 Picasso",
+          "yearStart": 2006,
+          "yearEnd": 2018
+        },
+        {
+          "name": "CITROEN GSA",
+          "yearStart": 1979,
+          "yearEnd": 1986
+        },
+        {
+          "name": "CITROEN LNA",
+          "yearStart": 1978,
+          "yearEnd": 1984
+        },
+        {
+          "name": "CITROEN Nemo",
+          "yearStart": 2008,
+          "yearEnd": 2015
+        },
+        {
+          "name": "CITROEN Saxo",
+          "yearStart": 1996,
+          "yearEnd": 2003
+        },
+        {
+          "name": "CITROEN SM",
+          "yearStart": 1970,
+          "yearEnd": 1975
+        },
+        {
+          "name": "CITROEN Visa",
+          "yearStart": 1978,
+          "yearEnd": 1988
+        },
+        {
+          "name": "CITROEN Visa Decouvrable",
+          "yearStart": 1984,
+          "yearEnd": 1985
+        },
+        {
+          "name": "CITROEN Xantia",
+          "yearStart": 1993,
+          "yearEnd": 2001
+        },
+        {
+          "name": "CITROEN Xantia Break",
+          "yearStart": 1995,
+          "yearEnd": 2001
+        },
+        {
+          "name": "CITROEN XM",
+          "yearStart": 1989,
+          "yearEnd": 2000
+        },
+        {
+          "name": "CITROEN XM Break",
+          "yearStart": 1992,
+          "yearEnd": 2000
+        },
+        {
+          "name": "CITROEN Xsara",
+          "yearStart": 1997,
+          "yearEnd": 2004
+        },
+        {
+          "name": "CITROEN Xsara Break",
+          "yearStart": 2000,
+          "yearEnd": 2005
+        },
+        {
+          "name": "CITROEN Xsara Picasso",
+          "yearStart": 1999,
+          "yearEnd": 2012
+        },
+        {
+          "name": "CITROEN ZX",
+          "yearStart": 1991,
+          "yearEnd": 1997
+        },
+        {
+          "name": "CITROEN ZX Break",
+          "yearStart": 1994,
+          "yearEnd": 1998
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "group": "lincoln",
+  "makes": [
+    {
+      "name": "Lincoln",
+      "models": [
+        {
+          "name": "Aviator",
+          "yearStart": 2002,
+          "yearEnd": null
+        },
+        {
+          "name": "Continental",
+          "yearStart": 1958,
+          "yearEnd": 2020
+        },
+        {
+          "name": "Corsair",
+          "yearStart": 2019,
+          "yearEnd": null
+        },
+        {
+          "name": "LS",
+          "yearStart": 1999,
+          "yearEnd": 2006
+        },
+        {
+          "name": "Mark LT",
+          "yearStart": 2005,
+          "yearEnd": 2014
+        },
+        {
+          "name": "MKC",
+          "yearStart": 2014,
+          "yearEnd": 2019
+        },
+        {
+          "name": "MKS",
+          "yearStart": 2008,
+          "yearEnd": 2016
+        },
+        {
+          "name": "MKT",
+          "yearStart": 2009,
+          "yearEnd": 2019
+        },
+        {
+          "name": "MKX",
+          "yearStart": 2006,
+          "yearEnd": 2018
+        },
+        {
+          "name": "MKZ",
+          "yearStart": 2006,
+          "yearEnd": 2020
+        },
+        {
+          "name": "Nautilus",
+          "yearStart": 2017,
+          "yearEnd": null
+        },
+        {
+          "name": "Navigator",
+          "yearStart": 1998,
+          "yearEnd": 2024
+        },
+        {
+          "name": "Navigator L",
+          "yearStart": 2006,
+          "yearEnd": 2024
+        },
+        {
+          "name": "Town Car",
+          "yearStart": 1998,
+          "yearEnd": 2011
+        },
+        {
+          "name": "Zephyr",
+          "yearStart": 1936,
+          "yearEnd": null
+        }
+      ]
+    }
+  ]
+}

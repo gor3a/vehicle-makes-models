@@ -1,0 +1,20 @@
+{
+  "group": "vinfast",
+  "makes": [
+    {
+      "name": "VinFast",
+      "models": [
+        {
+          "name": "VF 8",
+          "yearStart": 2022,
+          "yearEnd": null
+        },
+        {
+          "name": "VF 9",
+          "yearStart": 2022,
+          "yearEnd": null
+        }
+      ]
+    }
+  ]
+}

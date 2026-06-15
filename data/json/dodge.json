@@ -1,0 +1,130 @@
+{
+  "group": "dodge",
+  "makes": [
+    {
+      "name": "Dodge",
+      "models": [
+        {
+          "name": "Aries",
+          "yearStart": 1981,
+          "yearEnd": 1989
+        },
+        {
+          "name": "Avenger",
+          "yearStart": 2007,
+          "yearEnd": 2014
+        },
+        {
+          "name": "Caliber",
+          "yearStart": 2006,
+          "yearEnd": 2011
+        },
+        {
+          "name": "Caliber SRT4",
+          "yearStart": 2007,
+          "yearEnd": 2009
+        },
+        {
+          "name": "Caravan",
+          "yearStart": 1983,
+          "yearEnd": 2014
+        },
+        {
+          "name": "Challenger",
+          "yearStart": 1969,
+          "yearEnd": 2023
+        },
+        {
+          "name": "Challenger SRT",
+          "yearStart": 2009,
+          "yearEnd": null
+        },
+        {
+          "name": "Charger",
+          "yearStart": 1966,
+          "yearEnd": null
+        },
+        {
+          "name": "Charger SRT",
+          "yearStart": 2006,
+          "yearEnd": 2023
+        },
+        {
+          "name": "Dakota",
+          "yearStart": 1996,
+          "yearEnd": 2004
+        },
+        {
+          "name": "Dakota Club Cab",
+          "yearStart": 2004,
+          "yearEnd": 2011
+        },
+        {
+          "name": "Dakota Quad Cab",
+          "yearStart": 2004,
+          "yearEnd": 2011
+        },
+        {
+          "name": "Dart",
+          "yearStart": 2012,
+          "yearEnd": 2014
+        },
+        {
+          "name": "Durango",
+          "yearStart": 1997,
+          "yearEnd": null
+        },
+        {
+          "name": "Durango SRT",
+          "yearStart": 2017,
+          "yearEnd": null
+        },
+        {
+          "name": "Hornet",
+          "yearStart": 2022,
+          "yearEnd": null
+        },
+        {
+          "name": "Journey",
+          "yearStart": 2008,
+          "yearEnd": 2020
+        },
+        {
+          "name": "Magnum",
+          "yearStart": 2004,
+          "yearEnd": 2008
+        },
+        {
+          "name": "Magnum SRT8",
+          "yearStart": 2005,
+          "yearEnd": 2008
+        },
+        {
+          "name": "Neon",
+          "yearStart": 1994,
+          "yearEnd": 2005
+        },
+        {
+          "name": "Nitro",
+          "yearStart": 2006,
+          "yearEnd": 2012
+        },
+        {
+          "name": "Ram",
+          "yearStart": 1993,
+          "yearEnd": 2013
+        },
+        {
+          "name": "Stratus",
+          "yearStart": 1994,
+          "yearEnd": 2005
+        },
+        {
+          "name": "Viper",
+          "yearStart": 1991,
+          "yearEnd": 2017
+        }
+      ]
+    }
+  ]
+}

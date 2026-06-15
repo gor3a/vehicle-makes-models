@@ -1,0 +1,105 @@
+{
+  "group": "maserati",
+  "makes": [
+    {
+      "name": "Maserati",
+      "models": [
+        {
+          "name": "Bora",
+          "yearStart": 1971,
+          "yearEnd": 1978
+        },
+        {
+          "name": "Coupe",
+          "yearStart": 1998,
+          "yearEnd": 2004
+        },
+        {
+          "name": "Ghibli",
+          "yearStart": 1967,
+          "yearEnd": null
+        },
+        {
+          "name": "GranCabrio",
+          "yearStart": 2010,
+          "yearEnd": null
+        },
+        {
+          "name": "GranSport",
+          "yearStart": 2004,
+          "yearEnd": 2007
+        },
+        {
+          "name": "GranTurismo",
+          "yearStart": 2007,
+          "yearEnd": null
+        },
+        {
+          "name": "Grecale",
+          "yearStart": 2022,
+          "yearEnd": null
+        },
+        {
+          "name": "Grecale Trofeo",
+          "yearStart": 2022,
+          "yearEnd": null
+        },
+        {
+          "name": "GT2 Stradale",
+          "yearStart": 2024,
+          "yearEnd": null
+        },
+        {
+          "name": "Indy",
+          "yearStart": 1969,
+          "yearEnd": 1974
+        },
+        {
+          "name": "Levante",
+          "yearStart": 2016,
+          "yearEnd": null
+        },
+        {
+          "name": "MC 12",
+          "yearStart": 2004,
+          "yearEnd": 2005
+        },
+        {
+          "name": "MC20",
+          "yearStart": 2020,
+          "yearEnd": null
+        },
+        {
+          "name": "MCPura",
+          "yearStart": 2025,
+          "yearEnd": null
+        },
+        {
+          "name": "MCPura Cielo",
+          "yearStart": 2025,
+          "yearEnd": null
+        },
+        {
+          "name": "Merak",
+          "yearStart": 1974,
+          "yearEnd": 1982
+        },
+        {
+          "name": "Quattroporte",
+          "yearStart": 1963,
+          "yearEnd": null
+        },
+        {
+          "name": "Quattroporte Sport GT S",
+          "yearStart": 2009,
+          "yearEnd": 2013
+        },
+        {
+          "name": "Spyder",
+          "yearStart": 2001,
+          "yearEnd": 2007
+        }
+      ]
+    }
+  ]
+}

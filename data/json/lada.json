@@ -1,0 +1,121 @@
+{
+  "group": "lada",
+  "makes": [
+    {
+      "name": "Lada",
+      "country": "Russia",
+      "models": [
+        {
+          "name": "110",
+          "yearStart": 1995,
+          "yearEnd": 2014
+        },
+        {
+          "name": "111",
+          "yearStart": 1998,
+          "yearEnd": 2008
+        },
+        {
+          "name": "112",
+          "yearStart": 1999,
+          "yearEnd": 2008
+        },
+        {
+          "name": "2101",
+          "yearStart": 1970,
+          "yearEnd": 1988
+        },
+        {
+          "name": "2102",
+          "yearStart": 1971,
+          "yearEnd": 1985
+        },
+        {
+          "name": "2103",
+          "yearStart": 1972,
+          "yearEnd": 1984
+        },
+        {
+          "name": "2104",
+          "yearStart": 1984,
+          "yearEnd": 2012
+        },
+        {
+          "name": "2105",
+          "yearStart": 1979,
+          "yearEnd": 2010
+        },
+        {
+          "name": "2106",
+          "yearStart": 1976,
+          "yearEnd": 2006
+        },
+        {
+          "name": "2107",
+          "yearStart": 1982,
+          "yearEnd": 2012
+        },
+        {
+          "name": "Granta",
+          "yearStart": 2011,
+          "yearEnd": null
+        },
+        {
+          "name": "Kalina",
+          "yearStart": 2004,
+          "yearEnd": 2018
+        },
+        {
+          "name": "Largus",
+          "yearStart": 2012,
+          "yearEnd": null
+        },
+        {
+          "name": "Niva",
+          "yearStart": 1977,
+          "yearEnd": null
+        },
+        {
+          "name": "Niva Legend",
+          "yearStart": 2020,
+          "yearEnd": null
+        },
+        {
+          "name": "Nova",
+          "yearStart": 1981,
+          "yearEnd": 1994
+        },
+        {
+          "name": "Nova Combi",
+          "yearStart": 1985,
+          "yearEnd": 1998
+        },
+        {
+          "name": "Priora",
+          "yearStart": 2007,
+          "yearEnd": 2018
+        },
+        {
+          "name": "Riva",
+          "yearStart": 1980,
+          "yearEnd": 2012
+        },
+        {
+          "name": "Samara",
+          "yearStart": 1984,
+          "yearEnd": 2013
+        },
+        {
+          "name": "Vesta",
+          "yearStart": 2015,
+          "yearEnd": null
+        },
+        {
+          "name": "XRAY",
+          "yearStart": 2015,
+          "yearEnd": 2022
+        }
+      ]
+    }
+  ]
+}

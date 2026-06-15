@@ -1,0 +1,20 @@
+{
+  "group": "scout",
+  "makes": [
+    {
+      "name": "Scout",
+      "models": [
+        {
+          "name": "MOTORS Terra",
+          "yearStart": 2024,
+          "yearEnd": null
+        },
+        {
+          "name": "MOTORS Traveler",
+          "yearStart": 2024,
+          "yearEnd": null
+        }
+      ]
+    }
+  ]
+}

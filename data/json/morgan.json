@@ -1,0 +1,65 @@
+{
+  "group": "morgan",
+  "makes": [
+    {
+      "name": "Morgan",
+      "models": [
+        {
+          "name": "3 wheeler",
+          "yearStart": 2011,
+          "yearEnd": 2021
+        },
+        {
+          "name": "4/4 2 Seater",
+          "yearStart": 2008,
+          "yearEnd": null
+        },
+        {
+          "name": "4/4 4 Seater",
+          "yearStart": 2006,
+          "yearEnd": 2011
+        },
+        {
+          "name": "Aero",
+          "yearStart": 2012,
+          "yearEnd": 2016
+        },
+        {
+          "name": "Aero 8",
+          "yearStart": 2001,
+          "yearEnd": 2018
+        },
+        {
+          "name": "Aero SuperSports",
+          "yearStart": 2009,
+          "yearEnd": 2016
+        },
+        {
+          "name": "AeroMax",
+          "yearStart": 2005,
+          "yearEnd": 2011
+        },
+        {
+          "name": "Plus 4",
+          "yearStart": 2005,
+          "yearEnd": null
+        },
+        {
+          "name": "Plus 8",
+          "yearStart": 2012,
+          "yearEnd": 2018
+        },
+        {
+          "name": "Plus Six",
+          "yearStart": 2019,
+          "yearEnd": null
+        },
+        {
+          "name": "Roadster",
+          "yearStart": 2004,
+          "yearEnd": 2019
+        }
+      ]
+    }
+  ]
+}

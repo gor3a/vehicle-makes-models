@@ -1,0 +1,35 @@
+{
+  "group": "polestar",
+  "makes": [
+    {
+      "name": "Polestar",
+      "models": [
+        {
+          "name": "1",
+          "yearStart": 2019,
+          "yearEnd": 2022
+        },
+        {
+          "name": "2",
+          "yearStart": 2019,
+          "yearEnd": null
+        },
+        {
+          "name": "3",
+          "yearStart": 2022,
+          "yearEnd": null
+        },
+        {
+          "name": "4",
+          "yearStart": 2023,
+          "yearEnd": null
+        },
+        {
+          "name": "5",
+          "yearStart": 2025,
+          "yearEnd": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "group": "aro",
+  "makes": [
+    {
+      "name": "Aro",
+      "models": [
+        {
+          "name": "10 Series",
+          "yearStart": 1980,
+          "yearEnd": 2004
+        },
+        {
+          "name": "24 Series",
+          "yearStart": 1972,
+          "yearEnd": 2006
+        },
+        {
+          "name": "M Series",
+          "yearStart": 1959,
+          "yearEnd": 1975
+        }
+      ]
+    }
+  ]
+}

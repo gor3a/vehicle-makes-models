@@ -1,0 +1,435 @@
+{
+  "group": "ford",
+  "makes": [
+    {
+      "name": "Ford",
+      "models": [
+        {
+          "name": "B-Max",
+          "yearStart": 2012,
+          "yearEnd": 2017
+        },
+        {
+          "name": "Bronco",
+          "yearStart": 1966,
+          "yearEnd": null
+        },
+        {
+          "name": "C-Max",
+          "yearStart": 2003,
+          "yearEnd": 2019
+        },
+        {
+          "name": "Capri",
+          "yearStart": 1969,
+          "yearEnd": 1986
+        },
+        {
+          "name": "Capri SUV",
+          "yearStart": 2024,
+          "yearEnd": null
+        },
+        {
+          "name": "Contour/Mondeo",
+          "yearStart": 1997,
+          "yearEnd": 2000
+        },
+        {
+          "name": "Corsair",
+          "yearStart": 1964,
+          "yearEnd": 1970
+        },
+        {
+          "name": "Cortina",
+          "yearStart": 1962,
+          "yearEnd": 1979
+        },
+        {
+          "name": "Cougar",
+          "yearStart": 1998,
+          "yearEnd": 2001
+        },
+        {
+          "name": "Crown Victoria",
+          "yearStart": 1998,
+          "yearEnd": 2007
+        },
+        {
+          "name": "E-Tourneo",
+          "yearStart": 2023,
+          "yearEnd": null
+        },
+        {
+          "name": "Econovan",
+          "yearStart": 1999,
+          "yearEnd": 2005
+        },
+        {
+          "name": "EcoSport",
+          "yearStart": 2004,
+          "yearEnd": 2022
+        },
+        {
+          "name": "Edge",
+          "yearStart": 2006,
+          "yearEnd": 2023
+        },
+        {
+          "name": "Edge ST",
+          "yearStart": 2018,
+          "yearEnd": 2024
+        },
+        {
+          "name": "Escape",
+          "yearStart": 2000,
+          "yearEnd": null
+        },
+        {
+          "name": "Escort",
+          "yearStart": 1980,
+          "yearEnd": 2000
+        },
+        {
+          "name": "Escort Cabrio",
+          "yearStart": 1993,
+          "yearEnd": 1998
+        },
+        {
+          "name": "Escort Clipper",
+          "yearStart": 1991,
+          "yearEnd": 1992
+        },
+        {
+          "name": "Everest",
+          "yearStart": 2003,
+          "yearEnd": null
+        },
+        {
+          "name": "Excursion",
+          "yearStart": 2000,
+          "yearEnd": 2005
+        },
+        {
+          "name": "Expedition",
+          "yearStart": 1996,
+          "yearEnd": null
+        },
+        {
+          "name": "Explorer",
+          "yearStart": 2000,
+          "yearEnd": null
+        },
+        {
+          "name": "Explorer Electric",
+          "yearStart": 2023,
+          "yearEnd": null
+        },
+        {
+          "name": "Explorer Sport",
+          "yearStart": 2001,
+          "yearEnd": 2005
+        },
+        {
+          "name": "Explorer Sport Trac",
+          "yearStart": 2002,
+          "yearEnd": 2010
+        },
+        {
+          "name": "F-150 Raptor",
+          "yearStart": 2009,
+          "yearEnd": null
+        },
+        {
+          "name": "F-150 Regular Cab",
+          "yearStart": 1996,
+          "yearEnd": 2014
+        },
+        {
+          "name": "F-150 Super Cab",
+          "yearStart": 2001,
+          "yearEnd": null
+        },
+        {
+          "name": "F-150 Super Crew",
+          "yearStart": 2001,
+          "yearEnd": null
+        },
+        {
+          "name": "Fiesta",
+          "yearStart": 1976,
+          "yearEnd": null
+        },
+        {
+          "name": "Fiesta ST",
+          "yearStart": 2012,
+          "yearEnd": 2021
+        },
+        {
+          "name": "Figo",
+          "yearStart": 2010,
+          "yearEnd": null
+        },
+        {
+          "name": "Five Hundred",
+          "yearStart": 2004,
+          "yearEnd": 2007
+        },
+        {
+          "name": "Flex",
+          "yearStart": 2009,
+          "yearEnd": 2019
+        },
+        {
+          "name": "Focus CC",
+          "yearStart": 2006,
+          "yearEnd": 2011
+        },
+        {
+          "name": "Focus RS",
+          "yearStart": 2002,
+          "yearEnd": 2018
+        },
+        {
+          "name": "Focus ST",
+          "yearStart": 2012,
+          "yearEnd": null
+        },
+        {
+          "name": "Focus US",
+          "yearStart": 1998,
+          "yearEnd": null
+        },
+        {
+          "name": "Freestar",
+          "yearStart": 2003,
+          "yearEnd": 2007
+        },
+        {
+          "name": "Freestyle",
+          "yearStart": 2004,
+          "yearEnd": 2007
+        },
+        {
+          "name": "Fusion European",
+          "yearStart": 2002,
+          "yearEnd": 2012
+        },
+        {
+          "name": "Fusion North American",
+          "yearStart": 2005,
+          "yearEnd": 2020
+        },
+        {
+          "name": "Galaxy",
+          "yearStart": 1995,
+          "yearEnd": 2022
+        },
+        {
+          "name": "Grand C-MAX",
+          "yearStart": 2011,
+          "yearEnd": 2015
+        },
+        {
+          "name": "GT",
+          "yearStart": 2004,
+          "yearEnd": 2022
+        },
+        {
+          "name": "Ka",
+          "yearStart": 1997,
+          "yearEnd": 2015
+        },
+        {
+          "name": "Ka+",
+          "yearStart": 2016,
+          "yearEnd": 2019
+        },
+        {
+          "name": "Ka+ Active",
+          "yearStart": 2018,
+          "yearEnd": 2019
+        },
+        {
+          "name": "Kuga",
+          "yearStart": 2008,
+          "yearEnd": null
+        },
+        {
+          "name": "Maverick",
+          "yearStart": 2021,
+          "yearEnd": null
+        },
+        {
+          "name": "Maverick LWB",
+          "yearStart": 1993,
+          "yearEnd": 1998
+        },
+        {
+          "name": "Maverick SWB",
+          "yearStart": 1993,
+          "yearEnd": 1998
+        },
+        {
+          "name": "Mondeo",
+          "yearStart": 1993,
+          "yearEnd": 2022
+        },
+        {
+          "name": "Mustang",
+          "yearStart": 1964,
+          "yearEnd": null
+        },
+        {
+          "name": "Mustang Mach 1",
+          "yearStart": 2020,
+          "yearEnd": null
+        },
+        {
+          "name": "Mustang MACH-E",
+          "yearStart": 2020,
+          "yearEnd": null
+        },
+        {
+          "name": "Orion",
+          "yearStart": 1990,
+          "yearEnd": 1993
+        },
+        {
+          "name": "Pinto",
+          "yearStart": 1971,
+          "yearEnd": 1980
+        },
+        {
+          "name": "Probe",
+          "yearStart": 1994,
+          "yearEnd": 1998
+        },
+        {
+          "name": "Puma",
+          "yearStart": 1998,
+          "yearEnd": 2024
+        },
+        {
+          "name": "Puma ST",
+          "yearStart": 2020,
+          "yearEnd": null
+        },
+        {
+          "name": "Ranger",
+          "yearStart": 2011,
+          "yearEnd": null
+        },
+        {
+          "name": "Ranger Regular Cab",
+          "yearStart": 2000,
+          "yearEnd": 2017
+        },
+        {
+          "name": "Ranger Super Cab",
+          "yearStart": 2000,
+          "yearEnd": 2017
+        },
+        {
+          "name": "Ranger Tremor",
+          "yearStart": 2023,
+          "yearEnd": null
+        },
+        {
+          "name": "Ranger Wildtrak",
+          "yearStart": 2023,
+          "yearEnd": null
+        },
+        {
+          "name": "Raptor Ranger",
+          "yearStart": 2018,
+          "yearEnd": 2022
+        },
+        {
+          "name": "S-Max",
+          "yearStart": 2006,
+          "yearEnd": 2023
+        },
+        {
+          "name": "Scorpio",
+          "yearStart": 1990,
+          "yearEnd": 1997
+        },
+        {
+          "name": "Sierra",
+          "yearStart": 1990,
+          "yearEnd": 1993
+        },
+        {
+          "name": "SportKa",
+          "yearStart": 2003,
+          "yearEnd": 2008
+        },
+        {
+          "name": "StreetKa",
+          "yearStart": 2003,
+          "yearEnd": 2006
+        },
+        {
+          "name": "Super Duty",
+          "yearStart": 2021,
+          "yearEnd": null
+        },
+        {
+          "name": "Taurus",
+          "yearStart": 1995,
+          "yearEnd": 2019
+        },
+        {
+          "name": "Taurus SHO",
+          "yearStart": 2009,
+          "yearEnd": 2019
+        },
+        {
+          "name": "Taurus X",
+          "yearStart": 2007,
+          "yearEnd": 2009
+        },
+        {
+          "name": "Territory",
+          "yearStart": 2018,
+          "yearEnd": 2022
+        },
+        {
+          "name": "Thunderbird",
+          "yearStart": 1955,
+          "yearEnd": 2005
+        },
+        {
+          "name": "Tourneo",
+          "yearStart": 2003,
+          "yearEnd": 2024
+        },
+        {
+          "name": "Transit Connect",
+          "yearStart": 2018,
+          "yearEnd": 2023
+        },
+        {
+          "name": "Transit Custom",
+          "yearStart": 2019,
+          "yearEnd": 2023
+        },
+        {
+          "name": "Wildtrak",
+          "yearStart": 2019,
+          "yearEnd": null
+        },
+        {
+          "name": "Windstar",
+          "yearStart": 1998,
+          "yearEnd": 2004
+        },
+        {
+          "name": "Zodiac",
+          "yearStart": 1962,
+          "yearEnd": 1972
+        }
+      ]
+    }
+  ]
+}

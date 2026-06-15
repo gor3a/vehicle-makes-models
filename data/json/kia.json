@@ -1,0 +1,240 @@
+{
+  "group": "kia",
+  "makes": [
+    {
+      "name": "Kia",
+      "models": [
+        {
+          "name": "Borrego / Mohave",
+          "yearStart": 2009,
+          "yearEnd": 2013
+        },
+        {
+          "name": "Carens",
+          "yearStart": 2000,
+          "yearEnd": 2018
+        },
+        {
+          "name": "Carnival / Sedona",
+          "yearStart": 2002,
+          "yearEnd": null
+        },
+        {
+          "name": "cee'd",
+          "yearStart": 2007,
+          "yearEnd": 2021
+        },
+        {
+          "name": "cee'd SW",
+          "yearStart": 2007,
+          "yearEnd": 2018
+        },
+        {
+          "name": "Ceed",
+          "yearStart": 2018,
+          "yearEnd": null
+        },
+        {
+          "name": "Cerato / Spectra",
+          "yearStart": 2004,
+          "yearEnd": 2009
+        },
+        {
+          "name": "Cerato/Forte",
+          "yearStart": 2013,
+          "yearEnd": 2018
+        },
+        {
+          "name": "EV2",
+          "yearStart": 2026,
+          "yearEnd": null
+        },
+        {
+          "name": "EV3",
+          "yearStart": 2024,
+          "yearEnd": null
+        },
+        {
+          "name": "EV4",
+          "yearStart": 2025,
+          "yearEnd": null
+        },
+        {
+          "name": "EV5",
+          "yearStart": 2023,
+          "yearEnd": null
+        },
+        {
+          "name": "EV6",
+          "yearStart": 2021,
+          "yearEnd": null
+        },
+        {
+          "name": "EV9",
+          "yearStart": 2023,
+          "yearEnd": null
+        },
+        {
+          "name": "Forte",
+          "yearStart": 2009,
+          "yearEnd": null
+        },
+        {
+          "name": "Forte 5 Door",
+          "yearStart": 2010,
+          "yearEnd": 2018
+        },
+        {
+          "name": "Forte Koup",
+          "yearStart": 2009,
+          "yearEnd": 2016
+        },
+        {
+          "name": "Joice",
+          "yearStart": 1999,
+          "yearEnd": 2003
+        },
+        {
+          "name": "K4",
+          "yearStart": 2024,
+          "yearEnd": null
+        },
+        {
+          "name": "K5",
+          "yearStart": 2019,
+          "yearEnd": null
+        },
+        {
+          "name": "K7 / Cadenza",
+          "yearStart": 2013,
+          "yearEnd": 2019
+        },
+        {
+          "name": "K9",
+          "yearStart": 2012,
+          "yearEnd": 2021
+        },
+        {
+          "name": "Niro",
+          "yearStart": 2016,
+          "yearEnd": 2021
+        },
+        {
+          "name": "Opirus / Amanti",
+          "yearStart": 2003,
+          "yearEnd": 2010
+        },
+        {
+          "name": "Optima / Magentis",
+          "yearStart": 2001,
+          "yearEnd": null
+        },
+        {
+          "name": "Optima Sportswagon",
+          "yearStart": 2016,
+          "yearEnd": 2019
+        },
+        {
+          "name": "Picanto",
+          "yearStart": 2004,
+          "yearEnd": null
+        },
+        {
+          "name": "Picanto X-Line",
+          "yearStart": 2017,
+          "yearEnd": 2020
+        },
+        {
+          "name": "Pro cee'd",
+          "yearStart": 2007,
+          "yearEnd": 2025
+        },
+        {
+          "name": "pro_cee’d GT",
+          "yearStart": 2013,
+          "yearEnd": 2018
+        },
+        {
+          "name": "PV5",
+          "yearStart": 2026,
+          "yearEnd": null
+        },
+        {
+          "name": "Rio",
+          "yearStart": 2005,
+          "yearEnd": null
+        },
+        {
+          "name": "Rondo",
+          "yearStart": 2008,
+          "yearEnd": 2016
+        },
+        {
+          "name": "Seltos",
+          "yearStart": 2019,
+          "yearEnd": null
+        },
+        {
+          "name": "Shuma",
+          "yearStart": 1998,
+          "yearEnd": 2004
+        },
+        {
+          "name": "Sorento",
+          "yearStart": 2002,
+          "yearEnd": null
+        },
+        {
+          "name": "Soul",
+          "yearStart": 2008,
+          "yearEnd": null
+        },
+        {
+          "name": "Sportage",
+          "yearStart": 2004,
+          "yearEnd": null
+        },
+        {
+          "name": "Stinger",
+          "yearStart": 2017,
+          "yearEnd": null
+        },
+        {
+          "name": "Stonic",
+          "yearStart": 2017,
+          "yearEnd": 2025
+        },
+        {
+          "name": "Stonic GT-Line",
+          "yearStart": 2020,
+          "yearEnd": null
+        },
+        {
+          "name": "Syros",
+          "yearStart": 2024,
+          "yearEnd": null
+        },
+        {
+          "name": "Tasman",
+          "yearStart": 2024,
+          "yearEnd": null
+        },
+        {
+          "name": "Telluride",
+          "yearStart": 2019,
+          "yearEnd": null
+        },
+        {
+          "name": "Venga",
+          "yearStart": 2009,
+          "yearEnd": 2019
+        },
+        {
+          "name": "XCeed",
+          "yearStart": 2019,
+          "yearEnd": null
+        }
+      ]
+    }
+  ]
+}

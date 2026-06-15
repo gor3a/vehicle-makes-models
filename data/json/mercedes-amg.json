@@ -1,0 +1,135 @@
+{
+  "group": "mercedes-amg",
+  "makes": [
+    {
+      "name": "Mercedes-AMG",
+      "models": [
+        {
+          "name": "A-Class",
+          "yearStart": 2015,
+          "yearEnd": 2023
+        },
+        {
+          "name": "C-Class",
+          "yearStart": 2015,
+          "yearEnd": null
+        },
+        {
+          "name": "C-CLASS",
+          "yearStart": 2015,
+          "yearEnd": null
+        },
+        {
+          "name": "C-CLASS T-MODELL",
+          "yearStart": 2018,
+          "yearEnd": 2021
+        },
+        {
+          "name": "CLA Shooting brake",
+          "yearStart": 2015,
+          "yearEnd": null
+        },
+        {
+          "name": "CLA-Class",
+          "yearStart": 2016,
+          "yearEnd": null
+        },
+        {
+          "name": "CLE",
+          "yearStart": 2023,
+          "yearEnd": null
+        },
+        {
+          "name": "CLS-Class",
+          "yearStart": 2018,
+          "yearEnd": null
+        },
+        {
+          "name": "E-Class",
+          "yearStart": 2016,
+          "yearEnd": null
+        },
+        {
+          "name": "EQE",
+          "yearStart": 2022,
+          "yearEnd": null
+        },
+        {
+          "name": "EQE SUV",
+          "yearStart": 2022,
+          "yearEnd": null
+        },
+        {
+          "name": "EQS",
+          "yearStart": 2021,
+          "yearEnd": null
+        },
+        {
+          "name": "G 63",
+          "yearStart": 2018,
+          "yearEnd": null
+        },
+        {
+          "name": "GLA",
+          "yearStart": 2014,
+          "yearEnd": null
+        },
+        {
+          "name": "GLB",
+          "yearStart": 2019,
+          "yearEnd": null
+        },
+        {
+          "name": "GLC",
+          "yearStart": 2016,
+          "yearEnd": null
+        },
+        {
+          "name": "GLC-Class",
+          "yearStart": 2016,
+          "yearEnd": null
+        },
+        {
+          "name": "GLE",
+          "yearStart": 2015,
+          "yearEnd": null
+        },
+        {
+          "name": "GLS- Class",
+          "yearStart": 2016,
+          "yearEnd": null
+        },
+        {
+          "name": "GT",
+          "yearStart": 2015,
+          "yearEnd": null
+        },
+        {
+          "name": "GT 4-DOOR",
+          "yearStart": 2018,
+          "yearEnd": null
+        },
+        {
+          "name": "ONE",
+          "yearStart": 2022,
+          "yearEnd": null
+        },
+        {
+          "name": "S-Class",
+          "yearStart": 2016,
+          "yearEnd": null
+        },
+        {
+          "name": "SL-Class",
+          "yearStart": 2021,
+          "yearEnd": null
+        },
+        {
+          "name": "SLC",
+          "yearStart": 2016,
+          "yearEnd": 2020
+        }
+      ]
+    }
+  ]
+}

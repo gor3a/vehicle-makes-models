@@ -1,0 +1,150 @@
+{
+  "group": "dacia",
+  "makes": [
+    {
+      "name": "Dacia",
+      "models": [
+        {
+          "name": "1100",
+          "yearStart": 1968,
+          "yearEnd": 1971
+        },
+        {
+          "name": "1300",
+          "yearStart": 1969,
+          "yearEnd": 1979
+        },
+        {
+          "name": "1300 Break",
+          "yearStart": 1972,
+          "yearEnd": 1980
+        },
+        {
+          "name": "1310",
+          "yearStart": 1979,
+          "yearEnd": 2005
+        },
+        {
+          "name": "1310 Break",
+          "yearStart": 1980,
+          "yearEnd": 2004
+        },
+        {
+          "name": "1310/1410 Sport",
+          "yearStart": 1981,
+          "yearEnd": 1992
+        },
+        {
+          "name": "1320",
+          "yearStart": 1988,
+          "yearEnd": 1991
+        },
+        {
+          "name": "1325",
+          "yearStart": 1990,
+          "yearEnd": 1996
+        },
+        {
+          "name": "500",
+          "yearStart": 1985,
+          "yearEnd": 1992
+        },
+        {
+          "name": "Bigster",
+          "yearStart": 2024,
+          "yearEnd": null
+        },
+        {
+          "name": "Dokker",
+          "yearStart": 2012,
+          "yearEnd": 2021
+        },
+        {
+          "name": "Dokker Van",
+          "yearStart": 2012,
+          "yearEnd": 2021
+        },
+        {
+          "name": "Duster",
+          "yearStart": 2010,
+          "yearEnd": null
+        },
+        {
+          "name": "Duster Pick-Up",
+          "yearStart": 2020,
+          "yearEnd": null
+        },
+        {
+          "name": "JOGGER",
+          "yearStart": 2020,
+          "yearEnd": null
+        },
+        {
+          "name": "Lodgy",
+          "yearStart": 2012,
+          "yearEnd": 2022
+        },
+        {
+          "name": "Logan",
+          "yearStart": 2004,
+          "yearEnd": null
+        },
+        {
+          "name": "Logan MCV",
+          "yearStart": 2006,
+          "yearEnd": 2020
+        },
+        {
+          "name": "Logan MCV Stepway",
+          "yearStart": 2017,
+          "yearEnd": 2020
+        },
+        {
+          "name": "Logan Pick-Up",
+          "yearStart": 2007,
+          "yearEnd": 2012
+        },
+        {
+          "name": "Logan Van",
+          "yearStart": 2007,
+          "yearEnd": 2012
+        },
+        {
+          "name": "Nova",
+          "yearStart": 1995,
+          "yearEnd": 1999
+        },
+        {
+          "name": "Sandero",
+          "yearStart": 2008,
+          "yearEnd": null
+        },
+        {
+          "name": "Sandero Stepway",
+          "yearStart": 2009,
+          "yearEnd": null
+        },
+        {
+          "name": "Solenza",
+          "yearStart": 2003,
+          "yearEnd": 2005
+        },
+        {
+          "name": "Spring",
+          "yearStart": 2021,
+          "yearEnd": null
+        },
+        {
+          "name": "Striker",
+          "yearStart": 2026,
+          "yearEnd": null
+        },
+        {
+          "name": "SuperNova",
+          "yearStart": 1999,
+          "yearEnd": 2003
+        }
+      ]
+    }
+  ]
+}

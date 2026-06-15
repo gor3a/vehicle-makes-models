@@ -1,0 +1,90 @@
+{
+  "group": "land-rover",
+  "makes": [
+    {
+      "name": "Land Rover",
+      "models": [
+        {
+          "name": "Defender 110",
+          "yearStart": 1991,
+          "yearEnd": 2025
+        },
+        {
+          "name": "Defender 130",
+          "yearStart": 2022,
+          "yearEnd": null
+        },
+        {
+          "name": "Defender 90",
+          "yearStart": 1991,
+          "yearEnd": 2025
+        },
+        {
+          "name": "Defender Octa",
+          "yearStart": 2024,
+          "yearEnd": null
+        },
+        {
+          "name": "Discovery",
+          "yearStart": 1990,
+          "yearEnd": 2021
+        },
+        {
+          "name": "Discovery Sport",
+          "yearStart": 2014,
+          "yearEnd": null
+        },
+        {
+          "name": "Discovery SVX",
+          "yearStart": 2018,
+          "yearEnd": 2020
+        },
+        {
+          "name": "Freelander",
+          "yearStart": 1998,
+          "yearEnd": 2014
+        },
+        {
+          "name": "Range Rover",
+          "yearStart": 1988,
+          "yearEnd": null
+        },
+        {
+          "name": "Range Rover Evoque",
+          "yearStart": 2011,
+          "yearEnd": null
+        },
+        {
+          "name": "Range Rover L",
+          "yearStart": 2014,
+          "yearEnd": 2021
+        },
+        {
+          "name": "Range Rover PHEV",
+          "yearStart": 2013,
+          "yearEnd": 2022
+        },
+        {
+          "name": "Range Rover Sport",
+          "yearStart": 2005,
+          "yearEnd": null
+        },
+        {
+          "name": "Range Rover Sport PHEV",
+          "yearStart": 2017,
+          "yearEnd": 2022
+        },
+        {
+          "name": "Range Rover Sport SVR",
+          "yearStart": 2015,
+          "yearEnd": 2022
+        },
+        {
+          "name": "Range Rover Velar",
+          "yearStart": 2017,
+          "yearEnd": null
+        }
+      ]
+    }
+  ]
+}

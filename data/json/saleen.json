@@ -1,0 +1,20 @@
+{
+  "group": "saleen",
+  "makes": [
+    {
+      "name": "Saleen",
+      "models": [
+        {
+          "name": "S7",
+          "yearStart": 2000,
+          "yearEnd": 2004
+        },
+        {
+          "name": "S7TT",
+          "yearStart": 2005,
+          "yearEnd": 2006
+        }
+      ]
+    }
+  ]
+}

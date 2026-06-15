@@ -1,0 +1,20 @@
+{
+  "group": "karma",
+  "makes": [
+    {
+      "name": "Karma",
+      "models": [
+        {
+          "name": "Revero GT",
+          "yearStart": 2019,
+          "yearEnd": null
+        },
+        {
+          "name": "Revero GTS",
+          "yearStart": 2019,
+          "yearEnd": null
+        }
+      ]
+    }
+  ]
+}

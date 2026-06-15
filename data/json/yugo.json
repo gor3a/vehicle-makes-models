@@ -1,0 +1,31 @@
+{
+  "group": "yugo",
+  "makes": [
+    {
+      "name": "Yugo",
+      "country": "Serbia",
+      "models": [
+        {
+          "name": "45",
+          "yearStart": 1980,
+          "yearEnd": 1992
+        },
+        {
+          "name": "55",
+          "yearStart": 1981,
+          "yearEnd": 1992
+        },
+        {
+          "name": "GV",
+          "yearStart": 1985,
+          "yearEnd": 1992
+        },
+        {
+          "name": "Tempo",
+          "yearStart": 1985,
+          "yearEnd": 2000
+        }
+      ]
+    }
+  ]
+}

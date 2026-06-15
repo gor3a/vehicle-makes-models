@@ -1,0 +1,55 @@
+{
+  "group": "maruti-suzuki",
+  "makes": [
+    {
+      "name": "Maruti Suzuki",
+      "models": [
+        {
+          "name": "800",
+          "yearStart": 2000,
+          "yearEnd": 2014
+        },
+        {
+          "name": "Alto",
+          "yearStart": 2000,
+          "yearEnd": 2014
+        },
+        {
+          "name": "Baleno",
+          "yearStart": 2000,
+          "yearEnd": 2007
+        },
+        {
+          "name": "Ciaz",
+          "yearStart": 2014,
+          "yearEnd": 2017
+        },
+        {
+          "name": "Esteem",
+          "yearStart": 1995,
+          "yearEnd": 2000
+        },
+        {
+          "name": "Gipsy",
+          "yearStart": 1985,
+          "yearEnd": 2019
+        },
+        {
+          "name": "Swift",
+          "yearStart": 2006,
+          "yearEnd": 2010
+        },
+        {
+          "name": "Wagon R",
+          "yearStart": 2005,
+          "yearEnd": 2009
+        },
+        {
+          "name": "Zen",
+          "yearStart": 2006,
+          "yearEnd": 2009
+        }
+      ]
+    }
+  ]
+}

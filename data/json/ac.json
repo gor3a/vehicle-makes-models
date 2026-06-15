@@ -1,0 +1,25 @@
+{
+  "group": "ac",
+  "makes": [
+    {
+      "name": "AC",
+      "models": [
+        {
+          "name": "Ace",
+          "yearStart": 1993,
+          "yearEnd": 1996
+        },
+        {
+          "name": "Aceca",
+          "yearStart": 1998,
+          "yearEnd": 2000
+        },
+        {
+          "name": "Frua",
+          "yearStart": 1966,
+          "yearEnd": 1973
+        }
+      ]
+    }
+  ]
+}

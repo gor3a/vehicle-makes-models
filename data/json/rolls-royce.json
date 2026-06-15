@@ -1,0 +1,95 @@
+{
+  "group": "rolls-royce",
+  "makes": [
+    {
+      "name": "Rolls-Royce",
+      "models": [
+        {
+          "name": "Arcadia",
+          "yearStart": 2024,
+          "yearEnd": null
+        },
+        {
+          "name": "Camargue",
+          "yearStart": 1975,
+          "yearEnd": 1986
+        },
+        {
+          "name": "Corniche",
+          "yearStart": 1971,
+          "yearEnd": 2003
+        },
+        {
+          "name": "Cullinan",
+          "yearStart": 2018,
+          "yearEnd": null
+        },
+        {
+          "name": "Dawn",
+          "yearStart": 2016,
+          "yearEnd": 2023
+        },
+        {
+          "name": "Flying Spur",
+          "yearStart": 1994,
+          "yearEnd": 1995
+        },
+        {
+          "name": "Ghost",
+          "yearStart": 2009,
+          "yearEnd": null
+        },
+        {
+          "name": "La Rose Noire",
+          "yearStart": 2023,
+          "yearEnd": null
+        },
+        {
+          "name": "Park Ward",
+          "yearStart": 1995,
+          "yearEnd": 2002
+        },
+        {
+          "name": "Phantom",
+          "yearStart": 1925,
+          "yearEnd": 2022
+        },
+        {
+          "name": "Silver Dawn",
+          "yearStart": 1949,
+          "yearEnd": 1999
+        },
+        {
+          "name": "Silver Seraph",
+          "yearStart": 1998,
+          "yearEnd": 2002
+        },
+        {
+          "name": "Silver Shadow",
+          "yearStart": 1965,
+          "yearEnd": 1982
+        },
+        {
+          "name": "Silver Spirit",
+          "yearStart": 1980,
+          "yearEnd": 1998
+        },
+        {
+          "name": "Silver Spur",
+          "yearStart": 1995,
+          "yearEnd": 1998
+        },
+        {
+          "name": "Spectre",
+          "yearStart": 2022,
+          "yearEnd": null
+        },
+        {
+          "name": "Wraith",
+          "yearStart": 2013,
+          "yearEnd": 2023
+        }
+      ]
+    }
+  ]
+}

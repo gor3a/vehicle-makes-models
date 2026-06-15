@@ -1,0 +1,90 @@
+{
+  "group": "daewoo",
+  "makes": [
+    {
+      "name": "Daewoo",
+      "models": [
+        {
+          "name": "Cielo",
+          "yearStart": 1994,
+          "yearEnd": 1997
+        },
+        {
+          "name": "Damas II",
+          "yearStart": 2003,
+          "yearEnd": 2011
+        },
+        {
+          "name": "Espero",
+          "yearStart": 1990,
+          "yearEnd": 1997
+        },
+        {
+          "name": "G2X",
+          "yearStart": 2006,
+          "yearEnd": 2009
+        },
+        {
+          "name": "Gentra",
+          "yearStart": 2005,
+          "yearEnd": 2011
+        },
+        {
+          "name": "Lacetti",
+          "yearStart": 2002,
+          "yearEnd": 2011
+        },
+        {
+          "name": "Lanos",
+          "yearStart": 1996,
+          "yearEnd": 2002
+        },
+        {
+          "name": "Leganza",
+          "yearStart": 1997,
+          "yearEnd": 2002
+        },
+        {
+          "name": "Magnus",
+          "yearStart": 2002,
+          "yearEnd": 2006
+        },
+        {
+          "name": "Matiz",
+          "yearStart": 1998,
+          "yearEnd": 2009
+        },
+        {
+          "name": "Nubira",
+          "yearStart": 1997,
+          "yearEnd": 2004
+        },
+        {
+          "name": "Statesman",
+          "yearStart": 2003,
+          "yearEnd": 2006
+        },
+        {
+          "name": "Tacuma",
+          "yearStart": 2000,
+          "yearEnd": 2008
+        },
+        {
+          "name": "Tico",
+          "yearStart": 1991,
+          "yearEnd": 2001
+        },
+        {
+          "name": "Tosca",
+          "yearStart": 2006,
+          "yearEnd": 2015
+        },
+        {
+          "name": "Winstorm",
+          "yearStart": 2006,
+          "yearEnd": 2011
+        }
+      ]
+    }
+  ]
+}

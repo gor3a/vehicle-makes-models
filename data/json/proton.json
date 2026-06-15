@@ -1,0 +1,80 @@
+{
+  "group": "proton",
+  "makes": [
+    {
+      "name": "Proton",
+      "models": [
+        {
+          "name": "Arena / Jumbuck",
+          "yearStart": 2002,
+          "yearEnd": 2011
+        },
+        {
+          "name": "Ertiga",
+          "yearStart": 2016,
+          "yearEnd": 2018
+        },
+        {
+          "name": "Exora",
+          "yearStart": 2009,
+          "yearEnd": 2019
+        },
+        {
+          "name": "Gen-2",
+          "yearStart": 2004,
+          "yearEnd": 2013
+        },
+        {
+          "name": "Inspira",
+          "yearStart": 2010,
+          "yearEnd": 2015
+        },
+        {
+          "name": "Iriz",
+          "yearStart": 2014,
+          "yearEnd": 2017
+        },
+        {
+          "name": "Perdana",
+          "yearStart": 2016,
+          "yearEnd": 2020
+        },
+        {
+          "name": "Persona",
+          "yearStart": 2007,
+          "yearEnd": 2019
+        },
+        {
+          "name": "Preve",
+          "yearStart": 2011,
+          "yearEnd": 2018
+        },
+        {
+          "name": "Saga",
+          "yearStart": 2011,
+          "yearEnd": 2019
+        },
+        {
+          "name": "Satria Neo",
+          "yearStart": 2006,
+          "yearEnd": 2015
+        },
+        {
+          "name": "Savvy",
+          "yearStart": 2005,
+          "yearEnd": 2012
+        },
+        {
+          "name": "Suprima S",
+          "yearStart": 2013,
+          "yearEnd": 2019
+        },
+        {
+          "name": "Waja / Impian",
+          "yearStart": 2001,
+          "yearEnd": 2011
+        }
+      ]
+    }
+  ]
+}

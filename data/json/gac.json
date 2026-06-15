@@ -1,0 +1,66 @@
+{
+  "group": "gac",
+  "makes": [
+    {
+      "name": "GAC",
+      "country": "China",
+      "models": [
+        {
+          "name": "Aion S",
+          "yearStart": 2019,
+          "yearEnd": null
+        },
+        {
+          "name": "Aion V",
+          "yearStart": 2020,
+          "yearEnd": null
+        },
+        {
+          "name": "Aion Y",
+          "yearStart": 2021,
+          "yearEnd": null
+        },
+        {
+          "name": "Emkoo",
+          "yearStart": 2022,
+          "yearEnd": null
+        },
+        {
+          "name": "Emzoom",
+          "yearStart": 2022,
+          "yearEnd": null
+        },
+        {
+          "name": "GA4",
+          "yearStart": 2018,
+          "yearEnd": null
+        },
+        {
+          "name": "GA6",
+          "yearStart": 2014,
+          "yearEnd": null
+        },
+        {
+          "name": "GN6",
+          "yearStart": 2019,
+          "yearEnd": null
+        },
+        {
+          "name": "GS3",
+          "yearStart": 2017,
+          "yearEnd": null
+        },
+        {
+          "name": "GS4",
+          "yearStart": 2015,
+          "yearEnd": null
+        },
+        {
+          "name": "GS8",
+          "yearStart": 2016,
+          "yearEnd": null
+        }
+      ]
+    }
+  ]
+}

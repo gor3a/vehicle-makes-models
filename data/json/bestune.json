@@ -1,0 +1,31 @@
+{
+  "group": "bestune",
+  "makes": [
+    {
+      "name": "Bestune",
+      "country": "China",
+      "models": [
+        {
+          "name": "B70",
+          "yearStart": 2006,
+          "yearEnd": null
+        },
+        {
+          "name": "T55",
+          "yearStart": 2021,
+          "yearEnd": null
+        },
+        {
+          "name": "T77",
+          "yearStart": 2018,
+          "yearEnd": null
+        },
+        {
+          "name": "T99",
+          "yearStart": 2019,
+          "yearEnd": null
+        }
+      ]
+    }
+  ]
+}

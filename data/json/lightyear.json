@@ -1,0 +1,20 @@
+{
+  "group": "lightyear",
+  "makes": [
+    {
+      "name": "Lightyear",
+      "models": [
+        {
+          "name": "Lightyear 0",
+          "yearStart": 2022,
+          "yearEnd": null
+        },
+        {
+          "name": "Lightyear 2",
+          "yearStart": 2023,
+          "yearEnd": null
+        }
+      ]
+    }
+  ]
+}

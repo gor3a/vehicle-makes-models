@@ -1,0 +1,31 @@
+{
+  "group": "moskvitch",
+  "makes": [
+    {
+      "name": "Moskvitch",
+      "country": "Russia",
+      "models": [
+        {
+          "name": "2140",
+          "yearStart": 1976,
+          "yearEnd": 1988
+        },
+        {
+          "name": "2141",
+          "yearStart": 1986,
+          "yearEnd": 2003
+        },
+        {
+          "name": "3",
+          "yearStart": 2022,
+          "yearEnd": null
+        },
+        {
+          "name": "412",
+          "yearStart": 1967,
+          "yearEnd": 1998
+        }
+      ]
+    }
+  ]
+}

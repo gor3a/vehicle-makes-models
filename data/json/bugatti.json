@@ -1,0 +1,70 @@
+{
+  "group": "bugatti",
+  "makes": [
+    {
+      "name": "Bugatti",
+      "models": [
+        {
+          "name": "Bolide",
+          "yearStart": 2022,
+          "yearEnd": null
+        },
+        {
+          "name": "Brouillard",
+          "yearStart": 2025,
+          "yearEnd": null
+        },
+        {
+          "name": "Centodieci",
+          "yearStart": 2019,
+          "yearEnd": 2022
+        },
+        {
+          "name": "Chiron",
+          "yearStart": 2016,
+          "yearEnd": null
+        },
+        {
+          "name": "Divo",
+          "yearStart": 2018,
+          "yearEnd": 2021
+        },
+        {
+          "name": "EB 110",
+          "yearStart": 1991,
+          "yearEnd": 1995
+        },
+        {
+          "name": "La Voiture Noire",
+          "yearStart": 2019,
+          "yearEnd": 2019
+        },
+        {
+          "name": "Mistral",
+          "yearStart": 2022,
+          "yearEnd": null
+        },
+        {
+          "name": "Tourbillon",
+          "yearStart": 2024,
+          "yearEnd": null
+        },
+        {
+          "name": "Type 5",
+          "yearStart": null,
+          "yearEnd": null
+        },
+        {
+          "name": "Type 64",
+          "yearStart": null,
+          "yearEnd": null
+        },
+        {
+          "name": "Veyron",
+          "yearStart": 2005,
+          "yearEnd": 2015
+        }
+      ]
+    }
+  ]
+}

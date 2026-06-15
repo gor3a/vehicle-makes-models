@@ -1,0 +1,36 @@
+{
+  "group": "hongqi",
+  "makes": [
+    {
+      "name": "Hongqi",
+      "country": "China",
+      "models": [
+        {
+          "name": "E-HS9",
+          "yearStart": 2020,
+          "yearEnd": null
+        },
+        {
+          "name": "H5",
+          "yearStart": 2017,
+          "yearEnd": null
+        },
+        {
+          "name": "H9",
+          "yearStart": 2020,
+          "yearEnd": null
+        },
+        {
+          "name": "HS5",
+          "yearStart": 2019,
+          "yearEnd": null
+        },
+        {
+          "name": "HS7",
+          "yearStart": 2019,
+          "yearEnd": null
+        }
+      ]
+    }
+  ]
+}

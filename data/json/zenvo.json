@@ -1,0 +1,30 @@
+{
+  "group": "zenvo",
+  "makes": [
+    {
+      "name": "Zenvo",
+      "models": [
+        {
+          "name": "Aurora",
+          "yearStart": 2023,
+          "yearEnd": null
+        },
+        {
+          "name": "ST1",
+          "yearStart": 2009,
+          "yearEnd": 2017
+        },
+        {
+          "name": "TS1",
+          "yearStart": 2017,
+          "yearEnd": 2017
+        },
+        {
+          "name": "TSR-S",
+          "yearStart": 2018,
+          "yearEnd": null
+        }
+      ]
+    }
+  ]
+}

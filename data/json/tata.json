@@ -1,0 +1,65 @@
+{
+  "group": "tata",
+  "makes": [
+    {
+      "name": "Tata",
+      "models": [
+        {
+          "name": "MOTORS Altroz",
+          "yearStart": 2019,
+          "yearEnd": null
+        },
+        {
+          "name": "MOTORS Aria",
+          "yearStart": 2010,
+          "yearEnd": 2017
+        },
+        {
+          "name": "MOTORS Harrier",
+          "yearStart": 2018,
+          "yearEnd": 2023
+        },
+        {
+          "name": "MOTORS Indica",
+          "yearStart": 1998,
+          "yearEnd": 2015
+        },
+        {
+          "name": "MOTORS Indigo",
+          "yearStart": 2002,
+          "yearEnd": 2016
+        },
+        {
+          "name": "MOTORS Indigo SW",
+          "yearStart": 2004,
+          "yearEnd": 2009
+        },
+        {
+          "name": "MOTORS Nano",
+          "yearStart": 2008,
+          "yearEnd": 2018
+        },
+        {
+          "name": "MOTORS Nexon",
+          "yearStart": 2017,
+          "yearEnd": 2023
+        },
+        {
+          "name": "MOTORS Safari",
+          "yearStart": 2005,
+          "yearEnd": 2020
+        },
+        {
+          "name": "MOTORS Sumo",
+          "yearStart": 2008,
+          "yearEnd": 2011
+        },
+        {
+          "name": "MOTORS Telcoline",
+          "yearStart": 1988,
+          "yearEnd": 2005
+        }
+      ]
+    }
+  ]
+}

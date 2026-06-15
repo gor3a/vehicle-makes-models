@@ -1,0 +1,50 @@
+{
+  "group": "caterham",
+  "makes": [
+    {
+      "name": "Caterham",
+      "models": [
+        {
+          "name": "Classic",
+          "yearStart": 2000,
+          "yearEnd": 2005
+        },
+        {
+          "name": "CSR",
+          "yearStart": 2005,
+          "yearEnd": 2024
+        },
+        {
+          "name": "Roadsport",
+          "yearStart": 2007,
+          "yearEnd": 2009
+        },
+        {
+          "name": "Seven 160",
+          "yearStart": 2013,
+          "yearEnd": null
+        },
+        {
+          "name": "Seven 620",
+          "yearStart": 2013,
+          "yearEnd": null
+        },
+        {
+          "name": "Superlight",
+          "yearStart": 2013,
+          "yearEnd": null
+        },
+        {
+          "name": "Supersport",
+          "yearStart": 2012,
+          "yearEnd": null
+        },
+        {
+          "name": "The Super Seven 1600",
+          "yearStart": 2020,
+          "yearEnd": null
+        }
+      ]
+    }
+  ]
+}

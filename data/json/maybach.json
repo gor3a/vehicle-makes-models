@@ -1,0 +1,25 @@
+{
+  "group": "maybach",
+  "makes": [
+    {
+      "name": "Maybach",
+      "models": [
+        {
+          "name": "57",
+          "yearStart": 2002,
+          "yearEnd": 2012
+        },
+        {
+          "name": "62",
+          "yearStart": 2002,
+          "yearEnd": 2012
+        },
+        {
+          "name": "Landaulet",
+          "yearStart": 2008,
+          "yearEnd": 2012
+        }
+      ]
+    }
+  ]
+}

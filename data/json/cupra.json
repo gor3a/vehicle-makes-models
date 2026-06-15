@@ -1,0 +1,50 @@
+{
+  "group": "cupra",
+  "makes": [
+    {
+      "name": "Cupra",
+      "models": [
+        {
+          "name": "Ateca",
+          "yearStart": 2018,
+          "yearEnd": 2020
+        },
+        {
+          "name": "Born",
+          "yearStart": 2021,
+          "yearEnd": null
+        },
+        {
+          "name": "Formentor",
+          "yearStart": 2020,
+          "yearEnd": null
+        },
+        {
+          "name": "Leon",
+          "yearStart": 2020,
+          "yearEnd": null
+        },
+        {
+          "name": "Leon Sportstourer",
+          "yearStart": 2020,
+          "yearEnd": null
+        },
+        {
+          "name": "Raval",
+          "yearStart": 2026,
+          "yearEnd": null
+        },
+        {
+          "name": "Tavascan",
+          "yearStart": 2023,
+          "yearEnd": null
+        },
+        {
+          "name": "Terramar",
+          "yearStart": 2024,
+          "yearEnd": null
+        }
+      ]
+    }
+  ]
+}

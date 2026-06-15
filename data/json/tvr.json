@@ -1,0 +1,60 @@
+{
+  "group": "tvr",
+  "makes": [
+    {
+      "name": "TVR",
+      "models": [
+        {
+          "name": "\"Wedge Series\"",
+          "yearStart": 1983,
+          "yearEnd": 1987
+        },
+        {
+          "name": "Cerbera",
+          "yearStart": 1996,
+          "yearEnd": 2004
+        },
+        {
+          "name": "Chimaera",
+          "yearStart": 1992,
+          "yearEnd": 2001
+        },
+        {
+          "name": "Griffith",
+          "yearStart": 1992,
+          "yearEnd": 2017
+        },
+        {
+          "name": "Sagaris",
+          "yearStart": 2004,
+          "yearEnd": 2006
+        },
+        {
+          "name": "T350",
+          "yearStart": 2002,
+          "yearEnd": 2006
+        },
+        {
+          "name": "Tamora",
+          "yearStart": 2002,
+          "yearEnd": 2006
+        },
+        {
+          "name": "Tuscan",
+          "yearStart": 2001,
+          "yearEnd": 2005
+        },
+        {
+          "name": "Tuscan R/ T 440R/T 400R/ Typhon",
+          "yearStart": 2000,
+          "yearEnd": 2006
+        },
+        {
+          "name": "Tuscan S",
+          "yearStart": 2001,
+          "yearEnd": 2006
+        }
+      ]
+    }
+  ]
+}

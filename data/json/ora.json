@@ -1,0 +1,31 @@
+{
+  "group": "ora",
+  "makes": [
+    {
+      "name": "Ora",
+      "country": "China",
+      "models": [
+        {
+          "name": "Black Cat",
+          "yearStart": 2018,
+          "yearEnd": null
+        },
+        {
+          "name": "Funky Cat",
+          "yearStart": 2022,
+          "yearEnd": null
+        },
+        {
+          "name": "Good Cat",
+          "yearStart": 2020,
+          "yearEnd": null
+        },
+        {
+          "name": "Lightning Cat",
+          "yearStart": 2023,
+          "yearEnd": null
+        }
+      ]
+    }
+  ]
+}

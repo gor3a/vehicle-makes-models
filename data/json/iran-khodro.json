@@ -1,0 +1,41 @@
+{
+  "group": "iran-khodro",
+  "makes": [
+    {
+      "name": "Iran Khodro",
+      "country": "Iran",
+      "models": [
+        {
+          "name": "Dena",
+          "yearStart": 2014,
+          "yearEnd": null
+        },
+        {
+          "name": "Paykan",
+          "yearStart": 1967,
+          "yearEnd": 2005
+        },
+        {
+          "name": "Runna",
+          "yearStart": 2011,
+          "yearEnd": null
+        },
+        {
+          "name": "Samand",
+          "yearStart": 2002,
+          "yearEnd": null
+        },
+        {
+          "name": "Soren",
+          "yearStart": 2007,
+          "yearEnd": null
+        },
+        {
+          "name": "Tara",
+          "yearStart": 2020,
+          "yearEnd": null
+        }
+      ]
+    }
+  ]
+}

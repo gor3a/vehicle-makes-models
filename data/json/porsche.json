@@ -1,0 +1,495 @@
+{
+  "group": "porsche",
+  "makes": [
+    {
+      "name": "Porsche",
+      "models": [
+        {
+          "name": "718",
+          "yearStart": 2019,
+          "yearEnd": null
+        },
+        {
+          "name": "718 Boxster",
+          "yearStart": 2016,
+          "yearEnd": null
+        },
+        {
+          "name": "718 Boxster GTS",
+          "yearStart": 2017,
+          "yearEnd": null
+        },
+        {
+          "name": "718 Boxster S",
+          "yearStart": 2016,
+          "yearEnd": null
+        },
+        {
+          "name": "718 Cayman",
+          "yearStart": 2016,
+          "yearEnd": null
+        },
+        {
+          "name": "718 Cayman GT4",
+          "yearStart": 2015,
+          "yearEnd": null
+        },
+        {
+          "name": "718 Cayman GTS",
+          "yearStart": 2017,
+          "yearEnd": null
+        },
+        {
+          "name": "718 Cayman S",
+          "yearStart": 2016,
+          "yearEnd": null
+        },
+        {
+          "name": "911 Carrera",
+          "yearStart": 1964,
+          "yearEnd": null
+        },
+        {
+          "name": "911 Carrera 4",
+          "yearStart": 1988,
+          "yearEnd": 2016
+        },
+        {
+          "name": "911 Carrera 4 GTS",
+          "yearStart": 2014,
+          "yearEnd": null
+        },
+        {
+          "name": "911 Carrera 4S",
+          "yearStart": 1995,
+          "yearEnd": 2025
+        },
+        {
+          "name": "911 Carrera GTS",
+          "yearStart": 2010,
+          "yearEnd": 2021
+        },
+        {
+          "name": "911 Carrera RS",
+          "yearStart": 1972,
+          "yearEnd": 1996
+        },
+        {
+          "name": "911 Carrera S",
+          "yearStart": 1995,
+          "yearEnd": 2024
+        },
+        {
+          "name": "911 Carrera T",
+          "yearStart": 2017,
+          "yearEnd": null
+        },
+        {
+          "name": "911 GT2",
+          "yearStart": 1995,
+          "yearEnd": 2009
+        },
+        {
+          "name": "911 GT2 RS",
+          "yearStart": 2010,
+          "yearEnd": 2019
+        },
+        {
+          "name": "911 GT3",
+          "yearStart": 1999,
+          "yearEnd": null
+        },
+        {
+          "name": "911 GT3 RS",
+          "yearStart": 2004,
+          "yearEnd": 2019
+        },
+        {
+          "name": "911 R",
+          "yearStart": 2016,
+          "yearEnd": 2019
+        },
+        {
+          "name": "911 Sport Classic",
+          "yearStart": 2010,
+          "yearEnd": 2012
+        },
+        {
+          "name": "911 Targa",
+          "yearStart": 1967,
+          "yearEnd": 1997
+        },
+        {
+          "name": "911 Targa 4",
+          "yearStart": 2006,
+          "yearEnd": null
+        },
+        {
+          "name": "911 Targa 4 GTS",
+          "yearStart": 2015,
+          "yearEnd": null
+        },
+        {
+          "name": "911 Targa 4S",
+          "yearStart": 2006,
+          "yearEnd": null
+        },
+        {
+          "name": "911 Turbo",
+          "yearStart": 1974,
+          "yearEnd": null
+        },
+        {
+          "name": "911 Turbo S",
+          "yearStart": 2004,
+          "yearEnd": null
+        },
+        {
+          "name": "918",
+          "yearStart": 2013,
+          "yearEnd": 2015
+        },
+        {
+          "name": "928",
+          "yearStart": 1978,
+          "yearEnd": 1982
+        },
+        {
+          "name": "928 GT",
+          "yearStart": 1989,
+          "yearEnd": 1991
+        },
+        {
+          "name": "928 GTS",
+          "yearStart": 1992,
+          "yearEnd": 1995
+        },
+        {
+          "name": "928 S",
+          "yearStart": 1980,
+          "yearEnd": 1991
+        },
+        {
+          "name": "944",
+          "yearStart": 1981,
+          "yearEnd": 1990
+        },
+        {
+          "name": "944 S",
+          "yearStart": 1986,
+          "yearEnd": 1991
+        },
+        {
+          "name": "944 Turbo",
+          "yearStart": 1985,
+          "yearEnd": 1990
+        },
+        {
+          "name": "959",
+          "yearStart": 1987,
+          "yearEnd": 1988
+        },
+        {
+          "name": "968",
+          "yearStart": 1991,
+          "yearEnd": 1995
+        },
+        {
+          "name": "968 Turbo S",
+          "yearStart": 1993,
+          "yearEnd": 1994
+        },
+        {
+          "name": "Boxster",
+          "yearStart": 1996,
+          "yearEnd": 2019
+        },
+        {
+          "name": "Boxster S",
+          "yearStart": 1999,
+          "yearEnd": 2016
+        },
+        {
+          "name": "Carrera GT",
+          "yearStart": 2003,
+          "yearEnd": 2006
+        },
+        {
+          "name": "Cayenne",
+          "yearStart": 2002,
+          "yearEnd": null
+        },
+        {
+          "name": "Cayenne Diesel",
+          "yearStart": 2008,
+          "yearEnd": 2017
+        },
+        {
+          "name": "Cayenne Electric",
+          "yearStart": 2026,
+          "yearEnd": null
+        },
+        {
+          "name": "Cayenne GTS",
+          "yearStart": 2008,
+          "yearEnd": null
+        },
+        {
+          "name": "Cayenne S",
+          "yearStart": 2002,
+          "yearEnd": null
+        },
+        {
+          "name": "Cayenne S Diesel",
+          "yearStart": 2012,
+          "yearEnd": 2017
+        },
+        {
+          "name": "Cayenne S E-Hybrid",
+          "yearStart": 2014,
+          "yearEnd": 2019
+        },
+        {
+          "name": "Cayenne S Electric",
+          "yearStart": 2026,
+          "yearEnd": null
+        },
+        {
+          "name": "Cayenne S Hybrid",
+          "yearStart": 2010,
+          "yearEnd": 2014
+        },
+        {
+          "name": "Cayenne S TransSyberia",
+          "yearStart": 2009,
+          "yearEnd": 2011
+        },
+        {
+          "name": "Cayenne Turbo",
+          "yearStart": 2002,
+          "yearEnd": 2023
+        },
+        {
+          "name": "Cayenne Turbo E-Hybrid",
+          "yearStart": 2023,
+          "yearEnd": null
+        },
+        {
+          "name": "Cayenne Turbo S",
+          "yearStart": 2006,
+          "yearEnd": 2017
+        },
+        {
+          "name": "Cayenne Turbo S E-Hybrid",
+          "yearStart": 2019,
+          "yearEnd": 2023
+        },
+        {
+          "name": "Cayman",
+          "yearStart": 2006,
+          "yearEnd": 2016
+        },
+        {
+          "name": "Cayman R",
+          "yearStart": 2010,
+          "yearEnd": 2011
+        },
+        {
+          "name": "Cayman S",
+          "yearStart": 2005,
+          "yearEnd": 2016
+        },
+        {
+          "name": "Macan",
+          "yearStart": 2014,
+          "yearEnd": 2024
+        },
+        {
+          "name": "Macan 4 Electric",
+          "yearStart": 2024,
+          "yearEnd": null
+        },
+        {
+          "name": "Macan GTS",
+          "yearStart": 2015,
+          "yearEnd": null
+        },
+        {
+          "name": "Macan S",
+          "yearStart": 2014,
+          "yearEnd": null
+        },
+        {
+          "name": "Macan S Diesel",
+          "yearStart": 2014,
+          "yearEnd": 2018
+        },
+        {
+          "name": "Macan T",
+          "yearStart": 2022,
+          "yearEnd": null
+        },
+        {
+          "name": "Macan Turbo",
+          "yearStart": 2014,
+          "yearEnd": 2021
+        },
+        {
+          "name": "Macan Turbo Electric",
+          "yearStart": 2024,
+          "yearEnd": null
+        },
+        {
+          "name": "Panamera",
+          "yearStart": 2009,
+          "yearEnd": 2023
+        },
+        {
+          "name": "Panamera 4",
+          "yearStart": 2009,
+          "yearEnd": null
+        },
+        {
+          "name": "Panamera 4 E-Hybrid",
+          "yearStart": 2016,
+          "yearEnd": 2020
+        },
+        {
+          "name": "Panamera 4 E-Hybrid Sport Turismo",
+          "yearStart": 2017,
+          "yearEnd": 2020
+        },
+        {
+          "name": "Panamera 4 Sport Turismo",
+          "yearStart": 2017,
+          "yearEnd": 2020
+        },
+        {
+          "name": "Panamera 4S",
+          "yearStart": 2009,
+          "yearEnd": 2020
+        },
+        {
+          "name": "Panamera 4S Diesel",
+          "yearStart": 2016,
+          "yearEnd": 2020
+        },
+        {
+          "name": "Panamera 4S Diesel Sport Turismo",
+          "yearStart": 2017,
+          "yearEnd": 2020
+        },
+        {
+          "name": "Panamera 4S E-Hybrid",
+          "yearStart": 2020,
+          "yearEnd": null
+        },
+        {
+          "name": "Panamera 4S Sport Turismo",
+          "yearStart": 2017,
+          "yearEnd": 2020
+        },
+        {
+          "name": "Panamera Diesel",
+          "yearStart": 2011,
+          "yearEnd": 2016
+        },
+        {
+          "name": "Panamera GTS",
+          "yearStart": 2011,
+          "yearEnd": null
+        },
+        {
+          "name": "Panamera GTS Sport Turismo",
+          "yearStart": 2018,
+          "yearEnd": null
+        },
+        {
+          "name": "Panamera S",
+          "yearStart": 2009,
+          "yearEnd": 2016
+        },
+        {
+          "name": "Panamera S E-Hybrid",
+          "yearStart": 2013,
+          "yearEnd": 2016
+        },
+        {
+          "name": "Panamera S Hybrid",
+          "yearStart": 2011,
+          "yearEnd": 2013
+        },
+        {
+          "name": "Panamera Turbo",
+          "yearStart": 2009,
+          "yearEnd": 2020
+        },
+        {
+          "name": "Panamera Turbo E Hybrid",
+          "yearStart": 2023,
+          "yearEnd": null
+        },
+        {
+          "name": "Panamera Turbo S",
+          "yearStart": 2011,
+          "yearEnd": null
+        },
+        {
+          "name": "Panamera Turbo S E-Hybrid",
+          "yearStart": 2017,
+          "yearEnd": 2020
+        },
+        {
+          "name": "Panamera Turbo S E-Hybrid Sport Turismo",
+          "yearStart": 2017,
+          "yearEnd": 2023
+        },
+        {
+          "name": "Panamera Turbo S Sport Turismo",
+          "yearStart": 2020,
+          "yearEnd": null
+        },
+        {
+          "name": "Panamera Turbo Sport Turismo",
+          "yearStart": 2017,
+          "yearEnd": 2020
+        },
+        {
+          "name": "Speedster",
+          "yearStart": 2019,
+          "yearEnd": 2019
+        },
+        {
+          "name": "Taycan",
+          "yearStart": 2019,
+          "yearEnd": null
+        },
+        {
+          "name": "Taycan Cross Turismo",
+          "yearStart": 2021,
+          "yearEnd": null
+        },
+        {
+          "name": "Taycan GTS",
+          "yearStart": 2021,
+          "yearEnd": null
+        },
+        {
+          "name": "Taycan GTS Sport Turismo",
+          "yearStart": 2021,
+          "yearEnd": null
+        },
+        {
+          "name": "Taycan Sport Turismo",
+          "yearStart": 2024,
+          "yearEnd": null
+        },
+        {
+          "name": "Taycan Turbo",
+          "yearStart": 2019,
+          "yearEnd": null
+        }
+      ]
+    }
+  ]
+}

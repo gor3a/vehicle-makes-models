@@ -1,0 +1,41 @@
+{
+  "group": "saipa",
+  "makes": [
+    {
+      "name": "Saipa",
+      "country": "Iran",
+      "models": [
+        {
+          "name": "Pride",
+          "yearStart": 1993,
+          "yearEnd": null
+        },
+        {
+          "name": "Quick",
+          "yearStart": 2018,
+          "yearEnd": null
+        },
+        {
+          "name": "Saba",
+          "yearStart": 1993,
+          "yearEnd": 2005
+        },
+        {
+          "name": "Saina",
+          "yearStart": 2016,
+          "yearEnd": null
+        },
+        {
+          "name": "Shahin",
+          "yearStart": 2020,
+          "yearEnd": null
+        },
+        {
+          "name": "Tiba",
+          "yearStart": 2009,
+          "yearEnd": null
+        }
+      ]
+    }
+  ]
+}

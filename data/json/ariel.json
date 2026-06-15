@@ -1,0 +1,20 @@
+{
+  "group": "ariel",
+  "makes": [
+    {
+      "name": "Ariel",
+      "models": [
+        {
+          "name": "Atom",
+          "yearStart": 1999,
+          "yearEnd": 2013
+        },
+        {
+          "name": "Nomad",
+          "yearStart": 2015,
+          "yearEnd": 2024
+        }
+      ]
+    }
+  ]
+}

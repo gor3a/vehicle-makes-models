@@ -1,0 +1,51 @@
+{
+  "group": "speranza",
+  "makes": [
+    {
+      "name": "Speranza",
+      "country": "Egypt",
+      "models": [
+        {
+          "name": "A113",
+          "yearStart": 2007,
+          "yearEnd": 2015
+        },
+        {
+          "name": "A213",
+          "yearStart": 2009,
+          "yearEnd": 2017
+        },
+        {
+          "name": "A516",
+          "yearStart": 2008,
+          "yearEnd": 2017
+        },
+        {
+          "name": "A620",
+          "yearStart": 2009,
+          "yearEnd": 2016
+        },
+        {
+          "name": "Envy",
+          "yearStart": 2014,
+          "yearEnd": 2018
+        },
+        {
+          "name": "M11",
+          "yearStart": 2010,
+          "yearEnd": 2017
+        },
+        {
+          "name": "M12",
+          "yearStart": 2010,
+          "yearEnd": 2016
+        },
+        {
+          "name": "Tiggo",
+          "yearStart": 2008,
+          "yearEnd": 2017
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "group": "bentley",
+  "makes": [
+    {
+      "name": "Bentley",
+      "models": [
+        {
+          "name": "Arnage",
+          "yearStart": 1999,
+          "yearEnd": 2009
+        },
+        {
+          "name": "Azure",
+          "yearStart": 1995,
+          "yearEnd": 2011
+        },
+        {
+          "name": "Batur",
+          "yearStart": 2024,
+          "yearEnd": null
+        },
+        {
+          "name": "Bentayga",
+          "yearStart": 2015,
+          "yearEnd": null
+        },
+        {
+          "name": "Bentayga Speed",
+          "yearStart": 2019,
+          "yearEnd": null
+        },
+        {
+          "name": "Brooklands",
+          "yearStart": 1992,
+          "yearEnd": 2011
+        },
+        {
+          "name": "Continental",
+          "yearStart": 1952,
+          "yearEnd": 2013
+        },
+        {
+          "name": "Continental Flying Spur",
+          "yearStart": 2005,
+          "yearEnd": 2013
+        },
+        {
+          "name": "Continental GT",
+          "yearStart": 2011,
+          "yearEnd": null
+        },
+        {
+          "name": "Continental GTC",
+          "yearStart": 2006,
+          "yearEnd": null
+        },
+        {
+          "name": "Flying Spur",
+          "yearStart": 2014,
+          "yearEnd": null
+        },
+        {
+          "name": "Mulliner",
+          "yearStart": 2020,
+          "yearEnd": null
+        },
+        {
+          "name": "Mulsanne",
+          "yearStart": 2009,
+          "yearEnd": 2020
+        },
+        {
+          "name": "State Limousine",
+          "yearStart": null,
+          "yearEnd": null
+        },
+        {
+          "name": "T1",
+          "yearStart": 1965,
+          "yearEnd": 1976
+        },
+        {
+          "name": "T2",
+          "yearStart": 1977,
+          "yearEnd": 1980
+        }
+      ]
+    }
+  ]
+}

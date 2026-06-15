@@ -1,0 +1,355 @@
+{
+  "group": "toyota",
+  "makes": [
+    {
+      "name": "Toyota",
+      "models": [
+        {
+          "name": "4Runner",
+          "yearStart": 1990,
+          "yearEnd": null
+        },
+        {
+          "name": "Agya",
+          "yearStart": 2012,
+          "yearEnd": 2017
+        },
+        {
+          "name": "Alphard",
+          "yearStart": 2002,
+          "yearEnd": 2007
+        },
+        {
+          "name": "Aqua",
+          "yearStart": 2021,
+          "yearEnd": null
+        },
+        {
+          "name": "Aurion",
+          "yearStart": 2006,
+          "yearEnd": 2017
+        },
+        {
+          "name": "Auris",
+          "yearStart": 2006,
+          "yearEnd": 2023
+        },
+        {
+          "name": "Avalon",
+          "yearStart": 2005,
+          "yearEnd": 2022
+        },
+        {
+          "name": "Avensis",
+          "yearStart": 1997,
+          "yearEnd": 2018
+        },
+        {
+          "name": "Avensis Verso",
+          "yearStart": 2001,
+          "yearEnd": 2006
+        },
+        {
+          "name": "Aygo",
+          "yearStart": 2005,
+          "yearEnd": 2022
+        },
+        {
+          "name": "Aygo X",
+          "yearStart": 2021,
+          "yearEnd": null
+        },
+        {
+          "name": "bZ",
+          "yearStart": 2026,
+          "yearEnd": null
+        },
+        {
+          "name": "bZ4X",
+          "yearStart": 2022,
+          "yearEnd": null
+        },
+        {
+          "name": "C-HR",
+          "yearStart": 2016,
+          "yearEnd": null
+        },
+        {
+          "name": "Camry",
+          "yearStart": 1983,
+          "yearEnd": null
+        },
+        {
+          "name": "Celica",
+          "yearStart": 1990,
+          "yearEnd": 2006
+        },
+        {
+          "name": "Century",
+          "yearStart": 2023,
+          "yearEnd": null
+        },
+        {
+          "name": "Century SUV",
+          "yearStart": 2023,
+          "yearEnd": null
+        },
+        {
+          "name": "Corolla",
+          "yearStart": 1987,
+          "yearEnd": null
+        },
+        {
+          "name": "Corolla Cross",
+          "yearStart": 2020,
+          "yearEnd": null
+        },
+        {
+          "name": "Corolla Verso",
+          "yearStart": 2002,
+          "yearEnd": 2009
+        },
+        {
+          "name": "Crown",
+          "yearStart": 1979,
+          "yearEnd": null
+        },
+        {
+          "name": "Crown SUV",
+          "yearStart": 2022,
+          "yearEnd": null
+        },
+        {
+          "name": "Etios",
+          "yearStart": 2010,
+          "yearEnd": 2022
+        },
+        {
+          "name": "Etios Liva",
+          "yearStart": 2011,
+          "yearEnd": 2020
+        },
+        {
+          "name": "FJ Cruiser",
+          "yearStart": 2006,
+          "yearEnd": 2016
+        },
+        {
+          "name": "Fortuner",
+          "yearStart": 2011,
+          "yearEnd": null
+        },
+        {
+          "name": "GR 86",
+          "yearStart": 2021,
+          "yearEnd": null
+        },
+        {
+          "name": "GR Corolla",
+          "yearStart": 2022,
+          "yearEnd": null
+        },
+        {
+          "name": "GR Supra",
+          "yearStart": 2022,
+          "yearEnd": null
+        },
+        {
+          "name": "GR Yaris",
+          "yearStart": 2020,
+          "yearEnd": null
+        },
+        {
+          "name": "Grand Highlander",
+          "yearStart": 2023,
+          "yearEnd": null
+        },
+        {
+          "name": "GT 86",
+          "yearStart": 2012,
+          "yearEnd": 2021
+        },
+        {
+          "name": "Harrier",
+          "yearStart": 2014,
+          "yearEnd": 2020
+        },
+        {
+          "name": "Highlander / Kluger",
+          "yearStart": 2001,
+          "yearEnd": null
+        },
+        {
+          "name": "Hilux",
+          "yearStart": 2005,
+          "yearEnd": null
+        },
+        {
+          "name": "Hilux Extra Cab",
+          "yearStart": 2011,
+          "yearEnd": 2017
+        },
+        {
+          "name": "Innova",
+          "yearStart": 2011,
+          "yearEnd": 2013
+        },
+        {
+          "name": "iQ",
+          "yearStart": 2008,
+          "yearEnd": 2015
+        },
+        {
+          "name": "Land Cruiser / Prado",
+          "yearStart": 1996,
+          "yearEnd": null
+        },
+        {
+          "name": "Land Cruiser V8 and predecessors",
+          "yearStart": 1984,
+          "yearEnd": 2021
+        },
+        {
+          "name": "Matrix",
+          "yearStart": 2003,
+          "yearEnd": 2014
+        },
+        {
+          "name": "Mirai",
+          "yearStart": 2015,
+          "yearEnd": null
+        },
+        {
+          "name": "MR2",
+          "yearStart": 1985,
+          "yearEnd": 2005
+        },
+        {
+          "name": "Paseo",
+          "yearStart": 1996,
+          "yearEnd": 2000
+        },
+        {
+          "name": "Picnic",
+          "yearStart": 1996,
+          "yearEnd": 2001
+        },
+        {
+          "name": "Previa / Estima",
+          "yearStart": 1992,
+          "yearEnd": 2016
+        },
+        {
+          "name": "Prius",
+          "yearStart": 1997,
+          "yearEnd": null
+        },
+        {
+          "name": "Prius C",
+          "yearStart": 2012,
+          "yearEnd": 2021
+        },
+        {
+          "name": "Prius Prime",
+          "yearStart": 2016,
+          "yearEnd": 2022
+        },
+        {
+          "name": "Prius v/Prius+",
+          "yearStart": 2011,
+          "yearEnd": 2021
+        },
+        {
+          "name": "RAV4",
+          "yearStart": 2000,
+          "yearEnd": null
+        },
+        {
+          "name": "Rukus",
+          "yearStart": 2007,
+          "yearEnd": 2015
+        },
+        {
+          "name": "Sequoia",
+          "yearStart": 2000,
+          "yearEnd": null
+        },
+        {
+          "name": "Sienna",
+          "yearStart": 1998,
+          "yearEnd": null
+        },
+        {
+          "name": "Solara",
+          "yearStart": 2004,
+          "yearEnd": 2008
+        },
+        {
+          "name": "Starlet",
+          "yearStart": 1984,
+          "yearEnd": 1999
+        },
+        {
+          "name": "Supra",
+          "yearStart": 1993,
+          "yearEnd": 2026
+        },
+        {
+          "name": "Tacoma",
+          "yearStart": 2005,
+          "yearEnd": null
+        },
+        {
+          "name": "Tundra",
+          "yearStart": 1999,
+          "yearEnd": null
+        },
+        {
+          "name": "Urban Cruiser",
+          "yearStart": 2009,
+          "yearEnd": null
+        },
+        {
+          "name": "Venza",
+          "yearStart": 2009,
+          "yearEnd": null
+        },
+        {
+          "name": "Verso",
+          "yearStart": 2009,
+          "yearEnd": 2018
+        },
+        {
+          "name": "VERSO-S",
+          "yearStart": 2010,
+          "yearEnd": 2017
+        },
+        {
+          "name": "Vios",
+          "yearStart": 2013,
+          "yearEnd": 2017
+        },
+        {
+          "name": "Yaris",
+          "yearStart": 1999,
+          "yearEnd": null
+        },
+        {
+          "name": "Yaris Cross",
+          "yearStart": 2020,
+          "yearEnd": null
+        },
+        {
+          "name": "Yaris TS",
+          "yearStart": 2007,
+          "yearEnd": 2010
+        },
+        {
+          "name": "Yaris Verso",
+          "yearStart": 1999,
+          "yearEnd": 2007
+        }
+      ]
+    }
+  ]
+}

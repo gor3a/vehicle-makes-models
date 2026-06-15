@@ -1,0 +1,285 @@
+{
+  "group": "ferrari",
+  "makes": [
+    {
+      "name": "Ferrari",
+      "models": [
+        {
+          "name": "12Cilindri",
+          "yearStart": 2024,
+          "yearEnd": null
+        },
+        {
+          "name": "288 GTO/F40/F50/Enzo/LaFerrari",
+          "yearStart": 1984,
+          "yearEnd": 2015
+        },
+        {
+          "name": "296 GTB",
+          "yearStart": 2022,
+          "yearEnd": null
+        },
+        {
+          "name": "296 GTS",
+          "yearStart": 2022,
+          "yearEnd": null
+        },
+        {
+          "name": "296 Speciale",
+          "yearStart": 2025,
+          "yearEnd": null
+        },
+        {
+          "name": "308 GTB/GTS",
+          "yearStart": 1975,
+          "yearEnd": 1985
+        },
+        {
+          "name": "328 GTB/GTS",
+          "yearStart": 1985,
+          "yearEnd": 1989
+        },
+        {
+          "name": "348",
+          "yearStart": 1989,
+          "yearEnd": 1995
+        },
+        {
+          "name": "360",
+          "yearStart": 2000,
+          "yearEnd": 2005
+        },
+        {
+          "name": "360 Challenge Stradale",
+          "yearStart": 2003,
+          "yearEnd": 2005
+        },
+        {
+          "name": "360 Modena",
+          "yearStart": 1999,
+          "yearEnd": 2004
+        },
+        {
+          "name": "365",
+          "yearStart": 1968,
+          "yearEnd": 1974
+        },
+        {
+          "name": "365GT4 BB/ 512BB/ 512 BBi",
+          "yearStart": 1973,
+          "yearEnd": 1984
+        },
+        {
+          "name": "400",
+          "yearStart": 1976,
+          "yearEnd": 1989
+        },
+        {
+          "name": "456 GT",
+          "yearStart": 1992,
+          "yearEnd": 2003
+        },
+        {
+          "name": "458",
+          "yearStart": 2011,
+          "yearEnd": 2015
+        },
+        {
+          "name": "458 Italia",
+          "yearStart": 2009,
+          "yearEnd": 2015
+        },
+        {
+          "name": "458 Speciale",
+          "yearStart": 2013,
+          "yearEnd": 2015
+        },
+        {
+          "name": "458 Speciale A",
+          "yearStart": 2014,
+          "yearEnd": 2015
+        },
+        {
+          "name": "488",
+          "yearStart": 2016,
+          "yearEnd": 2019
+        },
+        {
+          "name": "488 GTB",
+          "yearStart": 2015,
+          "yearEnd": 2019
+        },
+        {
+          "name": "488 Pista",
+          "yearStart": 2018,
+          "yearEnd": 2020
+        },
+        {
+          "name": "550 Barchetta/575M Superamerica",
+          "yearStart": 2000,
+          "yearEnd": 2006
+        },
+        {
+          "name": "550/575M Maranello",
+          "yearStart": 1996,
+          "yearEnd": 2006
+        },
+        {
+          "name": "599",
+          "yearStart": 2006,
+          "yearEnd": 2012
+        },
+        {
+          "name": "612 Scaglietti",
+          "yearStart": 2004,
+          "yearEnd": 2011
+        },
+        {
+          "name": "812",
+          "yearStart": 2017,
+          "yearEnd": 2024
+        },
+        {
+          "name": "Amalfi",
+          "yearStart": 2025,
+          "yearEnd": null
+        },
+        {
+          "name": "California T",
+          "yearStart": 2014,
+          "yearEnd": 2017
+        },
+        {
+          "name": "Daytona",
+          "yearStart": 2021,
+          "yearEnd": null
+        },
+        {
+          "name": "Dino",
+          "yearStart": 1968,
+          "yearEnd": 1980
+        },
+        {
+          "name": "F12 Berlinetta",
+          "yearStart": 2012,
+          "yearEnd": 2015
+        },
+        {
+          "name": "F12 TRS",
+          "yearStart": 2014,
+          "yearEnd": 2014
+        },
+        {
+          "name": "F12tdf",
+          "yearStart": 2015,
+          "yearEnd": 2017
+        },
+        {
+          "name": "F149 California",
+          "yearStart": 2008,
+          "yearEnd": 2017
+        },
+        {
+          "name": "F355",
+          "yearStart": 1994,
+          "yearEnd": 1999
+        },
+        {
+          "name": "F430",
+          "yearStart": 2004,
+          "yearEnd": 2009
+        },
+        {
+          "name": "F60 America",
+          "yearStart": 2014,
+          "yearEnd": 2016
+        },
+        {
+          "name": "F8",
+          "yearStart": 2019,
+          "yearEnd": 2023
+        },
+        {
+          "name": "F80",
+          "yearStart": 2024,
+          "yearEnd": null
+        },
+        {
+          "name": "FF",
+          "yearStart": 2011,
+          "yearEnd": 2016
+        },
+        {
+          "name": "FXX",
+          "yearStart": 2005,
+          "yearEnd": 2007
+        },
+        {
+          "name": "GTC4Lusso",
+          "yearStart": 2016,
+          "yearEnd": 2020
+        },
+        {
+          "name": "GTC4Lusso T",
+          "yearStart": 2016,
+          "yearEnd": 2020
+        },
+        {
+          "name": "LaFerrari",
+          "yearStart": 2016,
+          "yearEnd": 2018
+        },
+        {
+          "name": "Luce",
+          "yearStart": 2026,
+          "yearEnd": null
+        },
+        {
+          "name": "Mondial",
+          "yearStart": 1980,
+          "yearEnd": 1993
+        },
+        {
+          "name": "Monza",
+          "yearStart": 2018,
+          "yearEnd": 2022
+        },
+        {
+          "name": "Portofino",
+          "yearStart": 2017,
+          "yearEnd": null
+        },
+        {
+          "name": "Purosangue",
+          "yearStart": 2022,
+          "yearEnd": null
+        },
+        {
+          "name": "Roma",
+          "yearStart": 2019,
+          "yearEnd": null
+        },
+        {
+          "name": "Scuderia",
+          "yearStart": 2008,
+          "yearEnd": 2009
+        },
+        {
+          "name": "SF90",
+          "yearStart": 2019,
+          "yearEnd": null
+        },
+        {
+          "name": "Testarossa",
+          "yearStart": 2025,
+          "yearEnd": null
+        },
+        {
+          "name": "Testarossa/512 TR/512M",
+          "yearStart": 1984,
+          "yearEnd": null
+        }
+      ]
+    }
+  ]
+}

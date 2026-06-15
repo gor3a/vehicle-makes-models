@@ -1,0 +1,55 @@
+{
+  "group": "ds",
+  "makes": [
+    {
+      "name": "DS",
+      "models": [
+        {
+          "name": "AUTOMOBILES DS 3",
+          "yearStart": 2014,
+          "yearEnd": null
+        },
+        {
+          "name": "AUTOMOBILES DS 3 Cabrio",
+          "yearStart": 2013,
+          "yearEnd": 2018
+        },
+        {
+          "name": "AUTOMOBILES DS 3 Crossback",
+          "yearStart": 2018,
+          "yearEnd": 2022
+        },
+        {
+          "name": "AUTOMOBILES DS 4",
+          "yearStart": 2021,
+          "yearEnd": null
+        },
+        {
+          "name": "AUTOMOBILES DS 5",
+          "yearStart": 2016,
+          "yearEnd": 2018
+        },
+        {
+          "name": "AUTOMOBILES DS 5LS",
+          "yearStart": 2014,
+          "yearEnd": 2018
+        },
+        {
+          "name": "AUTOMOBILES DS 7",
+          "yearStart": 2017,
+          "yearEnd": null
+        },
+        {
+          "name": "AUTOMOBILES DS 9",
+          "yearStart": 2020,
+          "yearEnd": null
+        },
+        {
+          "name": "AUTOMOBILES DS N8",
+          "yearStart": 2024,
+          "yearEnd": null
+        }
+      ]
+    }
+  ]
+}
