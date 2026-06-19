@@ -99,7 +99,7 @@ describe('writeFullSqlite', () => {
     const db = new Database(TMP_DB, { readonly: true })
     try {
       const engine = db
-        .prepare<[], { power_hp: number; label: string }>(
+        .prepare<[string], { power_hp: number; label: string }>(
           'SELECT label, power_hp FROM engines WHERE label = ?',
         )
         .get('2.0L CVT FWD (170 HP)')
@@ -107,7 +107,7 @@ describe('writeFullSqlite', () => {
       expect(engine!.power_hp).toBe(133.8)
 
       const engine1 = db
-        .prepare<[], { power_hp: number }>('SELECT power_hp FROM engines WHERE label = ?')
+        .prepare<[string], { power_hp: number }>('SELECT power_hp FROM engines WHERE label = ?')
         .get('1.8L CVT FWD (140 HP)')
       expect(engine1!.power_hp).toBe(140)
     } finally {
