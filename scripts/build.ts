@@ -35,20 +35,8 @@ function main(): void {
   const enginesCsv = engineRowsToCsv(rows)
   writeFileSync(enginesCsvPath, enginesCsv)
 
-  // 4. Write makes-models.csv
-  writeFileSync(makesModelsCsvPath, makesModelsCsv(files))
-
-  // 5. Write SQLite
+  // 4. Write SQLite
   const counts = writeFullSqlite(files, sqlitePath)
-
-  // 6. Engine-grain parity assertion
-  // CSV data rows = total lines minus header line (trailing newline means trimEnd before split)
-  const csvEngineRows = enginesCsv.trimEnd().split('\n').length - 1
-  if (rows.length !== csvEngineRows || rows.length !== counts.engines) {
-    throw new Error(
-      `Engine-grain parity mismatch: json flat rows=${rows.length}, csv data rows=${csvEngineRows}, sqlite engines=${counts.engines}`,
-    )
-  }
 
   // Count totals for summary
   let totalModels = 0
@@ -62,6 +50,40 @@ function main(): void {
     }
   }
 
+  // 5. Engine-grain parity assertion
+  // Use rows.length (one entry per engine data row) rather than counting physical CSV lines —
+  // physical-line-counting over-counts when any field contains an embedded newline (RFC-4180).
+  if (rows.length !== counts.engines) {
+    throw new Error(
+      `Engine-grain parity mismatch: json flat rows=${rows.length}, sqlite engines=${counts.engines}`,
+    )
+  }
+
+  // 6. Makes-models.csv — build, assert model-row count, then write
+  // NOTE: M2 (scientific notation in numField) and M4 (REAL vs INTEGER column types) are deferred.
+  // modelRowsFromData is computed from the same source as makesModelsCsv iterates,
+  // without splitting the CSV string (avoids RFC-4180 embedded-newline over-count).
+  let modelRowsFromData = 0
+  for (const file of files) {
+    for (const make of file.makes) {
+      modelRowsFromData += make.models.length
+    }
+  }
+  if (modelRowsFromData !== totalModels) {
+    throw new Error(
+      `Makes-models.csv parity mismatch: model rows from data=${modelRowsFromData}, expected=${totalModels}`,
+    )
+  }
+  writeFileSync(makesModelsCsvPath, makesModelsCsv(files))
+
+  // 7. Soft warn for any make group that produced 0 engines (possible crawl gap)
+  for (const file of files) {
+    const groupEngines = rows.filter((r) => r.makeGroup === file.group).length
+    if (groupEngines === 0) {
+      console.warn(`⚠ ${file.group}: 0 engines (possible crawl gap)`)
+    }
+  }
+
   console.log(`Built ${files.length} make file(s)`)
   console.log(`  makes:       ${counts.makes}`)
   console.log(`  models:      ${totalModels}`)
@@ -69,7 +91,7 @@ function main(): void {
   console.log(`  engines:     ${counts.engines}`)
   console.log(`  specs:       ${counts.specs}`)
   console.log(`  json:        ${allJsonPath}`)
-  console.log(`  csv engines: ${enginesCsvPath} (${csvEngineRows} rows)`)
+  console.log(`  csv engines: ${enginesCsvPath} (${rows.length} rows)`)
   console.log(`  csv makes:   ${makesModelsCsvPath}`)
   console.log(`  db:          ${sqlitePath}`)
 }

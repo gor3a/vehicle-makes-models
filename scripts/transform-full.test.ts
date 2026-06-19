@@ -3,7 +3,7 @@ import { mkdtempSync, writeFileSync, rmSync } from 'node:fs'
 import { tmpdir } from 'node:os'
 import { join } from 'node:path'
 import { engineFlatRows, engineRowsToCsv, makesModelsCsv, loadFullMakeFiles } from './transform-full.js'
-import type { FullMakeFile } from './schema.js'
+import type { FullMakeFile, EngineRow } from './schema.js'
 
 const sample: FullMakeFile[] = [
   {
@@ -208,6 +208,46 @@ describe('engineRowsToCsv', () => {
     const rows = engineFlatRows(sample)
     const csv = engineRowsToCsv(rows)
     expect(csv.endsWith('\n')).toBe(true)
+  })
+
+  it('RFC-4180: wraps fields containing embedded newlines in double-quotes', () => {
+    // This documents WHY physical-line-counting (split("\\n").length - 1) was wrong:
+    // a field with an embedded newline adds an extra physical line, causing the count
+    // to be inflated by 1 for each such field.  RFC-4180 requires quoting it instead.
+    const rowWithNewline: EngineRow = {
+      makeGroup: 'test',
+      make: 'Test Make',
+      model: 'Model\nWith Newline', // embedded newline in a field
+      generation: 'Gen 1',
+      genYearStart: 2020,
+      genYearEnd: null,
+      bodyType: null,
+      engineLabel: '2.0L (150 HP)',
+      fuelType: 'Gasoline',
+      cylinders: 4,
+      displacementCc: 1998,
+      powerHp: 150,
+      torqueNm: 220,
+      transmission: null,
+      drivetrain: null,
+      zeroToHundredKmhS: null,
+      topSpeedKmh: null,
+      fuelEconomyCombinedL100: null,
+      lengthMm: null,
+      widthMm: null,
+      heightMm: null,
+      wheelbaseMm: null,
+      curbWeightKg: null,
+    }
+    const csv = engineRowsToCsv([rowWithNewline])
+    // The model field must be quoted (RFC-4180 quoting of embedded newline)
+    expect(csv).toContain('"Model\nWith Newline"')
+    // Physical line count would be 3 (header + 2 lines from split on embedded \n),
+    // but there is logically only 1 data row.
+    const physicalLines = csv.trimEnd().split('\n').length - 1 // = 2, not 1
+    expect(physicalLines).toBe(2) // proves physical-line-counting over-counts
+    // The correct count comes from the rows array length, not line-splitting.
+    expect([rowWithNewline].length).toBe(1)
   })
 })
 
