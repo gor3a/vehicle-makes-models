@@ -7,7 +7,110 @@
         {
           "name": "Senat",
           "yearStart": 2018,
-          "yearEnd": null
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Senat (2018)",
+              "yearStart": 2018,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "S600 4.4L V8 9AT (598 HP)",
+                  "fuelType": "Hybrid Gasoline",
+                  "cylinders": 8,
+                  "displacementCc": 4400,
+                  "powerHp": 598,
+                  "torqueNm": 889,
+                  "transmission": "9-speed automatic",
+                  "drivetrain": "All Wheel Drive",
+                  "zeroToHundredKmhS": 6,
+                  "topSpeedKmh": 249,
+                  "fuelEconomyCombinedL100": 13,
+                  "lengthMm": 5631,
+                  "widthMm": 2019,
+                  "heightMm": 1684,
+                  "wheelbaseMm": 3299,
+                  "curbWeightKg": 2740,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "V8",
+                    "ENGINE SPECS / Displacement": "4400 cm3 (269 ci)",
+                    "ENGINE SPECS / Power": "439.8 KW @ 5500 RPM598 HP @ 5500 RPM590 BHP @ 5500 RPM",
+                    "ENGINE SPECS / Torque": "656 lb-ft @ 2200-4750 RPM889 Nm @ 2200-4750 RPM",
+                    "ENGINE SPECS / Electrical motor power": "45.6 kw (62 hp, 61 bhp)",
+                    "ENGINE SPECS / Fuel System": "BiTurbo Direct Injection",
+                    "ENGINE SPECS / Fuel": "Hybrid Gasoline",
+                    "ENGINE SPECS / Fuel capacity": "16.4 gallons (62.1 L)",
+                    "PERFORMANCE SPECS / Top Speed": "155 mph (249 km/h)",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "6 s",
+                    "TRANSMISSION SPECS / Drive Type": "All Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "9-speed automatic",
+                    "BRAKES SPECS / Front": "Ventilated Discs",
+                    "BRAKES SPECS / Rear": "Ventilated Discs",
+                    "TIRES SPECS / Tire Size": "255/55 R20",
+                    "DIMENSIONS / Length": "221.7 in (5631 mm)",
+                    "DIMENSIONS / Width": "79.5 in (2019 mm)",
+                    "DIMENSIONS / Height": "66.3 in (1684 mm)",
+                    "DIMENSIONS / Wheelbase": "129.9 in (3299 mm)",
+                    "DIMENSIONS / Ground Clearance": "7.9 in (201 mm)",
+                    "WEIGHT SPECS / Unladen Weight": "6041 lbs (2740 kg)",
+                    "WEIGHT SPECS / Gross Weight Limit": "6911 lbs (3135 kg)",
+                    "FUEL ECONOMY (NEDC) / City": "13.8 mpg US (17 L/100Km)",
+                    "FUEL ECONOMY (NEDC) / Highway": "22.2 mpg US (10.6 L/100Km)",
+                    "FUEL ECONOMY (NEDC) / Combined": "18.1 mpg US (13 L/100Km)"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Senat (2018)",
+              "yearStart": 2018,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "L700 4.4L V8 9AT AWD (598 HP)",
+                  "fuelType": "Hybrid Gasoline",
+                  "cylinders": 8,
+                  "displacementCc": 4400,
+                  "powerHp": 598,
+                  "torqueNm": 880,
+                  "transmission": "9-speed automatic",
+                  "drivetrain": "All Wheel Drive",
+                  "zeroToHundredKmhS": 9,
+                  "topSpeedKmh": 159,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": 6629,
+                  "widthMm": 2019,
+                  "heightMm": 1694,
+                  "wheelbaseMm": 4300,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "V8",
+                    "ENGINE SPECS / Displacement": "4400 cm3 (269 ci)",
+                    "ENGINE SPECS / Power": "439.8 KW @ 5500 RPM598 HP @ 5500 RPM590 BHP @ 5500 RPM",
+                    "ENGINE SPECS / Torque": "649 lb-ft @ 2200-4750 RPM880 Nm @ 2200-4750 RPM",
+                    "ENGINE SPECS / Electrical motor power": "45.6 kw (62 hp, 61 bhp)",
+                    "ENGINE SPECS / Fuel System": "BiTurbo Direct Injection",
+                    "ENGINE SPECS / Fuel": "Hybrid Gasoline",
+                    "PERFORMANCE SPECS / Top Speed": "99 mph (159 km/h)",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "9 s",
+                    "TRANSMISSION SPECS / Drive Type": "All Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "9-speed automatic",
+                    "BRAKES SPECS / Front": "Ventilated Discs",
+                    "BRAKES SPECS / Rear": "Ventilated Discs",
+                    "TIRES SPECS / Tire Size": "255/55 R20",
+                    "DIMENSIONS / Length": "261 in (6629 mm)",
+                    "DIMENSIONS / Width": "79.5 in (2019 mm)",
+                    "DIMENSIONS / Height": "66.7 in (1694 mm)",
+                    "DIMENSIONS / Wheelbase": "169.3 in (4300 mm)",
+                    "DIMENSIONS / Ground Clearance": "6.7 in (170 mm)",
+                    "WEIGHT SPECS / Gross Weight Limit": "15322 lbs (6950 kg)"
+                  }
+                }
+              ]
+            }
+          ]
         }
       ]
     }

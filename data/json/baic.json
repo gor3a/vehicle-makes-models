@@ -3,42 +3,62 @@
   "makes": [
     {
       "name": "BAIC",
-      "country": "China",
       "models": [
-        {
-          "name": "BJ40",
-          "yearStart": 2013,
-          "yearEnd": null
-        },
-        {
-          "name": "BJ80",
-          "yearStart": 2016,
-          "yearEnd": null
-        },
-        {
-          "name": "D20",
-          "yearStart": 2015,
-          "yearEnd": null
-        },
         {
           "name": "MOTOR BJ60",
           "yearStart": 2023,
-          "yearEnd": null
-        },
-        {
-          "name": "X25",
-          "yearStart": 2016,
-          "yearEnd": null
-        },
-        {
-          "name": "X35",
-          "yearStart": 2017,
-          "yearEnd": null
-        },
-        {
-          "name": "X55",
-          "yearStart": 2019,
-          "yearEnd": null
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "MOTOR BJ60 (2023)",
+              "yearStart": 2023,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "2.0T MHEV 8AT AWD (266 HP)",
+                  "fuelType": "Mild Hybrid",
+                  "cylinders": 4,
+                  "displacementCc": null,
+                  "powerHp": 252,
+                  "torqueNm": 400,
+                  "transmission": "8-speed automatic",
+                  "drivetrain": "All Wheel Drive",
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": 7.4,
+                  "lengthMm": 5039,
+                  "widthMm": 1956,
+                  "heightMm": 1925,
+                  "wheelbaseMm": 2819,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "L4",
+                    "ENGINE SPECS / Power": "185 KW @ - RPM252 HP @ - RPM248 BHP @ - RPM",
+                    "ENGINE SPECS / Torque": "295 lb-ft @ - RPM400 Nm @ - RPM",
+                    "ENGINE SPECS / Electrical motor power": "10 kw (14 hp, 13 bhp)",
+                    "ENGINE SPECS / Electrical motor torque": "36.9 lb-ft (50 Nm)",
+                    "ENGINE SPECS / Total maximum power": "196 kw (266 hp, 263 bhp)",
+                    "ENGINE SPECS / Total maximum torque": "299.4 lb-ft (406 Nm)",
+                    "ENGINE SPECS / Fuel System": "Turbocharged Direct Injection",
+                    "ENGINE SPECS / Fuel": "Mild Hybrid",
+                    "ENGINE SPECS / Fuel capacity": "22.5 gallons (85.2 L)",
+                    "TRANSMISSION SPECS / Drive Type": "All Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "8-speed automatic",
+                    "BRAKES SPECS / Front": "Ventilated Discs",
+                    "BRAKES SPECS / Rear": "Ventilated Discs",
+                    "TIRES SPECS / Tire Size": "265/65 R18",
+                    "DIMENSIONS / Length": "198.4 in (5039 mm)",
+                    "DIMENSIONS / Width": "77 in (1956 mm)",
+                    "DIMENSIONS / Height": "75.8 in (1925 mm)",
+                    "DIMENSIONS / Wheelbase": "111 in (2819 mm)",
+                    "DIMENSIONS / Ground Clearance": "8.5 in (216 mm)",
+                    "FUEL ECONOMY (NEDC) / Combined": "31.8 mpg US (7.4 L/100Km)"
+                  }
+                }
+              ]
+            }
+          ]
         }
       ]
     }
