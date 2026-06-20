@@ -1,1 +1,554 @@
 make_group,make,model,generation,gen_year_start,gen_year_end,body_type,engine_label,fuel_type,cylinders,displacement_cc,power_hp,torque_nm,transmission,drivetrain,zero_to_100_s,top_speed_kmh,fuel_economy_combined_l100,length_mm,width_mm,height_mm,wheelbase_mm,curb_weight_kg
+ac,AC,Ace,Ace (1993),1993,1996,,4.9L V8 4AT RWD (260 HP),Gasoline,8,4942,260,434,4-speed automatic,Rear Wheel Drive,,225,8.6,4420,1869,1300,2471,1440
+ac,AC,Aceca,Aceca (1998),1998,2000,,3.5L V8 32V Turbo 6MT RWD (354 HP),Gasoline,8,3506,350,407,6-speed manual,Rear Wheel Drive,5.6,249,,4661,1890,1341,2720,1615
+ac,AC,Aceca,Aceca (1998),1998,2000,,4.6L V8 5MT RWD (326 HP),Gasoline,8,3506,350,407,6-speed manual,Rear Wheel Drive,5.6,249,,4661,1890,1341,2720,1615
+ac,AC,Frua,Frua Convertible (1966),1966,1971,,7.0L V8 3AT (350 HP),Gasoline,8,7017,350,626,3-speed automatic,Rear Wheel Drive,,,,4420,1702,1295,2438,1426
+ac,AC,Frua,Frua Convertible (1966),1966,1971,,7.0L V8 4MT (350 HP),Gasoline,8,7017,350,626,4-speed manual,Rear Wheel Drive,,,,4420,1702,1295,2438,1426
+ac,AC,Frua,Frua Coupe (1966),1966,1973,,7.0L V8 3AT RWD (350 HP),Gasoline,8,7017,350,626,3-speed automatic,Rear Wheel Drive,,,,4420,1702,1295,2438,
+ac,AC,Frua,Frua Coupe (1966),1966,1973,,7.0L V8 4MT RWD (350 HP),Gasoline,8,7017,350,626,4-speed manual,Rear Wheel Drive,,,,4420,1702,1295,2438,
+acura,Acura,ADX,ADX (2024),2024,,,1.5L VTEC CVT AWD (190 HP),Gasoline,4,1498,190,243,CVT,All Wheel Drive,,,,4717,1839,1621,2654,
+acura,Acura,CL,CL (2001),2001,2004,,3.2L 5AT FWD (225 HP),Gasoline,6,3210,228,294,5-speed automatic,Front Wheel Drive,,220,11.2,4877,1793,1410,2715,1574
+acura,Acura,CL,CL (2001),2001,2004,,Type S 3.2L V6 5AT FWD (263 HP),Gasoline,6,3210,260,315,5-speed automatic,Front Wheel Drive,7,220,10.2,4877,1793,1354,2715,1592
+acura,Acura,CL,CL (2001),2001,2004,,Type S 3.2L V6 6MT FWD (263 HP),Gasoline,6,3210,260,315,6-speed manual,Front Wheel Drive,6.6,235,,4877,1793,1354,2715,1615
+acura,Acura,CL,CL (1997),1997,2001,,2.2L 5MT (145 HP),Gasoline,4,2156,145,199,5-Speed manual,Front Wheel Drive,8.9,209,8.4,4826,1781,1389,2715,1365
+acura,Acura,CL,CL (1997),1997,2001,,3.0L V6 4AT (200 HP),Gasoline,6,2997,200,264,4-speed automatic,Front Wheel Drive,,,,4826,1781,1389,2715,1460
+acura,Acura,CSX,CSX (2009),2009,2011,,2.0L 16V 5AT (157 HP),Gasoline,4,1998,157,188,5-speed automatic,Front Wheel Drive,,,,4544,1753,1435,2700,1290
+acura,Acura,CSX,CSX (2009),2009,2011,,2.0L 16V 5MT (157 HP),Gasoline,4,1998,157,188,5-Speed manual,Front Wheel Drive,,,,4544,1753,1435,2700,
+acura,Acura,CSX,CSX (2005),2005,2009,,2.0i 16V 5MT (157 HP),Gasoline,4,1998,157,188,5-Speed manual,Front Wheel Drive,,,,4544,1753,1435,2700,1313
+acura,Acura,CSX,CSX (2005),2005,2009,,Type S 2.0L 6MT (157 HP),Gasoline,4,1998,157,188,6-speed manual,Front Wheel Drive,,,,4544,1753,1435,2700,
+acura,Acura,EL,EL (1997),1997,2000,,1.6L 16V 5MT (107 HP),Gasoline,4,1590,107,139,5-Speed manual,Front Wheel Drive,9.4,175,,4481,1704,1394,2619,1145
+acura,Acura,ILX,ILX (2018),2018,2022,,2.4L 16V i-VTEC 8AT FWD (201 HP),Gasoline,4,2354,201,244,8-Speed automatic DCT,Front Wheel Drive,6.4,222,8.4,4620,1793,1412,2670,1403
+acura,Acura,ILX,ILX (2016),2016,2018,,2.4L 8AT FWD (201 HP),Gasoline,4,2354,201,244,8-Speed automatic DCT,Front Wheel Drive,6.4,222,8.1,4620,1793,1412,2670,1403
+acura,Acura,ILX,ILX (2014),2014,2016,,2.0L 5AT (150 HP),Gasoline,4,1998,152,190,5-speed automatic,Front Wheel Drive,,,8.4,4549,1793,1412,2670,1340
+acura,Acura,ILX,ILX (2014),2014,2016,,2.4L 6MT (201 HP),Gasoline,4,2354,204,230,6-speed manual,Front Wheel Drive,,,9.4,4549,1793,1412,2670,1340
+acura,Acura,ILX,ILX (2012),2012,2014,,2.0L 5AT FWD (150 HP),Gasoline,4,1997,152,190,5-speed automatic transmission with Sequential SportShift,Front Wheel Drive,,,8.4,4549,1793,1412,2670,1320
+acura,Acura,ILX,ILX (2012),2012,2014,,2.4L 6MT FWD (201 HP),Gasoline,4,2354,201,230,6 speed manual,Front Wheel Drive,,,9.4,4549,1793,1412,2670,1351
+acura,Acura,ILX,ILX (2012),2012,2014,,1.5L Hybrid CVT FWD (111 HP),Hybrid,4,1496,113,172,CVT,Front Wheel Drive,,,6.2,4549,1793,1412,2670,1342
+acura,Acura,Integra,Integra Sedan (2023),2023,,,2.0L VTEC 6MT FWD (324 HP),Gasoline,4,,324,420,6-speed manual,Front Wheel Drive,,,,4724,1900,1407,2736,1460
+acura,Acura,Integra,Integra Sedan (2022),2022,,,1.5L VTEC CVT (200 HP),Gasoline,4,,200,260,CVT,Rear Wheel Drive,,,,4719,1829,1410,2736,
+acura,Acura,Integra,Integra Sedan (1994),1994,2001,,1.8L 4AT FWD (141 HP),Gasoline,4,1834,141,172,4-Speed automatic,Front Wheel Drive,,,9,4524,1709,1323,2619,1245
+acura,Acura,Integra,Integra Sedan (1994),1994,2001,,1.8L 5MT FWD (141 HP),Gasoline,4,1834,141,172,5-Speed manual,Front Wheel Drive,,,8.6,4524,1709,1323,2619,1190
+acura,Acura,Integra,Integra Sedan (1994),1994,2001,,1.8L 5MT FWD (170 HP),Gasoline,4,1797,170,174,5-Speed manual,Front Wheel Drive,7.2,209,8.7,4524,1709,1323,2619,1275
+acura,Acura,Integra,Integra Sedan (1994),1994,2001,,1.8L 5MT FWD (196 HP),Gasoline,4,1797,196,178,5-Speed manual,Front Wheel Drive,6.7,233,,4524,1709,1323,2619,1120
+acura,Acura,Integra,Integra Sedan (1989),1989,1993,,1.8L 5MT FWD 140 HP),Gasoline,4,1834,140,171,5-speed manual,Front Wheel Drive,,,9,4392,1715,1270,2550,1190
+acura,Acura,Integra,Integra Sedan (1986),1986,1989,,1.6L 5MT (113 HP),Gasoline,4,1590,113,134,5-Speed manual,Front Wheel Drive,,,8.6,4351,1666,1290,2520,1084
+acura,Acura,Integra,Integra Coupe (1994),1994,2001,,1.8L 5MT FWD (196 HP),Gasoline,4,1797,196,178,5-speed manual,Front Wheel Drive,6.7,233,,4379,1709,1290,2570,1120
+acura,Acura,Integra,Integra Coupe (1994),1994,2001,,1.8L GS-R 4AT FWD (170 HP),Gasoline,4,1797,170,174,4-speed automatic,Front Wheel Drive,,,8.7,4379,1709,1290,2570,1650
+acura,Acura,Integra,Integra Coupe (1994),1994,2001,,1.8L GS-R 5MT FWD (170 HP),Gasoline,4,1797,171,174,5-Speed manual,Front Wheel Drive,,,,4379,1709,1290,2570,1210
+acura,Acura,Integra,Integra Coupe (1994),1994,2001,,1.8L RS 4AT FWD (141 HP),Gasoline,4,1834,141,172,4-speed automatic,Front Wheel Drive,,,9,4379,1709,1290,2570,1218
+acura,Acura,Integra,Integra Coupe (1994),1994,2001,,1.8L RS 5MT FWD (141 HP),Gasoline,4,1834,141,172,5-Speed manual,Front Wheel Drive,,,8.7,4379,1709,1290,2570,1147
+acura,Acura,Integra,Integra Coupe (1989),1989,1994,,1.8L 5MT (140 HP),Gasoline,4,1834,140,171,5-Speed manual,Front Wheel Drive,,,9,4392,1715,1270,2550,1160
+acura,Acura,Integra,Integra Coupe (1986),1986,1989,,1.6L 5MT (113 HP),Gasoline,4,1590,113,134,5-Speed manual,Front Wheel Drive,,,8.6,4280,1666,1290,2451,1055
+acura,Acura,Legend,Legend (1990),1990,1996,,3.2L V6 5MT (202 HP),Gasoline,6,3206,202,285,5-Speed manual,Front Wheel Drive,,,9.8,4950,1811,1400,2911,1567
+acura,Acura,Legend,Legend (1986),1986,1991,,2.5L V6 5AT FWD (151 HP),Gasoline,6,2494,152,209,5-speed automatic,Front Wheel Drive,,,,4811,1735,1389,2761,1396
+acura,Acura,Legend,Legend (1986),1986,1991,,2.5L V6 5MT FWD (151 HP),Gasoline,6,2494,152,209,5-Speed manual,Front Wheel Drive,10.2,208,10.7,4811,1735,1389,2761,1396
+acura,Acura,Legend,Legend (1986),1986,1991,,2.7L V6 5AT FWD (161 HP),Gasoline,6,2494,163,209,5-speed automatic,Front Wheel Drive,,217,10.7,4811,1735,1389,2758,1458
+acura,Acura,Legend,Legend (1986),1986,1991,,2.7L V6 5MT FWD (161 HP),Gasoline,6,2494,163,209,5-Speed manual,Front Wheel Drive,,217,10.7,4811,1735,1389,2758,1407
+acura,Acura,Legend,Legend Coupe (1990),1990,1995,,3.2 V6,Gasoline,6,3206,202,285,"Manual, 5 Speed",Front Wheel Drive,8.1,226,9.8,4890,1811,1359,2911,1567
+acura,Acura,Legend,Legend Coupe (1987),1987,1990,,2.7L V6 5AT FWD (161 HP),Gasoline,6,2675,163,220,5-speed automatic,Front Wheel Drive,,,,4775,1745,1369,2695,1444
+acura,Acura,Legend,Legend Coupe (1987),1987,1990,,2.7L V6 5MT FWD (161 HP),Gasoline,6,2675,161,220,5-Speed manual,Front Wheel Drive,8,214,11.2,4775,1745,1369,2695,1401
+acura,Acura,MDX,MDX (2024),2024,,,3.0L V6 10 AT AWD (355 HP),Gasoline,6,2997,355,480,10-speed automatic,All Wheel Drive,,,12.4,5039,1999,1704,2891,2166
+acura,Acura,MDX,MDX (2021),2021,2024,,3.5L V6 10AT AWD (290 HP),Gasoline,6,,290,362,10-speed automatic,All Wheel Drive,,,11.2,5039,1999,1704,2891,2043
+acura,Acura,MDX,MDX (2021),2021,2024,,3.5L V6 10AT FWD (290 HP),Gasoline,6,,290,362,10-speed automatic,Front Wheel Drive,,,10.7,5039,1999,1704,2891,1937
+acura,Acura,MDX,MDX (2018),2018,2021,,3.5L V6 9AT AWD (290 HP),Gasoline,6,3500,290,362,9-Speed automatic,All Wheel Drive,,,11.2,4983,1961,1712,2819,1815
+acura,Acura,MDX,MDX (2018),2018,2021,,3.5L V6 9AT FWD (290 HP),Gasoline,6,3500,290,362,9-Speed automatic,Front Wheel Drive,,,10.7,4983,1961,1712,2819,1815
+acura,Acura,MDX,MDX (2018),2018,2021,,3.5L V6 9AT AWD (321 HP),Hybrid,6,3500,260,296,9-Speed automatic,All Wheel Drive,,,8.7,4983,1961,1712,2819,2028
+acura,Acura,MDX,MDX (2016),2016,2021,,3.5L V6 9AT AWD (290 HP),Gasoline,6,3500,294,362,9-speed automatic,All Wheel Drive,,,11.2,4983,1961,1712,2819,1912
+acura,Acura,MDX,MDX (2016),2016,2021,,3.5L V6 9AT FWD (290 HP),Gasoline,6,3500,294,362,9-speed automatic,Front Wheel Drive,,,10.7,4983,1961,1712,2819,1815
+acura,Acura,MDX,MDX (2016),2016,2021,,3.5L V6 9AT AWD (321 HP),Hybrid,6,3500,260.6,296,9-speed automatic,All Wheel Drive,,,8.7,4983,1961,1712,2819,2028
+acura,Acura,MDX,MDX (2013),2013,2016,,3.5L V6 6AT FWD (294 HP),Gasoline,6,3500,294,362,6-speed automatic,Front Wheel Drive,,,10.2,4917,1961,1717,2819,1843
+acura,Acura,MDX,MDX (2013),2013,2016,,3.5L V6 AWD 6AT (294 HP),Gasoline,6,3500,294,362,6-speed automatic,All Wheel Drive,,,11.2,4917,1961,1717,2819,1937
+acura,Acura,MDX,MDX (2010),2010,2013,,3.7L V6 AWD 6AT (300 HP),Gasoline,6,3664,305,366,6-speed automatic,All Wheel Drive,7.3,220,13.1,4867,1994,1732,2751,2064
+acura,Acura,MDX,MDX (2006),2006,2009,,3.7L V6 5AT AWD (300 HP),Gasoline,6,3664,305,373,5-speed automatic,All Wheel Drive,7.7,209,12.1,4844,1994,1732,2751,2059
+acura,Acura,MDX,MDX (2004),2004,2006,,3.5L V6 5AT AWD (265 HP),Gasoline,6,3471,264,343,5-speed automatic,All Wheel Drive,7.42,190,11.8,4793,1956,1745,2700,2019
+acura,Acura,MDX,MDX (2001),2001,2004,,3.5L V6 5AT AWD (240 HP),Gasoline,6,3471,243,332,5-speed automatic,All Wheel Drive,8.7,,13.2,4788,1938,1745,2700,1963
+acura,Acura,MDX,MDX (2001),2001,2004,,3.5L V6 5AT AWD (260 HP),Gasoline,6,3471,260,332,5-speed automatic,All Wheel Drive,8.7,,13.2,4788,1938,1745,2700,2065
+acura,Acura,NSX,NSX (2016),2016,2022,,3.5L V6 9AT AWD (573 HP),Hybrid,6,3493,506.9,550,9-speed automatic DCT,All Wheel Drive,3.6,307,11.2,4470,2217,1214,2629,1725
+acura,Acura,NSX,NSX (2001),2001,2005,,3.0L V6 4AT (252 HP),Gasoline,6,2977,252,285,4-Speed automatic,Rear Wheel Drive,7.5,260,12.3,4425,1811,1171,2530,1390
+acura,Acura,NSX,NSX (2001),2001,2005,,3.2L V6 6MT (240 HP),Gasoline,6,3179,290,304,6-Speed manual,Rear Wheel Drive,5.7,270,12.4,4425,1811,1171,2530,1392
+acura,Acura,NSX,NSX (2001),2001,2005,,3.0L V6 4AT RWD (252 HP),Gasoline,6,2977,252,285,4-speed automatic,Rear Wheel Drive,,,,4425,1811,1171,2530,1450
+acura,Acura,NSX,NSX (2001),2001,2005,,3.2L V6 6MT RWD (290 HP),Gasoline,6,3179,290,304,6-Speed manual,Rear Wheel Drive,,,,4425,1811,1171,2530,1430
+acura,Acura,NSX,NSX (1991),1991,2001,,3.0L V6 5MT RWD (270 HP),Gasoline,6,2977,270,285,5-Speed manual,Rear Wheel Drive,5.9,270,13.1,4404,1811,1171,2530,1365
+acura,Acura,RDX,RDX (2021),2021,,,2.0L VTEC 10AT (272 HP),Gasoline,4,1996,272,380,10-speed automatic,Front Wheel Drive,,,9.8,4760,1900,1669,2751,1718
+acura,Acura,RDX,RDX (2021),2021,,,2.0L VTEC 10AT AWD (272 HP),Gasoline,4,1996,272,380,10-speed automatic,All Wheel Drive,,,10.2,4760,1900,1669,2751,1826
+acura,Acura,RDX,RDX (2018),2018,2021,,2.0L 10AT (275 HP),Gasoline,4,1998,210,380,10-Speed automatic,All Wheel Drive,,,,,,,,
+acura,Acura,RDX,RDX (2015),2015,2018,,3.5L V6 6AT (279 HP),Gasoline,6,3471,283,342,6-speed automatic,Front Wheel Drive,,,10.2,4684,1872,1651,2685,
+acura,Acura,RDX,RDX (2015),2015,2018,,3.5L V6 6AT AWD (279 HP),Gasoline,6,3471,283,342,6-speed automatic,All Wheel Drive,,,10.7,4684,1872,1651,2685,1770
+acura,Acura,RDX,RDX (2012),2012,2015,,3.5L V6 AWD 6AT (273 HP),Gasoline,6,3500,273,340,6-speed automatic,All Wheel Drive,,,10.7,4661,1872,1679,2685,1741
+acura,Acura,RDX,RDX (2012),2012,2015,,3.5L V6 FWD 6AT (273 HP),Gasoline,6,3500,273,340,6-speed automatic,Front Wheel Drive,,,10.2,4661,1872,1679,2685,1686
+acura,Acura,RDX,RDX (2006),2006,2011,,2.3L Turbo FWD 5AT (240 HP),Gasoline,4,2300,239,353,5-speed automatic,Front Wheel Drive,9,195,11.6,4590,1869,1656,2649,1698
+acura,Acura,RDX,RDX (2006),2006,2011,,2.3L Turbo AWD 5AT (240 HP),Gasoline,4,2300,239,353,5-speed automatic,All Wheel Drive,6.8,209,12.4,4590,1869,1656,2649,1780
+acura,Acura,RL,RL (2008),2008,2012,,3.7L V6 VTEC AWD 5AT (300 HP),Gasoline,6,3664,305,367,5-speed automatic,All Wheel Drive,,,12.4,4973,1847,1453,2799,1852
+acura,Acura,RL,RL (2008),2008,2012,,3.7L V6 VTEC AWD 6AT (300 HP),Gasoline,6,3664,305,367,6-speed automatic,All Wheel Drive,,,11.8,4973,1847,1453,2799,1832
+acura,Acura,RL,RL (2004),2004,2008,,3.5L V6 5AT AWD (300 HP),Gasoline,6,3471,300,353,5-speed automatic,All Wheel Drive,7.3,250,,4917,1847,1450,2799,1807
+acura,Acura,RLX,RLX (2017),2017,2020,,3.5L V6 10AT (310 HP),Gasoline,6,3471,314,369,10-speed automatic,Front Wheel Drive,,,10.2,5032,1890,1466,2850,1804
+acura,Acura,RLX,RLX (2017),2017,2020,,3.5L V6 Sport Hybrid 7AT (377 HP),Hybrid,6,3471,310,369,7-speed automatic (DCT),All Wheel Drive,,,8.1,5032,1890,1466,2850,1987
+acura,Acura,RLX,RLX (2013),2013,2017,,3.5L V6 FWD (310 HP),Gasoline,6,3500,350,369,6-speed automatic,Front Wheel Drive,5.4,209,9.8,4981,1897,1453,2850,1784
+acura,Acura,RLX,RLX (2013),2013,2017,,3.5L V6 AWD (377 HP),Hybrid,6,3500,314,370,7-speed automatic,All Wheel Drive,7.1,203,7.8,4981,1897,1453,2850,1956
+acura,Acura,RSX,RSX (2005),2005,2006,,2.0L 5AT (160 HP),Gasoline,4,1998,160,191,5-speed automatic,Front Wheel Drive,8.7,209,8,4379,1725,1394,2570,1240
+acura,Acura,RSX,RSX (2002),2002,2005,,2.0L 5AT FWD (160 HP),Gasoline,4,1991,160,191,5-speed automatic,Front Wheel Drive,6.6,230,,4374,1725,1389,2570,
+acura,Acura,RSX,RSX (2002),2002,2005,,2.0L 6MT FWD (200 HP),Gasoline,4,1991,200,196,6-Speed manual,Front Wheel Drive,6.6,230,8.7,4374,1725,1389,2570,1260
+acura,Acura,RSX,RSX (2002),2002,2005,,2.0L 5AT (160 HP),Gasoline,4,1998,160,191,5-speed automatic,Front Wheel Drive,,,,4374,1725,1389,2570,1234
+acura,Acura,RSX TYPE-S,RSX TYPE-S (2005),2005,2006,,2.0L 5AT FWD (160 HP),Gasoline,4,1998,160,191,5-speed automatic,Front Wheel Drive,11,190,,4379,1725,1394,2570,1280
+acura,Acura,RSX TYPE-S,RSX TYPE-S (2005),2005,2006,,2.0L 6MT FWD (210 HP),Gasoline,4,1998,210,194,6-Speed manual,Front Wheel Drive,6.2,217,,4379,1725,1394,2570,1310
+acura,Acura,SLX,SLX (1997),1997,1999,,3.5L V6 4AT AWD (216 HP),Gasoline,6,3493,216,312,4-Speed automatic,All Wheel Drive,11.8,180,14,4770,1834,1834,2761,2093
+acura,Acura,SLX,SLX (1996),1996,1997,,3.2L V6 4AT AWD (190 HP),Gasoline,6,3165,190,255,4-Speed automatic,All Wheel Drive,10,166,18.7,4661,1839,1834,2761,1957
+acura,Acura,TL,TL (2008),2008,2014,,3.5L V6 VTEC FWD 5AT (280 HP),Gasoline,6,3471,284,344,5-speed automatic,Front Wheel Drive,,,10.7,4961,1880,1453,2776,1682
+acura,Acura,TL,TL (2008),2008,2014,,3.5L V6 VTEC FWD 6AT (280 HP),Gasoline,6,3471,284,344,6-speed automatic,Front Wheel Drive,,,10.2,4961,1880,1453,2776,1697
+acura,Acura,TL,TL (2008),2008,2014,,3.7L V6 VTEC AWD 5AT (305 HP),Gasoline,6,3664,309,370,5-speed automatic,All Wheel Drive,,,11.2,4961,1880,1453,2776,1801
+acura,Acura,TL,TL (2008),2008,2014,,3.7L V6 VTEC AWD 6AT (305 HP),Gasoline,6,3664,309,370,6-speed automatic,All Wheel Drive,,,11.2,4961,1880,1453,2776,1804
+acura,Acura,TL,TL (2008),2008,2014,,3.7L V6 VTEC AWD 6MT (305 HP),Gasoline,6,3664,309,370,6-speed manual,All Wheel Drive,,,11.8,4961,1880,1453,2776,1804
+acura,Acura,TL,TL (2003),2003,2008,,3.2L 24V V6 5AT FWD (261 HP),Gasoline,6,3210,261,316,5-speed automatic,Front Wheel Drive,6,225,,4808,1834,1440,2741,1655
+acura,Acura,TL,TL (2003),2003,2008,,3.2L 24V V6 6MT FWD (261 HP),Gasoline,6,3210,261,316,6-Speed manual,Front Wheel Drive,6,225,,4808,1834,1440,2741,1655
+acura,Acura,TL,TL (2003),2003,2008,,3.2L V6 5AT FWD (270 HP),Gasoline,6,3210,273,316,5-speed automatic,Front Wheel Drive,6,225,,4808,1834,1440,2741,1655
+acura,Acura,TL,TL (2003),2003,2008,,3.2L V6 6MT FWD (273 HP),Gasoline,6,3210,273,323,6-Speed manual,Front Wheel Drive,6,245,9.4,4808,1834,1440,2741,1579
+acura,Acura,TL,TL (1999),1999,2003,,2.3L 4AT FWD (176 HP),Gasoline,5,2451,176,230,5-speed automatic,Front Wheel Drive,,235,,4841,1786,1410,2840,1380
+acura,Acura,TL,TL (1999),1999,2003,,3.2L V6 4AT FWD (203 HP),Gasoline,6,3206,203,293,4-speed automatic,Front Wheel Drive,7.4,225,9.8,4869,1801,1415,2840,1575
+acura,Acura,TL,TL (1999),1999,2003,,3.2L V6 4AT FWD (228 HP),Gasoline,6,3206,228,293,4-speed automatic,Front Wheel Drive,7.4,225,,4869,1801,1415,2840,1593
+acura,Acura,TL,TL (1999),1999,2003,,Type S 3.2L V6 5AT FWD (263 HP),Gasoline,6,3210,263,314,5-speed automatic,Front Wheel Drive,,235,,4900,1786,1425,2746,1638
+acura,Acura,TL,TL (1995),1995,1998,,2.5L 4AT FWD (176 HP),Gasoline,5,2500,177,230,4-speed automatic,Front Wheel Drive,9.3,,11.2,4864,1786,1405,2840,1492
+acura,Acura,TL,TL (1995),1995,1998,,3.2L V6 4AT FWD (200 HP),Gasoline,6,3206,200,285,4-speed automatic,Front Wheel Drive,8.8,223,12.9,4864,1786,1405,2840,1550
+acura,Acura,TLX,TLX (2020),2020,2024,,2.0L 10AT FWD (272 HP),Gasoline,4,,272,,10-speed automatic,Rear Wheel Drive,,,,4943,1910,1433,2870,
+acura,Acura,TLX,TLX (2020),2020,2024,,2.4L 8AT FWD (206 HP),Gasoline,4,,206,,8-speed automatic,Rear Wheel Drive,,,,4869,1854,1448,2776,
+acura,Acura,TLX,TLX (2020),2020,2024,,3.0L 10AT,Gasoline,4,,,,10-speed automatic,Rear Wheel Drive,,,,4943,1910,1433,2870,
+acura,Acura,TLX,TLX (2020),2020,2024,,3.5L V6 9AT AWD (290 HP),Gasoline,6,,290,,9-speed automatic,All Wheel Drive,,,,4869,1854,1448,2776,
+acura,Acura,TLX,TLX (2015),2015,2020,,2.4L 8AT FWD (209 HP),Gasoline,4,2354,209,247,8-speed automatic,Front Wheel Drive,8.2,209,8.4,4831,1854,1448,2776,1580
+acura,Acura,TLX,TLX (2015),2015,2020,,3.5L V6 9AT AWD (294 HP),Gasoline,6,3471,294,362,9-speed automatic,All Wheel Drive,6.9,201,9.4,4831,1854,1448,2776,1700
+acura,Acura,TLX,TLX (2015),2015,2020,,3.5L V6 9AT FWD (294 HP),Gasoline,6,3471,294,362,9-speed automatic,Front Wheel Drive,6.9,201,9.4,4831,1854,1448,2776,1626
+acura,Acura,TSX,TSX (2010),2010,2014,,2.4L 5AT (201 HP),Gasoline,4,2354,201,230,5-speed automatic,Front Wheel Drive,,,9.4,4806,1839,1471,2705,1626
+acura,Acura,TSX,TSX (2008),2008,2014,,2.4L i-VTEC 5AT FWD (201 HP),Gasoline,4,2354,204,233,5-speed automatic,Front Wheel Drive,,,9,4727,1839,1440,2703,1578
+acura,Acura,TSX,TSX (2008),2008,2014,,2.4L i-VTEC 6MT FWD (201 HP),Gasoline,4,2354,204,233,6-speed manual,Front Wheel Drive,8.1,227,10.2,4727,1839,1440,2703,1542
+acura,Acura,TSX,TSX (2008),2008,2014,,3.5L V6 VTEC 5AT FWD (280 HP),Gasoline,6,3471,284,344,5-speed automatic,Front Wheel Drive,,,11.2,4727,1839,1440,2703,1669
+acura,Acura,TSX,TSX (2003),2003,2008,,2.4L 16V 5AT FWD (203 HP),Gasoline,4,2354,203,225,5-speed automatic,Front Wheel Drive,7.5,216,,4656,1763,1455,2670,1495
+acura,Acura,TSX,TSX (2003),2003,2008,,2.4L 16V 6MT FWD (203 HP),Gasoline,4,2354,203,225,6-Speed manual,Front Wheel Drive,7.9,227,10.2,4656,1763,1455,2670,1465
+acura,Acura,ZDX,ZDX (2023),2023,,,A-Spec 102 KWh (340 HP),Electric,,,340,,,All Wheel Drive,,,,5022,1956,1636,3094,
+acura,Acura,ZDX,ZDX (2023),2023,,,Type S Dual motor 102 KWh (500 HP),Electric,,,500,,,All Wheel Drive,,,,5022,1956,1636,3094,
+acura,Acura,ZDX,ZDX (2009),2009,2013,,3.7L V6 VTEC 6AT AWD (300 HP),Gasoline,6,3664,300,366,6-speed automatic,All Wheel Drive,6.7,209,12.4,4887,2174,1595,2751,2019
+alfa-romeo,Alfa Romeo,145,145 (1994),1994,2000,,1.4L 5MT FWD (90 HP),Gasoline,4,1351,90,115,5-speed manual,Front Wheel Drive,12.5,178,8.2,4061,1712,1430,2540,1108
+alfa-romeo,Alfa Romeo,145,145 (1994),1994,2000,,1.4L TS 5MT FWD (103 HP),Gasoline,4,1370,103,123,5-speed manual,Front Wheel Drive,11.2,185,5.9,4061,1712,1430,2540,1110
+alfa-romeo,Alfa Romeo,145,145 (1994),1994,2000,,1.6L 5MT FWD (103 HP),Gasoline,4,1596,103,134,5-speed manual,Front Wheel Drive,11,185,8.1,4092,1712,1427,2540,1102
+alfa-romeo,Alfa Romeo,145,145 (1994),1994,2000,,1.6L TS 5MT FWD (120 HP),Gasoline,4,1598,120,144,5-speed manual,Front Wheel Drive,10.2,195,8.2,4061,1712,1430,2540,1160
+alfa-romeo,Alfa Romeo,145,145 (1994),1994,2000,,1.7L 5MT FWD (129 HP),Gasoline,4,1712,129,149,5-speed manual,Front Wheel Drive,9.7,200,8.5,4092,1712,1427,2540,1150
+alfa-romeo,Alfa Romeo,145,145 (1994),1994,2000,,1.8L TS 5MT FWD (140 HP),Gasoline,4,1747,140,165,5-speed manual,Front Wheel Drive,9.2,205,8,4061,1712,1430,2540,1108
+alfa-romeo,Alfa Romeo,145,145 (1994),1994,2000,,1.8L TS 5MT FWD (144 HP),Gasoline,4,1747,144,169,5-speed manual,Front Wheel Drive,9.1,208,8.4,4092,1712,1430,2540,1175
+alfa-romeo,Alfa Romeo,145,145 (1994),1994,2000,,2.0L 5MT FWD (150 HP),Gasoline,4,1970,150,187,5-speed manual,Front Wheel Drive,8.4,210,8.1,4061,1712,1430,2540,1240
+alfa-romeo,Alfa Romeo,145,145 (1994),1994,2000,,2.0L 5MT FWD (155 HP),Gasoline,4,1970,155,187,5-speed manual,Front Wheel Drive,8.3,211,8.7,4061,1712,1430,2540,1240
+alfa-romeo,Alfa Romeo,145,145 (1994),1994,2000,,1.9L JTD 5MT FWD (105 HP),Diesel,4,1910,105,255,5-speed manual,Front Wheel Drive,10.4,185,5.7,4061,1712,1430,2540,1210
+alfa-romeo,Alfa Romeo,145,145 (1994),1994,2000,,2.0L TD 5MT FWD (90 HP),Diesel,4,1929,90,186,5-speed manual,Front Wheel Drive,12,178,6.4,4061,1712,1430,2540,1185
+alfa-romeo,Alfa Romeo,146,146 (1995),1995,2000,,1.4L 5MT FWD (90 HP),Gasoline,4,1351,90,115,5-speed manual,Front Wheel Drive,12.8,179,8.3,4260,1709,1420,2540,1133
+alfa-romeo,Alfa Romeo,146,146 (1995),1995,2000,,1.4L TS 5MT FWD (103 HP),Gasoline,4,1370,103,123,5-speed manual,Front Wheel Drive,11.5,187,7.9,4171,1730,1443,2545,1220
+alfa-romeo,Alfa Romeo,146,146 (1995),1995,2000,,1.6L 5MT FWD (103 HP),Gasoline,4,1596,103,134,5-speed manual,Front Wheel Drive,11.4,183,8.2,4257,1712,1427,2540,1150
+alfa-romeo,Alfa Romeo,146,146 (1995),1995,2000,,1.6L TS 5MT FWD (120 HP),Gasoline,4,1598,120,144,5-speed manual,Front Wheel Drive,10.5,197,8.3,4260,1712,1425,2540,1185
+alfa-romeo,Alfa Romeo,146,146 (1995),1995,2000,,1.7L 5MT FWD (129 HP),Gasoline,4,1712,129,149,5-speed manual,Front Wheel Drive,10.2,201,8.5,4257,1712,1427,2540,1174
+alfa-romeo,Alfa Romeo,146,146 (1995),1995,2000,,1.8L TS 5MT FWD (140 HP),Gasoline,4,1747,140,165,5-speed manual,Front Wheel Drive,9.4,207,7.9,4260,1712,1425,2540,1133
+alfa-romeo,Alfa Romeo,146,146 (1995),1995,2000,,1.8L TS 5MT FWD (144 HP),Gasoline,4,1747,144,169,5-speed manual,Front Wheel Drive,9.3,209,8.4,4257,1712,1425,2540,1215
+alfa-romeo,Alfa Romeo,146,146 (1995),1995,2000,,1.9L JTD 5MT FWD (105 HP),Diesel,4,1910,105,255,5-speed manual,Front Wheel Drive,10.4,187,5.7,4260,1712,1425,2540,1211
+alfa-romeo,Alfa Romeo,146,146 (1995),1995,2000,,2.0L TD 5MT FWD (90 HP),Diesel,4,1929,90,186,5-speed manual,Front Wheel Drive,12.5,179,6.4,4260,1709,1420,2540,1220
+alfa-romeo,Alfa Romeo,147,147 3 Doors (2005),2005,2009,,1.6L Eco TS 5MT FWD (105 HP),Gasoline,4,1598,105,140,5-speed manual,Front Wheel Drive,11.3,185,8.1,4224,1730,1443,2545,1165
+alfa-romeo,Alfa Romeo,147,147 3 Doors (2005),2005,2009,,1.6L TS 5MT FWD (120 HP),Gasoline,4,1598,120,146,5-speed manual,Front Wheel Drive,10.6,195,8.2,4224,1730,1443,2545,1175
+alfa-romeo,Alfa Romeo,147,147 3 Doors (2005),2005,2009,,2.0L TS 5MT FWD (150 HP),Gasoline,4,1970,150,181,5-speed manual,Front Wheel Drive,9.3,208,8.9,4224,1730,1420,2545,1225
+alfa-romeo,Alfa Romeo,147,147 3 Doors (2005),2005,2009,,1.9L JTD 16V 6MT FWD (150 HP),Diesel,4,1910,150,305,6-speed manual,Front Wheel Drive,8.8,208,5.9,4224,1730,1443,2545,1265
+alfa-romeo,Alfa Romeo,147,147 3 Doors (2005),2005,2009,,1.9L JTD 5MT FWD (100 HP),Diesel,4,1910,101,201,5-speed manual,Front Wheel Drive,12.1,183,5.8,4224,1730,1443,2545,1225
+alfa-romeo,Alfa Romeo,147,147 3 Doors (2005),2005,2009,,1.9L JTD 5MT FWD (115 HP),Diesel,4,1910,116,280,5-speed manual,Front Wheel Drive,9.9,192,5.8,4224,1730,1443,2545,1245
+alfa-romeo,Alfa Romeo,147,147 3 Doors (2005),2005,2009,,1.9L JTD 5MT FWD (120 HP),Diesel,4,1910,120,280,5-speed manual,Front Wheel Drive,9.6,193,5.8,4224,1730,1443,2545,1265
+alfa-romeo,Alfa Romeo,147,147 3 Doors (2005),2005,2009,,1.9L JTD 6MT FWD (170 HP),Diesel,4,1910,170,330,6-speed manual,Front Wheel Drive,8,216,5.9,4224,1730,1443,2545,1310
+alfa-romeo,Alfa Romeo,147,147 3 Doors (2003),2003,2005,,3.2L V6 6MT (250 HP),Gasoline,6,3179,250,300,6-speed manual,Front Wheel Drive,6.3,246,12.1,4214,1763,1412,2545,1335
+alfa-romeo,Alfa Romeo,147,147 3 Doors (2000),2000,2005,,1.6L Eco TS 5MT FWD (105 HP),Gasoline,4,1598,105,140,5-speed manual,Front Wheel Drive,11.3,185,8.1,4171,1730,1443,2545,1210
+alfa-romeo,Alfa Romeo,147,147 3 Doors (2000),2000,2005,,1.6L TS 5MT FWD (120 HP),Gasoline,4,1598,120,146,5-speed manual,Front Wheel Drive,10.6,195,8.2,4171,1730,1443,2545,1220
+alfa-romeo,Alfa Romeo,147,147 3 Doors (2000),2000,2005,,2.0L TS 5MT FWD (150 HP),Gasoline,4,1970,150,181,5-speed manual,Front Wheel Drive,9.3,208,8.9,4171,1730,1420,2545,1225
+alfa-romeo,Alfa Romeo,147,147 3 Doors (2000),2000,2005,,1.9L JTD 16V 6MT FWD (140 HP),Diesel,4,1910,140,305,6-speed manual,Front Wheel Drive,9.1,206,5.9,4171,1730,1443,2545,1290
+alfa-romeo,Alfa Romeo,147,147 3 Doors (2000),2000,2005,,1.9L JTD 5MT FWD (100 HP),Diesel,4,1910,101,199,5-speed manual,Front Wheel Drive,12.1,183,5.8,4171,1730,1443,2545,1250
+alfa-romeo,Alfa Romeo,147,147 3 Doors (2000),2000,2005,,1.9L JTD 5MT FWD (110 HP),Diesel,4,1910,110,200,5-speed manual,Front Wheel Drive,10.5,188,5.7,4171,1730,1443,2545,1270
+alfa-romeo,Alfa Romeo,147,147 3 Doors (2000),2000,2005,,1.9L JTD 5MT FWD (115 HP),Diesel,4,1910,116,275,5-speed manual,Front Wheel Drive,9.9,191,5.8,4171,1730,1443,2545,1245
+alfa-romeo,Alfa Romeo,147,147 5 Doors (2005),2005,2009,,1.6L Eco TS 5MT FWD (105 HP),Gasoline,4,1598,105,140,5-speed manual,Front Wheel Drive,11.3,185,8.1,4224,1730,1443,2545,1185
+alfa-romeo,Alfa Romeo,147,147 5 Doors (2005),2005,2009,,1.6L TS 5MT FWD (120 HP),Gasoline,4,1598,120,146,5-speed manual,Front Wheel Drive,10.6,195,8.2,4224,1730,1443,2545,1195
+alfa-romeo,Alfa Romeo,147,147 5 Doors (2005),2005,2009,,2.0L TS 5MT FWD (150 HP),Gasoline,4,1970,150,184,5-speed manual,Front Wheel Drive,9.3,208,8.9,4224,1730,1420,2545,1245
+alfa-romeo,Alfa Romeo,147,147 5 Doors (2005),2005,2009,,1.9L JTD 16V 6MT FWD (150 HP),Diesel,4,1910,150,305,6-speed manual,Front Wheel Drive,8.8,208,5.9,4224,1730,1420,2545,1285
+alfa-romeo,Alfa Romeo,147,147 5 Doors (2005),2005,2009,,1.9L JTD 5MT FWD (100 HP),Diesel,4,1910,101,200,5-speed manual,Front Wheel Drive,12.1,183,5.8,4224,1730,1443,2545,1245
+alfa-romeo,Alfa Romeo,147,147 5 Doors (2005),2005,2009,,1.9L JTD 5MT FWD (115 HP),Diesel,4,1910,116,275,5-speed manual,Front Wheel Drive,9.9,191,5.8,4224,1730,1443,2545,1265
+alfa-romeo,Alfa Romeo,147,147 5 Doors (2005),2005,2009,,1.9L JTD 5MT FWD (120 HP),Diesel,4,1910,120,280,5-speed manual,Front Wheel Drive,9.6,193,5.8,4224,1730,1443,2545,1285
+alfa-romeo,Alfa Romeo,147,147 5 Doors (2005),2005,2009,,1.9L JTD 6MT FWD (170 HP),Diesel,4,1910,170,330,6-speed manual,Front Wheel Drive,8,216,5.9,4224,1730,1443,2545,1310
+alfa-romeo,Alfa Romeo,147,147 5 Doors (2000),2000,2005,,1.6L Eco TS 5MT FWD (105 HP),Gasoline,4,1598,105,140,5-speed manual,Front Wheel Drive,11.3,185,8.1,4171,1730,1443,2545,1185
+alfa-romeo,Alfa Romeo,147,147 5 Doors (2000),2000,2005,,1.6L TS 5MT FWD (120 HP),Gasoline,4,1598,120,146,5-speed manual,Front Wheel Drive,10.6,195,8.2,4171,1730,1443,2545,1195
+alfa-romeo,Alfa Romeo,147,147 5 Doors (2000),2000,2005,,2.0L TS 5MT FWD (150 HP),Gasoline,4,1970,150,181,5-speed manual,Front Wheel Drive,9.3,208,8.9,4171,1730,1443,2545,1245
+alfa-romeo,Alfa Romeo,147,147 5 Doors (2000),2000,2005,,1.9L JTD 16V 6MT FWD (140 HP),Diesel,4,1910,140,305,6-speed manual,Front Wheel Drive,9.1,206,5.9,4171,1730,1443,2545,1310
+alfa-romeo,Alfa Romeo,147,147 5 Doors (2000),2000,2005,,1.9L JTD 5MT FWD (100 HP),Diesel,4,1910,101,200,5-speed manual,Front Wheel Drive,12.1,183,5.8,4171,1730,1443,2545,1270
+alfa-romeo,Alfa Romeo,147,147 5 Doors (2000),2000,2005,,1.9L JTD 5MT FWD (110 HP),Diesel,4,1910,110,200,5-speed manual,Front Wheel Drive,10.5,188,5.7,4171,1730,1443,2545,1270
+alfa-romeo,Alfa Romeo,147,147 5 Doors (2000),2000,2005,,1.9L JTD 5MT FWD (115 HP),Diesel,4,1910,116,275,5-speed manual,Front Wheel Drive,9.9,191,5.8,4171,1730,1443,2545,1265
+alfa-romeo,Alfa Romeo,155,155 (1992),1992,1998,,1.6L TS 5MT FWD (120 HP),Gasoline,4,1598,120,144,5-speed manual,Front Wheel Drive,11.4,195,7.8,4442,1730,1440,2540,1207
+alfa-romeo,Alfa Romeo,155,155 (1992),1992,1998,,1.7L TS 5MT FWD (115 HP),Gasoline,4,1749,115,149,5-speed manual,Front Wheel Drive,10.8,192,8.1,4442,1699,1440,2540,1250
+alfa-romeo,Alfa Romeo,155,155 (1992),1992,1998,,1.8L TS 16V 5MT FWD (140 HP),Gasoline,4,1747,140,165,5-speed manual,Front Wheel Drive,10,205,7.9,4442,1730,1440,2540,1270
+alfa-romeo,Alfa Romeo,155,155 (1992),1992,1998,,1.8L TS 5MT FWD (126 HP),Gasoline,4,1773,127,163,5-speed manual,Front Wheel Drive,10.3,200,8.2,4442,1730,1440,2540,1325
+alfa-romeo,Alfa Romeo,155,155 (1992),1992,1998,,1.8L TS 5MT FWD (129 HP),Gasoline,4,1773,129,165,5-speed manual,Front Wheel Drive,10.3,200,8.3,4445,1699,1400,2540,1250
+alfa-romeo,Alfa Romeo,155,155 (1992),1992,1998,,2.0L 16V Turbo Q4 5MT FWD (186 HP),Gasoline,4,1995,186,283,5-speed manual,All Wheel Drive,7,225,9.9,4442,1730,1440,2540,1535
+alfa-romeo,Alfa Romeo,155,155 (1992),1992,1998,,2.0L 16V Turbo Q4 5MT FWD (190 HP),Gasoline,4,1995,190,297,5-speed manual,All Wheel Drive,7,225,9.9,4442,1699,1440,2540,1455
+alfa-romeo,Alfa Romeo,155,155 (1992),1992,1998,,2.0L TS 5MT FWD (143 HP),Gasoline,4,1995,143,187,5-speed manual,Front Wheel Drive,9.3,205,8,4442,1730,1440,2540,1273
+alfa-romeo,Alfa Romeo,155,155 (1992),1992,1998,,2.0L TS 5MT FWD (150 HP),Gasoline,4,1970,150,186,5-speed manual,Front Wheel Drive,9,208,8,4442,1730,1440,2540,1340
+alfa-romeo,Alfa Romeo,155,155 (1992),1992,1998,,2.5L V6 5MT FWD (163 HP),Gasoline,6,2492,163,216,5-speed manual,Front Wheel Drive,8.4,215,9.3,4442,1730,1440,2540,1330
+alfa-romeo,Alfa Romeo,155,155 (1992),1992,1998,,2.5L V6 5MT FWD (166 HP),Gasoline,6,2492,166,216,5-speed manual,Front Wheel Drive,8.4,216,9.5,4442,1699,1440,2540,1330
+alfa-romeo,Alfa Romeo,155,155 (1992),1992,1998,,1.9L TD 5MT FWD (92 HP),Diesel,4,1929,92,186,5-speed manual,Front Wheel Drive,13.5,180,6.4,4442,1730,1440,2540,1300
+alfa-romeo,Alfa Romeo,155,155 (1992),1992,1998,,2.0L TD 5MT FWD (90 HP),Diesel,4,1929,90,186,5-speed manual,Front Wheel Drive,13.5,180,6.4,4442,1730,1440,2540,1320
+alfa-romeo,Alfa Romeo,155,155 (1992),1992,1998,,2.5L TD 5MT FWD (125 HP),Diesel,4,2499,125,294,5-speed manual,Front Wheel Drive,10.4,195,7.1,4442,1699,1440,2540,1420
+alfa-romeo,Alfa Romeo,156,156 (2003),2003,2005,,1.6L TS 5MT FWD (120 HP),Gasoline,4,1598,120,146,5-speed manual,Front Wheel Drive,10.5,200,8.2,4435,1742,1430,2596,1265
+alfa-romeo,Alfa Romeo,156,156 (2003),2003,2005,,1.8L TS 5MT FWD (140 HP),Gasoline,4,1747,140,163,5-speed manual,Front Wheel Drive,9.4,208,8.5,4435,1742,1430,2596,1265
+alfa-romeo,Alfa Romeo,156,156 (2003),2003,2005,,2.0L JTS 5AT FWD (165 HP),Gasoline,4,1970,166,206,5-speed automatic (Selespeed),Front Wheel Drive,8.2,220,8.6,4435,1742,1430,2596,1285
+alfa-romeo,Alfa Romeo,156,156 (2003),2003,2005,,2.0L JTS 5MT FWD (165 HP),Gasoline,4,1970,166,206,5-speed manual,Front Wheel Drive,8.2,220,8.6,4435,1742,1430,2596,1285
+alfa-romeo,Alfa Romeo,156,156 (2003),2003,2005,,2.5L V6 6MT FWD (192 HP),Gasoline,6,2492,192,218,6-speed manual,Front Wheel Drive,7.3,230,11.8,4435,1742,1430,2596,1405
+alfa-romeo,Alfa Romeo,156,156 (2003),2003,2005,,1.9L JTD 16V 6MT FWD (140 HP),Diesel,4,1910,140,305,6-speed manual,Front Wheel Drive,9.3,209,5.9,4435,1742,1430,2596,1305
+alfa-romeo,Alfa Romeo,156,156 (2003),2003,2005,,1.9L JTD 5MT FWD (115 HP),Diesel,4,1910,116,275,5-speed manual,Front Wheel Drive,10.3,192,5.8,4435,1742,1430,2596,1305
+alfa-romeo,Alfa Romeo,156,156 (2003),2003,2005,,2.4L JTD 6MT FWD (175 HP),Diesel,5,2387,175,385,6-speed manual,Front Wheel Drive,8.3,225,6.6,4435,1742,1430,2596,1385
+alfa-romeo,Alfa Romeo,156,156 (2001),2001,2005,,3.2L V6 6AT FWD (250 HP),Gasoline,6,3179,250,300,6-speed automatic,Front Wheel Drive,6.3,250,12.1,4430,1765,1402,2596,1410
+alfa-romeo,Alfa Romeo,156,156 (2001),2001,2005,,3.2L V6 6MT FWD (250 HP),Gasoline,6,3179,250,300,6-speed manual,Front Wheel Drive,6.3,250,12.1,4430,1765,1402,2596,1410
+alfa-romeo,Alfa Romeo,156,156 (1997),1997,2003,,1.6L TS 5MT FWD (120 HP),Gasoline,4,1598,120,144,5-speed manual,Front Wheel Drive,10.5,201,8.2,4430,1745,1415,2596,1225
+alfa-romeo,Alfa Romeo,156,156 (1997),1997,2003,,1.8L TS 5MT FWD (140 HP),Gasoline,4,1747,140,169,5-speed manual,Front Wheel Drive,9.4,208,8.5,4430,1745,1420,2596,1240
+alfa-romeo,Alfa Romeo,156,156 (1997),1997,2003,,1.8L TS 5MT FWD (144 HP),Gasoline,4,1747,144,169,5-speed manual,Front Wheel Drive,9.3,210,8.2,4430,1745,1415,2596,1225
+alfa-romeo,Alfa Romeo,156,156 (1997),1997,2003,,2.0L JTS 5MT FWD (165 HP),Gasoline,4,1970,165,206,5-speed manual,Front Wheel Drive,8.2,220,8.6,4430,1745,1420,2596,1285
+alfa-romeo,Alfa Romeo,156,156 (1997),1997,2003,,2.0L TS 5MT FWD (155 HP),Gasoline,4,1970,155,187,5-speed manual,Front Wheel Drive,8.6,216,8.5,4430,1745,1420,2596,1245
+alfa-romeo,Alfa Romeo,156,156 (1997),1997,2003,,2.5L V6 4AT FWD (190 HP),Gasoline,6,2492,192,218,4-speed automatic,Front Wheel Drive,8.5,227,11.9,4430,1745,1415,2596,1350
+alfa-romeo,Alfa Romeo,156,156 (1997),1997,2003,,2.5L V6 6MT FWD (190 HP),Gasoline,6,2492,192,218,6-speed manual,Front Wheel Drive,7.3,230,11.4,4430,1745,1415,2596,1295
+alfa-romeo,Alfa Romeo,156,156 (1997),1997,2003,,2.5L V6 6MT FWD (192 HP),Gasoline,6,2492,192,218,6-speed manual,Front Wheel Drive,7.3,230,11.8,4430,1745,1420,2596,1330
+alfa-romeo,Alfa Romeo,156,156 (1997),1997,2003,,1.9L JTD 16V 6MT FWD (140 HP),Diesel,4,1910,140,305,6-speed manual,Front Wheel Drive,9.3,209,5.9,4430,1745,1420,2596,1305
+alfa-romeo,Alfa Romeo,156,156 (1997),1997,2003,,1.9L JTD 5MT FWD (105 HP),Diesel,4,1910,105,255,5-speed manual,Front Wheel Drive,10.5,188,5.8,4430,1745,1415,2596,1250
+alfa-romeo,Alfa Romeo,156,156 (1997),1997,2003,,1.9L JTD 5MT FWD (110 HP),Diesel,4,1910,110,275,5-speed manual,Front Wheel Drive,10.3,192,5.8,4430,1745,1415,2596,1280
+alfa-romeo,Alfa Romeo,156,156 (1997),1997,2003,,1.9L JTD 5MT FWD (115 HP),Diesel,4,1910,116,275,5-speed manual,Front Wheel Drive,10.3,192,5.8,4430,1745,1420,2596,1280
+alfa-romeo,Alfa Romeo,156,156 (1997),1997,2003,,2.4L JTD 5MT FWD (136 HP),Diesel,5,2387,136,304,5-speed manual,Front Wheel Drive,9.5,203,6.7,4430,1745,1420,2596,1325
+alfa-romeo,Alfa Romeo,156,156 (1997),1997,2003,,2.4L JTD 5MT FWD (140 HP),Diesel,5,2387,140,304,5-speed manual,Front Wheel Drive,9.4,203,6.7,4430,1745,1420,2596,1325
+alfa-romeo,Alfa Romeo,156,156 (1997),1997,2003,,2.4L JTD 5MT FWD (150 HP),Diesel,5,2387,150,305,5-speed manual,Front Wheel Drive,9.4,212,6.6,4430,1745,1420,2596,1360
+alfa-romeo,Alfa Romeo,156 Sportwagon,156 Sportwagon (2003),2003,2005,,1.6L TS 5MT FWD (120 HP),Gasoline,4,1598,120,146,5-speed manual,Front Wheel Drive,11,200,8.3,4430,1745,1415,2596,1315
+alfa-romeo,Alfa Romeo,156 Sportwagon,156 Sportwagon (2003),2003,2005,,1.8L TS 5MT FWD (140 HP),Gasoline,4,1747,140,163,5-speed manual,Front Wheel Drive,9.7,208,8.6,4430,1745,1415,2596,1315
+alfa-romeo,Alfa Romeo,156 Sportwagon,156 Sportwagon (2003),2003,2005,,2.0L JTS 5AT FWD (165 HP),Gasoline,4,1970,165,206,5-speed automatic (Selespeed),Front Wheel Drive,8.2,220,8.9,4430,1745,1430,2596,1335
+alfa-romeo,Alfa Romeo,156 Sportwagon,156 Sportwagon (2003),2003,2005,,2.5L V6 4AT FWD (192 HP),Gasoline,6,2492,192,218,4-speed automatic,Front Wheel Drive,8.5,227,12.2,4430,1745,1420,2596,1455
+alfa-romeo,Alfa Romeo,156 Sportwagon,156 Sportwagon (2003),2003,2005,,2.5L V6 6MT FWD (192 HP),Gasoline,6,2492,192,218,6-speed manual,Front Wheel Drive,7.4,230,12,4430,1745,1420,2596,1401
+alfa-romeo,Alfa Romeo,156 Sportwagon,156 Sportwagon (2003),2003,2005,,1.9L JTD 16V 6MT FWD (140 HP),Diesel,4,1910,140,305,6-speed manual,Front Wheel Drive,9.7,209,6.1,4430,1745,1415,2596,1355
+alfa-romeo,Alfa Romeo,156 Sportwagon,156 Sportwagon (2003),2003,2005,,1.9L JTD 5MT FWD (115 HP),Diesel,4,1910,116,275,5-speed manual,Front Wheel Drive,10.7,192,6,4430,1745,1415,2596,1355
+alfa-romeo,Alfa Romeo,156 Sportwagon,156 Sportwagon (2003),2003,2005,,2.4L JTD 6MT FWD (175 HP),Diesel,5,2387,175,385,6-speed manual,Front Wheel Drive,8.6,225,5.6,4440,1742,1430,2596,1435
+alfa-romeo,Alfa Romeo,156 Sportwagon,156 Sportwagon (2002),2002,2005,,3.2L V6 6AT FWD (250 HP),Gasoline,6,3179,250,300,6-speed automatic (Selespeed),Front Wheel Drive,6.3,249,12.3,4430,1765,1412,2596,1460
+alfa-romeo,Alfa Romeo,156 Sportwagon,156 Sportwagon (2002),2002,2005,,3.2L V6 6MT (250 HP),Gasoline,6,3179,250,300,6-speed manual,Front Wheel Drive,6.3,250,12.3,4430,1765,1412,2596,1460
+alfa-romeo,Alfa Romeo,156 Sportwagon,156 Sportwagon (2000),2000,2003,,1.6L TS 5MT FWD (120 HP),Gasoline,4,1598,120,144,5-speed manual,Front Wheel Drive,10.5,201,8.2,4430,1745,1415,2596,1225
+alfa-romeo,Alfa Romeo,156 Sportwagon,156 Sportwagon (2000),2000,2003,,1.8L TS 5MT FWD (140 HP),Gasoline,4,1747,140,169,5-speed manual,Front Wheel Drive,9.7,208,8.5,4430,1745,1420,2596,1240
+alfa-romeo,Alfa Romeo,156 Sportwagon,156 Sportwagon (2000),2000,2003,,1.8L TS 5MT FWD (144 HP),Gasoline,4,1747,140,169,5-speed manual,Front Wheel Drive,9.3,208,8.2,4430,1745,1415,2596,1225
+alfa-romeo,Alfa Romeo,156 Sportwagon,156 Sportwagon (2000),2000,2003,,2.0L JTS 5MT FWD (165 HP),Gasoline,4,1970,165,206,5-speed manual,Front Wheel Drive,8.2,220,8.6,4430,1745,1420,2596,1260
+alfa-romeo,Alfa Romeo,156 Sportwagon,156 Sportwagon (2000),2000,2003,,2.0L TS 5AT FWD (155 HP),Gasoline,4,1970,155,187,5-speed automatic (Selespeed),Front Wheel Drive,8.8,216,8.5,4430,1745,1420,2596,1245
+alfa-romeo,Alfa Romeo,156 Sportwagon,156 Sportwagon (2000),2000,2003,,2.0L TS 5MT FWD (150 HP),Gasoline,4,1970,150,181,5-speed manual,Front Wheel Drive,9,214,9,4430,1745,1420,2596,1245
+alfa-romeo,Alfa Romeo,156 Sportwagon,156 Sportwagon (2000),2000,2003,,2.0L TS 5MT FWD (155 HP),Gasoline,4,1970,155,187,5-speed manual,Front Wheel Drive,8.8,216,8.5,4430,1745,1420,2596,1245
+alfa-romeo,Alfa Romeo,156 Sportwagon,156 Sportwagon (2000),2000,2003,,2.5L V6 4AT FWD (190 HP),Gasoline,6,2492,192,218,4-speed automatic,Front Wheel Drive,8.5,227,12,4430,1745,1415,2596,1400
+alfa-romeo,Alfa Romeo,156 Sportwagon,156 Sportwagon (2000),2000,2003,,2.5L V6 4AT FWD (190 HP),Gasoline,6,2492,192,218,4-speed automatic,Front Wheel Drive,8.5,227,12.2,4430,1745,1420,2596,1455
+alfa-romeo,Alfa Romeo,156 Sportwagon,156 Sportwagon (2000),2000,2003,,2.5L V6 6MT FWD (190 HP),Gasoline,6,2492,192,218,6-speed manual,Front Wheel Drive,7.4,230,11.4,4430,1745,1415,2596,1295
+alfa-romeo,Alfa Romeo,156 Sportwagon,156 Sportwagon (2000),2000,2003,,2.5L V6 6MT FWD (192 HP),Gasoline,6,2492,192,218,6-speed manual,Front Wheel Drive,7.4,230,11.8,4430,1745,1420,2596,1330
+alfa-romeo,Alfa Romeo,156 Sportwagon,156 Sportwagon (2000),2000,2003,,1.9L JTD 16V 6MT FWD (140 HP),Diesel,4,1910,140,305,6-speed manual,Front Wheel Drive,9.7,209,5.9,4430,1745,1420,2596,1305
+alfa-romeo,Alfa Romeo,156 Sportwagon,156 Sportwagon (2000),2000,2003,,1.9L JTD 5MT FWD (105 HP),Diesel,4,1910,105,255,5-speed manual,Front Wheel Drive,10.9,188,5.8,4430,1745,1415,2596,1250
+alfa-romeo,Alfa Romeo,156 Sportwagon,156 Sportwagon (2000),2000,2003,,1.9L JTD 5MT FWD (110 HP),Diesel,4,1910,110,275,5-speed manual,Front Wheel Drive,10.7,188,5.8,4430,1745,1415,2596,1280
+alfa-romeo,Alfa Romeo,156 Sportwagon,156 Sportwagon (2000),2000,2003,,1.9L JTD 5MT FWD (115 HP),Diesel,4,1910,116,275,5-speed manual,Front Wheel Drive,10.7,192,5.8,4430,1745,1420,2596,1280
+alfa-romeo,Alfa Romeo,156 Sportwagon,156 Sportwagon (2000),2000,2003,,2.4L JTD 5MT FWD (136 HP),Diesel,5,2387,136,304,5-speed manual,Front Wheel Drive,9.9,203,6.7,4430,1745,1420,2596,1325
+alfa-romeo,Alfa Romeo,156 Sportwagon,156 Sportwagon (2000),2000,2003,,2.4L JTD 5MT FWD (140 HP),Diesel,5,2387,140,304,5-speed manual,Front Wheel Drive,9.8,203,6.7,4430,1745,1420,2596,1325
+alfa-romeo,Alfa Romeo,156 Sportwagon,156 Sportwagon (2000),2000,2003,,2.4L JTD 5MT FWD (150 HP),Diesel,5,2387,150,305,5-speed manual,Front Wheel Drive,9.4,212,6.6,4430,1745,1420,2596,1360
+alfa-romeo,Alfa Romeo,159,159 (2005),2005,2011,,1.8L 16V 5MT FWD (140 HP),Gasoline,4,1796,140,175,5-speed manual,Front Wheel Drive,10.2,206,7.7,4661,1829,1417,2700,1430
+alfa-romeo,Alfa Romeo,159,159 (2005),2005,2011,,1.8L TBi 6MT FWD (200 HP),Gasoline,4,1742,200,320,6-speed manual,Front Wheel Drive,7.7,235,8.1,4661,1829,1417,2700,1505
+alfa-romeo,Alfa Romeo,159,159 (2005),2005,2011,,1.9L JTS 6MT FWD (160 HP),Gasoline,4,1859,160,190,6-speed manual,Front Wheel Drive,9.8,212,8.7,4661,1829,1417,2700,1505
+alfa-romeo,Alfa Romeo,159,159 (2005),2005,2011,,2.2L JTS 6AT FWD (185 HP),Gasoline,4,2198,185,230,6-speed automatic (Selespeed),Front Wheel Drive,8.8,222,9.2,4661,1829,1417,2700,1490
+alfa-romeo,Alfa Romeo,159,159 (2005),2005,2011,,2.2L JTS 6MT FWD (185 HP),Gasoline,4,2198,185,230,6-speed manual,Front Wheel Drive,8.8,222,9.4,4661,1829,1417,2700,1465
+alfa-romeo,Alfa Romeo,159,159 (2005),2005,2011,,3.2L JTS Q4 6MT AWD (260 HP),Gasoline,6,3195,260,321,6-speed manual,All Wheel Drive,7,240,11.5,4661,1829,1422,2700,1655
+alfa-romeo,Alfa Romeo,159,159 (2005),2005,2011,,1.9L JTDm 16V 6MT FWD (150 HP),Diesel,4,1910,150,320,6-speed manual,Front Wheel Drive,9.4,211,6,4661,1829,1417,2700,1560
+alfa-romeo,Alfa Romeo,159,159 (2005),2005,2011,,1.9L JTDm 6MT FWD (120 HP),Diesel,4,1910,120,320,6-speed manual,Front Wheel Drive,11,191,5.9,4661,1829,1417,2700,1550
+alfa-romeo,Alfa Romeo,159,159 (2005),2005,2011,,2.4L JTDm 6AT FWD (200 HP),Diesel,5,2387,200,400,6-speed automatic,Front Wheel Drive,8.4,224,8,4661,1829,1422,2700,1650
+alfa-romeo,Alfa Romeo,159,159 (2005),2005,2011,,2.4L JTDm 6AT FWD (210 HP),Diesel,5,2387,209,400,6-speed automatic,All Wheel Drive,8.4,224,8,4661,1829,1422,2700,1650
+alfa-romeo,Alfa Romeo,159,159 (2005),2005,2011,,2.4L JTDm 6MT FWD (200 HP),Diesel,5,2387,200,400,6-speed manual,Front Wheel Drive,8.4,229,6.8,4661,1829,1422,2700,1630
+alfa-romeo,Alfa Romeo,159,159 (2005),2005,2011,,2.4L JTDm 6MT FWD (210 HP),Diesel,5,2387,209,400,6-speed manual,All Wheel Drive,8.2,229,7.5,4661,1829,1422,2700,1605
+alfa-romeo,Alfa Romeo,159 Sportwagon,159 Sportwagon (2006),2006,2011,,1.8L MPI 5MT FWD (140 HP),Gasoline,4,1796,140,175,5-speed manual,Front Wheel Drive,10.4,204,7.9,4661,1829,1425,2700,1455
+alfa-romeo,Alfa Romeo,159 Sportwagon,159 Sportwagon (2006),2006,2011,,1.9L JTS 6MT FWD (160 HP),Gasoline,4,1859,160,190,6-speed manual,Front Wheel Drive,9.9,211,8.8,4661,1829,1425,2700,1505
+alfa-romeo,Alfa Romeo,159 Sportwagon,159 Sportwagon (2006),2006,2011,,2.2L JTS 6AT FWD (185 HP),Gasoline,4,2198,185,230,6-speed automatic (Selespeed),Front Wheel Drive,9,220,9.3,4661,1829,1425,2700,1540
+alfa-romeo,Alfa Romeo,159 Sportwagon,159 Sportwagon (2006),2006,2011,,2.2L JTS 6MT FWD (185 HP),Gasoline,4,2198,185,230,6-speed manual,Front Wheel Drive,9,220,9.5,4661,1829,1425,2700,1515
+alfa-romeo,Alfa Romeo,159 Sportwagon,159 Sportwagon (2006),2006,2011,,3.2L JTS Q4 6MT AWD (260 HP),Gasoline,6,3195,260,322,6-speed manual,All Wheel Drive,7.2,237,11.6,4661,1829,1425,2700,1705
+alfa-romeo,Alfa Romeo,159 Sportwagon,159 Sportwagon (2006),2006,2011,,1.9L JTDm 16V 6AT FWD (150 HP),Diesel,4,1910,150,320,6-speed automatic,Front Wheel Drive,9.8,204,7.2,4661,1829,1425,2700,1590
+alfa-romeo,Alfa Romeo,159 Sportwagon,159 Sportwagon (2006),2006,2011,,1.9L JTDm 16V 6MT FWD (150 HP),Diesel,4,1910,150,320,6-speed manual,Front Wheel Drive,9.6,208,6.1,4661,1829,1425,2700,1560
+alfa-romeo,Alfa Romeo,159 Sportwagon,159 Sportwagon (2006),2006,2011,,1.9L JTDm 6MT FWD (120 HP),Diesel,4,1910,120,280,6-speed manual,Front Wheel Drive,11.2,190,6,4661,1829,1425,2700,1575
+alfa-romeo,Alfa Romeo,159 Sportwagon,159 Sportwagon (2006),2006,2011,,2.4L JTDm 6AT FWD (200 HP),Diesel,5,2387,200,400,6-speed automatic,Front Wheel Drive,8.6,222,8.1,4661,1829,1425,2700,1700
+alfa-romeo,Alfa Romeo,159 Sportwagon,159 Sportwagon (2006),2006,2011,,2.4L JTDm 6MT FWD (200 HP),Diesel,5,2387,200,400,6-speed manual,Front Wheel Drive,8.6,226,7,4661,1829,1425,2700,1655
+alfa-romeo,Alfa Romeo,164,164 (1988),1988,1998,,2.0L TS 5MT FWD (148 HP),Gasoline,4,1962,148,186,5-speed manual,Front Wheel Drive,9.2,210,8.3,4648,1753,1397,2659,1200
+alfa-romeo,Alfa Romeo,164,164 (1988),1988,1998,,3.0L V6 24V 4AT FWD (210 HP),Gasoline,6,2959,210,275,4-speed automatic,Front Wheel Drive,9,235,11.2,4666,1760,1389,2659,1580
+alfa-romeo,Alfa Romeo,164,164 (1988),1988,1998,,3.0L V6 24V 5MT FWD (210 HP),Gasoline,6,2959,210,275,5-speed manual,Front Wheel Drive,8,240,10.1,4666,1760,1389,2659,1530
+alfa-romeo,Alfa Romeo,164,164 (1988),1988,1998,,3.0L V6 24V Q4 5MT FWD (230 HP),Gasoline,6,2959,230,284,5-speed manual,All Wheel Drive,7.5,240,10.8,4666,1760,1389,2659,1680
+alfa-romeo,Alfa Romeo,164,164 (1988),1988,1998,,3.0L V6 24V Q4 6MT FWD (230 HP),Gasoline,6,2959,230,284,6-speed manual,All Wheel Drive,7.5,240,10.8,4666,1760,1389,2659,1680
+alfa-romeo,Alfa Romeo,164,164 (1988),1988,1998,,3.0L V6 4AT FWD (184 HP),Gasoline,6,2959,184,255,4-speed automatic,Front Wheel Drive,9.6,222,10.2,4666,1760,1389,2659,1410
+alfa-romeo,Alfa Romeo,164,164 (1988),1988,1998,,3.0L V6 4AT FWD (192 HP),Gasoline,6,2959,192,245,4-speed manual,Front Wheel Drive,8.7,225,11.6,4648,1753,1397,2659,1310
+alfa-romeo,Alfa Romeo,164,164 (1988),1988,1998,,3.0L V6 5MT FWD (184 HP),Gasoline,6,2959,184,255,5-speed manual,Front Wheel Drive,7.9,230,9.8,4666,1760,1389,2659,1335
+alfa-romeo,Alfa Romeo,164,164 (1988),1988,1998,,3.0L V6 5MT FWD (192 HP),Gasoline,6,2959,192,245,5-speed manual,Front Wheel Drive,7.7,230,9.7,4648,1753,1397,2659,1300
+alfa-romeo,Alfa Romeo,164,164 (1988),1988,1998,,3.0L V6 Quadrifoglio 5MT FWD (200 HP),Gasoline,6,2959,200,265,5-speed manual,Front Wheel Drive,7.7,237,9.9,4554,1760,1400,2659,1430
+alfa-romeo,Alfa Romeo,164,164 (1988),1988,1998,,2.5L TD 5MT FWD (117 HP),Diesel,4,2499,117,258,5-speed manual,Front Wheel Drive,10.8,200,6.8,4666,1760,1389,2659,1362
+alfa-romeo,Alfa Romeo,164,164 (1988),1988,1998,,2.5L TD 5MT FWD (125 HP),Diesel,4,2499,125,294,5-speed manual,Front Wheel Drive,10.8,203,6.8,4666,1760,1389,2659,1510
+alfa-romeo,Alfa Romeo,166,166 (2003),2003,2007,,2.0L TS 6MT FWD (150 HP),Gasoline,4,1970,150,181,6-speed manual,Front Wheel Drive,9.8,211,9.7,4719,1801,1415,2700,1395
+alfa-romeo,Alfa Romeo,166,166 (2003),2003,2007,,2.5L V6 6MT FWD (188 HP),Gasoline,6,2492,188,221,6-speed manual,Front Wheel Drive,8.4,225,11.9,4719,1801,1415,2700,1465
+alfa-romeo,Alfa Romeo,166,166 (2003),2003,2007,,3.0L V6 4AT FWD (220 HP),Gasoline,6,2959,220,265,4-speed automatic,Front Wheel Drive,8.6,236,13,4719,1801,1415,2700,1525
+alfa-romeo,Alfa Romeo,166,166 (2003),2003,2007,,3.2L V6 6MT FWD (240 HP),Gasoline,6,3179,241,289,6-speed manual,Front Wheel Drive,7.4,245,12.5,4719,1801,1415,2700,1515
+alfa-romeo,Alfa Romeo,166,166 (2003),2003,2007,,2.4L JTD 10V 6MT FWD (150 HP),Diesel,5,2387,150,305,6-speed manual,Front Wheel Drive,9.9,210,7.2,4719,1801,1415,2700,1510
+alfa-romeo,Alfa Romeo,166,166 (2003),2003,2007,,2.4L JTD 20V 5AT FWD (175 HP),Diesel,5,2387,175,385,5-speed automatic,Front Wheel Drive,9.3,217,8.9,4719,1801,1415,2700,1540
+alfa-romeo,Alfa Romeo,166,166 (2003),2003,2007,,2.4L JTD 20V 6MT FWD (175 HP),Diesel,5,2387,175,385,6-speed manual,Front Wheel Drive,8.9,222,7.5,4719,1801,1415,2700,1515
+alfa-romeo,Alfa Romeo,166,166 (1996),1996,2003,,2.0L TS 5MT FWD (155 HP),Gasoline,4,1970,155,187,5-speed manual,Front Wheel Drive,9.6,212,9.7,4719,1816,1415,2700,1395
+alfa-romeo,Alfa Romeo,166,166 (1996),1996,2003,,2.0L TS 6MT FWD (150 HP),Gasoline,4,1970,150,181,6-speed manual,Front Wheel Drive,9.8,211,9.7,4719,1816,1415,2700,1395
+alfa-romeo,Alfa Romeo,166,166 (1996),1996,2003,,2.0L V6 Turbo 6MT FWD (205 HP),Gasoline,6,1997,205,280,6-speed manual,Front Wheel Drive,8.1,237,11.7,4719,1816,1415,2700,1495
+alfa-romeo,Alfa Romeo,166,166 (1996),1996,2003,,2.5L V6 4AT FWD (188 HP),Gasoline,6,2492,188,221,4-speed automatic,Front Wheel Drive,9.5,220,12.2,4719,1816,1415,2700,1520
+alfa-romeo,Alfa Romeo,166,166 (1996),1996,2003,,2.5L V6 6MT FWD (188 HP),Gasoline,6,2492,188,221,6-speed manual,Front Wheel Drive,8.4,225,11.4,4719,1816,1415,2700,1465
+alfa-romeo,Alfa Romeo,166,166 (1996),1996,2003,,3.0L V6 4AT FWD (220 HP),Gasoline,6,2959,220,265,4-speed automatic,Front Wheel Drive,8.6,237,13,4719,1816,1415,2700,1550
+alfa-romeo,Alfa Romeo,166,166 (1996),1996,2003,,3.0L V6 6MT FWD (220 HP),Gasoline,6,2959,220,265,6-speed manual,Front Wheel Drive,7.8,241,12.5,4719,1816,1415,2700,1485
+alfa-romeo,Alfa Romeo,166,166 (1996),1996,2003,,2.4L JTD 6MT FWD (136 HP),Diesel,5,2387,136,304,6-speed manual,Front Wheel Drive,9.9,204,7.3,4719,1816,1415,2700,1465
+alfa-romeo,Alfa Romeo,2000,2000 (1971),1971,1977,,2.0L 3AT (131 HP),Gasoline,4,1962,131,207,3-speed automatic,Rear Wheel Drive,10.8,183,13.4,4394,1562,1435,2565,1110
+alfa-romeo,Alfa Romeo,2000,2000 (1971),1971,1977,,2.0L 5MT (116 HP),Gasoline,4,1962,116,149,5-speed manual,Rear Wheel Drive,11,180,9.8,4394,1562,1435,2565,1175
+alfa-romeo,Alfa Romeo,2000,2000 (1971),1971,1977,,2.0L 5MT (131 HP),Gasoline,4,1962,131,207,5-speed manual,Rear Wheel Drive,9.1,190,12.1,4394,1562,1435,2565,1107
+alfa-romeo,Alfa Romeo,33,33 (1990),1990,1994,,1.3L 5MT FWD (88 HP),Gasoline,4,1351,88,113,5-speed manual,Front Wheel Drive,10.3,176,7.8,4074,1613,1349,2474,970
+alfa-romeo,Alfa Romeo,33,33 (1990),1990,1994,,1.5L 5MT FWD (105 HP),Gasoline,4,1490,105,136,5-speed manual,Front Wheel Drive,9.8,188,8,4079,1608,1349,2479,950
+alfa-romeo,Alfa Romeo,33,33 (1990),1990,1994,,1.5L 5MT FWD (95 HP),Gasoline,4,1490,95,125,5-speed manual,Front Wheel Drive,10.7,180,7.6,4079,1608,1349,2479,950
+alfa-romeo,Alfa Romeo,33,33 (1990),1990,1994,,1.7L 16V 5MT AWD (129 HP),Gasoline,4,1712,129,,5-speed manual,All Wheel Drive,,,,4079,1608,1349,2479,
+alfa-romeo,Alfa Romeo,33,33 (1990),1990,1994,,1.7L 16V 5MT AWD (132 HP),Gasoline,4,1712,132,155,5-speed manual,All Wheel Drive,,,,4079,1608,1349,2479,1050
+alfa-romeo,Alfa Romeo,33,33 (1990),1990,1994,,1.7L 16V 5MT FWD (129 HP),Gasoline,4,1712,129,,5-speed manual,Front Wheel Drive,,,,4079,1608,1349,2479,
+alfa-romeo,Alfa Romeo,33,33 (1990),1990,1994,,1.7L 16V 5MT FWD (132 HP),Gasoline,4,1712,132,149,5-speed manual,Front Wheel Drive,8.4,205,8.1,4079,1608,1349,2479,990
+alfa-romeo,Alfa Romeo,33,33 (1990),1990,1994,,1.7L 5MT FWD (107 HP),Gasoline,4,1712,107,145,5-speed manual,Front Wheel Drive,9.5,188,7.7,4079,1608,1349,2479,950
+alfa-romeo,Alfa Romeo,33,33 (1984),1984,1990,,1.3L 5MT FWD (86 HP),Gasoline,4,1350,86,119,5-speed manual,Front Wheel Drive,10.7,172,7.8,4140,1610,1321,2451,925
+alfa-romeo,Alfa Romeo,33,33 (1984),1984,1990,,1.5L 5MT FWD (95 HP),Gasoline,4,1490,95,130,5-speed manual,Front Wheel Drive,9.9,179,7.7,4140,1610,1321,2451,915
+alfa-romeo,Alfa Romeo,33,33 (1983),1983,1989,,1.3L 5MT FWD (79 HP),Gasoline,4,1350,79,111,5-Speed manual,Front Wheel Drive,11.5,167,7.8,4016,1613,1306,2456,890
+alfa-romeo,Alfa Romeo,33,33 (1983),1983,1989,,1.5L 5MT FWD (105 HP),Gasoline,4,1490,105,133,5 - Speed manual,Front Wheel Drive,9.8,185,8,4016,1613,1306,2456,940
+alfa-romeo,Alfa Romeo,33,33 (1983),1983,1989,,1.5L 5MT FWD (95 HP),Gasoline,4,1490,95,130,5 - Speed manual,Front Wheel Drive,,179,7.8,4016,1613,1306,2456,890
+alfa-romeo,Alfa Romeo,33,33 (1983),1983,1989,,1.7L 5MT FWD (110 HP),Gasoline,4,1712,110,150,5 - Speed manual,Front Wheel Drive,9.4,190,7.6,4016,1613,1306,,930
+alfa-romeo,Alfa Romeo,33 Sport,33 Sport Wagon (1988),1988,1994,,1.4L 5MT FWD (90 HP),Gasoline,4,1351,90,113,5-speed manual,Front Wheel Drive,11.9,177,7.6,4199,1608,1379,2479,950
+alfa-romeo,Alfa Romeo,33 Sport,33 Sport Wagon (1988),1988,1994,,1.5L 5MT FWD (95 HP),Gasoline,4,1490,95,125,5-speed manual,Front Wheel Drive,10.9,179,7.9,4199,1608,1379,2479,985
+alfa-romeo,Alfa Romeo,33 Sport,33 Sport Wagon (1988),1988,1994,,1.7L 5MT FWD (105 HP),Gasoline,4,1712,105,145,5-speed manual,Front Wheel Drive,9.8,186,7.8,4199,1608,1379,2479,985
+alfa-romeo,Alfa Romeo,4C,4C (2013),2013,2020,,1.8L Turbo 6AT (240 HP),Gasoline,4,1742,240,320,Alfa TCT (Dual Dry Clutch) 6 speed,Rear Wheel Drive,4.5,257,6.8,3988,1864,1184,2380,895
+alfa-romeo,Alfa Romeo,4C,4C Spider (2015),2015,2020,,1.7L VVT 6AT RWD (240 HP),Gasoline,4,1749,240,350,6-speed automatic,Rear Wheel Drive,4.5,257,8.4,3988,1864,1184,2380,940
+alfa-romeo,Alfa Romeo,6,6 (1983),1983,1986,,2.5L V6 5MT (158 HP),Gasoline,6,2492,158,218,5-Speed manual,Rear Wheel Drive,10.5,195,11.3,4760,1679,1420,2598,1470
+alfa-romeo,Alfa Romeo,6,6 (1979),1979,1983,,2.5 V6,Gasoline,6,2492,160,219,"Manual, 5 Speed",Rear Wheel Drive,10.5,200,12.7,4760,1679,1420,2598,1470
+alfa-romeo,Alfa Romeo,75,75 (1985),1985,1992,,1.6i 5MT RWD (106 HP),Gasoline,4,1570,106,132,5-Speed manual,Rear Wheel Drive,11.3,180,8.5,4331,1631,1349,2510,1090
+alfa-romeo,Alfa Romeo,75,75 (1985),1985,1992,,1.6L 5MT RWD (110 HP),Gasoline,4,1570,110,146,5-speed manual,Rear Wheel Drive,10.7,180,9.4,4331,1631,1349,2510,1060
+alfa-romeo,Alfa Romeo,75,75 (1985),1985,1992,,1.8 Turbo 5MT RWD (155 HP),Gasoline,4,1779,155,225,5-speed manual,Rear Wheel Drive,7.6,209,9.8,4331,1631,1349,2510,1070
+alfa-romeo,Alfa Romeo,75,75 (1985),1985,1992,,1.8i 5MT RWD (122 HP),Gasoline,4,1779,122,157,5-speed manual,Rear Wheel Drive,10.4,190,8.8,4331,1631,1349,2510,1080
+alfa-romeo,Alfa Romeo,75,75 (1985),1985,1992,,1.8L 5MT RWD (120 HP),Gasoline,4,1779,120,168,5-speed manual,Rear Wheel Drive,9.5,193,9.5,4331,1631,1349,2510,1060
+alfa-romeo,Alfa Romeo,75,75 (1985),1985,1992,,2.0L 5MT RWD (128 HP),Gasoline,4,1962,128,179,5-speed manual,Rear Wheel Drive,8.9,196,9.6,4331,1631,1349,2510,1070
+alfa-romeo,Alfa Romeo,75,75 (1985),1985,1992,,2.0L Twin Spark 5MT RWD (128 HP),Gasoline,4,1962,148,186,5-speed manual,Front Wheel Drive,8.2,203,8.1,4648,1753,1397,2659,1200
+alfa-romeo,Alfa Romeo,75,75 (1985),1985,1992,,2.5L V6 5MT RWD (156 HP),Gasoline,6,2492,156,210,5-speed manual,Rear Wheel Drive,8.2,209,9.6,4331,1631,1349,2510,1070
+alfa-romeo,Alfa Romeo,75,75 (1985),1985,1992,,3.0L V6 5MT RWD (188 HP),Gasoline,6,2959,188,245,5-speed manual,Front Wheel Drive,7.3,230,9.8,4648,1753,1397,2659,1250
+alfa-romeo,Alfa Romeo,75,75 (1985),1985,1992,,2.0L Turbo Diesel 5MT RWD (95 HP),Diesel,4,1995,95,193,5-Speed manual,Rear Wheel Drive,12.4,175,7.6,4331,1631,1349,2510,1190
+alfa-romeo,Alfa Romeo,8C,8C (2008),2008,2010,,4.7L V8 6AT RWD (450 HP),Gasoline,8,4691,450,470,6-speed automatic,Rear Wheel Drive,4.4,290,15.8,4382,1895,1341,2596,1585
+alfa-romeo,Alfa Romeo,8C,8C (2007),2007,2009,,4.7L V8 6AT (450 HP),Gasoline,8,4691,450,470,6-speed automatic,Rear Wheel Drive,4.2,293,15.8,4382,1895,1341,2596,1510
+alfa-romeo,Alfa Romeo,8C,8C (1936),1936,1939,,2.9,Gasoline,8,2905,182,,"Manual, 4 Speed",Rear Wheel Drive,,185,,4166,1676,,2794,1195
+alfa-romeo,Alfa Romeo,8C,8C (1931),1931,1935,,2.3,Gasoline,8,2336,180,,"Manual, 4 Speed",Rear Wheel Drive,,185,,,,,2741,991
+alfa-romeo,Alfa Romeo,Alfasud,Alfasud (1980),1980,1983,,1.2L 4MT FWD (63 HP),Gasoline,4,1186,63,88,4-speed manual,Front Wheel Drive,15,150,8.9,3995,1590,1369,2456,860
+alfa-romeo,Alfa Romeo,Alfasud,Alfasud (1980),1980,1983,,1.2L 5MT FWD (68 HP),Gasoline,4,1186,68,90,5-speed manual,Front Wheel Drive,13.6,154,8.7,3995,1590,1369,2456,870
+alfa-romeo,Alfa Romeo,Alfasud,Alfasud (1980),1980,1983,,1.3L 5MT FWD (79 HP),Gasoline,4,1351,79,111,5-speed manual,Front Wheel Drive,12.1,159,9.1,3995,1590,1369,2456,870
+alfa-romeo,Alfa Romeo,Alfasud,Alfasud (1980),1980,1983,,1.5L 5MT FWD (85 HP),Gasoline,4,1490,85,121,5-speed manual,Front Wheel Drive,11.5,166,8.8,3995,1590,1369,2456,895
+alfa-romeo,Alfa Romeo,Alfasud,Alfasud (1977),1977,1980,,1.2L 5MT FWD (63 HP),Gasoline,4,1186,63,88,5-speed manual,Front Wheel Drive,14.7,154,8.1,3934,1590,1369,2456,860
+alfa-romeo,Alfa Romeo,Alfasud,Alfasud (1977),1977,1980,,1.3L 5MT FWD (68 HP),Gasoline,4,1286,68,100,5-speed manual,Front Wheel Drive,13.3,159,8.7,3934,1590,1369,2456,870
+alfa-romeo,Alfa Romeo,Alfasud,Alfasud (1977),1977,1980,,1.5L 5MT FWD (85 HP),Gasoline,4,1490,85,121,5-speed manual,Front Wheel Drive,11.2,166,8.8,3934,1590,1369,2456,895
+alfa-romeo,Alfa Romeo,Alfasud,Alfasud (1972),1972,1977,,1.2 4MT (63 HP),Gasoline,4,1186,63,83,4-speed manual,Front Wheel Drive,15.4,151,7.6,3889,1590,1369,2456,830
+alfa-romeo,Alfa Romeo,Alfasud Giardinetta,Alfasud Giardinetta (1978),1978,1981,,1.3L 5MT FWD (68 HP),Gasoline,4,1286,68,100,5-speed manual,Front Wheel Drive,13.8,154,8.9,3975,1590,1369,2456,915
+alfa-romeo,Alfa Romeo,Alfasud Giardinetta,Alfasud Giardinetta (1978),1978,1981,,1.4L 5MT FWD (71 HP),Gasoline,4,1351,71,105,5-speed manual,Front Wheel Drive,12.9,154,9,3975,1590,1369,2456,920
+alfa-romeo,Alfa Romeo,Alfasud Giardinetta,Alfasud Giardinetta (1975),1975,1978,,1.3L 5MT (68 HP),Gasoline,4,1286,68,100,5-speed manual,Front Wheel Drive,13.8,153,8.8,3975,1590,1369,2456,915
+alfa-romeo,Alfa Romeo,Alfasud Sprint,Alfasud Sprint (1976),1976,1983,,1.3L 5MT FWD (75 HP),Gasoline,4,1286,75,103,5-speed manual,Front Wheel Drive,12.6,166,8.9,4021,1610,1306,2456,890
+alfa-romeo,Alfa Romeo,Alfasud Sprint,Alfasud Sprint (1976),1976,1983,,1.5L 5MT FWD (85 HP),Gasoline,4,1490,85,121,5-speed manual,Front Wheel Drive,11.2,171,8.8,4021,1610,1306,2456,900
+alfa-romeo,Alfa Romeo,Alfasud Sprint,Alfasud Sprint (1976),1976,1983,,1.5L Veloce 5MT (95 HP),Gasoline,4,1490,95,130,5-speed manual,Front Wheel Drive,10.2,175,9,4021,1610,1306,2456,915
+alfa-romeo,Alfa Romeo,Alfasud Ti,Alfasud Ti (1980),1980,1983,,1.3L 5MT FWD (86 HP),Gasoline,4,1351,86,119,5-speed manual,Front Wheel Drive,10.9,171,8.7,3995,1615,1369,2456,885
+alfa-romeo,Alfa Romeo,Alfasud Ti,Alfasud Ti (1980),1980,1983,,1.5L 5MT FWD (95 HP),Gasoline,4,1490,95,130,5-speed manual,Front Wheel Drive,9.8,175,9.9,3995,1615,1369,2456,885
+alfa-romeo,Alfa Romeo,Alfasud Ti,Alfasud Ti (1978),1978,1980,,1.3L 5MT FWD (79 HP),Gasoline,4,1351,79,111,5-speed manual,Front Wheel Drive,11.5,166,8.2,3934,1590,1369,2456,880
+alfa-romeo,Alfa Romeo,Alfasud Ti,Alfasud Ti (1978),1978,1980,,1.5L 5MT FWD (85 HP),Gasoline,4,1490,85,121,5-speed manual,Front Wheel Drive,11,171,8.9,3934,1590,1369,2456,880
+alfa-romeo,Alfa Romeo,Alfasud Ti,Alfasud Ti (1973),1973,1977,,1.2L 4MT FWD (68 HP),Gasoline,4,1186,68,89,4-speed manual,Front Wheel Drive,13.4,159,8.6,3927,1590,1369,2456,830
+alfa-romeo,Alfa Romeo,Alfasud Ti,Alfasud Ti (1973),1973,1977,,1.3L 5MT FWD (75 HP),Gasoline,4,1286,75,103,5-speed manual,Front Wheel Drive,12.1,169,8.9,3927,1590,1369,2456,860
+alfa-romeo,Alfa Romeo,Alfetta,Alfetta (1979),1979,1984,,1.6L 5MT RWD (109 HP),Gasoline,4,1570,109,142,5-speed manual,Rear Wheel Drive,11.5,174,9.2,4384,1641,1430,2510,1120
+alfa-romeo,Alfa Romeo,Alfetta,Alfetta (1979),1979,1984,,1.8L 5MT RWD (122 HP),Gasoline,4,1779,122,167,5-speed manual,Rear Wheel Drive,11,179,9.3,4384,1641,1430,2510,1120
+alfa-romeo,Alfa Romeo,Alfetta,Alfetta (1979),1979,1984,,2.0L 5MT RWD (130 HP),Gasoline,4,1962,130,178,5-speed manual,Rear Wheel Drive,9.7,185,9.4,4384,1641,1430,2510,1140
+alfa-romeo,Alfa Romeo,Alfetta,Alfetta (1979),1979,1984,,2.0L TD 5MT RWD (82 HP),Diesel,4,1995,82,163,5-speed manual,Rear Wheel Drive,15.3,155,7.9,4384,1641,1430,2510,1270
+alfa-romeo,Alfa Romeo,Alfetta,Alfetta (1976),1976,1982,,2.0L 5MT RWD (111 HP),Gasoline,4,1962,112.5,165,5-speed manual,Rear Wheel Drive,10.6,185,9.5,4153,1664,1334,2413,1206
+alfa-romeo,Alfa Romeo,Alfetta,Alfetta (1976),1976,1982,,2.0L 5MT RWD (121 HP),Gasoline,4,1962,121,176,5-speed manual,Rear Wheel Drive,9.6,195,10.2,4153,1664,1334,2413,1080
+alfa-romeo,Alfa Romeo,Alfetta,Alfetta (1976),1976,1982,,2.0L 5MT RWD (130 HP),Gasoline,4,1962,130,180,5-speed manual,Rear Wheel Drive,9.4,195,9.9,4153,1664,1334,2413,1080
+alfa-romeo,Alfa Romeo,Alfetta,Alfetta (1976),1976,1982,,2.0L Turbodelta 5MT RWD (150 HP),Gasoline,4,1962,150,231,5-speed manual,Rear Wheel Drive,7.4,204,12,4153,1664,1334,2413,1090
+alfa-romeo,Alfa Romeo,Alfetta,Alfetta (1976),1976,1982,,2.6L V8 5MT RWD (200 HP),Gasoline,8,2593,200,270,5-speed manual,Rear Wheel Drive,7.5,230,10.8,4153,1664,1334,2413,1210
+alfa-romeo,Alfa Romeo,Alfetta,Alfetta (1974),1974,1980,,1.6L 5MT RWD (108 HP),Gasoline,4,1570,108,142,5-speed manual,Rear Wheel Drive,11.4,179,10.6,4191,1661,1334,2400,1030
+alfa-romeo,Alfa Romeo,Alfetta,Alfetta (1974),1974,1980,,1.8L 5MT RWD (121 HP),Gasoline,4,1779,121,167,5-speed manual,Rear Wheel Drive,9.7,195,11,4153,1664,1334,2400,1050
+alfa-romeo,Alfa Romeo,Alfetta,Alfetta (1974),1974,1980,,2.0L 5MT RWD (115 HP),Gasoline,4,1962,117,149,5-speed manual,Rear Wheel Drive,12,190,11.2,4153,1664,1334,2400,1230
+alfa-romeo,Alfa Romeo,Alfetta,Alfetta (1972),1972,1979,,1.6L 5MT RWD (108 HP),Gasoline,4,1570,108,142,5-speed manual,Rear Wheel Drive,11.5,174,9.2,4239,1621,1430,2510,1040
+alfa-romeo,Alfa Romeo,Alfetta,Alfetta (1972),1972,1979,,1.8L 5MT RWD (121 HP),Gasoline,4,1779,121,167,5-speed manual,Rear Wheel Drive,10,180,11.5,4280,1621,1430,2510,1060
+alfa-romeo,Alfa Romeo,Alfetta,Alfetta (1972),1972,1979,,2.0L 5MT RWD (131 HP),Gasoline,4,1962,131,178,5-speed manual,Rear Wheel Drive,9.7,185,9.4,4280,1621,1430,2510,1140
+alfa-romeo,Alfa Romeo,Arna,Arna (1983),1983,1987,,1.2L 5MT FWD (63 HP),Gasoline,4,1186,63,88,5-speed manual,Front Wheel Drive,14.7,156,8.3,4001,1651,1367,2416,850
+alfa-romeo,Alfa Romeo,Arna,Arna (1983),1983,1987,,1.2L 5MT FWD (68 HP),Gasoline,4,1186,68,90,5-speed manual,Front Wheel Drive,14.2,154,7.9,4001,1651,1367,2416,850
+alfa-romeo,Alfa Romeo,Arna,Arna (1983),1983,1987,,1.3L 5MT FWD (71 HP),Gasoline,4,1351,71,107,5-speed manual,Front Wheel Drive,12.5,156,8.7,4001,1651,1367,2416,850
+alfa-romeo,Alfa Romeo,Arna,Arna (1983),1983,1987,,1.3L 5MT FWD (86 HP),Gasoline,4,1351,86,119,5-speed manual,Front Wheel Drive,11.2,172,8,4001,1651,1367,2416,920
+alfa-romeo,Alfa Romeo,Arna,Arna (1983),1983,1987,,1.5L 5MT FWD (95 HP),Gasoline,4,1490,95,130,5-speed manual,Front Wheel Drive,10.6,175,8.2,4001,1651,1367,2416,920
+alfa-romeo,Alfa Romeo,Brera,Brera (2005),2005,2010,,1.7L Turbo 6MT FWD (200 HP),Gasoline,4,1742,200,320,6-speed manual,Front Wheel Drive,7.7,232,8.1,4412,1829,1372,2525,1420
+alfa-romeo,Alfa Romeo,Brera,Brera (2005),2005,2010,,2.2L JTS 6AT FWD (185 HP),Gasoline,4,2198,185,230,6-speed automatic,Front Wheel Drive,8.6,222,9.4,4412,1829,1372,2525,144
+alfa-romeo,Alfa Romeo,Brera,Brera (2005),2005,2010,,2.2L JTS 6MT FWD (185 HP),Gasoline,4,2198,185,230,6-speed manual,Front Wheel Drive,8.6,222,9.4,4412,1829,1372,2525,1445
+alfa-romeo,Alfa Romeo,Brera,Brera (2005),2005,2010,,3.2L JTS 6AT AWD (260 HP),Gasoline,6,3175,260,322,6-speed automatic,All Wheel Drive,7,240,12.2,4412,1829,1372,2525,1625
+alfa-romeo,Alfa Romeo,Brera,Brera (2005),2005,2010,,3.2L JTS 6MT AWD (260 HP),Gasoline,6,3175,260,322,6-speed manual,All Wheel Drive,6.8,240,11.5,4412,1829,1372,2525,1605
+alfa-romeo,Alfa Romeo,Brera,Brera (2005),2005,2010,,3.2L JTS 6MT FWD (260 HP),Gasoline,6,3175,260,322,6-speed manual,Front Wheel Drive,7,249,11,4412,1829,1372,2525,1515
+alfa-romeo,Alfa Romeo,Brera,Brera (2005),2005,2010,,2.0L JTDm 6MT FWD (170 HP),Diesel,4,1956,170,360,6-speed manual,Front Wheel Drive,8.8,217,5.4,4412,1829,1372,2525,1550
+alfa-romeo,Alfa Romeo,Brera,Brera (2005),2005,2010,,2.4L JTDm 6AT FWD (200 HP),Diesel,5,2387,200,400,6-speed automatic,Front Wheel Drive,8.3,225,7.9,4412,1829,1372,2525,1575
+alfa-romeo,Alfa Romeo,Brera,Brera (2005),2005,2010,,2.4L JTDm 6MT FWD (200 HP),Diesel,5,2387,200,400,6-speed manual,Front Wheel Drive,7.9,230,6.8,4412,1829,1372,2525,1575
+alfa-romeo,Alfa Romeo,Brera,Brera (2005),2005,2010,,2.4L JTDm 6MT FWD (210 HP),Diesel,5,2387,210,400,6-speed manual,Front Wheel Drive,7.9,230,6.8,4412,1829,1372,2525,1575
+alfa-romeo,Alfa Romeo,Crosswagon Q4,Crosswagon Q4 (2004),2004,2007,,1.9 JTDm 16V 6MT (150 HP),Diesel,4,1910,150,305,6-speed manual,All Wheel Drive,10.5,192,7.1,4440,1765,1496,2596,1530
+alfa-romeo,Alfa Romeo,Giulia,Giulia (2022),2022,,,2.0L Q4 8AT AWD (280 HP),Gasoline,4,1995,280,400,8-speed automatic ZF,All Wheel Drive,5.2,240,7.7,4651,1859,1438,2819,1545
+alfa-romeo,Alfa Romeo,Giulia,Giulia (2022),2022,,,2.2L MultiJet Q4 8AT AWD (210 HP),Diesel,4,2143,210,470,8-speed automatic ZF,All Wheel Drive,6.8,235,5.5,4651,1859,1438,2819,1565
+alfa-romeo,Alfa Romeo,Giulia,Giulia (2016),2016,2022,,2.0L 8AT AWD (280 HP),Gasoline,4,1995,280,400,8-speed automatic,All Wheel Drive,5.2,240,7.7,4643,1859,1435,2819,1530
+alfa-romeo,Alfa Romeo,Giulia,Giulia (2016),2016,2022,,2.0L 8AT RWD (200 HP),Gasoline,4,1995,200,330,8-speed automatic,Rear Wheel Drive,6.6,235,7.1,4643,1859,1435,2819,1429
+alfa-romeo,Alfa Romeo,Giulia,Giulia (2016),2016,2022,,2.0L 8AT RWD (280 HP),Gasoline,4,1995,280,400,8-speed automatic,Rear Wheel Drive,5.7,240,,4643,1859,1435,2819,1429
+alfa-romeo,Alfa Romeo,Giulia,Giulia (2016),2016,2022,,2.2L 6MT RWD (180 HP),Diesel,4,2143,180,400,6-speed manual,Rear Wheel Drive,7.2,230,4.2,4643,1859,1435,2819,1374
+alfa-romeo,Alfa Romeo,Giulia,Giulia (2016),2016,2022,,2.2L 8AT RWD (180 HP),Diesel,4,2143,180,400,8-speed automatic,Rear Wheel Drive,6.8,230,4.2,4643,1859,1435,2819,1374
+alfa-romeo,Alfa Romeo,Giulia,Giulia (2016),2016,2022,,2.2L JTDM 6MT RWD (136 HP),Diesel,4,2143,136,450,6-Speed manual,Rear Wheel Drive,9.7,209,5.1,4643,1859,1435,2819,1430
+alfa-romeo,Alfa Romeo,Giulia,Giulia (2016),2016,2022,,2.2L JTDM 8AT RWD (136 HP),Diesel,4,2143,136,450,8-speed automatic,Rear Wheel Drive,9.5,209,4.7,4643,1859,1435,2819,1465
+alfa-romeo,Alfa Romeo,Giulia,Giulia (2016),2016,2022,,2.2L Turbo 6MT RWD (150 HP),Diesel,4,2143,150,380,6-speed manual,Rear Wheel Drive,8.4,220,4.2,4643,1859,1435,2819,1374
+alfa-romeo,Alfa Romeo,Giulia,Giulia (2016),2016,2022,,2.2L Turbo 8AT RWD (150 HP),Diesel,4,2143,150,380,8-speed automatic,Rear Wheel Drive,8.2,220,4.2,4643,1859,1435,2819,1374
+alfa-romeo,Alfa Romeo,Giulia,Giulia (1965),1965,1972,,1.3L 5MT (96 HP),Gasoline,4,1290,96,,5-Speed manual,Rear Wheel Drive,,210,,4079,1580,1311,2350,790
+alfa-romeo,Alfa Romeo,Giulia,Giulia (1962),1962,1978,,1.6L 4AT (93 HP),Gasoline,4,1570,93,118,4-speed automatic,Rear Wheel Drive,,166,,4204,1552,1430,2515,998
+alfa-romeo,Alfa Romeo,Giulia GTA,Giulia GTA (2020),2020,,,2.9L V6 Bi-Turbo 8AT (540 HP),Gasoline,6,2891,540,,8-speed automatic,Rear Wheel Drive,,,,,,,,
+alfa-romeo,Alfa Romeo,Giulia Quadrifoglio,Giulia Quadrifoglio (2016),2016,2022,,2.9L V6 6MT (510 HP),Gasoline,6,2891,510,601,6-speed manual,Rear Wheel Drive,3.9,307,8.5,4638,1872,1425,2819,1525
+alfa-romeo,Alfa Romeo,Giulia Quadrifoglio,Giulia Quadrifoglio (2016),2016,2022,,2.9L V6 8AT (510 HP),Gasoline,6,2891,510,601,8-speed automatic,Rear Wheel Drive,3.9,307,8.2,4638,1872,1425,2819,
+alfa-romeo,Alfa Romeo,Giulia Veloce,Giulia Veloce (2016),2016,2022,,2.0L Q4 8AT AWD (280 HP),Gasoline,4,1995,280,400,8-speed automatic,All Wheel Drive,4.9,240,6.4,4643,2024,1450,2819,1605
+alfa-romeo,Alfa Romeo,Giulia Veloce,Giulia Veloce (2016),2016,2022,,2.2L Q4 8AT AWD (210 HP),Diesel,4,2143,210,470,8-speed automatic,All Wheel Drive,6.4,235,4.7,4643,2024,1450,2819,1610
+alfa-romeo,Alfa Romeo,Giulietta,Giulietta (2016),2016,2020,,1.4L TB 6MT FWD (120 HP),Gasoline,4,1368,120,215,6-speed manual,Front Wheel Drive,9.4,195,6.2,4351,1798,1466,2634,1355
+alfa-romeo,Alfa Romeo,Giulietta,Giulietta (2016),2016,2020,,1.4L TB MultiAir 6AT FWD (170 HP),Gasoline,4,1368,170,250,6-speed automatic (TCT),Front Wheel Drive,7.7,217,4.9,4351,1798,1466,2634,1380
+alfa-romeo,Alfa Romeo,Giulietta,Giulietta (2016),2016,2020,,1.4L TB MultiAir 6MT FWD (150 HP),Gasoline,4,1368,150,250,6-speed manual,Front Wheel Drive,8.2,209,5.5,4351,1798,1466,2634,1365
+alfa-romeo,Alfa Romeo,Giulietta,Giulietta (2016),2016,2020,,1.8L TBi 6AT FWD (240 HP),Gasoline,4,1742,240,340,6-speed automatic (TCT),Front Wheel Drive,6,245,6.8,4351,1798,1466,2634,1395
+alfa-romeo,Alfa Romeo,Giulietta,Giulietta (2016),2016,2020,,1.6L JTDm 6AT FWD (120 HP),Diesel,4,1598,120,320,6-speed automatic (TCT),Front Wheel Drive,10.2,195,3.9,4351,1798,1466,2634,1395
+alfa-romeo,Alfa Romeo,Giulietta,Giulietta (2016),2016,2020,,1.6L JTDm 6MT FWD (120 HP),Diesel,4,1598,120,320,6-speed manual,Front Wheel Drive,10,195,3.9,4351,1798,1466,2634,1385
+alfa-romeo,Alfa Romeo,Giulietta,Giulietta (2016),2016,2020,,2.0L JTDm 6AT FWD (175 HP),Diesel,4,1956,175,350,6-speed automatic (TCT),Front Wheel Drive,7.8,219,4.3,4351,1798,1466,2634,1410
+alfa-romeo,Alfa Romeo,Giulietta,Giulietta (2016),2016,2020,,2.0L JTDm 6MT FWD (150 HP),Diesel,4,1956,150,380,6-speed manual,Front Wheel Drive,8.8,209,4.2,4351,1798,1466,2634,1395
+alfa-romeo,Alfa Romeo,Giulietta,Giulietta (2010),2010,2016,,1.4L TB 6MT FWD (105 HP),Gasoline,4,1368,105,206,6-speed manual,Front Wheel Drive,10.6,185,6.4,4351,1798,1466,2634,1355
+alfa-romeo,Alfa Romeo,Giulietta,Giulietta (2010),2010,2016,,1.4L TB 6MT FWD (120 HP),Gasoline,4,1368,120,206,6-speed manual,Front Wheel Drive,9.4,195,6.4,4351,1798,1466,2634,1355
+alfa-romeo,Alfa Romeo,Giulietta,Giulietta (2010),2010,2016,,1.4L TB MultiAir 6MT FWD (170 HP),Gasoline,4,1368,170,229,6-speed manual,Front Wheel Drive,7.8,217,5.8,4351,1798,1466,2634,1365
+alfa-romeo,Alfa Romeo,Giulietta,Giulietta (2010),2010,2016,,1.75L TBi 6MT FWD (235 HP),Gasoline,4,1742,235,339,6-speed manual,Front Wheel Drive,6.8,241,7.6,4351,1798,1466,2634,1395
+alfa-romeo,Alfa Romeo,Giulietta,Giulietta (2010),2010,2016,,1.6L JTDM 6MT FWD (105 HP),Diesel,4,1598,105,279,6-speed manual,Front Wheel Drive,11.3,185,4.4,4351,1798,1466,2634,1385
+alfa-romeo,Alfa Romeo,Giulietta,Giulietta (2010),2010,2016,,2.0L JTDM 6MT FWD (140 HP),Diesel,4,1956,140,320,6-speed manual,Front Wheel Drive,9,204,4.7,4351,1798,1466,2634,1395
+alfa-romeo,Alfa Romeo,Giulietta,Giulietta (2010),2010,2016,,2.0L JTDM 6MT FWD (170 HP),Diesel,4,1956,170,320,6-speed manual,Front Wheel Drive,8,217,4.7,4351,1798,1466,2634,1395
+alfa-romeo,Alfa Romeo,Giulietta,Giulietta (2010),2010,2016,,2.0L JTDM TCT 6AT FWD (170 HP),Diesel,4,1956,170,350,6-speed automatic,Front Wheel Drive,7.9,217,4.5,4351,1798,1466,2634,1395
+alfa-romeo,Alfa Romeo,Giulietta,Giulietta (2010),2010,2016,,1.4L LPG Turbo 6MT FWD (120 HP),Natural Gas,4,1368,120,206,6-speed manual,Front Wheel Drive,10.3,195,6.4,4351,1798,1466,2634,1355
+alfa-romeo,Alfa Romeo,Giulietta,Giulietta (1955),1955,1964,,1.3L 4MT (54 HP),Gasoline,4,1290,54,94,4-Speed manual,Rear Wheel Drive,13.4,163,,3990,1549,1486,2390,876
+alfa-romeo,Alfa Romeo,Giulietta,Giulietta (1955),1955,1965,,1.3,Gasoline,4,1290,81,113,"Manual, 4 Speed",Rear Wheel Drive,13.3,163,,3401,1539,1181,2250,858
+alfa-romeo,Alfa Romeo,Giulietta,Giulietta (1954),1954,1965,,1.3,Gasoline,4,1290,67,108,"Manual, 4 Speed",Rear Wheel Drive,,164,,3919,1542,1321,2380,800
+alfa-romeo,Alfa Romeo,Giulietta Quadrifoglio Verde,Giulietta Quadrifoglio Verde (2011),2011,2016,,1.8L TBi 6AT (240 HP),Gasoline,4,1742,240,340,6-speed automatic (TCT),Front Wheel Drive,6,245,7,4351,1798,1466,2634,1395
+alfa-romeo,Alfa Romeo,GT,GT (2003),2003,2010,,1.8L TS 5MT FWD (140 HP),Gasoline,4,1747,140,163,5-speed manual,Front Wheel Drive,10.6,200,8.4,4486,1763,1354,2596,1325
+alfa-romeo,Alfa Romeo,GT,GT (2003),2003,2010,,2.0L JTS 5AT FWD (165 HP),Gasoline,4,1969,165,206,5-speed automatic,Front Wheel Drive,8.7,216,8.7,4488,1763,1361,2596,1320
+alfa-romeo,Alfa Romeo,GT,GT (2003),2003,2010,,2.0L JTS 5MT FWD (165 HP),Gasoline,4,1969,165,206,5-speed manual,Front Wheel Drive,8.7,216,8.7,4488,1763,1361,2596,1320
+alfa-romeo,Alfa Romeo,GT,GT (2003),2003,2010,,3.2L V6 6MT FWD (240 HP),Gasoline,6,3179,239,300,6-speed manual,Front Wheel Drive,6.7,243,12.4,4486,1763,1354,2596,1410
+alfa-romeo,Alfa Romeo,GT,GT (2003),2003,2010,,1.9L JTD 6MT FWD (150 HP),Diesel,4,1910,150,305,6-speed manual,Front Wheel Drive,9.6,209,6.7,4488,1763,1367,2596,1365
+alfa-romeo,Alfa Romeo,GT,GT (2003),2003,2010,,1.9L JTDm 6MT FWD (170 HP),Diesel,4,1910,170,330,6-speed manual,Front Wheel Drive,8.2,216,6.2,4486,1763,1354,2596,1365
+alfa-romeo,Alfa Romeo,GTV,GTV (2003),2003,2005,,2.0L JTS 5MT FWD (165 HP),Gasoline,4,1970,165,206,5-Speed manual,Front Wheel Drive,8.4,220,9,4280,1781,1321,2540,1370
+alfa-romeo,Alfa Romeo,GTV,GTV (2003),2003,2005,,2.0L TS 5MT FWD (150 HP),Gasoline,4,1970,150,181,5-Speed manual,Front Wheel Drive,8.5,215,9.2,4280,1781,1321,2540,1370
+alfa-romeo,Alfa Romeo,GTV,GTV (2003),2003,2005,,3.2L V6 6MT FWD (240 HP),Gasoline,6,3179,239,289,6-Speed manual,Front Wheel Drive,6.3,255,12.1,4280,1781,1321,2540,1415
+alfa-romeo,Alfa Romeo,GTV,GTV (1995),1995,2003,,1.8L TS 5MT FWD (144 HP),Gasoline,4,1747,144,169,5-Speed manual,Front Wheel Drive,9.2,209,8.9,4285,1781,1316,2540,1350
+alfa-romeo,Alfa Romeo,GTV,GTV (1995),1995,2003,,2.0L TS 5MT FWD (152 HP),Gasoline,4,1970,152,186,5-Speed manual,Front Wheel Drive,8,209,9.2,4285,1781,1316,2540,1445
+alfa-romeo,Alfa Romeo,GTV,GTV (1995),1995,2003,,3.0L V6 5MT FWD (220 HP),Gasoline,6,2959,220,265,5-Speed manual,Front Wheel Drive,6.7,242,11.7,4285,1781,1316,2540,1490
+alfa-romeo,Alfa Romeo,Junior,Junior (2025),2025,,,54 KWh FWD (156 HP),Electric,,,156,,1-speed automatic,Front Wheel Drive,9,150,,4173,1781,1532,2563,
+alfa-romeo,Alfa Romeo,Junior,Junior (2025),2025,,,Veloce 54 KWh FWD (282 HP),Electric,,,282,,1-speed automatic,Front Wheel Drive,5.9,200,,4173,1781,1532,2563,1485
+alfa-romeo,Alfa Romeo,Junior,Junior (2025),2025,,,1.2L MHEV 6AT AWD (145 HP),Mild Hybrid,3,1199,136,230,6-speed automatic eDCT,All Wheel Drive,9.1,200,5.2,4173,1781,1539,2558,1500
+alfa-romeo,Alfa Romeo,Junior,Junior (2025),2025,,,1.2L MHEV 6AT FWD (136 HP),Mild Hybrid,3,1199,136,230,6-speed automatic eDCT,Front Wheel Drive,8.9,206,,4173,1781,1539,2558,1305
+alfa-romeo,Alfa Romeo,Junior,Junior (2024),2024,,,54 KWh AWD (156 HP),Electric,,,156,,,All Wheel Drive,,,,4171,1781,1501,,
+alfa-romeo,Alfa Romeo,Junior,Junior (2024),2024,,,54 KWh AWD (240 HP),Electric,,,240,,,All Wheel Drive,,,,4171,1781,1501,,
+alfa-romeo,Alfa Romeo,MiTo,MiTo (2016),2016,2018,,0.9L 6MT FWD (105 HP),Gasoline,2,875,105,145,6-speed manual,Front Wheel Drive,11.4,183,4.2,4064,1720,1453,2512,1130
+alfa-romeo,Alfa Romeo,MiTo,MiTo (2016),2016,2018,,1.4L 5MT FWD (78 HP),Gasoline,4,1368,78,115,5-speed manual,Front Wheel Drive,13,166,5.6,4064,1720,1453,2512,1070
+alfa-romeo,Alfa Romeo,MiTo,MiTo (2016),2016,2018,,1.4L 6AT FWD (140 HP),Gasoline,4,1368,140,250,6-speed automatic,Front Wheel Drive,8.1,209,5.4,4064,1720,1453,2512,1145
+alfa-romeo,Alfa Romeo,MiTo,MiTo (2016),2016,2018,,1.3L 5MT FWD (90 HP),Diesel,4,1368,90,200,5-speed manual,Front Wheel Drive,12.5,179,3.2,4064,1720,1453,2512,1150
+alfa-romeo,Alfa Romeo,MiTo,MiTo (2016),2016,2018,,1.3L 5MT FWD (95 HP),Diesel,4,1368,95,200,5-speed manual,Front Wheel Drive,12.5,180,3.4,4064,1720,1453,2512,1150
+alfa-romeo,Alfa Romeo,MiTo,MiTo (2016),2016,2018,,1.4L 5MT FWD (120 HP),Natural Gas,4,1368,120,206,5-speed manual,Front Wheel Drive,8.8,198,8.1,4064,1720,1453,2512,1145
+alfa-romeo,Alfa Romeo,MiTo,MiTo (2013),2013,2016,,0.9L TwinAir 6MT FWD (100 HP),Gasoline,2,875,100,145,6-speed manual,Front Wheel Drive,11.4,182,4.2,4064,1720,1453,2512,1105
+alfa-romeo,Alfa Romeo,MiTo,MiTo (2013),2013,2016,,1.4L 6MT FWD (78 HP),Gasoline,4,1368,78,115,6-speed manual,Front Wheel Drive,13,166,5.6,4064,1720,1453,2512,1055
+alfa-romeo,Alfa Romeo,MiTo,MiTo (2013),2013,2016,,1.4L Turbo MultiAir 6AT FWD (140 HP),Gasoline,4,1368,140,230,6-speed manual,Front Wheel Drive,8.2,209,5.4,4064,1720,1453,2512,1145
+alfa-romeo,Alfa Romeo,MiTo,MiTo (2013),2013,2016,,1.3L JTDm 5MT FWD (80 HP),Diesel,4,1248,80,200,5-speed manual,Front Wheel Drive,12.5,172,3.4,4064,1720,1453,2512,1125
+alfa-romeo,Alfa Romeo,MiTo,MiTo (2013),2013,2016,,1.4L TwinAir Bifuel 6MT FWD (120 HP),Natural Gas,4,1368,120,206,6-speed manual,Front Wheel Drive,11.3,198,6.2,4064,1720,1453,2512,1120
+alfa-romeo,Alfa Romeo,MiTo,MiTo (2008),2008,2013,,0.9L TwinAir 5MT FWD (86 HP),Gasoline,2,875,86,145,5-speed manual,Front Wheel Drive,12.6,172,4.2,4064,1722,1445,2512,1105
+alfa-romeo,Alfa Romeo,MiTo,MiTo (2008),2008,2013,,0.9L TwinAir 6MT FWD (85 HP),Gasoline,2,875,85,145,6-speed manual,Front Wheel Drive,12.5,174,4.2,4064,1722,1445,2512,1130
+alfa-romeo,Alfa Romeo,MiTo,MiTo (2008),2008,2013,,1.4L 6MT FWD (155 HP),Gasoline,4,1368,155,230,6-speed manual,Front Wheel Drive,8,215,6.5,4064,1722,1445,2512,1120
+alfa-romeo,Alfa Romeo,MiTo,MiTo (2008),2008,2013,,1.4L MPI 5MT FWD (78 HP),Gasoline,4,1368,78,115,6-speed manual,Front Wheel Drive,12.1,166,5.6,4064,1722,1445,2512,1080
+alfa-romeo,Alfa Romeo,MiTo,MiTo (2008),2008,2013,,1.4L MultiAir 5MT FWD (135 HP),Gasoline,4,1368,135,206,5-speed manual,Front Wheel Drive,8.4,208,5.6,4064,1722,1445,2512,1135
+alfa-romeo,Alfa Romeo,MiTo,MiTo (2008),2008,2013,,1.4L MultiAir 6AT FWD (135 HP),Gasoline,4,1368,135,206,6-speed automatic,Front Wheel Drive,8.4,208,5.5,4064,1722,1445,2512,1145
+alfa-romeo,Alfa Romeo,MiTo,MiTo (2008),2008,2013,,1.4L MultiAir 6MT FWD (105 HP),Gasoline,4,1368,105,130,6-speed manual,Front Wheel Drive,10.7,187,5.7,4064,1722,1445,2512,1090
+alfa-romeo,Alfa Romeo,MiTo,MiTo (2008),2008,2013,,1.3L JTDm 5MT FWD (85 HP),Diesel,4,1248,85,201,5-speed manual,Front Wheel Drive,12.9,174,3.6,4064,1722,1445,2512,1150
+alfa-romeo,Alfa Romeo,MiTo,MiTo (2008),2008,2013,,1.3L JTDm 5MT FWD (90 HP),Diesel,4,1248,90,201,5-speed manual,Front Wheel Drive,12,179,4.3,4064,1722,1445,2512,1125
+alfa-romeo,Alfa Romeo,MiTo,MiTo (2008),2008,2013,,1.3L JTDm 5MT FWD (95 HP),Diesel,4,1248,95,201,5-speed manual,Front Wheel Drive,11.6,180,4.3,4064,1722,1445,2512,1125
+alfa-romeo,Alfa Romeo,MiTo,MiTo (2008),2008,2013,,1.6L JTDm 6MT FWD (120 HP),Diesel,4,1598,120,320,6-speed manual,Front Wheel Drive,9.9,198,4.8,4064,1722,1445,2512,1180
+alfa-romeo,Alfa Romeo,MiTo Quadrifoglio Verde,MiTo Quadrifoglio Verde (2013),2013,2016,,1.4L Turbo MultiAir 6MT FWD (170 HP),Gasoline,4,1368,170,250,6-speed manual,Front Wheel Drive,8.2,219,5.4,4064,1720,1453,2512,1145
+alfa-romeo,Alfa Romeo,MiTo Quadrifoglio Verde,MiTo Quadrifoglio Verde (2009),2009,2013,,1.4 MultiAir 6AT (170 HP),Gasoline,4,1368,170,249,6-speed automatic,Front Wheel Drive,7.3,219,5.4,4064,1720,1445,2410,1245
+alfa-romeo,Alfa Romeo,MiTo Veloce,MiTo Veloce (2016),2016,2018,,1.4L 6AT FWD (170 HP),Gasoline,4,1368,170,250,6-speed automatic,Front Wheel Drive,7.4,219,5.4,4064,1720,1445,2512,1170
+alfa-romeo,Alfa Romeo,Montreal,Montreal (1970),1970,1977,,2.6,Gasoline,8,2594,203,235,"Manual, 5 Speed",Rear Wheel Drive,7.6,222,,3962,1676,1207,2527,1312
+alfa-romeo,Alfa Romeo,Spider,Spider (2006),2006,2010,,1.7L TBI 6MT FWD (200 HP),Gasoline,4,1742,200,320,6-speed manual,Front Wheel Drive,7.8,235,8.2,4397,1829,1367,2525,1490
+alfa-romeo,Alfa Romeo,Spider,Spider (2006),2006,2010,,2.2L JTS 6MT FWD (185 HP),Gasoline,4,2198,185,230,6-speed manual,Front Wheel Drive,8.8,224,9.1,4397,1829,1367,2525,1505
+alfa-romeo,Alfa Romeo,Spider,Spider (2006),2006,2010,,3.2L JTS 4x4 6AT (260 HP),Gasoline,6,3195,260,323,6-automatic speed,All Wheel Drive,7,245,12.1,4397,1829,1367,2525,1625
+alfa-romeo,Alfa Romeo,Spider,Spider (2006),2006,2010,,3.2L JTS 4x4 6MT (260 HP),Gasoline,6,3195,260,323,"Manual, 6 Speed",All Wheel Drive,6.8,245,11.4,4397,1829,1367,2525,1605
+alfa-romeo,Alfa Romeo,Spider,Spider (2006),2006,2010,,3.2L JTS 6MT (260 HP),Gasoline,6,3195,260,323,"Manual, 6 Speed",Front Wheel Drive,7.2,249,11.1,4397,1829,1367,2525,1600
+alfa-romeo,Alfa Romeo,Spider,Spider (2006),2006,2010,,2.0L JTDm 6MT FWD (170 HP),Diesel,4,1956,170,361,6-speed manual,Front Wheel Drive,9,217,5.4,4397,1829,1367,2525,1540
+alfa-romeo,Alfa Romeo,Spider,Spider (2006),2006,2010,,2.4L JTDm 6AT FWD (200 HP),Diesel,5,2387,200,400,6-automatic speed,Front Wheel Drive,8.5,225,7.9,4397,1829,1367,2525,1655
+alfa-romeo,Alfa Romeo,Spider,Spider (2006),2006,2010,,2.4L JTDm 6MT FWD (210 HP),Diesel,5,2387,209,400,6-speed manual,Front Wheel Drive,8.1,232,6.8,4397,1829,1367,2525,1635
+alfa-romeo,Alfa Romeo,Spider,Spider (2003),2003,2006,,2.0L JTS 5MT (165 HP),Gasoline,4,1979,165,206,5-Speed manual,Front Wheel Drive,8.4,216,9.2,4285,1781,1316,2540,1380
+alfa-romeo,Alfa Romeo,Spider,Spider (2003),2003,2006,,2.0L TS 5MT (150 HP),Gasoline,4,1970,150,181,5-Speed manual,Front Wheel Drive,8.5,210,9.2,4285,1781,1316,2540,1380
+alfa-romeo,Alfa Romeo,Spider,Spider (2003),2003,2006,,3.2L V6 24V 6MT (240 HP),Gasoline,6,3179,239,289,6-Speed manual,Front Wheel Drive,6.3,249,13.2,4285,1781,1316,2540,1445
+alfa-romeo,Alfa Romeo,Spider,Spider (1995),1995,2003,,1.8L TS 5MT FWD (144 HP),Gasoline,4,1747,144,169,5-Speed manual,Front Wheel Drive,9.3,205,8.9,4300,1775,1316,2540,1325
+alfa-romeo,Alfa Romeo,Spider,Spider (1995),1995,2003,,2.0L TS 5MT FWD (150 HP),Gasoline,4,1970,150,186,5-Speed manual,Front Wheel Drive,8.4,210,9.2,4285,1781,1316,2540,1345
+alfa-romeo,Alfa Romeo,Spider,Spider (1995),1995,2003,,2.0L V6 5MT FWD (200 HP),Gasoline,6,1997,200,280,5-Speed manual,Front Wheel Drive,7.7,229,,4300,1775,1316,2540,1430
+alfa-romeo,Alfa Romeo,Spider,Spider (1995),1995,2003,,3.0L V6 24V 6MT FWD (218 HP),Gasoline,6,2959,218,265,6-Speed manual,Front Wheel Drive,6.8,235,11.7,4285,1781,1316,2540,1390
+alfa-romeo,Alfa Romeo,Spider,Spider (1995),1995,2003,,3.0L V6 5MT FWD (192 HP),Gasoline,6,2959,192,260,5-Speed manual,Front Wheel Drive,7.3,225,9.5,4300,1775,1316,2540,1350
+alfa-romeo,Alfa Romeo,Spider,Spider (1990),1990,1993,,2.0L 5MT 120 HP),Gasoline,4,1962,120,161,5-Speed manual,Rear Wheel Drive,9.4,190,8.6,4260,1628,1288,2248,1120
+alfa-romeo,Alfa Romeo,Spider,Spider (1983),1983,1990,,2.0L 5MT (128 HP),Gasoline,4,1962,128,178,5-Speed manual,Rear Wheel Drive,9,190,9.5,4249,1628,1288,2248,1040
+alfa-romeo,Alfa Romeo,Spider,Spider (1970),1970,1983,,1.3L 5MT FWD (87 HP),Gasoline,4,1290,87,104,5-Speed manual,Rear Wheel Drive,,,,4120,1628,1288,2248,
+alfa-romeo,Alfa Romeo,Spider,Spider (1970),1970,1983,,1.6L 5MT FWD (109 HP),Gasoline,4,1570,109,156,5-Speed manual,Rear Wheel Drive,9.3,190,11.4,4120,1628,1288,2248,1040
+alfa-romeo,Alfa Romeo,Spider,Spider (1970),1970,1983,,1.8L 5MT FWD (113 HP),Gasoline,4,1798,113,185,5-Speed manual,Rear Wheel Drive,,,,4120,1628,1288,2248,
+alfa-romeo,Alfa Romeo,Spider,Spider (1970),1970,1983,,2.0L 5MT FWD (126 HP),Gasoline,4,,126,177,5-Speed manual,Rear Wheel Drive,10.4,190,,4120,1628,1288,2248,1280
+alfa-romeo,Alfa Romeo,Sprint,Sprint (1983),1983,1989,,1.5L 5MT FWD (105 HP),Gasoline,4,1490,105,133,5-Speed manual,Front Wheel Drive,10.4,180,8.6,4018,1618,1300,2449,915
+alfa-romeo,Alfa Romeo,Sprint,Sprint (1983),1983,1989,,1.7L 5MT FWD (118 HP),Gasoline,4,1712,118,149,5-Speed manual,Front Wheel Drive,9,196,8.5,4021,1621,1300,2459,915
+alfa-romeo,Alfa Romeo,Sprint,Sprint (1976),1976,1983,,1.5,Gasoline,4,1490,95,130,"Manual, 5 Speed",Front Wheel Drive,,175,,4021,1608,1298,2510,
+alfa-romeo,Alfa Romeo,Stelvio,Stelvio (2022),2022,,,2.0L Turbo Q4 8AT AWD (280 HP),Gasoline,4,1995,280,400,8-speed automatic ZF,All Wheel Drive,5.7,230,8.4,4686,1902,1694,2817,1680
+alfa-romeo,Alfa Romeo,Stelvio,Stelvio (2022),2022,,,2.2L MultiJet Q4 8AT AWD (210 HP),Diesel,4,2143,210,470,8-speed automatic ZF,All Wheel Drive,6.6,216,6.4,4686,1902,1694,2817,1745
+alfa-romeo,Alfa Romeo,Stelvio,Stelvio (2017),2017,2022,,2.0L 8AT AWD (200 HP),Gasoline,4,1995,200,330,8-speed automatic,All Wheel Drive,7.2,216,7,4686,1902,1671,2817,1660
+alfa-romeo,Alfa Romeo,Stelvio,Stelvio (2017),2017,2022,,2.0L 8AT AWD (280 HP),Gasoline,4,1995,280,400,8-speed automatic,All Wheel Drive,5.7,230,7,4686,1902,1648,2817,1660
+alfa-romeo,Alfa Romeo,Stelvio,Stelvio (2017),2017,2022,,2.2L 8AT AWD (210 HP),Diesel,4,2143,210,470,8-speed automatic,All Wheel Drive,6.6,216,4.8,4686,1902,1648,2817,1659
+alfa-romeo,Alfa Romeo,Stelvio,Stelvio (2017),2017,2022,,2.2L 8AT RWD (180 HP),Diesel,4,2143,180,450,8-speed automatic,Rear Wheel Drive,7.6,209,4.7,4686,1902,1666,2817,1604
+alfa-romeo,Alfa Romeo,Stelvio Quadrifoglio,Stelvio Quadrifoglio (2017),2017,2023,,2.9L V6 8AT (510 HP),Gasoline,6,2891,510,600,8-speed automatic,All Wheel Drive,3.8,285,9,4702,1956,1681,2817,1905
+alfa-romeo,Alfa Romeo,Tonale,Tonale (2025),2025,,,1.6L D 6AT FWD (131 HP),Gasoline,4,1598,131,320,6-speed automatic TCT,Front Wheel Drive,10.9,195,5.3,4521,1842,1600,2637,1580
+alfa-romeo,Alfa Romeo,Tonale,Tonale (2025),2025,,,2.0L 9AT AWD (268 HP),Gasoline,4,1995,268,400,9-speed automatic,All Wheel Drive,6.5,225,,4521,1842,1600,2637,
+alfa-romeo,Alfa Romeo,Tonale,Tonale (2025),2025,,,1.3L PHEV 6AT AWD (269 HP),Plug-in Hybrid,4,1332,150,270,6-speed automatic,All Wheel Drive,6.6,195,3.4,4521,1842,1600,2637,1835
+alfa-romeo,Alfa Romeo,Tonale,Tonale (2025),2025,,,1.5L VGT MHEV 7AT FWD (174 HP),Mild Hybrid,4,1469,160,240,7-speed automatic TCT,Front Wheel Drive,8.5,212,5.7,4521,1842,1600,2637,1525
+alfa-romeo,Alfa Romeo,Tonale,Tonale (2022),2022,2025,,1.3L T MultiAir PHEV 6AT AWD (190 HP),Plug-in Hybrid,4,1332,130,270,6-speed automatic,All Wheel Drive,7.1,190,1.1,4529,1842,1600,2637,1875
+alfa-romeo,Alfa Romeo,Tonale,Tonale (2022),2022,2025,,1.5L MHEV 7AT FWD (130 HP),Mild Hybrid,4,1469,130,240,7-speed automatic,Front Wheel Drive,9.6,200,5.7,4529,1842,1600,2637,1525
+alfa-romeo,Alfa Romeo,Tonale,Tonale (2022),2022,2025,,1.5L MHEV 7AT FWD (160 HP),Mild Hybrid,4,1469,160,240,7-speed automatic,Front Wheel Drive,8.8,212,5.7,4529,1842,1600,2637,1525
+alpine,Alpine,A110,A110 (2024),2024,,,1.8L 7AT RWD (345 HP),Gasoline,4,1798,345,420,,,,,,,,,,
+alpine,Alpine,A110,A110 (2023),2023,,,1.8L 7AT RWD (300 HP),Gasoline,4,1798,300,340,7-speed automatic DCT,Rear Wheel Drive,3.9,285,,4257,1798,1252,2421,1140
+alpine,Alpine,A110,A110 (2021),2021,,,1.8L 7AT RWD (255 HP),Gasoline,4,1798,255,320,7-speed automatic,Rear Wheel Drive,4.5,249,6.7,,,,,
+alpine,Alpine,A110,A110 (2021),2021,,,GT 1.8L 7AT RWD (304 HP),Gasoline,4,1798,304,340,7-speed automatic,Rear Wheel Drive,4.2,249,6.8,,,,,
+alpine,Alpine,A110,A110 (2017),2017,2021,,A110 1.8L 7AT RWD (252 HP),Gasoline,4,1800,252,320,7-speed automatic DCT,Rear Wheel Drive,4.5,249,6.2,4178,1798,1252,2418,1080
+alpine,Alpine,A110,A110 (2017),2017,2021,,A110S 1.8L 7AT RWD (292 HP),Gasoline,4,1800,292,320,7-speed automatic DCT,Rear Wheel Drive,4.4,249,6.2,4181,1798,1285,2418,1114
+alpine,Alpine,A110,A110 (1962),1962,1977,,0.9L 4MT (51 HP),Gasoline,4,956,51,74,4-speed manual,Rear Wheel Drive,14.5,175,7,3851,1461,1120,2101,565
+alpine,Alpine,A110,A110 (1962),1962,1977,,1.1L 4MT (66 HP),Gasoline,4,1108,66,,4-speed manual,Rear Wheel Drive,,180,,3851,1461,1120,2101,565
+alpine,Alpine,A110,A110 (1962),1962,1977,,1.1L 4MT (95 HP),Gasoline,4,1108,95,98,4-speed manual,Rear Wheel Drive,9,195,10,3851,1461,1120,2101,565
+alpine,Alpine,A110,A110 (1962),1962,1977,,1.3L 5MT (110 HP),Gasoline,4,1296,110,127,5-speed manual,Rear Wheel Drive,7,209,14,3851,1461,1120,2101,625
+alpine,Alpine,A110,A110 (1962),1962,1977,,1.3L 5MT (120 HP),Gasoline,4,1296,120,122,5-speed manual,Rear Wheel Drive,6.8,216,11,3851,1461,1120,2101,625
+alpine,Alpine,A110,A110 (1962),1962,1977,,1.5L 5MT (90 HP),Gasoline,4,1470,90,0,5-speed manual,Rear Wheel Drive,,185,,3851,1461,1120,2101,700
+alpine,Alpine,A110,A110 (1962),1962,1977,,1.6L 5MT (125 HP),Gasoline,4,1565,125,,5-speed manual,Rear Wheel Drive,,209,,3851,1461,1120,2101,620
+alpine,Alpine,A110,A110 (1962),1962,1977,,1.6L 5MT (92 HP),Gasoline,4,1565,92,,5-speed manual,Rear Wheel Drive,,175,,3851,1461,1120,2101,730
+alpine,Alpine,A110S,A110S (2021),2021,,,1.8L 7AT (304 HP),Gasoline,4,1798,304,340,7-speed automatic,,4.2,249,6.8,,,,,
+alpine,Alpine,A110S,A110S (2019),2019,2021,,1.8L 7AT (292 HP),Gasoline,4,,292,320,7-automatic speed dual clutch,Rear Wheel Drive,4.4,261,,4181,1798,1247,2418,1144
+alpine,Alpine,A290,A290 (2024),2024,,,GT 52 KWh (177 HP),Electric,,,177,,1-speed automatic,Front Wheel Drive,7.4,159,,3998,1824,1511,2535,1554
+alpine,Alpine,A290,A290 (2024),2024,,,GT Performance 52 KWh (218 HP),Electric,,,218,,1-speed automatic,Front Wheel Drive,6.4,171,,3998,1824,1511,2535,1554
+alpine,Alpine,A390,A390 (2025),2025,,,GT 89 KWh (400 HP),Electric,,,400,,,All Wheel Drive,4.8,200,,4615,1885,1532,2708,2121
+alpine,Alpine,A390,A390 (2025),2025,,,GTS 89 KWh (470 HP),Electric,,,470,,,All Wheel Drive,3.9,220,,4615,1885,1532,2708,2121
+arcfox,Arcfox,Alpha S,Alpha S (2024),2024,,,65.6 KWh RWD (218 HP),Electric,,,218,,1-automatic speed,Rear Wheel Drive,7.7,,,4930,1941,1600,2916,
+arcfox,Arcfox,Alpha S,Alpha S (2024),2024,,,65.6 KWh RWD (238 HP),Electric,,,238,,1-automatic speed,Rear Wheel Drive,8.3,,,4930,1941,1600,2916,
+arcfox,Arcfox,Alpha S,Alpha S (2024),2024,,,93.6 KWh AWD (435 HP),Electric,,,435,,1-automatic speed,All Wheel Drive,4.2,,,4930,1941,1600,2916,
+arcfox,Arcfox,Alpha S,Alpha S (2024),2024,,,94.5 KWh AWD (435 HP),Electric,,,435,,1-automatic speed,All Wheel Drive,8.3,,,4930,1941,1600,2916,
+arcfox,Arcfox,Alpha T,Alpha T (2024),2024,,,65.6 KWh RWD (238 HP),Electric,,,238,,1-automatic speed,Rear Wheel Drive,8,,,4788,1941,1684,2916,
+arcfox,Arcfox,Alpha T,Alpha T (2024),2024,,,93.6 KWh AWD (435 HP),Electric,,,435,,1-automatic speed,All Wheel Drive,4.6,,,4788,1941,1684,2916,
+ariel,Ariel,Atom,Atom (2011),2011,2012,,3.0L V8 6MT (500 HP),Gasoline,8,3000,507,401,Quaife 6-speed pneumatically controlled paddle shift sequential gearbox,Rear Wheel Drive,2.5,322,7.1,3696,1849,1194,2344,550
+ariel,Ariel,Atom,Atom (2008),2008,2013,,2.0L i-VTEC 6MT (245 HP),Gasoline,4,1998,245,209,6-speed manual,Rear Wheel Drive,2.7,225,7.8,3404,1798,1194,2344,462
+ariel,Ariel,Atom,Atom (2008),2008,2013,,2.0L Supercharged 6MT (304 HP),Gasoline,4,1998,305,271,6-speed manual,Rear Wheel Drive,2.6,249,7.6,3404,1829,1194,2344,456
+ariel,Ariel,Atom,Atom (2008),2008,2013,,2.4L i-VTEC 6MT (233 HP),Gasoline,4,1998,234,201,6-speed manual,Rear Wheel Drive,3,249,7,3404,1829,1194,2344,612
+ariel,Ariel,Atom,Atom (2008),2008,2013,,2.4L i-VTEC 6MT (370 HP),Gasoline,4,1998,370,420,6-speed manual,Rear Wheel Drive,2.9,249,8,3404,1829,1194,2344,612
+ariel,Ariel,Atom,Atom (2003),2003,2008,,2.0L i-VTEC 6MT RWD (220 HP),Gasoline,4,1998,223,197,6-speed manual,Rear Wheel Drive,3.5,225,7.4,3411,1798,1194,2344,501
+ariel,Ariel,Atom,Atom (2003),2003,2008,,2.0L Supercharged 6MT RWD (304 HP),Gasoline,4,1998,304,259,6-speed manual,Rear Wheel Drive,2.8,249,7.4,3411,1798,1194,2344,456
+ariel,Ariel,Atom,Atom (1999),1999,2002,,1.6L DOHC 6MT RWD (113 HP),Gasoline,4,1588,113,145,5-speed manual,Rear Wheel Drive,,209,,3411,1798,1194,2344,456
+ariel,Ariel,Nomad,Nomad (2015),2015,2024,,2.4 i-VTEC 6MT (238 HP),Gasoline,4,2354,238,300,6-speed manual,Rear Wheel Drive,3.4,201,,3216,1849,1425,2347,670
+aro,Aro,10 Series,10 Series (1980),1980,2004,,1.4L 4MT AWD (62 HP),Gasoline,4,1397,62,100,4-speed manual,All Wheel Drive,25,126,14.5,3851,1646,1775,2400,1300
+aro,Aro,10 Series,10 Series (1980),1980,2004,,1.6L 5MT AWD (106 HP),Gasoline,4,1598,106,145,5-speed manual,All Wheel Drive,14.4,140,9.8,3909,1704,1791,2400,1530
+aro,Aro,10 Series,10 Series (1980),1980,2004,,1.6L 5MT AWD (68 HP),Gasoline,4,1557,68,110,5-speed manual,All Wheel Drive,16.4,130,11.2,3909,1704,1791,2400,1530
+aro,Aro,10 Series,10 Series (1980),1980,2004,,1.9L 5MT AWD (65 HP),Diesel,4,1870,65,118,5-speed manual,All Wheel Drive,33,121,10,3909,1704,1791,2400,1530
+aro,Aro,10 Series,10 Series (1980),1980,2004,,1.9L 5MT AWD (94 HP),Diesel,4,1870,94,160,5-speed manual,All Wheel Drive,18.5,130,7.3,3909,1704,1791,2400,1530
+aro,Aro,24 Series,24 Series (1991),1991,2006,,COSWORTH 4L,Gasoline,6,4000,207,320,"Manual, 5 Speed",All Wheel Drive,,180,,4138,1775,1857,2350,1720
+aro,Aro,24 Series,24 Series (1991),1991,2006,,TOYOTA 2L-T,Gasoline,4,2446,89,218,"Manual, 5 Speed",All Wheel Drive,,105,,4138,1775,1857,2350,1720
+aro,Aro,24 Series,24 Series (1991),1991,2006,,TOYOTA 2RZ FE,Gasoline,4,2438,140,212,"Manual, 5 Speed",All Wheel Drive,,150,,4138,1775,1857,2350,1720
+aro,Aro,24 Series,24 Series (1991),1991,2006,,ANDORIA 4 CT90-1 ME,Diesel,4,2417,86,191,"Manual, 5 Speed",All Wheel Drive,,121,,4135,1775,1857,2350,1720
+aro,Aro,24 Series,24 Series (1991),1991,2006,,TDX 28-02,Diesel,4,2660,87,121,"Manual, 4 Speed",All Wheel Drive,,114,,4138,1775,1857,2350,1720
+aro,Aro,24 Series,24 Series (1972),1972,1991,,2.5L 4MT (80 HP),Gasoline,4,2513,80,162,4-speed manual,All Wheel Drive,27,109,19.9,3960,1775,1880,2350,1550
+aro,Aro,M Series,M Series (1963),1963,1975,,2.5,Gasoline,,2512,70,,,All Wheel Drive,,100,,,,,,1551
+aro,Aro,M Series,M Series (1959),1959,1963,,3.2,Diesel,,3260,56,,,All Wheel Drive,,90,,,,,,
+artega,Artega,GT,GT (2010),2010,2012,,3.6L V6 6AT (300 HP),Gasoline,6,3597,300,350,6-speed automatic DSG,Rear Wheel Drive,4.8,270,9.6,4016,1882,1181,2639,1285
+artega,Artega,Scalo,Scalo (2015),2015,2017,,37 KWh (265 HP),Electric,,,265,,1-Speed automatic,Front Wheel Drive,3.6,249,,4008,1880,1194,2464,1585
