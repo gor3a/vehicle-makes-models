@@ -62,7 +62,7 @@ export const fullModelSchema = z.object({
   name: z.string(),
   yearStart: z.number().nullable(),
   yearEnd: z.number().nullable(),
-  generations: z.array(generationSchema),
+  generations: z.array(generationSchema).default([]),
 })
 
 export const fullMakeSchema = z.object({

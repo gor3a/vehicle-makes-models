@@ -4,6 +4,7 @@ import { join } from 'node:path'
 import { rmSync, existsSync } from 'node:fs'
 import Database from 'better-sqlite3'
 import { writeFullSqlite } from './sqlite-full.js'
+import { fullMakeFileSchema } from './schema.js'
 import type { FullMakeFile } from './schema.js'
 
 const TMP_DB = join(tmpdir(), `sqlite-full-test-${Date.now()}.sqlite`)
@@ -163,5 +164,85 @@ describe('writeFullSqlite', () => {
     const counts = writeFullSqlite(FIXTURE, TMP_DB)
     expect(counts.engines).toBe(2)
     expect(counts.specs).toBe(3)
+  })
+
+  it('mixed tier-1/tier-3: tier-1 model (no generations) still writes to models table with 0 generations/engines', () => {
+    // Tier-3 model: Corolla with 1 generation + 1 engine
+    // Tier-1 model: Yaris with no `generations` field → parses to generations:[] via schema default
+    const mixedFile: FullMakeFile = fullMakeFileSchema.parse({
+      group: 'toyota',
+      makes: [
+        {
+          name: 'Toyota',
+          country: 'Japan',
+          models: [
+            {
+              name: 'Corolla',
+              yearStart: 1966,
+              yearEnd: null,
+              generations: [
+                {
+                  name: 'Corolla (2022)',
+                  yearStart: 2022,
+                  yearEnd: null,
+                  bodyType: 'Sedan',
+                  engines: [
+                    {
+                      label: '1.8L CVT (140 HP)',
+                      fuelType: 'Hybrid Gasoline',
+                      cylinders: 4,
+                      displacementCc: 1798,
+                      powerHp: 140,
+                      torqueNm: 142.0,
+                      transmission: 'CVT',
+                      drivetrain: 'Front Wheel Drive',
+                      zeroToHundredKmhS: 9.2,
+                      topSpeedKmh: 180,
+                      fuelEconomyCombinedL100: 4.5,
+                      lengthMm: 4630,
+                      widthMm: 1780,
+                      heightMm: 1435,
+                      wheelbaseMm: 2700,
+                      curbWeightKg: 1370,
+                      specs: { 'ENGINE SPECS / Cylinders': '4' },
+                    },
+                  ],
+                },
+              ],
+            },
+            // tier-1 model: raw JSON has no `generations` field
+            { name: 'Yaris', yearStart: 1999, yearEnd: null },
+          ],
+        },
+      ],
+    })
+
+    const counts = writeFullSqlite([mixedFile], TMP_DB)
+    // Both models inserted
+    expect(counts.models).toBe(2)
+    // Only the tier-3 Corolla contributes 1 generation + 1 engine
+    expect(counts.generations).toBe(1)
+    expect(counts.engines).toBe(1)
+    expect(counts.specs).toBe(1)
+
+    // Verify in the actual DB
+    const db = new Database(TMP_DB, { readonly: true })
+    try {
+      const modelRows = db
+        .prepare<[], { name: string }>('SELECT name FROM models ORDER BY name')
+        .all()
+      expect(modelRows.map((r) => r.name)).toEqual(['Corolla', 'Yaris'])
+
+      const gensCount = (
+        db.prepare('SELECT COUNT(*) as c FROM generations').get() as { c: number }
+      ).c
+      const enginesCount = (
+        db.prepare('SELECT COUNT(*) as c FROM engines').get() as { c: number }
+      ).c
+      expect(gensCount).toBe(1) // Yaris has none
+      expect(enginesCount).toBe(1) // Yaris has none
+    } finally {
+      db.close()
+    }
   })
 })

@@ -3,6 +3,7 @@ import { mkdtempSync, writeFileSync, rmSync } from 'node:fs'
 import { tmpdir } from 'node:os'
 import { join } from 'node:path'
 import { engineFlatRows, engineRowsToCsv, makesModelsCsv, loadFullMakeFiles } from './transform-full.js'
+import { fullMakeFileSchema } from './schema.js'
 import type { FullMakeFile, EngineRow } from './schema.js'
 
 const sample: FullMakeFile[] = [
@@ -263,6 +264,180 @@ describe('makesModelsCsv', () => {
     const lines = csv.trimEnd().split('\n')
     expect(lines).toHaveLength(2) // header + 1 model (Corolla)
     expect(lines[1]).toBe('toyota,Toyota,Corolla,1966,')
+  })
+})
+
+describe('mixed tier-1 / tier-3 tolerance', () => {
+  // A FullMakeFile that has one tier-3 model (with generations+engines) and one
+  // tier-1 model (no `generations` field at all in the raw JSON).  After parsing
+  // through fullMakeFileSchema the tier-1 model must receive generations:[] via
+  // the .default([]) on fullModelSchema.
+  it('tier-1 model (no generations field) parses to generations:[] via schema default', () => {
+    const rawTier1Model = { name: 'Yaris', yearStart: 1999, yearEnd: null }
+    // No `generations` key — simulates real tier-1 JSON on disk
+    expect('generations' in rawTier1Model).toBe(false)
+
+    const rawFile = {
+      group: 'toyota',
+      makes: [
+        {
+          name: 'Toyota',
+          models: [
+            {
+              name: 'Corolla',
+              yearStart: 1966,
+              yearEnd: null,
+              generations: [
+                {
+                  name: 'Corolla (2022)',
+                  yearStart: 2022,
+                  yearEnd: null,
+                  bodyType: 'Sedan',
+                  engines: [
+                    {
+                      label: '1.8L CVT (140 HP)',
+                      fuelType: 'Hybrid Gasoline',
+                      cylinders: 4,
+                      displacementCc: 1798,
+                      powerHp: 140,
+                      torqueNm: 142.0,
+                      transmission: 'CVT',
+                      drivetrain: 'Front Wheel Drive',
+                      zeroToHundredKmhS: 9.2,
+                      topSpeedKmh: 180,
+                      fuelEconomyCombinedL100: 4.5,
+                      lengthMm: 4630,
+                      widthMm: 1780,
+                      heightMm: 1435,
+                      wheelbaseMm: 2700,
+                      curbWeightKg: 1370,
+                      specs: { 'ENGINE SPECS / Cylinders': '4' },
+                    },
+                  ],
+                },
+              ],
+            },
+            rawTier1Model, // tier-1: no generations
+          ],
+        },
+      ],
+    }
+
+    const parsed = fullMakeFileSchema.parse(rawFile)
+    const tier1 = parsed.makes[0]?.models.find((m) => m.name === 'Yaris')
+    expect(tier1).toBeDefined()
+    expect(tier1!.generations).toEqual([]) // default applied
+  })
+
+  it('engineFlatRows: only tier-3 model contributes engine rows; tier-1 contributes 0', () => {
+    const mixedFile: FullMakeFile = fullMakeFileSchema.parse({
+      group: 'toyota',
+      makes: [
+        {
+          name: 'Toyota',
+          models: [
+            {
+              name: 'Corolla',
+              yearStart: 1966,
+              yearEnd: null,
+              generations: [
+                {
+                  name: 'Corolla (2022)',
+                  yearStart: 2022,
+                  yearEnd: null,
+                  bodyType: 'Sedan',
+                  engines: [
+                    {
+                      label: '1.8L CVT (140 HP)',
+                      fuelType: 'Gasoline',
+                      cylinders: 4,
+                      displacementCc: 1798,
+                      powerHp: 140,
+                      torqueNm: null,
+                      transmission: null,
+                      drivetrain: null,
+                      zeroToHundredKmhS: null,
+                      topSpeedKmh: null,
+                      fuelEconomyCombinedL100: null,
+                      lengthMm: null,
+                      widthMm: null,
+                      heightMm: null,
+                      wheelbaseMm: null,
+                      curbWeightKg: null,
+                      specs: {},
+                    },
+                  ],
+                },
+              ],
+            },
+            // tier-1 model: no generations in raw JSON → parses to generations:[]
+            { name: 'Yaris', yearStart: 1999, yearEnd: null },
+          ],
+        },
+      ],
+    })
+
+    const rows = engineFlatRows([mixedFile])
+    // Only Corolla (tier-3) contributes engine rows
+    expect(rows).toHaveLength(1)
+    expect(rows[0]?.model).toBe('Corolla')
+    // No row for Yaris (tier-1 with 0 generations)
+    expect(rows.find((r) => r.model === 'Yaris')).toBeUndefined()
+  })
+
+  it('makesModelsCsv: both tier-3 and tier-1 models appear in the CSV', () => {
+    const mixedFile: FullMakeFile = fullMakeFileSchema.parse({
+      group: 'toyota',
+      makes: [
+        {
+          name: 'Toyota',
+          models: [
+            {
+              name: 'Corolla',
+              yearStart: 1966,
+              yearEnd: null,
+              generations: [
+                {
+                  name: 'Corolla (2022)',
+                  yearStart: 2022,
+                  yearEnd: null,
+                  bodyType: null,
+                  engines: [
+                    {
+                      label: 'Engine',
+                      fuelType: null,
+                      cylinders: null,
+                      displacementCc: null,
+                      powerHp: null,
+                      torqueNm: null,
+                      transmission: null,
+                      drivetrain: null,
+                      zeroToHundredKmhS: null,
+                      topSpeedKmh: null,
+                      fuelEconomyCombinedL100: null,
+                      lengthMm: null,
+                      widthMm: null,
+                      heightMm: null,
+                      wheelbaseMm: null,
+                      curbWeightKg: null,
+                      specs: {},
+                    },
+                  ],
+                },
+              ],
+            },
+            { name: 'Yaris', yearStart: 1999, yearEnd: null },
+          ],
+        },
+      ],
+    })
+
+    const csv = makesModelsCsv([mixedFile])
+    const lines = csv.trimEnd().split('\n')
+    // header + 2 model rows (Corolla + Yaris)
+    expect(lines).toHaveLength(3)
+    expect(lines.some((l) => l.includes('Corolla'))).toBe(true)
+    expect(lines.some((l) => l.includes('Yaris'))).toBe(true)
   })
 })
 
