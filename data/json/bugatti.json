@@ -7,62 +7,865 @@
         {
           "name": "Bolide",
           "yearStart": 2022,
-          "yearEnd": null
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Bolide (2022)",
+              "yearStart": 2022,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "8.0L W16 7AT AWD (1850 HP)",
+                  "fuelType": "Gasoline",
+                  "cylinders": 16,
+                  "displacementCc": 7993,
+                  "powerHp": 1850,
+                  "torqueNm": 1850,
+                  "transmission": "7-speed automatic DSG",
+                  "drivetrain": "All Wheel Drive",
+                  "zeroToHundredKmhS": 2.17,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": 4755,
+                  "widthMm": 1999,
+                  "heightMm": 996,
+                  "wheelbaseMm": 2751,
+                  "curbWeightKg": 1240,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "W16",
+                    "ENGINE SPECS / Displacement": "7993 cm3 (488 ci)",
+                    "ENGINE SPECS / Power": "1360.7 KW @ 7000 RPM1850 HP @ 7000 RPM1825 BHP @ 7000 RPM",
+                    "ENGINE SPECS / Torque": "1365 lb-ft @ 2000-7025 RPM1850 Nm @ 2000-7025 RPM",
+                    "ENGINE SPECS / Fuel System": "Multi-point indirect injection",
+                    "ENGINE SPECS / Fuel": "Gasoline",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "2.17 s",
+                    "TRANSMISSION SPECS / Drive Type": "All Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "7-speed automatic DSG",
+                    "BRAKES SPECS / Front": "Ventilated Discs",
+                    "BRAKES SPECS / Rear": "Ventilated discs",
+                    "DIMENSIONS / Length": "187.2 in (4755 mm)",
+                    "DIMENSIONS / Width": "78.7 in (1999 mm)",
+                    "DIMENSIONS / Height": "39.2 in (996 mm)",
+                    "DIMENSIONS / Wheelbase": "108.3 in (2751 mm)",
+                    "DIMENSIONS / Ground Clearance": "2.8 in (71 mm)",
+                    "WEIGHT SPECS / Unladen Weight": "2734 lbs (1240 kg)"
+                  }
+                }
+              ]
+            }
+          ]
         },
         {
           "name": "Brouillard",
           "yearStart": 2025,
-          "yearEnd": null
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Brouillard (2025)",
+              "yearStart": 2025,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
         },
         {
           "name": "Centodieci",
           "yearStart": 2019,
-          "yearEnd": 2022
+          "yearEnd": 2022,
+          "generations": [
+            {
+              "name": "Centodieci (2019)",
+              "yearStart": 2019,
+              "yearEnd": 2022,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "8.0L W16 7AT (1600 HP)",
+                  "fuelType": "Gasoline",
+                  "cylinders": 16,
+                  "displacementCc": null,
+                  "powerHp": 1600,
+                  "torqueNm": null,
+                  "transmission": "7-automatic speed dual clutch",
+                  "drivetrain": "Rear Wheel Drive",
+                  "zeroToHundredKmhS": 2.4,
+                  "topSpeedKmh": 380,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "W16",
+                    "ENGINE SPECS / Power": "1176.8 KW @ 7000 RPM1600 HP @ 7000 RPM1578 BHP @ 7000 RPM",
+                    "ENGINE SPECS / Fuel System": "Turbocharged Direct Injection",
+                    "ENGINE SPECS / Fuel": "Gasoline",
+                    "PERFORMANCE SPECS / Top Speed": "236 mph (380 km/h)",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "2.4 s",
+                    "TRANSMISSION SPECS / Drive Type": "Rear Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "7-automatic speed dual clutch",
+                    "BRAKES SPECS / Front": "Ventilated Discs",
+                    "BRAKES SPECS / Rear": "Ventilated Discs",
+                    "WEIGHT SPECS / Gross Weight Limit": "4356 lbs (1976 kg)"
+                  }
+                }
+              ]
+            }
+          ]
         },
         {
           "name": "Chiron",
           "yearStart": 2016,
-          "yearEnd": null
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Chiron (2020)",
+              "yearStart": 2020,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "8.0L W16 7AT (1600 HP)",
+                  "fuelType": "Gasoline",
+                  "cylinders": 16,
+                  "displacementCc": 7993,
+                  "powerHp": 1600,
+                  "torqueNm": 1600,
+                  "transmission": "7-speed automatic (DSG)",
+                  "drivetrain": "All Wheel Drive",
+                  "zeroToHundredKmhS": 2.3,
+                  "topSpeedKmh": 420,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": 4544,
+                  "widthMm": 2037,
+                  "heightMm": 1212,
+                  "wheelbaseMm": 2710,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "W16",
+                    "ENGINE SPECS / Displacement": "7993 cm3 (488 ci)",
+                    "ENGINE SPECS / Power": "1176.8 KW @ - RPM1600 HP @ - RPM1578 BHP @ - RPM",
+                    "ENGINE SPECS / Torque": "1180 lb-ft @ - RPM1600 Nm @ - RPM",
+                    "ENGINE SPECS / Fuel System": "Turbocharged Direct Injection",
+                    "ENGINE SPECS / Fuel": "Gasoline",
+                    "PERFORMANCE SPECS / Top Speed": "261 mph (420 km/h)",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "2.3 s",
+                    "TRANSMISSION SPECS / Drive Type": "All Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "7-speed automatic (DSG)",
+                    "BRAKES SPECS / Front": "Ventilated Discs",
+                    "BRAKES SPECS / Rear": "Ventilated Discs",
+                    "TIRES SPECS / Tire Size": "P285/30ZR20 // P285/30ZR20",
+                    "DIMENSIONS / Length": "178.9 in (4544 mm)",
+                    "DIMENSIONS / Width": "80.2 in (2037 mm)",
+                    "DIMENSIONS / Height": "47.7 in (1212 mm)",
+                    "DIMENSIONS / Wheelbase": "106.7 in (2710 mm)",
+                    "DIMENSIONS / Ground Clearance": "3.54 in (90 mm)"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Chiron (2020)",
+              "yearStart": 2020,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "8.0L W16 7AT AWD (1500 HP)",
+                  "fuelType": "Gasoline",
+                  "cylinders": 16,
+                  "displacementCc": 7993,
+                  "powerHp": 1500,
+                  "torqueNm": 1600,
+                  "transmission": "7-speed automatic",
+                  "drivetrain": "All Wheel Drive",
+                  "zeroToHundredKmhS": 2.4,
+                  "topSpeedKmh": 349,
+                  "fuelEconomyCombinedL100": 22.4,
+                  "lengthMm": 4544,
+                  "widthMm": 2037,
+                  "heightMm": 1212,
+                  "wheelbaseMm": 2710,
+                  "curbWeightKg": 1995,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "W16",
+                    "ENGINE SPECS / Displacement": "7993 cm3 (488 ci)",
+                    "ENGINE SPECS / Power": "1103.2 KW @ 6900 RPM1500 HP @ 6900 RPM1479 BHP @ 6900 RPM",
+                    "ENGINE SPECS / Torque": "1180 lb-ft @ 2000-6000 RPM1600 Nm @ 2000-6000 RPM",
+                    "ENGINE SPECS / Fuel System": "Turbocharged Direct Injection",
+                    "ENGINE SPECS / Fuel": "Gasoline",
+                    "ENGINE SPECS / Fuel capacity": "26.4 gallons (99.9 L)",
+                    "PERFORMANCE SPECS / Top Speed": "217 mph (349 km/h)",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "2.4 s",
+                    "TRANSMISSION SPECS / Drive Type": "All Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "7-speed automatic",
+                    "BRAKES SPECS / Front": "Ventilated Discs",
+                    "BRAKES SPECS / Rear": "Ventilated Discs",
+                    "TIRES SPECS / Tire Size": "285/30 R20 // 355/25 R21",
+                    "DIMENSIONS / Length": "178.9 in (4544 mm)",
+                    "DIMENSIONS / Width": "80.2 in (2037 mm)",
+                    "DIMENSIONS / Height": "47.7 in (1212 mm)",
+                    "DIMENSIONS / Front/rear Track": "68.9/65.4 in (1,750/1,661 mm)",
+                    "DIMENSIONS / Wheelbase": "106.7 in (2710 mm)",
+                    "DIMENSIONS / Ground Clearance": "3.54 in (90 mm)",
+                    "DIMENSIONS / Cargo Volume": "1.6 cuFT (45 L)",
+                    "DIMENSIONS / Aerodynamics (Cd)": "0.36",
+                    "DIMENSIONS / Aerodynamics (frontal area)": "0.25 m2",
+                    "DIMENSIONS / Turning circle": "39.4 ft (12.0 m)",
+                    "WEIGHT SPECS / Unladen Weight": "4398 lbs (1995 kg)",
+                    "FUEL ECONOMY (NEDC) / City": "6.7 mpg US (35.1 L/100Km)",
+                    "FUEL ECONOMY (NEDC) / Highway": "15.5 mpg US (15.2 L/100Km)",
+                    "FUEL ECONOMY (NEDC) / Combined": "10.5 mpg US (22.4 L/100Km)",
+                    "FUEL ECONOMY (NEDC) / CO2 Emissions": "516 g/km"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Chiron (2018)",
+              "yearStart": 2018,
+              "yearEnd": 2024,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "8.0L W16 7AT (1500 HP)",
+                  "fuelType": "Gasoline",
+                  "cylinders": 16,
+                  "displacementCc": 7993,
+                  "powerHp": 1500,
+                  "torqueNm": 1600,
+                  "transmission": "7-speed automatic (DSG)",
+                  "drivetrain": "All Wheel Drive",
+                  "zeroToHundredKmhS": 2.3,
+                  "topSpeedKmh": 420,
+                  "fuelEconomyCombinedL100": 10.5,
+                  "lengthMm": 4544,
+                  "widthMm": 2037,
+                  "heightMm": 1212,
+                  "wheelbaseMm": 2710,
+                  "curbWeightKg": 1996,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "W16",
+                    "ENGINE SPECS / Displacement": "7993 cm3 (488 ci)",
+                    "ENGINE SPECS / Power": "1103.2 KW @ 6700 RPM1500 HP @ 6700 RPM1479 BHP @ 6700 RPM",
+                    "ENGINE SPECS / Torque": "1180 lb-ft @ 2000-6000 RPM1600 Nm @ 2000-6000 RPM",
+                    "ENGINE SPECS / Fuel System": "Turbocharged Direct Injection",
+                    "ENGINE SPECS / Fuel": "Gasoline",
+                    "PERFORMANCE SPECS / Top Speed": "261 mph (420 km/h)",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "2.3 s",
+                    "TRANSMISSION SPECS / Drive Type": "All Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "7-speed automatic (DSG)",
+                    "BRAKES SPECS / Front": "Ventilated Discs",
+                    "BRAKES SPECS / Rear": "Ventilated Discs",
+                    "TIRES SPECS / Tire Size": "P285/30ZR20 || P285/30ZR20",
+                    "DIMENSIONS / Length": "178.9 in (4544 mm)",
+                    "DIMENSIONS / Width": "80.2 in (2037 mm)",
+                    "DIMENSIONS / Height": "47.7 in (1212 mm)",
+                    "DIMENSIONS / Wheelbase": "106.7 in (2710 mm)",
+                    "DIMENSIONS / Ground Clearance": "3.54 in (90 mm)",
+                    "WEIGHT SPECS / Unladen Weight": "4400 lbs (1996 kg)",
+                    "FUEL ECONOMY (NEDC) / City": "35.2 mpg US (6.7 L/100Km)",
+                    "FUEL ECONOMY (NEDC) / Highway": "15.2 mpg US (15.5 L/100Km)",
+                    "FUEL ECONOMY (NEDC) / Combined": "22.5 mpg US (10.5 L/100Km)",
+                    "FUEL ECONOMY (NEDC) / CO2 Emissions": "516 g/km"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Chiron (2016)",
+              "yearStart": 2016,
+              "yearEnd": 2022,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "8.0 W16 (1,500 HP)",
+                  "fuelType": "Gasoline",
+                  "cylinders": 16,
+                  "displacementCc": 7993,
+                  "powerHp": 1500,
+                  "torqueNm": 1600,
+                  "transmission": "7-speed automatic (DSG)",
+                  "drivetrain": "All Wheel Drive",
+                  "zeroToHundredKmhS": 2.3,
+                  "topSpeedKmh": 420,
+                  "fuelEconomyCombinedL100": 22.4,
+                  "lengthMm": 4544,
+                  "widthMm": 2037,
+                  "heightMm": 1212,
+                  "wheelbaseMm": 2710,
+                  "curbWeightKg": 1995,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "W16",
+                    "ENGINE SPECS / Displacement": "7993 cm3 (488 ci)",
+                    "ENGINE SPECS / Power": "1103.3 KW @ 6700 RPM1500 HP @ 6700 RPM1480 BHP @ 6700 RPM",
+                    "ENGINE SPECS / Torque": "1180 lb-ft @ 2000-6000 RPM1600 Nm @ 2000-6000 RPM",
+                    "ENGINE SPECS / Fuel System": "Turbocharged Direct Injection",
+                    "ENGINE SPECS / Fuel": "Gasoline",
+                    "PERFORMANCE SPECS / Top Speed": "261 mph (420 km/h)",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "2.3 s",
+                    "TRANSMISSION SPECS / Drive Type": "All Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "7-speed automatic (DSG)",
+                    "BRAKES SPECS / Front": "Ventilated Discs",
+                    "BRAKES SPECS / Rear": "Ventilated Discs",
+                    "TIRES SPECS / Tire Size": "P285/30ZR20 || P285/30ZR20",
+                    "DIMENSIONS / Length": "178.9 in (4544 mm)",
+                    "DIMENSIONS / Width": "80.2 in (2037 mm)",
+                    "DIMENSIONS / Height": "47.7 in (1212 mm)",
+                    "DIMENSIONS / Wheelbase": "106.7 in (2710 mm)",
+                    "DIMENSIONS / Cargo Volume": "2 cuFT (57 L)",
+                    "WEIGHT SPECS / Unladen Weight": "4398 lbs (1995 kg)",
+                    "FUEL ECONOMY (NEDC) / City": "6.7 mpg US (35.1 L/100Km)",
+                    "FUEL ECONOMY (NEDC) / Highway": "15.5 mpg US (15.2 L/100Km)",
+                    "FUEL ECONOMY (NEDC) / Combined": "10.5 mpg US (22.4 L/100Km)",
+                    "FUEL ECONOMY (NEDC) / CO2 Emissions": "516 g/km"
+                  }
+                }
+              ]
+            }
+          ]
         },
         {
           "name": "Divo",
           "yearStart": 2018,
-          "yearEnd": 2021
+          "yearEnd": 2021,
+          "generations": [
+            {
+              "name": "Divo (2018)",
+              "yearStart": 2018,
+              "yearEnd": 2021,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "8.0L W16 AWD (1500 HP)",
+                  "fuelType": "Gasoline",
+                  "cylinders": 16,
+                  "displacementCc": 7993,
+                  "powerHp": 1500,
+                  "torqueNm": 1600,
+                  "transmission": "7-speed automatic (DSG)",
+                  "drivetrain": "All Wheel Drive",
+                  "zeroToHundredKmhS": 2.3,
+                  "topSpeedKmh": 380,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": 4544,
+                  "widthMm": 2037,
+                  "heightMm": 1212,
+                  "wheelbaseMm": 2710,
+                  "curbWeightKg": 1961,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "W16",
+                    "ENGINE SPECS / Displacement": "7993 cm3 (488 ci)",
+                    "ENGINE SPECS / Power": "1103.2 KW @ 6700 RPM1500 HP @ 6700 RPM1479 BHP @ 6700 RPM",
+                    "ENGINE SPECS / Torque": "1180 lb-ft @ 6000 RPM1600 Nm @ 6000 RPM",
+                    "ENGINE SPECS / Fuel System": "Turbocharged Direct Injection",
+                    "ENGINE SPECS / Fuel": "Gasoline",
+                    "PERFORMANCE SPECS / Top Speed": "236 mph (380 km/h)",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "2.3 s",
+                    "TRANSMISSION SPECS / Drive Type": "All Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "7-speed automatic (DSG)",
+                    "BRAKES SPECS / Front": "Ventilated Discs",
+                    "BRAKES SPECS / Rear": "Ventilated Discs",
+                    "TIRES SPECS / Tire Size": "P285/30ZR20 || P285/30ZR20",
+                    "DIMENSIONS / Length": "178.9 in (4544 mm)",
+                    "DIMENSIONS / Width": "80.2 in (2037 mm)",
+                    "DIMENSIONS / Height": "47.7 in (1212 mm)",
+                    "DIMENSIONS / Wheelbase": "106.7 in (2710 mm)",
+                    "DIMENSIONS / Ground Clearance": "3.54 in (90 mm)",
+                    "WEIGHT SPECS / Unladen Weight": "4323 lbs (1961 kg)"
+                  }
+                }
+              ]
+            }
+          ]
         },
         {
           "name": "EB 110",
           "yearStart": 1991,
-          "yearEnd": 1995
+          "yearEnd": 1995,
+          "generations": [
+            {
+              "name": "EB 110 (1992)",
+              "yearStart": 1992,
+              "yearEnd": 1995,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "3.5L 6MT (600 HP)",
+                  "fuelType": "Gasoline",
+                  "cylinders": 12,
+                  "displacementCc": 3498,
+                  "powerHp": 600,
+                  "torqueNm": 637,
+                  "transmission": "6-Speed manual",
+                  "drivetrain": "All Wheel Drive",
+                  "zeroToHundredKmhS": 3.3,
+                  "topSpeedKmh": 349,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": 4399,
+                  "widthMm": 1941,
+                  "heightMm": 1125,
+                  "wheelbaseMm": 2550,
+                  "curbWeightKg": 1418,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "V12",
+                    "ENGINE SPECS / Displacement": "3498 cm3 (213 ci)",
+                    "ENGINE SPECS / Power": "441 KW @ 8250 RPM600 HP @ 8250 RPM591 BHP @ 8250 RPM",
+                    "ENGINE SPECS / Torque": "470 lb-ft @ 4000 RPM637 Nm @ 4000 RPM",
+                    "ENGINE SPECS / Fuel System": "Electronic Injection",
+                    "ENGINE SPECS / Fuel": "Gasoline",
+                    "PERFORMANCE SPECS / Top Speed": "217 mph (349 km/h)",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "3.3 s",
+                    "TRANSMISSION SPECS / Drive Type": "All Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "6-Speed manual",
+                    "BRAKES SPECS / Front": "Ventilated Discs",
+                    "BRAKES SPECS / Rear": "Ventilated Discs",
+                    "TIRES SPECS / Tire Size": "Front Michelin MXX3 245/40 ZR 18 Rear Michelin MXX3 325/30 ZR 18",
+                    "DIMENSIONS / Length": "173.2 in (4399 mm)",
+                    "DIMENSIONS / Width": "76.4 in (1941 mm)",
+                    "DIMENSIONS / Height": "44.3 in (1125 mm)",
+                    "DIMENSIONS / Front/rear Track": "61/63.7 in (1,549/1,618 mm)",
+                    "DIMENSIONS / Wheelbase": "100.4 in (2550 mm)",
+                    "DIMENSIONS / Ground Clearance": "5 in (127 mm)",
+                    "DIMENSIONS / Cargo Volume": "2.5 cuFT (71 L)",
+                    "WEIGHT SPECS / Unladen Weight": "3126 lbs (1418 kg)"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "EB 110 (1991)",
+              "yearStart": 1991,
+              "yearEnd": 1995,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "3.5L V12 6MT AWD (560 HP)",
+                  "fuelType": "Gasoline",
+                  "cylinders": 12,
+                  "displacementCc": 3500,
+                  "powerHp": 560,
+                  "torqueNm": 611,
+                  "transmission": "6-Speed manual",
+                  "drivetrain": "All Wheel Drive",
+                  "zeroToHundredKmhS": 3.6,
+                  "topSpeedKmh": 343,
+                  "fuelEconomyCombinedL100": 9,
+                  "lengthMm": 4399,
+                  "widthMm": 1941,
+                  "heightMm": 1125,
+                  "wheelbaseMm": 2550,
+                  "curbWeightKg": 1618,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "V12",
+                    "ENGINE SPECS / Displacement": "3500 cm3 (214 ci)",
+                    "ENGINE SPECS / Power": "411.9 KW @ 8000 RPM560 HP @ 8000 RPM552 BHP @ 8000 RPM",
+                    "ENGINE SPECS / Torque": "451 lb-ft @ 3750 RPM611 Nm @ 3750 RPM",
+                    "ENGINE SPECS / Fuel System": "Electronic Injection",
+                    "ENGINE SPECS / Fuel": "Gasoline",
+                    "ENGINE SPECS / Fuel capacity": "31.7 gallons (120.0 L)",
+                    "PERFORMANCE SPECS / Top Speed": "213 mph (343 km/h)",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "3.6 s",
+                    "TRANSMISSION SPECS / Drive Type": "All Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "6-Speed manual",
+                    "BRAKES SPECS / Front": "Ventilated Discs",
+                    "BRAKES SPECS / Rear": "Ventilated Discs",
+                    "TIRES SPECS / Tire Size": "245/40 ZR18 // 325/30 ZR18",
+                    "DIMENSIONS / Length": "173.2 in (4399 mm)",
+                    "DIMENSIONS / Width": "76.4 in (1941 mm)",
+                    "DIMENSIONS / Height": "44.3 in (1125 mm)",
+                    "DIMENSIONS / Front/rear Track": "61/63.7 in (1,549/1,618 mm)",
+                    "DIMENSIONS / Wheelbase": "100.4 in (2550 mm)",
+                    "DIMENSIONS / Ground Clearance": "5 in (127 mm)",
+                    "DIMENSIONS / Cargo Volume": "2.5 cuFT (71 L)",
+                    "WEIGHT SPECS / Unladen Weight": "3567 lbs (1618 kg)",
+                    "WEIGHT SPECS / Gross Weight Limit": "4123 lbs (1870 kg)",
+                    "FUEL ECONOMY (NEDC) / City": "11.2 mpg US (21 L/100Km)",
+                    "FUEL ECONOMY (NEDC) / Highway": "18 mpg US (13.1 L/100Km)",
+                    "FUEL ECONOMY (NEDC) / Combined": "26.1 mpg US (9 L/100Km)"
+                  }
+                }
+              ]
+            }
+          ]
         },
         {
           "name": "La Voiture Noire",
           "yearStart": 2019,
-          "yearEnd": 2019
+          "yearEnd": 2019,
+          "generations": [
+            {
+              "name": "La Voiture Noire (2019)",
+              "yearStart": 2019,
+              "yearEnd": 2019,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "8.0L (1500 HP)",
+                  "fuelType": "Gasoline",
+                  "cylinders": null,
+                  "displacementCc": null,
+                  "powerHp": 1500,
+                  "torqueNm": 1600,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": 420,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "ENGINE SPECS / Power": "1103.2 KW @ - RPM1500 HP @ - RPM1479 BHP @ - RPM",
+                    "ENGINE SPECS / Torque": "1180 lb-ft @ - RPM1600 Nm @ - RPM",
+                    "ENGINE SPECS / Fuel System": "Turbocharge Direct Injection",
+                    "ENGINE SPECS / Fuel": "Gasoline",
+                    "PERFORMANCE SPECS / Top Speed": "261 mph (420 km/h)",
+                    "BRAKES SPECS / Front": "Ventilated Discs",
+                    "BRAKES SPECS / Rear": "Discs"
+                  }
+                }
+              ]
+            }
+          ]
         },
         {
           "name": "Mistral",
           "yearStart": 2022,
-          "yearEnd": null
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Mistral (2022)",
+              "yearStart": 2022,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "8.0L W16 (1600 HP)",
+                  "fuelType": null,
+                  "cylinders": 16,
+                  "displacementCc": null,
+                  "powerHp": 1600,
+                  "torqueNm": 1600,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": 420,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "W16",
+                    "ENGINE SPECS / Power": "1176.8 KW @ - RPM1600 HP @ - RPM1578 BHP @ - RPM",
+                    "ENGINE SPECS / Torque": "1180 lb-ft @ - RPM1600 Nm @ - RPM",
+                    "PERFORMANCE SPECS / Top Speed": "261 mph (420 km/h)"
+                  }
+                }
+              ]
+            }
+          ]
         },
         {
           "name": "Tourbillon",
           "yearStart": 2024,
-          "yearEnd": null
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Tourbillon (2024)",
+              "yearStart": 2024,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "8.3L V16 8AT AWD (1800 HP)",
+                  "fuelType": "Plug-in Hybrid",
+                  "cylinders": 16,
+                  "displacementCc": 8300,
+                  "powerHp": 1000,
+                  "torqueNm": 900,
+                  "transmission": "8-speed automatic",
+                  "drivetrain": "All Wheel Drive",
+                  "zeroToHundredKmhS": 2,
+                  "topSpeedKmh": 446,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": 4671,
+                  "widthMm": 2050,
+                  "heightMm": 1189,
+                  "wheelbaseMm": 2741,
+                  "curbWeightKg": 1995,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "V16",
+                    "ENGINE SPECS / Displacement": "8300 cm3 (506 ci)",
+                    "ENGINE SPECS / Power": "735.5 KW @ - RPM1000 HP @ - RPM986 BHP @ - RPM",
+                    "ENGINE SPECS / Torque": "664 lb-ft @ - RPM900 Nm @ - RPM",
+                    "ENGINE SPECS / Electrical motor power": "250.1 kw (340 hp, 335 bhp)",
+                    "ENGINE SPECS / Electrical motor torque": "177 lb-ft (240 Nm)",
+                    "ENGINE SPECS / Total maximum power": "1323.9 kw (1800 hp, 1775 bhp)",
+                    "ENGINE SPECS / Fuel": "Plug-in Hybrid",
+                    "PERFORMANCE SPECS / Top Speed": "277 mph (446 km/h)",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "2 s",
+                    "TRANSMISSION SPECS / Drive Type": "All Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "8-speed automatic",
+                    "BRAKES SPECS / Front": "Ventilated Discs",
+                    "BRAKES SPECS / Rear": "Ventilated Discs",
+                    "TIRES SPECS / Tire Size": "285/35 R20 // 345/30 R21",
+                    "DIMENSIONS / Length": "183.9 in (4671 mm)",
+                    "DIMENSIONS / Width": "80.7 in (2050 mm)",
+                    "DIMENSIONS / Height": "46.8 in (1189 mm)",
+                    "DIMENSIONS / Wheelbase": "107.9 in (2741 mm)",
+                    "WEIGHT SPECS / Unladen Weight": "4398 lbs (1995 kg)",
+                    "POWER SYSTEM SPECS / Power pack": "Lithium-Ion",
+                    "POWER SYSTEM SPECS / Maximum Capacity": "24.8 kWh",
+                    "POWER SYSTEM SPECS / Range": "37.3 miles (60.0 km)"
+                  }
+                }
+              ]
+            }
+          ]
         },
         {
           "name": "Type 5",
           "yearStart": null,
-          "yearEnd": null
+          "yearEnd": null,
+          "generations": []
         },
         {
           "name": "Type 64",
           "yearStart": null,
-          "yearEnd": null
+          "yearEnd": null,
+          "generations": []
         },
         {
           "name": "Veyron",
           "yearStart": 2005,
-          "yearEnd": 2015
+          "yearEnd": 2015,
+          "generations": [
+            {
+              "name": "Veyron (2012)",
+              "yearStart": 2012,
+              "yearEnd": 2015,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "8.0L W16 7AT (1200 HP)",
+                  "fuelType": "Gasoline",
+                  "cylinders": 16,
+                  "displacementCc": 7993,
+                  "powerHp": 1201,
+                  "torqueNm": 1500,
+                  "transmission": "7-speed automatic",
+                  "drivetrain": "All Wheel Drive",
+                  "zeroToHundredKmhS": 2.6,
+                  "topSpeedKmh": 410,
+                  "fuelEconomyCombinedL100": 23.1,
+                  "lengthMm": 4463,
+                  "widthMm": 1999,
+                  "heightMm": 1191,
+                  "wheelbaseMm": 2710,
+                  "curbWeightKg": 1990,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "16",
+                    "ENGINE SPECS / Displacement": "7993 cm3 (488 ci)",
+                    "ENGINE SPECS / Power": "883 KW @ 6400 RPM1201 HP @ 6400 RPM1184 BHP @ 6400 RPM",
+                    "ENGINE SPECS / Torque": "1106 lb-ft @ 3000-5000 RPM1500 Nm @ 3000-5000 RPM",
+                    "ENGINE SPECS / Fuel System": "Direct injection",
+                    "ENGINE SPECS / Fuel": "Gasoline",
+                    "ENGINE SPECS / Fuel capacity": "26.4 gallons (99.9 L)",
+                    "PERFORMANCE SPECS / Top Speed": "255 mph (410 km/h)",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "2.6 s",
+                    "TRANSMISSION SPECS / Drive Type": "All Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "7-speed automatic",
+                    "BRAKES SPECS / Front": "Ventilated discs 400 mm",
+                    "BRAKES SPECS / Rear": "Ventilated discs 380 mm",
+                    "TIRES SPECS / Tire Size": "265-680 ZR 500A 99Y / 365-710 ZR 540A 108Y",
+                    "DIMENSIONS / Length": "175.7 in (4463 mm)",
+                    "DIMENSIONS / Width": "78.7 in (1999 mm)",
+                    "DIMENSIONS / Height": "46.9 in (1191 mm)",
+                    "DIMENSIONS / Wheelbase": "106.7 in (2710 mm)",
+                    "WEIGHT SPECS / Unladen Weight": "4387 lbs (1990 kg)",
+                    "FUEL ECONOMY (NEDC) / City": "6.3 mpg US (37.3 L/100Km)",
+                    "FUEL ECONOMY (NEDC) / Highway": "15.8 mpg US (14.9 L/100Km)",
+                    "FUEL ECONOMY (NEDC) / Combined": "10.2 mpg US (23.1 L/100Km)",
+                    "FUEL ECONOMY (NEDC) / CO2 Emissions": "535 g/km"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Veyron (2010)",
+              "yearStart": 2010,
+              "yearEnd": 2011,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "8.0L W16 7AT (1201 HP)",
+                  "fuelType": "Gasoline",
+                  "cylinders": 16,
+                  "displacementCc": 7993,
+                  "powerHp": 1201,
+                  "torqueNm": 1500,
+                  "transmission": "7-speed automatic (DSG)",
+                  "drivetrain": "All Wheel Drive",
+                  "zeroToHundredKmhS": 2.5,
+                  "topSpeedKmh": 415,
+                  "fuelEconomyCombinedL100": 23.5,
+                  "lengthMm": 4463,
+                  "widthMm": 1999,
+                  "heightMm": 1158,
+                  "wheelbaseMm": 2710,
+                  "curbWeightKg": 1834,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "W16",
+                    "ENGINE SPECS / Displacement": "7993 cm3 (488 ci)",
+                    "ENGINE SPECS / Power": "883 KW @ 6400 RPM1201 HP @ 6400 RPM1184 BHP @ 6400 RPM",
+                    "ENGINE SPECS / Torque": "1106 lb-ft @ 3000-3500 RPM1500 Nm @ 3000-3500 RPM",
+                    "ENGINE SPECS / Fuel System": "Direct Injection",
+                    "ENGINE SPECS / Fuel": "Gasoline",
+                    "ENGINE SPECS / Fuel capacity": "26.4 gallons (99.9 L)",
+                    "PERFORMANCE SPECS / Top Speed": "258 mph (415 km/h)",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "2.5 s",
+                    "TRANSMISSION SPECS / Drive Type": "All Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "7-speed automatic (DSG)",
+                    "BRAKES SPECS / Front": "Ventilated Discs",
+                    "BRAKES SPECS / Rear": "Ventilated Discs",
+                    "TIRES SPECS / Tire Size": "265/35 R20 || 365/25 R21",
+                    "DIMENSIONS / Length": "175.7 in (4463 mm)",
+                    "DIMENSIONS / Width": "78.7 in (1999 mm)",
+                    "DIMENSIONS / Height": "45.6 in (1158 mm)",
+                    "DIMENSIONS / Front/rear Track": "67.9/64.2 in (1,725/1,631 mm)",
+                    "DIMENSIONS / Wheelbase": "106.7 in (2710 mm)",
+                    "DIMENSIONS / Ground Clearance": "3.5 in (89 mm)",
+                    "DIMENSIONS / Cargo Volume": "1.3 cuFT (37 L)",
+                    "DIMENSIONS / Aerodynamics (Cd)": "0.36",
+                    "WEIGHT SPECS / Unladen Weight": "4044 lbs (1834 kg)",
+                    "FUEL ECONOMY (NEDC) / City": "7 mpg US (33.6 L/100Km)",
+                    "FUEL ECONOMY (NEDC) / Highway": "15 mpg US (15.7 L/100Km)",
+                    "FUEL ECONOMY (NEDC) / Combined": "10 mpg US (23.5 L/100Km)",
+                    "FUEL ECONOMY (NEDC) / CO2 Emissions": "539 g/km"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Veyron (2009)",
+              "yearStart": 2009,
+              "yearEnd": 2015,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "8.0L W16 7AT (1001 HP)",
+                  "fuelType": "Gasoline",
+                  "cylinders": 16,
+                  "displacementCc": 7993,
+                  "powerHp": 1001,
+                  "torqueNm": 1250,
+                  "transmission": "7-speed automatic (DSG)",
+                  "drivetrain": "All Wheel Drive",
+                  "zeroToHundredKmhS": 2.7,
+                  "topSpeedKmh": 407,
+                  "fuelEconomyCombinedL100": 26.1,
+                  "lengthMm": 4463,
+                  "widthMm": 1999,
+                  "heightMm": 1158,
+                  "wheelbaseMm": 2710,
+                  "curbWeightKg": 1888,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "W16",
+                    "ENGINE SPECS / Displacement": "7993 cm3 (488 ci)",
+                    "ENGINE SPECS / Power": "736 KW @ 6000 RPM1001 HP @ 6000 RPM987 BHP @ 6000 RPM",
+                    "ENGINE SPECS / Torque": "922 lb-ft @ 2200 RPM1250 Nm @ 2200 RPM",
+                    "ENGINE SPECS / Fuel System": "Direct Injection",
+                    "ENGINE SPECS / Fuel": "Gasoline",
+                    "ENGINE SPECS / Fuel capacity": "26.4 gallons (99.9 L)",
+                    "PERFORMANCE SPECS / Top Speed": "253 mph (407 km/h)",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "2.7 s",
+                    "TRANSMISSION SPECS / Drive Type": "All Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "7-speed automatic (DSG)",
+                    "BRAKES SPECS / Front": "Ventilated Discs",
+                    "BRAKES SPECS / Rear": "Ventilated Discs",
+                    "TIRES SPECS / Tire Size": "265-680 ZR 500A || 365-710 ZR 540A",
+                    "DIMENSIONS / Length": "175.7 in (4463 mm)",
+                    "DIMENSIONS / Width": "78.7 in (1999 mm)",
+                    "DIMENSIONS / Height": "45.6 in (1158 mm)",
+                    "DIMENSIONS / Front/rear Track": "67.5/63.7 in (1,715/1,618 mm)",
+                    "DIMENSIONS / Wheelbase": "106.7 in (2710 mm)",
+                    "DIMENSIONS / Ground Clearance": "3.5 in (89 mm)",
+                    "DIMENSIONS / Cargo Volume": "1.3 cuFT (37 L)",
+                    "DIMENSIONS / Aerodynamics (Cd)": "0.39",
+                    "WEIGHT SPECS / Unladen Weight": "4162 lbs (1888 kg)",
+                    "WEIGHT SPECS / Gross Weight Limit": "5027 lbs (2280 kg)",
+                    "FUEL ECONOMY (NEDC) / City": "6 mpg US (39.2 L/100Km)",
+                    "FUEL ECONOMY (NEDC) / Highway": "15 mpg US (15.7 L/100Km)",
+                    "FUEL ECONOMY (NEDC) / Combined": "9 mpg US (26.1 L/100Km)",
+                    "FUEL ECONOMY (NEDC) / CO2 Emissions": "574 g/km"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Veyron (2005)",
+              "yearStart": 2005,
+              "yearEnd": 2011,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "8.0L W16 7AT AWD (1001 HP)",
+                  "fuelType": "Gasoline",
+                  "cylinders": 16,
+                  "displacementCc": 7993,
+                  "powerHp": 1001,
+                  "torqueNm": 1250,
+                  "transmission": "7-speed automatic Sequential",
+                  "drivetrain": "All Wheel Drive",
+                  "zeroToHundredKmhS": 3.2,
+                  "topSpeedKmh": 407,
+                  "fuelEconomyCombinedL100": 24.2,
+                  "lengthMm": 4463,
+                  "widthMm": 1999,
+                  "heightMm": 1204,
+                  "wheelbaseMm": 2710,
+                  "curbWeightKg": 1888,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "W16",
+                    "ENGINE SPECS / Displacement": "7993 cm3 (488 ci)",
+                    "ENGINE SPECS / Power": "736 KW @ 6000 RPM1001 HP @ 6000 RPM987 BHP @ 6000 RPM",
+                    "ENGINE SPECS / Torque": "922 lb-ft @ 2200 RPM1250 Nm @ 2200 RPM",
+                    "ENGINE SPECS / Fuel System": "Electronic Injection",
+                    "ENGINE SPECS / Fuel": "Gasoline",
+                    "ENGINE SPECS / Fuel capacity": "26.4 gallons (99.9 L)",
+                    "PERFORMANCE SPECS / Top Speed": "253 mph (407 km/h)",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "3.2 s",
+                    "TRANSMISSION SPECS / Drive Type": "All Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "7-speed automatic Sequential",
+                    "BRAKES SPECS / Front": "Ventilated Discs",
+                    "BRAKES SPECS / Rear": "Ventilated Discs",
+                    "TIRES SPECS / Tire Size": "265-680 R 500 A 99Y // 365-710 ZR 540 A 108Y",
+                    "DIMENSIONS / Length": "175.7 in (4463 mm)",
+                    "DIMENSIONS / Width": "78.7 in (1999 mm)",
+                    "DIMENSIONS / Height": "47.4 in (1204 mm)",
+                    "DIMENSIONS / Front/rear Track": "67.8/64.3 in (1,722/1,633 mm)",
+                    "DIMENSIONS / Wheelbase": "106.7 in (2710 mm)",
+                    "DIMENSIONS / Ground Clearance": "3.9 in (99 mm)",
+                    "DIMENSIONS / Aerodynamics (Cd)": "0.35",
+                    "WEIGHT SPECS / Unladen Weight": "4162 lbs (1888 kg)",
+                    "WEIGHT SPECS / Gross Weight Limit": "4850 lbs (2200 kg)",
+                    "FUEL ECONOMY (NEDC) / City": "5.8 mpg US (40.6 L/100Km)",
+                    "FUEL ECONOMY (NEDC) / Highway": "16 mpg US (14.7 L/100Km)",
+                    "FUEL ECONOMY (NEDC) / Combined": "9.7 mpg US (24.2 L/100Km)",
+                    "FUEL ECONOMY (NEDC) / CO2 Emissions": "574 g/km"
+                  }
+                }
+              ]
+            }
+          ]
         }
       ]
     }

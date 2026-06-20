@@ -5169,3 +5169,1145 @@ bristol,Bristol,Fighter,Fighter (2006),2006,2011,,8.0L V10 6MT RWD (1026 HP),Gas
 bristol,Bristol,Fighter,Fighter (2002),2002,2011,,8.0L V10 6MT RWD (532 HP),Gasoline,10,7994,532,712,6-speed manual,Rear Wheel Drive,4.2,338,14,4420,1796,1346,2751,1540
 bristol,Bristol,Fighter,Fighter (2002),2002,2011,,8.0L V10 6MT RWD (636 HP),Gasoline,10,7994,636,800,6-speed manual,Rear Wheel Drive,3.7,386,14,4420,1796,1346,2751,1540
 bristol,Bristol,Series 6,Series 6 (2010),2010,2011,,5.9L V8 4AT (390 HP),Gasoline,8,5898,390,530,4-speed automatic,Rear Wheel Drive,6.1,249,17,4940,1727,1461,2896,1810
+bufori,Bufori,CS8,CS8 (2025),2025,,,3.6L V6 8AT RWD (324 HP),Gasoline,6,3604,324,352,8-speed automatic,Rear Wheel Drive,5.8,249,,4567,2029,1293,2609,
+bufori,Bufori,CS8,CS8 (2025),2025,,,6.4L Supercharged V8 8AT RWD (821 HP),Gasoline,8,6417,821.2,973,8-speed automatic,Rear Wheel Drive,3,330,,4567,2029,1293,2609,1550
+bufori,Bufori,CS8,CS8 (2025),2025,,,6.4L V8 8AT RWD (482 HP),Gasoline,8,6417,481.6,640,8-speed automatic,Rear Wheel Drive,4.1,280,,4567,2029,1293,2609,
+bufori,Bufori,Geneva,Geneva (2010),2010,,,6.4i V8 5AT RWD (477 HP),Gasoline,8,6424,477,630,5 speed automatic Sequential Shift Transmission,Rear Wheel Drive,5.4,280,,5471,1910,1519,3571,2450
+bufori,Bufori,La Joya,La Joya (2004),2004,,,2.7L V6 4MT RWD (173 HP),Gasoline,6,2656,173,245,4-manual speed,Rear Wheel Drive,7.8,200,9.1,4331,1806,1364,,1604
+bugatti,Bugatti,Bolide,Bolide (2022),2022,,,8.0L W16 7AT AWD (1850 HP),Gasoline,16,7993,1850,1850,7-speed automatic DSG,All Wheel Drive,2.17,,,4755,1999,996,2751,1240
+bugatti,Bugatti,Centodieci,Centodieci (2019),2019,2022,,8.0L W16 7AT (1600 HP),Gasoline,16,,1600,,7-automatic speed dual clutch,Rear Wheel Drive,2.4,380,,,,,,
+bugatti,Bugatti,Chiron,Chiron (2020),2020,,,8.0L W16 7AT (1600 HP),Gasoline,16,7993,1600,1600,7-speed automatic (DSG),All Wheel Drive,2.3,420,,4544,2037,1212,2710,
+bugatti,Bugatti,Chiron,Chiron (2020),2020,,,8.0L W16 7AT AWD (1500 HP),Gasoline,16,7993,1500,1600,7-speed automatic,All Wheel Drive,2.4,349,22.4,4544,2037,1212,2710,1995
+bugatti,Bugatti,Chiron,Chiron (2018),2018,2024,,8.0L W16 7AT (1500 HP),Gasoline,16,7993,1500,1600,7-speed automatic (DSG),All Wheel Drive,2.3,420,10.5,4544,2037,1212,2710,1996
+bugatti,Bugatti,Chiron,Chiron (2016),2016,2022,,"8.0 W16 (1,500 HP)",Gasoline,16,7993,1500,1600,7-speed automatic (DSG),All Wheel Drive,2.3,420,22.4,4544,2037,1212,2710,1995
+bugatti,Bugatti,Divo,Divo (2018),2018,2021,,8.0L W16 AWD (1500 HP),Gasoline,16,7993,1500,1600,7-speed automatic (DSG),All Wheel Drive,2.3,380,,4544,2037,1212,2710,1961
+bugatti,Bugatti,EB 110,EB 110 (1992),1992,1995,,3.5L 6MT (600 HP),Gasoline,12,3498,600,637,6-Speed manual,All Wheel Drive,3.3,349,,4399,1941,1125,2550,1418
+bugatti,Bugatti,EB 110,EB 110 (1991),1991,1995,,3.5L V12 6MT AWD (560 HP),Gasoline,12,3500,560,611,6-Speed manual,All Wheel Drive,3.6,343,9,4399,1941,1125,2550,1618
+bugatti,Bugatti,La Voiture Noire,La Voiture Noire (2019),2019,2019,,8.0L (1500 HP),Gasoline,,,1500,1600,,,,420,,,,,,
+bugatti,Bugatti,Mistral,Mistral (2022),2022,,,8.0L W16 (1600 HP),,16,,1600,1600,,,,420,,,,,,
+bugatti,Bugatti,Tourbillon,Tourbillon (2024),2024,,,8.3L V16 8AT AWD (1800 HP),Plug-in Hybrid,16,8300,1000,900,8-speed automatic,All Wheel Drive,2,446,,4671,2050,1189,2741,1995
+bugatti,Bugatti,Veyron,Veyron (2012),2012,2015,,8.0L W16 7AT (1200 HP),Gasoline,16,7993,1201,1500,7-speed automatic,All Wheel Drive,2.6,410,23.1,4463,1999,1191,2710,1990
+bugatti,Bugatti,Veyron,Veyron (2010),2010,2011,,8.0L W16 7AT (1201 HP),Gasoline,16,7993,1201,1500,7-speed automatic (DSG),All Wheel Drive,2.5,415,23.5,4463,1999,1158,2710,1834
+bugatti,Bugatti,Veyron,Veyron (2009),2009,2015,,8.0L W16 7AT (1001 HP),Gasoline,16,7993,1001,1250,7-speed automatic (DSG),All Wheel Drive,2.7,407,26.1,4463,1999,1158,2710,1888
+bugatti,Bugatti,Veyron,Veyron (2005),2005,2011,,8.0L W16 7AT AWD (1001 HP),Gasoline,16,7993,1001,1250,7-speed automatic Sequential,All Wheel Drive,3.2,407,24.2,4463,1999,1204,2710,1888
+buick,Buick,Cascada,Cascada (2016),2016,2019,,1.6L Ecotec 6AT FWD (200 HP),Gasoline,4,1598,203,281,6-speed automatic,Front Wheel Drive,,,,4696,1839,1443,2695,1633
+buick,Buick,Century,Century (1996),1996,2005,,3.1L V6 4AT (160 HP),Gasoline,6,3136,162.2,251,4-speed automatic,Front Wheel Drive,,,10.2,4950,1847,1438,2769,1526
+buick,Buick,Century,Century (1996),1996,2005,,3.1L V6 4AT (175 HP),Gasoline,6,3136,177.4,264,4-speed automatic,Front Wheel Drive,,195,9.7,4950,1847,1438,2769,1529
+buick,Buick,Century,Century (1989),1989,1996,,2.5L 3AT FWD (110 HP),Gasoline,4,2471,111,183,3-speed automatic,Front Wheel Drive,,,11.5,4801,1763,1364,2664,1301
+buick,Buick,Century,Century (1989),1989,1996,,3.3L V6 3AT FWD (160 HP),Gasoline,6,3340,162,251,3-speed automatic,Front Wheel Drive,,,12.3,4801,1763,1364,2664,1339
+buick,Buick,Century,Century (1989),1989,1996,,3.3L V6 4AT FWD (160 HP),Gasoline,6,3340,162,251,4-speed automatic,Front Wheel Drive,,193,11.8,4801,1763,1364,2664,1266
+buick,Buick,Century,Century (1939),1939,1942,,5.2L 3MT (143 HP),Gasoline,8,5231,143,,3-speed manual,Rear Wheel Drive,,,,5169,1829,,3188,1780
+buick,Buick,Enclave,Enclave (2024),2024,,,2.5L Turbo 8AT AWD (333 HP),Gasoline,4,,333,442,8-speed automatic,All Wheel Drive,,,,,,,,
+buick,Buick,Enclave,Enclave (2024),2024,,,2.5L Turbo 8AT FWD (333 HP),Gasoline,4,,333,442,8-speed automatic,Front Wheel Drive,,,,,,,,
+buick,Buick,Enclave,Enclave (2021),2021,2024,,3.6L V6 9AT (310 HP),Gasoline,6,,310,,,,,,,,,,,
+buick,Buick,Enclave,Enclave (2017),2017,2021,,3.6L V6 9AT FWD (301 HP),Gasoline,6,3649,305,353,9-speed automatic,Front Wheel Drive,,,11.8,,,,,
+buick,Buick,Enclave,Enclave (2017),2017,2021,,3.6L V6 AWD 9AT (301 HP),Gasoline,6,3649,305,353,9-speed automatic,Front Wheel Drive,,,12.4,,,,,
+buick,Buick,Enclave,Enclave (2012),2012,2017,,3.6L V6 6AT AWD (292 HP),Gasoline,6,3556,262,366,6-speed automatic,Front Wheel Drive,,,13.1,5128,2007,1786,3020,2233
+buick,Buick,Enclave,Enclave (2012),2012,2017,,3.6L V6 6AT FWD (292 HP),Gasoline,6,3556,262,366,6-speed automatic,Front Wheel Drive,,,12.4,5128,2007,1786,3020,2143
+buick,Buick,Enclave,Enclave (2007),2007,2012,,3.6L V6 6AT (275 HP),Gasoline,6,3564,275,340,6-Speed automatic,Front Wheel Drive,,,,5126,2007,1847,3020,2168
+buick,Buick,Enclave,Enclave (2007),2007,2012,,3.6L V6 6AT (288 HP),Gasoline,6,3564,288,366,"Automatic, 6 Speed",Front Wheel Drive,,,,5126,2007,1847,3020,2108
+buick,Buick,Enclave,Enclave (2007),2007,2012,,3.6L V6 6AT AWD (275 HP),Gasoline,6,3564,275,340,6-speed automatic,All Wheel Drive,,,,5126,2007,1847,3020,2261
+buick,Buick,Enclave,Enclave (2007),2007,2012,,3.6L V6 6AT AWD (288 HP),Gasoline,6,3564,288,366,6-speed automatic,All Wheel Drive,,,,5126,2007,1847,3020,2233
+buick,Buick,Encore,Encore (2023),2023,,,1.2L Ecotec CVT FWD (139 HP),Gasoline,3,,139,219,CVT,Front Wheel Drive,,,,4354,1814,1628,2596,1372
+buick,Buick,Encore,Encore (2023),2023,,,1.3L Ecotec 9AT AWD (157 HP),Gasoline,3,,157,236,9-speed automatic,All Wheel Drive,,,,4354,1814,1628,2596,1477
+buick,Buick,Encore,Encore (2023),2023,,,1.3L Ecotec CVT FWD (157 HP),Gasoline,3,,157,236,CVT,Front Wheel Drive,,,,4354,1814,1628,2596,1396
+buick,Buick,Encore,Encore (2019),2019,2023,,1.2L ECOTEC CVT FWD (137 HP),Gasoline,4,,137,219,CVT,Front Wheel Drive,,,,4354,1814,1628,2596,1372
+buick,Buick,Encore,Encore (2019),2019,2023,,1.3L ECOTEC 9AT AWD (155 HP),Gasoline,4,,155,236,9-speed automatic,All Wheel Drive,,,,4354,1814,1628,2596,1477
+buick,Buick,Encore,Encore (2019),2019,2023,,1.3L ECOTEC 9AT FWD (155 HP),Gasoline,4,,155,236,9-speed automatic,Front Wheel Drive,,,,4354,1814,1628,2596,1396
+buick,Buick,Encore,Encore (2016),2016,2019,,1.4L 6AT AWD (140 HP),Gasoline,4,1364,140,200,6-speed automatic,All Wheel Drive,,,8.7,4277,1775,1656,2555,1523
+buick,Buick,Encore,Encore (2016),2016,2019,,1.4L 6AT FWD (140 HP),Gasoline,4,1364,140,200,6-speed automatic,Front Wheel Drive,,,8.4,4277,1775,1656,2555,1468
+buick,Buick,Encore,Encore (2016),2016,2019,,1.4L 6AT Start&Stop AWD (155 HP),Gasoline,4,1399,155,239,6-speed automatic,Front Wheel Drive,,,6.9,4277,1775,1656,2555,1468
+buick,Buick,Encore,Encore (2016),2016,2019,,1.4L 6AT Start&Stop AWD (155 HP),Gasoline,4,1399,155,239,6-speed automatic,All Wheel Drive,,,8.4,4277,1775,1656,2555,1523
+buick,Buick,Encore,Encore (2013),2013,2016,,1.4L Turbo AWD 6AT (138 HP),Gasoline,4,1364,137,201,6-speed automatic,All Wheel Drive,10.5,185,9,4277,1773,1646,2555,1501
+buick,Buick,Encore,Encore (2013),2013,2016,,1.4L Turbo FWD 6AT (138 HP),Gasoline,4,1364,137,201,6-speed automatic,Front Wheel Drive,10.7,187,8.4,4277,1773,1646,2555,1447
+buick,Buick,Envision,Envision (2023),2023,,,2.0L Turbo ECOTEC 9AT AWD (228 HP),Gasoline,4,1998,228,350,9-speed automatic,All Wheel Drive,,,,4641,1882,1641,2779,
+buick,Buick,Envision,Envision (2020),2020,2023,,2.0L Turbo ECOTEC 9AT AWD (234 HP),Gasoline,4,1998,234,350,9-speed automatic,All Wheel Drive,,,,4636,1882,1641,2779,
+buick,Buick,Envision,Envision (2020),2020,2023,,2.0L Turbo ECOTEC 9AT FWD (234 HP),Gasoline,4,1998,234.2,350,9-speed automatic,Front Wheel Drive,,,,4636,1882,1641,2779,
+buick,Buick,Envision,Envision (2020),2020,2023,,Plus 552T MHEV 9AT FWD (214 HP),Mild Hybrid,4,,213.9,270,9-speed automatic HYDRA-MATIC,Front Wheel Drive,8.6,204,,4636,1882,1641,2779,1760
+buick,Buick,Envision,Envision (2020),2020,2023,,Plus 652T MHEV 9AT AWD (240 HP),Mild Hybrid,4,1998,240.3,350,9-speed automatic HYDRA-MATIC,All Wheel Drive,8.4,209,7.6,4636,1882,1641,2779,1890
+buick,Buick,Envision,Envision (2020),2020,2023,,Plus 652T MHEV 9AT FWD (240 HP),Mild Hybrid,4,1998,240,350,9-speed automatic HYDRA-MATIC,Front Wheel Drive,8.1,209,7.4,4636,1882,1641,2779,1805
+buick,Buick,Envision,Envision (2018),2018,2020,,2.0L 9AT AWD (252 HP),Gasoline,4,,252,400,9-speed automatic,All Wheel Drive,,,10.6,4666,1839,1661,2751,1852
+buick,Buick,Envision,Envision (2018),2018,2020,,2.0T 7AT AWD (169 HP),Gasoline,4,1490,169,250,7-speed automatic DSG,All Wheel Drive,10.9,185,7.4,4666,1839,1661,2751,1685
+buick,Buick,Envision,Envision (2018),2018,2020,,2.0T 7AT FWD (169 HP),Gasoline,4,1490,169,250,7-speed automatic DSG,Front Wheel Drive,10.3,190,6.6,4666,1839,1661,2751,
+buick,Buick,Envision,Envision (2018),2018,2020,,2.0T 9AT AWD (260 HP),Gasoline,4,1998,260,400,9-speed automatic,All Wheel Drive,8.2,209,8.6,4666,1839,1697,2751,1782
+buick,Buick,Envision,Envision (2018),2018,2020,,2.5L 6AT AWD (197 HP),Gasoline,4,,197,260,6-speed automatic,All Wheel Drive,,,9.8,4666,1839,1697,2751,1782
+buick,Buick,Envision,Envision (2018),2018,2020,,2.5L 6AT FWD (197 HP),Gasoline,4,,197,260,6-speed automatic,Front Wheel Drive,,,9.4,4666,1839,1697,2751,1703
+buick,Buick,Envision,Envision (2014),2014,2018,,2.0 6AT AWD (252 HP),Gasoline,4,1998,255.5,353,6-speed automatic,All Wheel Drive,,,10.7,4666,1839,1697,2751,1852
+buick,Buick,Envision,Envision (2014),2014,2018,,2.5 6AT AWD (197 HP),Gasoline,4,2457,199.7,260,6-speed automatic,All Wheel Drive,,,9.8,4666,1839,1697,2751,1782
+buick,Buick,Envision,Envision (2014),2014,2018,,2.5 6AT FWD (197 HP),Gasoline,4,2457,199.7,260,6-speed automatic,Front Wheel Drive,,,9.4,4666,1839,1697,2751,1703
+buick,Buick,Envista,Envista (2023),2023,,,1.2L VVT Turbo 6AT FWD (138 HP),Gasoline,3,,138,220,6-speed automatic,Front Wheel Drive,,,,4638,1816,1557,2700,
+buick,Buick,Gran Sport,Gran Sport (1970),1970,1971,,7.5L V8 4MT RWD (355 HP),Gasoline,8,7466,355,691,4-speed manual,Rear Wheel Drive,6,179,,5131,1963,1346,2845,1768
+buick,Buick,LaCrosse,LaCrosse (2017),2017,2019,,3.6 V6 9AT (310 HP),Gasoline,6,3556,314.3,363,9-speed automatic,All Wheel Drive,,,,5017,1867,1461,2906,1742
+buick,Buick,LaCrosse,LaCrosse (2016),2016,2019,,3.6L V6 8AT AWD (305 HP),Gasoline,6,3649,309.2,363,8-speed automatic,All Wheel Drive,,,,,,,,
+buick,Buick,LaCrosse,LaCrosse (2009),2009,2016,,2.4L Ecotec 6AT FWD (185 HP),Gasoline,4,2384,185,233,6-speed automatic (Hydra-Matic),Front Wheel Drive,,,8.6,5004,1857,1496,2837,1700
+buick,Buick,LaCrosse,LaCrosse (2009),2009,2016,,3.0L V6 6AT FWD (258 HP),Gasoline,6,2994,258,286,6-speed automatic,Front Wheel Drive,7.7,220,9.8,5004,1857,1496,2837,1791
+buick,Buick,LaCrosse,LaCrosse (2009),2009,2016,,3.6L V6 6AT FWD (284 HP),Gasoline,6,3564,284,354,6-speed automatic,Front Wheel Drive,7.1,240,10.2,5004,1857,1496,2837,1884
+buick,Buick,LaCrosse,LaCrosse (2009),2009,2016,,3.6L V6 6AT FWD (303 HP),Gasoline,6,3564,307,358,6-speed automatic,Front Wheel Drive,6.6,249,11.2,5004,1857,1496,2837,1826
+buick,Buick,LaCrosse,LaCrosse (2009),2009,2016,,3.6L V6 AWD 6AT (303 HP),Gasoline,6,3564,307,358,6-speed automatic,All Wheel Drive,6.8,240,11.8,5004,1857,1496,2837,1903
+buick,Buick,LaCrosse,LaCrosse (2009),2009,2016,,2.4L 6AT FWD (197 HP),Hybrid,4,2384,200,279,6-speed automatic (Hydra-Matic),Front Wheel Drive,8.2,225,8.1,5004,1857,1496,2837,1705
+buick,Buick,LaCrosse,LaCrosse (2004),2004,2009,,3.6L 4AT FWD (243 HP),Gasoline,6,3564,243,305,4-Speed automatic,Front Wheel Drive,,,10.7,5032,1854,1458,2807,1585
+buick,Buick,LaCrosse,LaCrosse (2004),2004,2009,,3.8L 4AT FWD (203 HP),Gasoline,6,3791,203,312,4-Speed automatic,Front Wheel Drive,,,10.2,5032,1854,1458,2807,1585
+buick,Buick,LaCrosse,LaCrosse (2004),2004,2009,,5.3i V8 16V 4AT FWD (300 HP),Gasoline,8,5327,300,438,4-Speed automatic,Front Wheel Drive,,,,5032,1854,1458,2807,
+buick,Buick,LeSabre,LeSabre (1999),1999,2005,,3.8L V6 4AT (208 HP),Gasoline,6,3791,208,312,4-Speed automatic,Front Wheel Drive,,200,9.8,5080,1867,1448,2850,1621
+buick,Buick,LeSabre,LeSabre (1991),1991,1999,,3.8L V6 4AT (173 HP),Gasoline,6,3791,173,305,4-Speed automatic,Front Wheel Drive,,,,5080,1867,1415,2814,1564
+buick,Buick,Lucerne,Lucerne (2005),2005,2011,,3.8L V6 4AT FWD (200 HP),Gasoline,6,3791,200,308,4-Speed automatic,Front Wheel Drive,,180,9.3,5161,1875,1473,2936,1707
+buick,Buick,Lucerne,Lucerne (2005),2005,2011,,3.9L V6 4AT FWD (227 HP),Gasoline,6,3880,230,321,4-Speed automatic,Front Wheel Drive,,,10,5161,1875,1473,2936,1820
+buick,Buick,Lucerne,Lucerne (2005),2005,2011,,4.6L V8 4AT FWD (209 HP),Gasoline,8,4565,279,407,4-Speed automatic,Front Wheel Drive,,,10,5161,1875,1473,2936,1820
+buick,Buick,Park Avenue,Park Avenue (1997),1997,2005,,3.8L Supercharged V6 4AT FWD (243 HP),Gasoline,6,3791,243,380,4-Speed automatic,Front Wheel Drive,,220,11.1,5253,1897,1458,2891,1713
+buick,Buick,Park Avenue,Park Avenue (1997),1997,2005,,3.8L V6 4AT FWD (208 HP),Gasoline,6,3791,208,312,4-Speed automatic,Front Wheel Drive,9.5,200,9.8,5253,1897,1458,2891,1602
+buick,Buick,Park Avenue,Park Avenue (1991),1991,1996,,3.8L V6 4AT FWD (208 HP),Gasoline,6,3791,208,260,4-speed automatic,Front Wheel Drive,,,,5215,1869,1400,2812,1650
+buick,Buick,Rainier,Rainier (2003),2003,2007,,4.2L 4AT RWD (279 HP),Gasoline,6,4160,279,373,4-Speed automatic,Rear Wheel Drive,8.2,175,13.1,4912,1915,1826,2870,2011
+buick,Buick,Rainier,Rainier (2003),2003,2007,,5.3L 4AT AWD (305 HP),Gasoline,8,5328,305,447,4-Speed automatic,All Wheel Drive,,177,,4912,1915,1826,2870,2015
+buick,Buick,Rainier,Rainier (2003),2003,2007,,5.3L 4AT RWD (305 HP),Gasoline,8,5328,305,447,4-Speed automatic,Rear Wheel Drive,,180,13.8,4912,1915,1826,2870,2015
+buick,Buick,Reatta,Reatta (1988),1988,1991,,3.8,Gasoline,6,3791,167,285,"Automatic, 4 Speed",Front Wheel Drive,,201,,4666,1854,1300,2502,1532
+buick,Buick,Regal,Regal (2017),2017,2019,,3.6L V6 9AT AWD (310 HP),Gasoline,6,3556,314,353,9-speed automatic,All Wheel Drive,,,,4900,1862,1455,2830,1937
+buick,Buick,Regal,Regal (2013),2013,2017,,2.4L ECOTEC 6AT (182 HP),Gasoline,4,2384,182,232,6-speed automatic,Front Wheel Drive,7.1,,9.8,4831,1857,1483,2738,1636
+buick,Buick,Regal,Regal (2012),2012,2013,,2.0L 6AT (270 HP),Gasoline,4,1998,273,400,6-speed automatic,Front Wheel Drive,6.5,261,,4831,1811,1481,2738,1683
+buick,Buick,Regal,Regal (2010),2010,2013,,2.0L Turbo 6AT FWD (223 HP),Gasoline,4,1998,223,350,6-speed automatic,Front Wheel Drive,7.4,235,9.8,4831,1857,1483,2738,1633
+buick,Buick,Regal,Regal (2010),2010,2013,,2.0L Turbo 6AT FWD (259 HP),Gasoline,4,1998,262,400,6-speed automatic,Front Wheel Drive,7.4,235,9.8,4831,1857,1483,2738,1633
+buick,Buick,Regal,Regal (2010),2010,2013,,2.0L Turbo 6MT FWD (223 HP),Gasoline,4,1998,223,350,6-speed manual,Front Wheel Drive,,235,9.8,4831,1857,1483,2738,1665
+buick,Buick,Regal,Regal (2010),2010,2013,,2.4L 6AT FWD (185 HP),Gasoline,4,2384,182,233,6-speed automatic,Front Wheel Drive,8.3,225,10.2,4831,1857,1483,2738,1633
+buick,Buick,Regal,Regal (2010),2010,2013,,1.6L LPG 6MT FWD (112 HP),,4,1598,112,147,6-speed manual,Front Wheel Drive,13.5,192,7.6,4831,1857,1483,2738,1503
+buick,Buick,Regal,Regal (2010),2010,2013,,2.4L eAssist Start & Stop 6AT FWD (185 HP),Mild Hybrid,4,2384,182,233,6-speed automatic,Front Wheel Drive,8.3,225,8,4831,1857,1483,2738,1633
+buick,Buick,Regal,Regal (1997),1997,2004,,3.8,Gasoline,6,3791,203,310,"Automatic, 4 Speed",Front Wheel Drive,,195,9.8,4983,1847,1438,2769,1558
+buick,Buick,Regal,Regal (1997),1997,2004,,3.8 Supercharged,Gasoline,6,3781,243,380,"Automatic, 4 Speed",Front Wheel Drive,,220,10.7,4983,1847,1438,2769,1592
+buick,Buick,Regal,Regal (1988),1988,1996,,3.1,Gasoline,6,3128,137,244,"Automatic, 4 Speed",Front Wheel Drive,,190,,4940,1801,1346,2731,1435
+buick,Buick,Regal,Regal (1988),1988,1996,,3.8,Gasoline,6,3791,172,298,"Automatic, 4 Speed",Front Wheel Drive,,200,,4940,1801,1346,2731,1460
+buick,Buick,Regal,Regal Sportback (2017),2017,2020,,2.0L VVT 8AT AWD (250 HP),Gasoline,4,,250,400,8-speed automatic,All Wheel Drive,,,,4900,1862,1455,2830,1855
+buick,Buick,Regal,Regal Sportback (2017),2017,2020,,2.0L VVT 9AT FWD (250 HP),Gasoline,4,,250,400,9-speed automatic,Front Wheel Drive,,,,4900,1862,1455,2830,1770
+buick,Buick,Regal,Regal Sportback (2017),2017,2020,,3.6L V6 8AT AWD (310 HP),Gasoline,6,,310,353,8-speed automatic,All Wheel Drive,,,,4900,1862,1455,2830,
+buick,Buick,Rendezvous,Rendezvous (2002),2002,2007,,3.4L V6 4AT FWD (208 HP),Gasoline,6,3350,188,285,4-Speed automatic,Front Wheel Drive,9.9,180,10.6,4737,1872,1750,2850,1811
+buick,Buick,Rendezvous,Rendezvous (2002),2002,2007,,3.5L 4AT AWD (198 HP),Gasoline,6,3564,198,289,4-Speed automatic,All Wheel Drive,11.4,172,10.7,4737,1872,1750,2850,1930
+buick,Buick,Rendezvous,Rendezvous (2002),2002,2007,,3.6L 4AT AWD (247 HP),Gasoline,6,3564,246,315,4-Speed automatic,All Wheel Drive,11.4,172,10.7,4737,1872,1750,2850,1930
+buick,Buick,Riviera,Riviera (1986),1986,1993,,3.8,Gasoline,6,3791,172,298,"Automatic, 3 Speed",Front Wheel Drive,,193,,5037,1857,1344,2743,1585
+buick,Buick,Riviera,Riviera (1963),1963,1965,,6.6L V8 3AT RWD (329 HP),Gasoline,8,6555,329,603,3-speed automatic,Rear Wheel Drive,,,,5283,1938,1346,2972,1901
+buick,Buick,Skylark,Skylark (1991),1991,1997,,3.3,Gasoline,6,3344,160,,"Automatic, 3 Speed",Front Wheel Drive,,,,4785,1732,1359,2626,
+buick,Buick,Skylark,Skylark (1953),1953,1954,,5.3L V8 3AT (200 HP),Gasoline,8,5277,200,,3-Speed automatic,Rear Wheel Drive,,170,,,,,,
+buick,Buick,Terraza,Terraza (2005),2005,2007,,3.5L V6 4AT AWD (203 HP),Gasoline,6,3498,203,298,4-speed automatic,All Wheel Drive,11,180,,5207,1829,1829,3076,2028
+buick,Buick,Terraza,Terraza (2005),2005,2007,,3.5L V6 4AT FWD (203 HP),Gasoline,6,3498,203,298,4-speed automatic,Front Wheel Drive,11,180,,5207,1829,1829,3076,2028
+buick,Buick,Terraza,Terraza (2005),2005,2007,,3.9L V6 4AT FWD (237 HP),Gasoline,6,3880,237,324,4-speed automatic,Front Wheel Drive,,175,,5207,1829,1829,3076,2110
+buick,Buick,Verano,Verano (2012),2012,2017,,2.0L Turbo 6AT FWD (250 HP),Gasoline,4,1998,254,353,6 speed automatic,Front Wheel Drive,6.4,190,,4671,1814,1483,2685,1500
+buick,Buick,Verano,Verano (2012),2012,2017,,2.0L Turbo 6MT FWD (250 HP),Gasoline,4,1998,254,353,six speed manual,Front Wheel Drive,6.4,190,,4671,1814,1483,2685,1500
+buick,Buick,Verano,Verano (2012),2012,2017,,2.4L EcoTec FWD (182 HP),Gasoline,4,2384,182,232,6-speed automatic,Front Wheel Drive,8.9,190,,4671,1814,1483,2685,1500
+byd,BYD,ATTO 2,ATTO 2 (2025),2025,,,45.12 KWh FWD (177 HP),Electric,,,177,,1-speed automatic,Front Wheel Drive,7.9,,,4310,1829,1674,2619,1570
+byd,BYD,ATTO 2,ATTO 2 (2025),2025,,,51.1 KWh FWD (177 HP),Electric,,,177,,1-speed automatic,Front Wheel Drive,7.9,159,,4310,1829,1674,2619,1590
+byd,BYD,ATTO 2,ATTO 2 (2025),2025,,,64.8 KWh FWD (204 HP),Electric,,,204,,1-speed automatic,Front Wheel Drive,7.9,159,,4310,1829,1674,2619,1680
+byd,BYD,ATTO 2,ATTO 2 (2025),2025,,,DM-i 1.5L 18 kWh PHEV FWD (212 HP),Plug-in Hybrid,4,1498,98,,e-CVT,Front Wheel Drive,7.5,180,5.1,4310,1829,1674,2619,1620
+byd,BYD,ATTO 2,ATTO 2 (2025),2025,,,DM-i 1.5L 7.8 kWh PHEV FWD (166 HP),Plug-in Hybrid,4,1498,98,,e-CVT,Front Wheel Drive,9.1,180,5.1,4310,1829,1674,2619,1510
+byd,BYD,ATTO 3,ATTO 3 (2025),2025,,,74.8 KWh AWD (449 HP),Electric,,,449,,1-speed automatic,All Wheel Drive,3.9,200,,4455,1875,1615,2720,1990
+byd,BYD,ATTO 3,ATTO 3 (2025),2025,,,74.8 KWh RWD (313 HP),Electric,,,313,,1-speed automatic,Rear Wheel Drive,5.5,180,,4455,1875,1615,2720,1880
+byd,BYD,ATTO 3,ATTO 3 (2022),2022,2025,,Extended Range 60.48 kWh FWD (204 HP),Electric,,,204,,1-speed automatic,Front Wheel Drive,7.3,,,4455,1875,1615,2720,1750
+byd,BYD,ATTO 3,ATTO 3 (2022),2022,2025,,Standard Range 49.92 kWh FWD (204 HP),Electric,,,204,,1-speed automatic,Front Wheel Drive,7.3,,,4455,1875,1615,2720,1680
+byd,BYD,DOLPHIN,DOLPHIN (2025),2025,,,30 KWh FWD (88 HP),Electric,,,88,,1-speed automatic,Front Wheel Drive,11.1,150,,3990,1720,1590,2499,1294
+byd,BYD,DOLPHIN,DOLPHIN (2025),2025,,,43.2 KWh FWD (156 HP),Electric,,,156,,1-speed automatic,Front Wheel Drive,9.1,150,,3990,1720,1590,2499,1390
+byd,BYD,DOLPHIN,DOLPHIN (2025),2025,,,43.2 KWh FWD (88 HP),Electric,,,88,,1-speed automatic,Front Wheel Drive,12.1,150,,3990,1720,1590,2499,1370
+byd,BYD,Sealion 7,Sealion 7 (2024),2024,,,82.5 KWh AWD (530 HP),Electric,,,530,,1-speed automatic,All Wheel Drive,4.5,216,,4831,1925,1621,2931,2340
+byd,BYD,Sealion 7,Sealion 7 (2024),2024,,,82.5 KWh RWD (313 HP),Electric,,,313,,1-speed automatic,Rear Wheel Drive,6.7,216,,4831,1925,1621,2931,2225
+byd,BYD,Sealion 7,Sealion 7 (2024),2024,,,91.3 KWh AWD (530 HP),Electric,,,530,,1-speed automatic,All Wheel Drive,4.5,216,,4831,1925,1621,2931,2435
+cadillac,Cadillac,Allante,Allante (1987),1987,1993,,4.1L V8 4AT FWD (170 HP),Gasoline,8,4087,172,319,4-speed automatic,Front Wheel Drive,10.2,200,12.4,4536,1864,1321,2525,1584
+cadillac,Cadillac,Allante,Allante (1987),1987,1993,,4.5L V8 4AT FWD (200 HP),Gasoline,8,4467,203,366,4-speed automatic,Front Wheel Drive,8.9,216,13.1,4536,1864,1321,2525,1584
+cadillac,Cadillac,Allante,Allante (1987),1987,1993,,4.6L V8 4AT FWD (295 HP),Gasoline,8,4565,299,393,4-speed automatic,Front Wheel Drive,7.2,249,13.8,4536,1864,1321,2525,1702
+cadillac,Cadillac,ATS,ATS (2012),2012,2019,,2.0L Turbo AWD 6AT (276 HP),Gasoline,4,1998,276,353,6 speed automatic,All Wheel Drive,5.9,,,4643,1420,1806,2776,1607
+cadillac,Cadillac,ATS,ATS (2012),2012,2019,,2.0L Turbo RWD 6AT (276 HP),Gasoline,4,1998,276,353,6 speed automatic,Rear Wheel Drive,5.9,,,4643,1420,1806,2776,1542
+cadillac,Cadillac,ATS,ATS (2012),2012,2019,,2.0L Turbo RWD 6MT (276 HP),Gasoline,4,1998,276,353,6 speed manual,Rear Wheel Drive,,,,4643,1420,1806,2776,1543
+cadillac,Cadillac,ATS,ATS (2012),2012,2019,,2.5L 6AT RWD (205 HP),Gasoline,4,2457,205,259,6 speed automatic,Rear Wheel Drive,,,,4643,1420,1806,2776,1542
+cadillac,Cadillac,ATS,ATS (2012),2012,2019,,3.6L V6 AWD 6AT (325 HP),Gasoline,6,3564,325,373,6 speed automatic,All Wheel Drive,5.6,,,4643,1420,1806,2776,1646
+cadillac,Cadillac,ATS,ATS (2012),2012,2019,,3.6L V6 RWD 6AT (325 HP),Gasoline,6,3564,325,373,6 speed automatic,Rear Wheel Drive,5.6,,,4643,1420,1806,2776,1570
+cadillac,Cadillac,ATS,ATS Coupe (2014),2014,2019,,2.0L Turbo 6MT AWD (276 HP),Gasoline,4,1998,276,400,6-Speed manual,All Wheel Drive,5.5,264,,4663,1842,1392,2776,1550
+cadillac,Cadillac,ATS,ATS Coupe (2014),2014,2019,,2.0L Turbo 6MT RWD (276 HP),Gasoline,4,1998,276,400,6-Speed manual,Rear Wheel Drive,5.5,266,8.9,4663,1842,1392,2776,1550
+cadillac,Cadillac,ATS,ATS Coupe (2014),2014,2019,,3.6L V6 6AT AWD (325 HP),Gasoline,6,3564,325,373,6-speed automatic,All Wheel Drive,5.6,274,10.7,4663,1842,1392,2776,1550
+cadillac,Cadillac,ATS,ATS Coupe (2014),2014,2019,,3.6L V6 6AT RWD (325 HP),Gasoline,6,3564,325,373,6-speed automatic,Rear Wheel Drive,5.4,277,10.7,4663,1842,1392,2776,1550
+cadillac,Cadillac,ATS-V,ATS-V (2015),2015,2019,,3.6L V6 6MT RWD (464 HP),Gasoline,6,3564,470,602,6-speed manual,Rear Wheel Drive,4,,,4674,1811,1415,2776,1706
+cadillac,Cadillac,ATS-V,ATS-V (2015),2015,2019,,3.6L V6 8AT RWD (464 HP),Gasoline,6,3564,470,602,8-speed automatic,Rear Wheel Drive,4.2,,,4674,1811,1415,2776,3860
+cadillac,Cadillac,ATS-V,ATS-V Coupe (2015),2015,2019,,3.6L V6 6MT RWD (464 HP),Gasoline,6,3564,470,602,6-speed manual,Rear Wheel Drive,3.9,,,4691,1842,1384,2776,1633
+cadillac,Cadillac,ATS-V,ATS-V Coupe (2015),2015,2019,,3.6L V6 8AT RWD (464 HP),Gasoline,6,3564,470,602,8-speed automatic,Rear Wheel Drive,4.2,,,4691,1842,1384,2776,1678
+cadillac,Cadillac,BLS,BLS (2006),2006,2010,,2.0L Turbo 5AT FWD (175 HP),Gasoline,4,1998,175,359,5-speed automatic,Front Wheel Drive,9.7,220,9,4681,1750,1471,2680,1480
+cadillac,Cadillac,BLS,BLS (2006),2006,2010,,2.0L Turbo 5MT FWD (175 HP),Gasoline,4,1998,175,359,5-speed manual,Front Wheel Drive,8.7,220,8.1,4681,1750,1471,2680,1460
+cadillac,Cadillac,BLS,BLS (2006),2006,2010,,2.0L Turbo 6AT AWD (210 HP),Gasoline,4,1998,209,300,6-speed automatic,All Wheel Drive,9.6,225,9.9,4681,1750,1471,2680,1620
+cadillac,Cadillac,BLS,BLS (2006),2006,2010,,2.0L Turbo 6AT FWD (210 HP),Gasoline,4,1998,209,300,6-speed automatic,Front Wheel Drive,8.8,230,9.1,4681,1750,1471,2680,1505
+cadillac,Cadillac,BLS,BLS (2006),2006,2010,,2.0L Turbo 6MT AWD (210 HP),Gasoline,4,1998,209,300,6-speed manual,All Wheel Drive,8.3,235,8.5,4681,1750,1471,2680,1595
+cadillac,Cadillac,BLS,BLS (2006),2006,2010,,2.0L Turbo 6MT FWD (210 HP),Gasoline,4,1998,209,300,6-speed manual,Front Wheel Drive,7.9,235,8.5,4681,1750,1471,2680,1485
+cadillac,Cadillac,BLS,BLS (2006),2006,2010,,2.8L V6 6AT AWD (280 HP),Gasoline,6,2792,280,400,6-speed automatic,All Wheel Drive,7.3,249,11.6,4681,1750,1471,2680,1685
+cadillac,Cadillac,BLS,BLS (2006),2006,2010,,2.8L V6 6AT FWD (255 HP),Gasoline,6,2792,256,365,6-speed automatic,Front Wheel Drive,7.5,245,10.8,4681,1750,1471,2680,1585
+cadillac,Cadillac,BLS,BLS (2006),2006,2010,,2.8L V6 6MT FWD (255 HP),Gasoline,6,2792,256,365,6-speed manual,Front Wheel Drive,6.9,250,10.2,4681,1750,1471,2680,1560
+cadillac,Cadillac,BLS,BLS (2006),2006,2010,,1.9L D 6AT FWD (150 HP),Diesel,4,1910,150,320,6-speed automatic,Front Wheel Drive,11,209,7.2,4681,1750,1471,2680,1535
+cadillac,Cadillac,BLS,BLS (2006),2006,2010,,1.9L D 6AT FWD (180 HP),Diesel,4,1910,180,400,6-speed automatic,Front Wheel Drive,9.4,216,6.8,4681,1750,1471,2680,1570
+cadillac,Cadillac,BLS,BLS (2006),2006,2010,,1.9L D 6MT FWD (150 HP),Diesel,4,1910,150,320,6-speed manual,Front Wheel Drive,9.8,210,6.1,4681,1750,1471,2680,1510
+cadillac,Cadillac,BLS,BLS (2006),2006,2010,,1.9L D 6MT FWD (180 HP),Diesel,4,1910,180,400,6-speed manual,Front Wheel Drive,8.7,220,5.7,4681,1750,1471,2680,1545
+cadillac,Cadillac,BLS,BLS Wagon (2007),2007,2010,,2.0L Turbo 5AT FWD (210 HP),Gasoline,4,1998,210,300,5-speed automatic,Front Wheel Drive,8.6,216,9.1,4681,1750,1471,2680,1565
+cadillac,Cadillac,BLS,BLS Wagon (2007),2007,2010,,2.0L Turbo 6AT AWD (210 HP),Gasoline,4,1998,210,300,6-speed automatic,All Wheel Drive,9.8,220,10.1,4681,1750,1471,2680,1655
+cadillac,Cadillac,BLS,BLS Wagon (2007),2007,2010,,2.0L Turbo 6AT FWD (175 HP),Gasoline,4,1998,175,359,5-speed automatic,Front Wheel Drive,10,211,9.3,4681,1750,1471,2680,1540
+cadillac,Cadillac,BLS,BLS Wagon (2007),2007,2010,,2.0L Turbo 6MT AWD (210 HP),Gasoline,4,1998,210,300,6-speed manual,All Wheel Drive,8.5,230,8.6,4681,1750,1471,2680,1630
+cadillac,Cadillac,BLS,BLS Wagon (2007),2007,2010,,2.0L Turbo 6MT FWD (175 HP),Gasoline,4,1998,175,359,6-speed manual,Front Wheel Drive,8.8,220,8.1,4681,1750,1471,2680,1460
+cadillac,Cadillac,BLS,BLS Wagon (2007),2007,2010,,2.0L Turbo 6MT FWD (210 HP),Gasoline,4,1998,210,300,6-speed manual,Front Wheel Drive,7.8,220,8.5,4681,1750,1471,2680,1540
+cadillac,Cadillac,BLS,BLS Wagon (2007),2007,2010,,2.8L V6 6AT AWD (255 HP),Gasoline,6,2792,255,365,6-speed automatic,Front Wheel Drive,8,240,11.4,4681,1750,1471,2680,1635
+cadillac,Cadillac,BLS,BLS Wagon (2007),2007,2010,,2.8L V6 6AT AWD (280 HP),Gasoline,6,2792,280,400,6-speed automatic,Front Wheel Drive,7.5,249,11.7,4681,1750,1471,2680,1740
+cadillac,Cadillac,BLS,BLS Wagon (2007),2007,2010,,2.8L V6 6MT AWD (255 HP),Gasoline,6,2792,255,365,6-speed manual,Front Wheel Drive,7.4,240,10.6,4681,1750,1471,2680,1610
+cadillac,Cadillac,BLS,BLS Wagon (2007),2007,2010,,1.9D 6AT FWD (150 HP),Diesel,4,1910,150,320,6-speed automatic,Front Wheel Drive,11.5,195,6.7,4681,1750,1471,2680,1585
+cadillac,Cadillac,BLS,BLS Wagon (2007),2007,2010,,1.9D 6AT FWD (180 HP),Diesel,4,1910,179,400,6-speed automatic,Front Wheel Drive,9.3,216,6.9,4681,1750,1471,2680,1625
+cadillac,Cadillac,BLS,BLS Wagon (2007),2007,2010,,1.9D 6MT FWD (150 HP),Diesel,4,1910,150,320,6-speed manual,Front Wheel Drive,10.4,210,6.1,4681,1750,1471,2680,1510
+cadillac,Cadillac,BLS,BLS Wagon (2007),2007,2010,,1.9D 6MT FWD (180 HP),Diesel,4,1910,179,400,6-speed manual,Front Wheel Drive,8.7,220,5.9,4681,1750,1471,2680,1485
+cadillac,Cadillac,BLS,BLS Wagon (2007),2007,2010,,2.0L Turbo 5AT FWD (200 HP),Ethanol,4,1998,200,300,5-speed automatic,Front Wheel Drive,9.2,220,12.1,4681,1750,1471,2680,1540
+cadillac,Cadillac,BLS,BLS Wagon (2007),2007,2010,,2.0L Turbo 6MT FWD (200 HP),Ethanol,4,1998,200,300,6-speed manual,Front Wheel Drive,8.1,235,10.8,4681,1750,1471,2680,1485
+cadillac,Cadillac,Brougham,Brougham (1992),1992,1996,,5.7,Gasoline,8,5733,188,407,"Automatic, 4 Speed",Rear Wheel Drive,,,,5613,1943,1458,3086,1940
+cadillac,Cadillac,Catera,Catera (1997),1997,2001,,3.0L V6 (200 HP) 4AT,Gasoline,6,2962,203,260,"4 Speed, automatic",Rear Wheel Drive,8.9,201,11.2,4923,1786,1458,2728,1710
+cadillac,Cadillac,Celestiq,Celestiq (2023),2023,,,111 KWh AWD (600 HP),Electric,,,600,,,All Wheel Drive,3.9,,,,,,,
+cadillac,Cadillac,CT4,CT4 (2019),2019,,,2.0L Turbo 8AT AWD (240 HP),Gasoline,4,,240,350,8-speed automatic,All Wheel Drive,,,8.7,4755,1816,1422,2776,
+cadillac,Cadillac,CT4,CT4 (2019),2019,,,2.0L Turbo 8AT RWD (240 HP),Gasoline,4,,240.3,350,8-speed automatic,Rear Wheel Drive,,,8.7,4755,1816,1422,2776,1570
+cadillac,Cadillac,CT4,CT4 (2019),2019,,,2.7L Turbo 8AT AWD (313 HP),Gasoline,4,,313,472,8-speed automatic,All Wheel Drive,,,,4755,1816,1422,2776,
+cadillac,Cadillac,CT4,CT4 (2019),2019,,,2.7L Turbo 8AT RWD (313 HP),Gasoline,4,,313.3,472,8-speed automatic,Rear Wheel Drive,,,,4755,1816,1422,2776,
+cadillac,Cadillac,CT4-V,CT4-V (2021),2021,,,3.6L V6 10AT (472 HP),Gasoline,6,,472,603,10-speed automatic,Rear Wheel Drive,3.9,304,,,,,,
+cadillac,Cadillac,CT4-V,CT4-V (2019),2019,,,2.7L 10AT (320 HP),Gasoline,4,,320,500,10-automatic speed,Rear Wheel Drive,,,,4755,1974,1422,2776,1640
+cadillac,Cadillac,CT5,CT5 (2023),2023,,,2.0L Turbo 10AT AWD (240 HP),Gasoline,4,,240,350,10-speed automatic,All Wheel Drive,,,,4928,1882,1453,2946,
+cadillac,Cadillac,CT5,CT5 (2023),2023,,,2.0L Turbo 10AT RWD (240 HP),Gasoline,4,,240,350,10-speed automatic,Rear Wheel Drive,,,,4928,1882,1453,2946,1665
+cadillac,Cadillac,CT5,CT5 (2023),2023,,,3.0L Turbo V6 10AT AWD (340 HP),Gasoline,6,,340,550,10-speed automatic,All Wheel Drive,,,,4928,1882,1453,2946,
+cadillac,Cadillac,CT5,CT5 (2023),2023,,,3.0L Turbo V6 10AT RWD (340 HP),Gasoline,6,,340,550,10-speed automatic,Rear Wheel Drive,,,,4928,1882,1453,2946,
+cadillac,Cadillac,CT5,CT5 (2019),2019,2023,,2.0L 10AT RWD (237 HP),Gasoline,4,1998,237,350,10-Speed automatic,Rear Wheel Drive,,,,4925,1882,1453,2946,1660
+cadillac,Cadillac,CT5,CT5 (2019),2019,2023,,3.0L V6 10AT RWD (335 HP),Gasoline,6,,335,542,10-Speed automatic,Rear Wheel Drive,,,,4925,1882,1453,2946,1660
+cadillac,Cadillac,CT5-V,CT5-V (2024),2024,,,3.0L V6 10AT AWD (365 HP),Gasoline,6,2990,365,550,10-speed automatic,All Wheel Drive,,,,4945,1882,1453,2946,1906
+cadillac,Cadillac,CT5-V,CT5-V (2024),2024,,,3.0L V6 10AT RWD (365 HP),Gasoline,6,2990,365,550,10-speed automatic,Rear Wheel Drive,,,,4945,1882,1453,2946,1843
+cadillac,Cadillac,CT5-V,CT5-V (2024),2024,,,6.2L V8 10AT RWD (668 HP),Gasoline,8,6162,668,893,10-speed automatic,Rear Wheel Drive,,,,4976,1882,1438,2946,1939
+cadillac,Cadillac,CT5-V,CT5-V (2024),2024,,,6.2L V8 6MT RWD (668 HP),Gasoline,8,6162,668,893,6-manual speed,Rear Wheel Drive,,,,4976,1882,1438,2946,1951
+cadillac,Cadillac,CT5-V,CT5-V (2021),2021,2024,,6.2L Supercharged V8 10AT (668 HP),Gasoline,8,,668,893,10-speed automatic,Rear Wheel Drive,3.8,322,,,,,,
+cadillac,Cadillac,CT5-V,CT5-V (2019),2019,2024,,3.0L V6 10 AT (355 HP),Gasoline,6,,355,542,10-automatic speed,Rear Wheel Drive,,,,4925,2040,1453,2946,
+cadillac,Cadillac,CT6,CT6 (2018),2018,2020,,4.2L V8 10AT (550 HP),Gasoline,,,550,,10-Sped automatic,,,,,5182,1880,1473,3109,
+cadillac,Cadillac,CT6,CT6 (2016),2016,2023,,2.0L 8AT RWD (269 HP),Gasoline,4,1998,269,400,8-speed automatic,Rear Wheel Drive,,,9.4,5182,1880,1473,3106,1659
+cadillac,Cadillac,CT6,CT6 (2016),2016,2023,,3.0L V6 8AT AWD (409 HP),Gasoline,6,2990,409,542,8-speed automatic,All Wheel Drive,,,11.2,5182,1880,1473,3106,1853
+cadillac,Cadillac,CT6,CT6 (2016),2016,2023,,3.6L V6 8AT AWD (340 HP),Gasoline,6,3654,340,385,8-speed automatic,All Wheel Drive,,,11.2,5182,1880,1473,3106,1781
+cadillac,Cadillac,CT6,CT6 (2016),2016,2023,,2.0T LTG EVT RWD (340 HP),Hybrid Gasoline,4,1998,276,400,automatic transmission EVT,Rear Wheel Drive,,,9.4,5182,1880,1473,3106,2000
+cadillac,Cadillac,CTS,CTS (2013),2013,2019,,2.0L Turbo 6AT AWD (276 HP),Gasoline,4,1998,276,400,6 speed automatic,All Wheel Drive,,,,4966,1834,1466,2911,1640
+cadillac,Cadillac,CTS,CTS (2013),2013,2019,,2.0L Turbo 6AT RWD (276 HP),Gasoline,4,1998,276,400,6 speed automatic,Rear Wheel Drive,,,,4966,1834,1466,2911,1640
+cadillac,Cadillac,CTS,CTS (2013),2013,2019,,3.6L V6 6AT AWD (321 HP),Gasoline,6,3564,239,373,6 speed automatic,All Wheel Drive,,,,4966,1834,1466,2911,1640
+cadillac,Cadillac,CTS,CTS (2013),2013,2019,,3.6L V6 6AT RWD (321 HP),Gasoline,6,3564,239,373,6 speed automatic,Rear Wheel Drive,,,,4966,1834,1466,2911,1640
+cadillac,Cadillac,CTS,CTS (2013),2013,2019,,3.6L V6 Twin-Turbo 8AT RWD (426 HP),Gasoline,6,3564,426,583,8 speed automatic,Rear Wheel Drive,,,,4966,1834,1466,2911,
+cadillac,Cadillac,CTS,CTS (2007),2007,2013,,2.8L V6 6AT RWD (211 HP),Gasoline,6,2792,213,263,6-speed automatic,Rear Wheel Drive,9,204,,4867,1575,1473,2880,1775
+cadillac,Cadillac,CTS,CTS (2007),2007,2013,,2.8L V6 6MT RWD (211 HP),Gasoline,6,2792,213,263,6-speed manual,Rear Wheel Drive,8.3,225,10.2,4867,1575,1473,2880,1592
+cadillac,Cadillac,CTS,CTS (2007),2007,2013,,3.0L V6 6MT RWD (270 HP),Gasoline,6,2997,273,298,6-speed manual,Rear Wheel Drive,,,9.8,4867,1575,1473,2880,1748
+cadillac,Cadillac,CTS,CTS (2007),2007,2013,,3.6L V6 6AT AWD (311 HP),Gasoline,6,3564,311,374,6-speed automatic,All Wheel Drive,6.7,241,11.2,4867,1575,1473,2880,1882
+cadillac,Cadillac,CTS,CTS (2007),2007,2013,,3.6L V6 6AT RWD (311 HP),Gasoline,6,3564,311,374,6-speed automatic,Rear Wheel Drive,6.3,241,11.1,4867,1575,1473,2880,1798
+cadillac,Cadillac,CTS,CTS (2007),2007,2013,,3.6L V6 6MT RWD (261 HP),Gasoline,6,3564,261,342,6-speed manual,Rear Wheel Drive,,,11.2,4867,1575,1473,2880,1592
+cadillac,Cadillac,CTS,CTS (2007),2007,2013,,3.6L V6 6MT RWD (304 HP),Gasoline,6,3564,305,342,6-speed manual,Rear Wheel Drive,,250,11.2,4867,1575,1473,2880,1592
+cadillac,Cadillac,CTS,CTS (2007),2007,2013,,3.6L V6 6MT RWD (311 HP),Gasoline,6,3564,311,374,6-speed manual,Rear Wheel Drive,6.3,249,12,4867,1575,1473,2880,1788
+cadillac,Cadillac,CTS,CTS (2002),2002,2007,,2.6L V6 5AT RWD (178 HP),Gasoline,6,2597,181,232,5-speed automatic,Rear Wheel Drive,9.7,206,10.7,4829,1796,1440,2880,1725
+cadillac,Cadillac,CTS,CTS (2002),2002,2007,,2.6L V6 5MT RWD (178 HP),Gasoline,6,2597,181,232,5-speed manual,Rear Wheel Drive,9.3,224,10.3,4829,1796,1440,2880,1715
+cadillac,Cadillac,CTS,CTS (2002),2002,2007,,2.8L V6 5AT RWD (212 HP),Gasoline,6,2792,215,262,5-speed automatic,Rear Wheel Drive,8.4,225,11.7,4829,1796,1440,2880,1683
+cadillac,Cadillac,CTS,CTS (2002),2002,2007,,2.8L V6 5MT RWD (212 HP),Gasoline,6,2792,215,262,5-speed manual,Rear Wheel Drive,8.2,226,11.9,4829,1796,1440,2880,1705
+cadillac,Cadillac,CTS,CTS (2002),2002,2007,,3.2L V6 5AT RWD (215 HP),Gasoline,6,3175,218,296,5-speed automatic,Rear Wheel Drive,7.7,230,11.7,4829,1796,1440,2880,1728
+cadillac,Cadillac,CTS,CTS (2002),2002,2007,,3.2L V6 5MT RWD (215 HP),Gasoline,6,3175,218,296,5-speed manual,Rear Wheel Drive,7.4,238,11,4829,1796,1440,2880,1714
+cadillac,Cadillac,CTS,CTS (2002),2002,2007,,3.6L V6 5AT RWD (253 HP),Gasoline,6,3564,257,340,5-speed automatic,Rear Wheel Drive,7,233,11.6,4829,1796,1440,2880,1697
+cadillac,Cadillac,CTS,CTS (2002),2002,2007,,3.6L V6 5MT RWD (253 HP),Gasoline,6,3564,257,340,5-speed manual,Rear Wheel Drive,7,241,11.4,4829,1796,1440,2880,1706
+cadillac,Cadillac,CTS,CTS Coupe (2011),2011,2014,,3.6L V6 AWD 6AT (322 HP),Gasoline,6,3564,322,373,6-speed automatic,All Wheel Drive,7.3,,11.2,4788,1882,1422,2880,1858
+cadillac,Cadillac,CTS,CTS Coupe (2011),2011,2014,,3.6L V6 RWD 6AT (322 HP),Gasoline,6,3564,322,373,6-speed automatic,Rear Wheel Drive,7.3,233,11.2,4788,1882,1422,2880,1768
+cadillac,Cadillac,CTS Sport,CTS Sport Wagon (2009),2009,2014,,3.0L V6 6AT RWD (276 HP),Gasoline,6,2994,276,302,6-speed automatic,Rear Wheel Drive,8.2,225,10.8,4877,1842,1473,2880,1930
+cadillac,Cadillac,CTS Sport,CTS Sport Wagon (2009),2009,2014,,3.6L V6 6AT AWD (322 HP),Gasoline,6,3564,322,372,6-speed automatic,All Wheel Drive,6.7,225,10.6,4877,1842,1473,2880,2040
+cadillac,Cadillac,CTS Sport,CTS Sport Wagon (2009),2009,2014,,3.6L V6 6AT RWD (322 HP),Gasoline,6,3564,322,372,6-speed automatic,Rear Wheel Drive,6.3,241,10.4,4877,1842,1473,2880,1930
+cadillac,Cadillac,CTS V-Series,CTS V-Series (2015),2015,2019,,6.2 V8 8AT (640 HP),Gasoline,8,6162,649,854,8-speed automatic,Rear Wheel Drive,3.8,322,,5019,1834,1453,2911,1880
+cadillac,Cadillac,CTS V-Series,CTS V-Series (2008),2008,2015,,6.2L V8 6AT RWD (550 HP),Gasoline,8,6162,550,745,6-speed automatic,Rear Wheel Drive,4.2,282,14.7,4867,1842,1473,2880,1942
+cadillac,Cadillac,CTS V-Series,CTS V-Series (2008),2008,2015,,6.2L V8 6MT RWD (550 HP),Gasoline,8,6162,550,745,6-speed manual,Rear Wheel Drive,4.2,307,15.3,4867,1842,1473,2880,1928
+cadillac,Cadillac,CTS V-Series,CTS V-Series (2003),2003,2007,,5.7L V8 6MT (400 HP),Gasoline,8,5665,405,533,6-speed manual,Rear Wheel Drive,4.6,262,13.2,4864,1793,1453,2880,1745
+cadillac,Cadillac,CTS-V,CTS-V Coupe (2012),2012,2015,,6.2L SC V8 6AT RWD (564 HP),Gasoline,8,6162,564,747,6-speed automatic,Rear Wheel Drive,3.9,303,16.8,4788,1882,1422,2880,1930
+cadillac,Cadillac,CTS-V,CTS-V Coupe (2012),2012,2015,,6.2L SC V8 6MT RWD (564 HP),Gasoline,8,6162,564,747,6-speed manual,Rear Wheel Drive,3.9,303,14.7,4788,1882,1422,2880,1913
+cadillac,Cadillac,CTS-V Sport,CTS-V Sport Wagon (2010),2010,2014,,6.2L SC V8 RWD 6AT (564 HP),Gasoline,8,6162,564,747,6-speed automatic,Rear Wheel Drive,4,303,16.8,4877,1842,1473,2880,2007
+cadillac,Cadillac,CTS-V Sport,CTS-V Sport Wagon (2010),2010,2014,,6.2L SC V8 RWD 6MT (564 HP),Gasoline,8,6162,564,747,6-speed manual,Rear Wheel Drive,4,303,14.7,4877,1842,1473,2880,1994
+cadillac,Cadillac,DeVille,DeVille (1999),1999,2005,,4.6L V8 4AT (279 HP),Gasoline,8,4565,279,407,4-speed automatic,Front Wheel Drive,8,180,11,5258,1890,1440,2929,1822
+cadillac,Cadillac,DeVille,DeVille (1999),1999,2005,,4.6L V8 4AT (294 HP),Gasoline,8,4565,294,400,4-speed automatic,Front Wheel Drive,7.3,210,11,5258,1890,1440,2929,1821
+cadillac,Cadillac,DeVille,DeVille (1994),1994,1999,,4.6,Gasoline,8,4565,304,400,"Automatic, 4 Speed",Front Wheel Drive,6.9,,,5329,1943,1422,2891,1843
+cadillac,Cadillac,DTS,DTS (2008),2008,2011,,4.6L V8 4AT FWD (279 HP),Gasoline,8,4565,279,390,4-speed automatic,Front Wheel Drive,7.1,180,12.7,5273,1900,1463,2936,1818
+cadillac,Cadillac,DTS,DTS (2008),2008,2011,,4.6L V8 4AT FWD (295 HP),Gasoline,8,4565,295,388,4-speed automatic,Front Wheel Drive,6.9,209,11.3,5273,1900,1463,2936,1840
+cadillac,Cadillac,DTS,DTS (2005),2005,2007,,4.6L V8 4AT (275 HP),Gasoline,8,4565,278.8,400,4-speed automatic,Front Wheel Drive,8.3,180,11.8,5273,1900,1463,2936,1818
+cadillac,Cadillac,DTS,DTS (2005),2005,2007,,4.6L V8 4AT (292 HP),Gasoline,8,4565,296,390,4-speed automatic,Front Wheel Drive,7.8,209,11.8,5273,1900,1463,2936,1818
+cadillac,Cadillac,Eldorado,Eldorado (1991),1991,2003,,4.6L 4AT FWD (279 HP),Gasoline,8,4565,279,407,4-Speed automatic,Front Wheel Drive,7.4,,9.8,5095,1918,1361,2743,1730
+cadillac,Cadillac,Eldorado,Eldorado (1991),1991,2003,,4.6L 4AT FWD (304 HP),Gasoline,8,4565,304,393,4-Speed automatic,Front Wheel Drive,7.4,,9.8,5095,1918,1361,2743,1730
+cadillac,Cadillac,Eldorado,Eldorado (1991),1991,2003,,4.6L 4AT FWD (305 HP),Gasoline,8,4565,305,400,4-Speed automatic,Front Wheel Drive,7.5,241,9.8,5095,1918,1361,2743,1735
+cadillac,Cadillac,Eldorado,Eldorado (1971),1971,1978,,8.2,Gasoline,8,8189,370,725,"Automatic, 3 Speed",Front Wheel Drive,,193,,5372,2032,1359,3208,2850
+cadillac,Cadillac,Eldorado,Eldorado (1967),1967,1970,,7.7,Gasoline,8,7725,380,712,"Automatic, 3 Speed",Front Wheel Drive,,206,,5613,2007,1349,3048,2130
+cadillac,Cadillac,Eldorado,Eldorado (1959),1959,1966,,6.4L V8 3AT (350 HP),Gasoline,8,6382,350,590,3-speed automatic,Rear Wheel Drive,,185,,5715,2040,1382,3302,2295
+cadillac,Cadillac,Eldorado,Eldorado (1957),1957,1959,,6.0L V8 3AT (330 HP),Gasoline,8,5873,330,542,3-speed automatic,Rear Wheel Drive,,,,5494,1989,1410,3200,
+cadillac,Cadillac,ELR,ELR (2014),2014,2016,,1.4L CVT (207 HP),Hybrid,4,1398,86,400,CVT,Front Wheel Drive,6.8,209,7.1,4724,1847,1420,2695,1837
+cadillac,Cadillac,Escalade,Escalade (2024),2024,,,6.2L V8 10AT AWD (426 HP),Gasoline,8,6162,425.8,623,10-speed automatic Hydra-Matic,All Wheel Drive,,,,5382,2159,1938,3071,2728
+cadillac,Cadillac,Escalade,Escalade (2024),2024,,,6.2L V8 10AT RWD (426 HP),Gasoline,8,6162,426,623,10-speed automatic Hydra-Matic,Rear Wheel Drive,,,,5382,2159,1938,3071,2634
+cadillac,Cadillac,Escalade,Escalade (2024),2024,,,6.2L V8 Supercharged 10AT AWD (682 HP),Gasoline,8,6162,682,885,10-speed automatic Hydra-Matic,All Wheel Drive,4.5,,,5410,2159,1938,3071,2885
+cadillac,Cadillac,Escalade,Escalade (2023),2023,,,200 KWh (680 HP),Electric,,,680,,,All Wheel Drive,,,,5697,2167,1933,3459,
+cadillac,Cadillac,Escalade,Escalade (2022),2022,2024,,6.2L V8 10AT AWD (682 HP),Gasoline,8,6162,682,885,10-speed automatic,All Wheel Drive,,,,5382,2060,1948,3071,2820
+cadillac,Cadillac,Escalade,Escalade (2020),2020,2024,,6.2L V8 10AT AWD (420 HP),Gasoline,8,6162,420,624,10-Speed automatic,All Wheel Drive,,,,5382,2060,1984,32070,
+cadillac,Cadillac,Escalade,Escalade (2020),2020,2024,,6.2L V8 10AT RWD (420 HP),Gasoline,8,6162,420,624,10-Speed automatic,Rear Wheel Drive,,,,5382,2060,1984,32070,
+cadillac,Cadillac,Escalade,Escalade (2020),2020,2024,,3.0L DOHC I-6 10AT AWD (277 HP),Diesel,6,,277,623,10-Speed automatic,All Wheel Drive,,,,5359,2057,1946,3071,
+cadillac,Cadillac,Escalade,Escalade (2020),2020,2024,,3.0L DOHC I-6 10AT RWD (277 HP),Diesel,6,,277,623,10-Speed automatic,Rear Wheel Drive,,,,5359,2057,1946,3071,
+cadillac,Cadillac,Escalade,Escalade (2014),2014,2020,,6.2L V8 2WD 8AT (426 HP),Gasoline,8,6200,426,624,8-speed automatic,Rear Wheel Drive,,,,5179,2045,1890,2946,2537
+cadillac,Cadillac,Escalade,Escalade (2014),2014,2020,,6.2L V8 4WD 8AT (426 HP),Gasoline,8,6200,426,624,8-speed automatic,All Wheel Drive,,,13.8,5179,2045,1890,2946,2649
+cadillac,Cadillac,Escalade,Escalade (2014),2014,2020,,6.2L V8 EcoTec3 FlexFuel 2WD 6AT (426 HP),Gasoline,8,6200,426,624,Hydra-Matic 6L80 6-speed automatic,Rear Wheel Drive,,,,5179,2045,1890,2946,2541
+cadillac,Cadillac,Escalade,Escalade (2014),2014,2020,,6.2L V8 EcoTec3 FlexFuel 4WD 6AT (426 HP),Gasoline,8,6200,426,624,Hydra-Matic 6L80 6-speed automatic,All Wheel Drive,,,,5179,2045,1890,2946,2651
+cadillac,Cadillac,Escalade,Escalade (2006),2006,2013,,6.2L 6AT (409 HP),Gasoline,8,6199,409,565,6-Speed automatic,All Wheel Drive,,,,5144,2007,1887,2946,2645
+cadillac,Cadillac,Escalade,Escalade (2000),2000,2006,,5.3L 4AT RWD (299 HP),Gasoline,8,5328,299,454,4-Speed automatic,Rear Wheel Drive,9.5,177,14.7,5052,2004,1885,2946,2422
+cadillac,Cadillac,Escalade,Escalade (2000),2000,2006,,6.0L 4AT RWD (350 HP),Gasoline,8,5967,349,515,4-Speed automatic,Rear Wheel Drive,8.6,174,15.7,5052,2004,1885,2946,2428
+cadillac,Cadillac,Escalade ESV,Escalade ESV (2020),2020,2024,,6.2L V8 10AT AWD (420 HP),Gasoline,8,6162,420,623,10-speed automatic,All Wheel Drive,,,,5766,2060,1943,3406,
+cadillac,Cadillac,Escalade ESV,Escalade ESV (2020),2020,2024,,6.2L V8 10AT RWD (420 HP),Gasoline,8,6162,420,623,10-speed automatic,Rear Wheel Drive,,,,5766,2060,1943,3406,
+cadillac,Cadillac,Escalade ESV,Escalade ESV (2020),2020,2024,,3.0L DOHC I-6 10AT AWD (277 HP),Diesel,6,,277,623,10-speed automatic,All Wheel Drive,,,,5766,2060,1943,3406,
+cadillac,Cadillac,Escalade ESV,Escalade ESV (2020),2020,2024,,3.0L DOHC I-6 10AT RWD (277 HP),Diesel,6,,277,623,10-speed automatic,Rear Wheel Drive,,,,5766,2060,1943,3406,
+cadillac,Cadillac,Escalade ESV,Escalade ESV (2014),2014,2020,,6.2L V8 EcoTec3 FlexFuel 6AT RWD (426 HP),Gasoline,8,6200,426,624,Hydra-Matic 6L80 8-speed automatic,Rear Wheel Drive,6.9,180,13.1,5697,2045,1880,3302,2629
+cadillac,Cadillac,Escalade ESV,Escalade ESV (2014),2014,2020,,6.2L V8 EcoTec3 FlexFuel AWD 6AT (426 HP),Gasoline,8,6200,426,624,Hydra-Matic 6L80 6-speed automatic,All Wheel Drive,,,,5697,2045,1880,3302,2740
+cadillac,Cadillac,Escalade ESV,Escalade ESV (2006),2006,2013,,6.2,Gasoline,8,6199,409,565,"Automatic, 6 Speed",All Wheel Drive,7.2,,,5659,2009,1915,3302,2696
+cadillac,Cadillac,Escalade ESV,Escalade ESV (2002),2002,2006,,6.0 4AT (350 HP),Gasoline,8,5967,350,515,4-Speed automatic,All Wheel Drive,8.4,171,15.7,5570,2019,1923,3302,2634
+cadillac,Cadillac,Escalade EXT,Escalade EXT (2006),2006,2013,,6.2L V8 6AT (409 HP),Gasoline,8,6199,409,565,6-speed automatic,All Wheel Drive,,172,,5639,2009,1892,3302,2619
+cadillac,Cadillac,Escalade EXT,Escalade EXT (2001),2001,2006,,6.0,Gasoline,8,5967,350,515,"Automatic, 4 Speed",All Wheel Drive,,,15.7,5624,2019,1920,3302,2637
+cadillac,Cadillac,Escalade IQL,Escalade IQL (2025),2025,,,Dual Motor AWD 205 KWh (750 HP),Electric,,,750,,1-speed automatic,All Wheel Drive,4.9,,,5804,2167,1933,3459,
+cadillac,Cadillac,Lyriq,Lyriq (2022),2022,,,102 KWh (347 HP),Electric,,,347,,,Rear Wheel Drive,,,,4996,2207,1623,3904,2545
+cadillac,Cadillac,Lyriq,Lyriq (2022),2022,,,102 KWh (507 HP),Electric,,,507,,,All Wheel Drive,,,,4996,2207,1623,3904,2545
+cadillac,Cadillac,Lyriq-V,Lyriq-V (2025),2025,,,Dual Motor 102 KWh AWD (615 HP),Electric,,,615,,1-speed automatic,All Wheel Drive,3.3,,,5004,2207,1628,3099,2713
+cadillac,Cadillac,Optiq,Optiq (2023),2023,,,Dual Motor 85 KWh AWD (300 HP),Electric,,,300,,1-speed automatic,All Wheel Drive,,,,4821,2162,1643,2954,2355
+cadillac,Cadillac,Optiq-V,Optiq-V (2025),2025,,,Dual Motor 85 KWh AWD (519 HP),Electric,,,519,,,All Wheel Drive,,,,4821,2126,1643,2954,2470
+cadillac,Cadillac,Seville,Seville (1998),1998,2004,,4.6L V8 4AT (275 HP),Gasoline,8,4565,279,407,4-speed automatic,Front Wheel Drive,8,180,11.8,5105,1905,1407,2850,1810
+cadillac,Cadillac,Seville,Seville (1998),1998,2004,,4.6L V8 4AT (300 HP),Gasoline,8,4565,305,400,4-speed automatic,Front Wheel Drive,7,209,9.8,4991,1897,1407,2850,1827
+cadillac,Cadillac,Seville,Seville (1992),1992,1997,,4.9,Gasoline,8,4893,203,373,"Automatic, 4 Speed",Front Wheel Drive,,,,5192,1890,1372,2819,1656
+cadillac,Cadillac,SRX,SRX (2009),2009,2016,,2.8L V6 6AT AWD (300 HP),Gasoline,6,2792,305,400,6-speed automatic,All Wheel Drive,6.6,209,13.1,4831,1908,1666,2807,1954
+cadillac,Cadillac,SRX,SRX (2009),2009,2016,,3.0L V6 6AT AWD (265 HP),Gasoline,6,2994,269,302,6-speed automatic,All Wheel Drive,7.9,200,12.4,4831,1908,1666,2807,1954
+cadillac,Cadillac,SRX,SRX (2009),2009,2016,,3.0L V6 6AT FWD (265 HP),Gasoline,6,2994,269,302,6-speed automatic,Front Wheel Drive,7.7,200,11.2,4831,1908,1666,2807,1916
+cadillac,Cadillac,SRX,SRX (2009),2009,2016,,3.6L V6 6AT AWD (309 HP),Gasoline,6,3564,313,359,6-speed automatic,All Wheel Drive,7.1,209,13.1,4831,1908,1666,2807,2015
+cadillac,Cadillac,SRX,SRX (2009),2009,2016,,3.6L V6 6AT FWD (309 HP),Gasoline,6,3564,313,359,6-speed automatic,Front Wheel Drive,6.9,216,12.4,4831,1908,1666,2807,1940
+cadillac,Cadillac,SRX,SRX (2005),2005,2009,,3.6L V6 5AT (264 HP),Gasoline,6,3564,264,339,5-speed automatic,Rear Wheel Drive,8.1,201,13,4950,1844,1722,2957,1918
+cadillac,Cadillac,SRX,SRX (2005),2005,2009,,4.6L V8 5AT (325 HP),Gasoline,8,4572,325,427,5-speed automatic,Rear Wheel Drive,,,11.8,4950,1844,1722,2957,1992
+cadillac,Cadillac,SRX,SRX (2004),2004,2009,,3.6L V6 5AT AWD (258 HP),Gasoline,6,3564,259,346,5-manual speed,All Wheel Drive,,209,11.8,4950,1844,1669,2957,1960
+cadillac,Cadillac,SRX,SRX (2004),2004,2009,,3.6L V6 5AT RWD (258 HP),Gasoline,6,3564,258.5,346,5-manual speed,Rear Wheel Drive,8.1,209,11.2,4950,1844,1669,2957,1918
+cadillac,Cadillac,SRX,SRX (2004),2004,2009,,4.6L V8 32V 5AT AWD (328 HP),Gasoline,8,4565,328,420,5-manual speed,All Wheel Drive,,209,13.1,4950,1844,1669,2957,2045
+cadillac,Cadillac,SRX,SRX (2004),2004,2009,,4.6L V8 32V 5AT RWD (328 HP),Gasoline,8,4565,328.5,420,5-manual speed,Rear Wheel Drive,,209,12.4,4950,1844,1669,2957,1985
+cadillac,Cadillac,STS,STS (2007),2007,2010,,3.6L V6 6AT (306 HP),Gasoline,6,3564,306,369,6-speed automatic,Rear Wheel Drive,7.4,229,12.4,4986,1844,1463,2957,1787
+cadillac,Cadillac,STS,STS (2007),2007,2010,,4.6L V8 6AT (325 HP),Gasoline,8,4565,325,427,6-speed automatic,Rear Wheel Drive,6.2,249,,4986,1844,1463,2957,1787
+cadillac,Cadillac,STS,STS (2006),2006,2007,,3.6L V6 5AT RWD (257 HP),Gasoline,6,3564,257,342,5-speed automatic,Rear Wheel Drive,7.4,229,12.4,5019,1844,1478,2957,1948
+cadillac,Cadillac,STS,STS (2006),2006,2007,,4.4L V8 6AT RWD (476 HP),Gasoline,8,4371,476,583,6-speed automatic,Rear Wheel Drive,5,250,13.8,5019,1844,1478,2957,1948
+cadillac,Cadillac,STS,STS (2006),2006,2007,,4.6L V8 5MT RWD (325 HP),Gasoline,8,4565,325,427,5-Speed manual,Rear Wheel Drive,6.2,250,12.9,5019,1844,1478,2957,
+cadillac,Cadillac,STS,STS (2004),2004,2007,,3.6L V6 5AT AWD (256 HP),Gasoline,6,3564,257,339,5-speed automatic,All Wheel Drive,,229,,4986,1844,1463,2957,1750
+cadillac,Cadillac,STS,STS (2004),2004,2007,,3.6L V6 5AT RWD (256 HP),Gasoline,6,3564,257,339,5-speed automatic,Rear Wheel Drive,7.4,229,12.4,4986,1844,1463,2957,1750
+cadillac,Cadillac,STS,STS (2004),2004,2007,,4.6L V8 6AT AWD (325 HP),Gasoline,8,4565,325,427,6-speed automatic,All Wheel Drive,7,248,,4986,1844,1463,2957,1779
+cadillac,Cadillac,STS,STS (2004),2004,2007,,4.6L V8 6AT RWD (325 HP),Gasoline,8,4565,325,427,6-speed automatic,Rear Wheel Drive,6.2,250,14.4,4986,1844,1463,2957,1779
+cadillac,Cadillac,Vistiq,Vistiq (2023),2023,,,102 KW AWD (615 HP),Electric,,,615,,,All Wheel Drive,,,,5222,2202,1803,3094,2869
+cadillac,Cadillac,XLR,XLR (2008),2008,2009,,4.6 V8 5AT (325 HP),Gasoline,8,4565,325,420,"Automatic, 6 Speed",Rear Wheel Drive,5.9,249,12.1,4514,1836,1280,2685,1690
+cadillac,Cadillac,XLR,XLR (2005),2005,2007,,4.4L V8 6AT RWD (449 HP),Gasoline,8,4371,449,561,6-speed automatic,Rear Wheel Drive,5,250,,4514,1836,1280,2685,1730
+cadillac,Cadillac,XLR,XLR (2003),2003,2007,,4.6L V8 5AT RWD (326 HP),Gasoline,8,4565,326,420,5-speed automatic,Rear Wheel Drive,5.9,250,12.3,4514,1836,1280,2685,1690
+cadillac,Cadillac,XLR V-Series,XLR V-Series (2008),2008,2009,,4.4L V8 6AT RWD (449 HP),Gasoline,8,4371,449,561,6-speed automatic,Rear Wheel Drive,4.9,249,14.7,4514,1836,1280,2685,1730
+cadillac,Cadillac,XT4,XT4 (2023),2023,2025,,2.0L Turbocharged 9AT FWD (238 HP),Gasoline,4,,238,350,,,,,,4600,2121,1628,2779,1660
+cadillac,Cadillac,XT4,XT4 (2018),2018,2023,,2.0L 9AT AWD (241 HP),Gasoline,4,1998,241,350,9-Speed automatic Hydra-Matic 9T50,All Wheel Drive,,,,4597,1882,1628,2779,1740
+cadillac,Cadillac,XT4,XT4 (2018),2018,2023,,2.0L 9AT FWD (241 HP),Gasoline,4,1998,241,350,9-Speed automatic Hydra-Matic 9T50,Front Wheel Drive,,,8.7,4597,1882,1628,2779,1660
+cadillac,Cadillac,XT5,XT5 (2019),2019,2024,,2.0L VVT 9AT FWD (237 HP),Gasoline,4,,237,350,9-speed automatic,Front Wheel Drive,,,,4816,1905,1679,2858,1776
+cadillac,Cadillac,XT5,XT5 (2019),2019,2024,,3.6L V6 VVT 9AT FWD (310 HP),Gasoline,6,,310,367,9-speed automatic,Front Wheel Drive,,,,4816,1905,1679,2858,1776
+cadillac,Cadillac,XT5,XT5 (2016),2016,2019,,2.0L 8AT AWD (261 HP),Gasoline,4,1998,261,400,8-speed automatic,All Wheel Drive,,,,4813,1905,1676,2858,1931
+cadillac,Cadillac,XT5,XT5 (2016),2016,2019,,2.0L 8AT FWD (261 HP),Gasoline,4,1998,261,400,8-speed automatic,Front Wheel Drive,,,,4813,1905,1676,2858,1808
+cadillac,Cadillac,XT5,XT5 (2016),2016,2019,,3.6L V6 8AT AWD (314 HP),Gasoline,6,3648,314,367,8-speed automatic,All Wheel Drive,,,,4813,1905,1676,2858,1931
+cadillac,Cadillac,XT5,XT5 (2016),2016,2019,,3.6L V6 8AT FWD (314 HP),Gasoline,6,3648,314,367,8-speed automatic,Front Wheel Drive,,,,4813,1905,1676,2858,1808
+cadillac,Cadillac,XTS,XTS (2017),2017,2019,,3.6L V6 6AT AWD (304 HP),Gasoline,6,3564,308,358,6-speed automatic,All Wheel Drive,,,11.8,5103,1852,1509,2837,1905
+cadillac,Cadillac,XTS,XTS (2017),2017,2019,,3.6L V6 6AT AWD (410 HP),Gasoline,6,3564,410,500,6-speed automatic,All Wheel Drive,,,11.8,5103,1852,1509,2837,1905
+cadillac,Cadillac,XTS,XTS (2017),2017,2019,,3.6L V6 6AT FWD (304 HP),Gasoline,6,3564,308,358,6-speed automatic,Front Wheel Drive,,,12.4,5103,1852,1509,2837,1824
+cadillac,Cadillac,XTS,XTS (2013),2013,2017,,2.0L 6AT RWD (272 HP),Gasoline,4,1998,276,353,6-speed automatic,Front Wheel Drive,6.9,,,5131,1852,1501,2837,1812
+cadillac,Cadillac,XTS,XTS (2013),2013,2017,,3.6L V6 6AT AWD (305 HP),Gasoline,6,3564,305,371,6-speed automatic,All Wheel Drive,7.4,220,11.8,5131,1852,1501,2837,1912
+cadillac,Cadillac,XTS,XTS (2013),2013,2017,,3.6L V6 6AT RWD (305 HP),Gasoline,6,3564,305,371,6-speed automatic,Front Wheel Drive,6.9,219,11.2,5131,1852,1501,2837,1877
+caterham,Caterham,Classic,Classic (2000),2000,2005,,1.4 5MT (105 HP),Gasoline,4,1400,105,129,5-speed manual,Rear Wheel Drive,6.5,177,7,3381,1575,1115,2225,525
+caterham,Caterham,CSR,CSR (2005),2005,2024,,2.3 5MT (200 HP),Gasoline,4,2261,203,224,5-speed manual,Rear Wheel Drive,3.7,225,11.5,3302,1684,1138,2314,565
+caterham,Caterham,CSR,CSR (2005),2005,2024,,2.3 6MT (260 HP),Gasoline,4,2261,264,271,6-speed manual,Rear Wheel Drive,3.1,249,10.2,3302,1684,1138,2314,515
+caterham,Caterham,Roadsport,Roadsport (2007),2007,2009,,1.6L 5MT RWD (127 HP),Gasoline,4,1595,126,163,5-speed manual,Rear Wheel Drive,5.9,180,,3381,1575,1115,2225,550
+caterham,Caterham,Roadsport,Roadsport (2007),2007,2009,,1.6L 5MT RWD (142 HP),Gasoline,4,1595,141,163,5-speed manual,Rear Wheel Drive,5,196,,3381,1575,1115,2225,550
+caterham,Caterham,Roadsport,Roadsport (2007),2007,2009,,2.0L 5MT Duratec RWD (177 HP),Gasoline,4,1999,177,188,5-speed manual,Rear Wheel Drive,4.8,222,,3381,1575,1115,2225,560
+caterham,Caterham,Seven 160,Seven 160 (2013),2013,,,0.66 (80 HP),Gasoline,3,660,81,107,"5-speed, manual",Rear Wheel Drive,6.7,161,4.9,,,,,490
+caterham,Caterham,Seven 620,Seven 620 (2013),2013,,,R 2.0 Duratec (314 HP),Gasoline,4,1998,314,297,6-speed manual,Rear Wheel Drive,2.9,249,,,,,,545
+caterham,Caterham,Superlight,Superlight (2013),2013,,,R400 2.0 Duratec (213 HP),Gasoline,4,1998,213,203,6-speed manual,Rear Wheel Drive,3.9,219,,,,,,515
+caterham,Caterham,Superlight,Superlight (2013),2013,,,R500 2.0 Duratec (266 HP),Gasoline,4,1998,267,240,6-speed manual,Rear Wheel Drive,3,238,,,,,,530
+caterham,Caterham,Supersport,Supersport (2012),2012,,,1.6 (142 HP),Gasoline,4,1598,142,163,6-speed manual,Rear Wheel Drive,5.1,193,,,,,,520
+caterham,Caterham,Supersport,Supersport (2012),2012,,,R 2.0 Duratec (182 HP),Gasoline,4,1998,182,194,6-speed manual,Rear Wheel Drive,5,209,,,,,,535
+caterham,Caterham,The Super Seven 1600,The Super Seven 1600 (2020),2020,,,1.6L 5MT (135 HP),Gasoline,4,,136.9,165,5-speed automatic,Front Wheel Drive,5.2,196,,3180,1575,1090,,565
+chery,Chery,TIGGO 7,TIGGO 7 (2024),2024,,,1.6L TGDI 7AT AWD (147 HP),Gasoline,4,1598,147,275,7-speed automatic DCT,Front Wheel Drive,,,7,4554,1862,1697,2670,
+chery,Chery,TIGGO 7,TIGGO 7 (2024),2024,,,1.6L TGDI 7AT FWD (147 HP),Gasoline,4,1598,147,275,7-speed automatic DCT,Front Wheel Drive,,,7,4554,1862,1697,2670,1593
+chery,Chery,TIGGO 7,TIGGO 7 (2024),2024,,,1.5L T PHEV FWD (279 HP),Plug-in Hybrid,4,1499,279,,Dedicated Hybrid Transmission,Front Wheel Drive,,,,4554,1862,1702,2670,1788
+chery,Chery,TIGGO 8,TIGGO 8 (2025),2025,,,1.6L TGDI 7AT FWD (147 HP) 7 Seat,Gasoline,4,1598,147,275,7-speed automatic DCT,Front Wheel Drive,9.8,190,7.8,4724,1859,1704,2710,
+chery,Chery,TIGGO 8,TIGGO 8 (2025),2025,,,CSH 1.5L PHEV 7AT AWD (279 HP) 7 Seat,Plug-in Hybrid,4,1499,279,215,7-speed automatic DCT,Front Wheel Drive,8.8,,7.8,4724,1859,1704,2710,1884
+chery,Chery,TIGGO 8,TIGGO 8 (2022),2022,2025,,Pro 290 TGDI 7AT FWD (197 HP),Gasoline,4,1598,197,290,7-speed automatic DCT,Front Wheel Drive,,,7.4,4745,1859,1758,2710,1581
+chery,Chery,TIGGO 8,TIGGO 8 (2022),2022,2025,,Pro 290 TGDI 7AT FWD (197 HP) 7 Seat,Gasoline,4,1598,197,290,7-speed automatic DCT,Front Wheel Drive,,,7.4,4745,1859,1758,2710,1612
+chery,Chery,TIGGO 8,TIGGO 8 (2022),2022,2025,,Pro 390 TGDI 7AT AWD (254 HP),Gasoline,4,1998,254,390,7-speed automatic DCT,All Wheel Drive,,,7.9,4745,1859,1758,2710,1717
+chery,Chery,TIGGO 8,TIGGO 8 (2022),2022,2025,,Pro 390 TGDI 7AT AWD (254 HP) 7 Seat,Gasoline,4,1998,254,390,7-speed automatic DCT,All Wheel Drive,,,7.9,4745,1859,1758,2710,1741
+chery,Chery,TIGGO 8,TIGGO 8 (2022),2022,2025,,Pro 1.5T PHEV 3AT FWD (326 HP),Plug-in Hybrid,4,1396,156,230,3-speed automatic DHT,Front Wheel Drive,,,5.9,4745,1859,1758,2710,1740
+chery,Chery,TIGGO 8,TIGGO 8 (2022),2022,2025,,Pro 1.5T PHEV 3AT FWD (326 HP) 7 Seat,Plug-in Hybrid,4,1396,156,230,3-speed automatic DHT,Front Wheel Drive,,,5.9,4745,1859,1758,2710,1769
+chery,Chery,TIGGO 9,TIGGO 9 (2025),2025,,,2.0L TGDI 7AT FWD (261 HP),Gasoline,4,1998,261,400,7-speed automatic,Front Wheel Drive,,,7.5,4821,1930,1699,2819,1719
+chery,Chery,TIGGO 9,TIGGO 9 (2025),2025,,,2.0L TGDI 7AT FWD (261 HP) 7 Seat,Gasoline,4,1998,261,400,7-speed automatic,Front Wheel Drive,,,7.5,4821,1930,1699,2819,1719
+chery,Chery,TIGGO 9,TIGGO 9 (2025),2025,,,2.0L TGDI 8AT AWD (261 HP),Gasoline,4,1998,261,400,8-speed automatic,All Wheel Drive,,,8.5,4821,1930,1699,2819,1832
+chery,Chery,TIGGO 9,TIGGO 9 (2025),2025,,,2.0L TGDI 8AT AWD (261 HP) 7 Seat,Gasoline,4,1998,261,400,8-speed automatic,All Wheel Drive,,,8.5,4821,1930,1709,2819,1832
+chery,Chery,TIGGO 9,TIGGO 9 (2025),2025,,,2.0L TGDI 8AT FWD (261 HP),Gasoline,4,1998,261,400,8-speed automatic,Front Wheel Drive,,,7.9,4821,1930,1699,2819,1749
+chery,Chery,TIGGO 9,TIGGO 9 (2025),2025,,,2.0L TGDI 8AT FWD (261 HP) 7 Seat,Gasoline,4,1998,261,400,8-speed automatic,Front Wheel Drive,,,7.9,4821,1930,1709,2819,1749
+chery,Chery,TIGGO 9,TIGGO 9 (2025),2025,,,CSH 1.5L TGDI PHEV AWD (428 HP),Plug-in Hybrid,4,1499,428,,3 Dedicated Hybrid Transmission (3DHT,All Wheel Drive,5.4,180,7,4811,1925,1740,2799,2200
+chevrolet,Chevrolet,Agile,Agile (2013),2013,2016,,1.4L ECONOFLEX 5AT FWD (97 HP),Gasoline,4,1389,97,129,5 speed automatic Easytronic,Front Wheel Drive,,,,3995,1684,1539,2543,1055
+chevrolet,Chevrolet,Agile,Agile (2013),2013,2016,,1.4L ECONOFLEX 5MT FWD (97 HP),Gasoline,,1389,97,129,5 speed manual,Front Wheel Drive,,,,3995,1684,1539,2543,1055
+chevrolet,Chevrolet,Agile,Agile (2013),2013,2016,,1.4L ECONOFLEX 5AT FWD (102 HP),Ethanol,4,1389,102,132,5 speed automatic Easytronic,Front Wheel Drive,,,,3995,1684,1539,2543,1055
+chevrolet,Chevrolet,Agile,Agile (2013),2013,2016,,1.4L ECONOFLEX 5MT FWD (102 HP),Ethanol,4,1389,102,132,5 speed manual,Front Wheel Drive,,,,3995,1684,1539,2543,1055
+chevrolet,Chevrolet,Agile,Agile (2009),2009,2013,,1.4L 5MT FWD (92 HP),Gasoline,4,1389,92,121,5-speed manual,Front Wheel Drive,,,,3995,1684,1539,2543,1055
+chevrolet,Chevrolet,Agile,Agile (2009),2009,2013,,1.4L ECONOFLEX 5MT FWD (97 HP),Gasoline,4,1389,97,129,5-speed manual,Front Wheel Drive,,,,3995,1684,1539,2543,1055
+chevrolet,Chevrolet,Agile,Agile (2009),2009,2013,,1.4L ECONOFLEX 5MT FWD (102 HP),Ethanol,4,1389,102,132,5-speed manual,Front Wheel Drive,,166,,3995,1684,1539,2543,1055
+chevrolet,Chevrolet,Astro,Astro (1994),1994,2005,,4.3L V6 4AT AWD (190 HP),Gasoline,6,4300,193,339,4-speed automatic,All Wheel Drive,12,180,14.7,4821,1969,1902,2824,2015
+chevrolet,Chevrolet,Astro,Astro (1994),1994,2005,,4.3L V6 4AT RWD (190 HP),Gasoline,6,4300,193,339,4-speed automatic,Rear Wheel Drive,11.3,185,13.1,4821,1969,1902,2824,1960
+chevrolet,Chevrolet,Avalanche,Avalanche (2006),2006,2013,,5.3L V8 4AT RWD (320 HP),Gasoline,8,5328,324,454,4-speed automatic,Rear Wheel Drive,,,,5621,2009,1946,3302,2485
+chevrolet,Chevrolet,Avalanche,Avalanche (2006),2006,2013,,5.3L V8 6AT RWD (320 HP),Gasoline,8,5328,324,454,6-speed automatic,Rear Wheel Drive,,,,5621,2009,1946,3302,2498
+chevrolet,Chevrolet,Avalanche,Avalanche (2006),2006,2013,,6.0L V8 4AT RWD (365 HP),Gasoline,8,5967,370,515,4-speed automatic,Rear Wheel Drive,,,,5621,2009,1946,3302,2495
+chevrolet,Chevrolet,Avalanche,Avalanche (2006),2006,2013,,5.3L V8 4AT AWD (320 HP),Ethanol,8,5328,324,454,4-speed automatic,All Wheel Drive,,,,5621,2009,1946,3302,2520
+chevrolet,Chevrolet,Avalanche,Avalanche (2001),2001,2006,,8.1L V8 4AT AWD (340 HP),Gasoline,8,8128,345,624,4-speed automatic,All Wheel Drive,,,23.5,5631,2027,1869,3302,2930
+chevrolet,Chevrolet,Avalanche,Avalanche (2001),2001,2006,,8.1L V8 4AT RWD (340 HP),Gasoline,8,8128,345,624,4-speed automatic,Rear Wheel Drive,,,21.4,5631,2027,1869,3302,2883
+chevrolet,Chevrolet,Avalanche,Avalanche (2001),2001,2006,,5.3L V8 4AT AWD (285 HP),Gasoline,8,5328,289,441,4-speed automatic,Rear Wheel Drive,,,15.7,5631,2027,1869,3302,2480
+chevrolet,Chevrolet,Avalanche,Avalanche (2001),2001,2006,,5.3L V8 4AT RWD (285 HP),Gasoline,8,5328,289,441,4-speed automatic,Rear Wheel Drive,,,14.2,5631,2027,1869,3302,2466
+chevrolet,Chevrolet,Aveo / Kalos,Aveo / Kalos 3 Doors (2008),2008,2011,,1.2L DOHC 5MT FWD (82 HP),Gasoline,4,1206,82,114,5-Speed manual,Front Wheel Drive,12.8,170,5.5,3919,1679,1219,2479,1030
+chevrolet,Chevrolet,Aveo / Kalos,Aveo / Kalos 3 Doors (2008),2008,2011,,1.4L DOHC 4AT FWD (101 HP),Gasoline,4,1399,101,132,4-Speed automatic,Front Wheel Drive,12.3,171,6.4,3919,1679,1219,2479,1075
+chevrolet,Chevrolet,Aveo / Kalos,Aveo / Kalos 3 Doors (2008),2008,2011,,1.4L DOHC 5MT FWD (101 HP),Gasoline,4,1399,101,132,5-Speed manual,Front Wheel Drive,11.9,175,5.7,3919,1679,1219,2479,1070
+chevrolet,Chevrolet,Aveo / Kalos,Aveo / Kalos 3 Doors (2004),2004,2007,,1.2L 5MT FWD (72 HP),Gasoline,4,1150,72,104,5-speed manual,Front Wheel Drive,13.7,157,6.4,3881,1669,1496,2489,990
+chevrolet,Chevrolet,Aveo / Kalos,Aveo / Kalos 3 Doors (2004),2004,2007,,1.4L 5MT FWD (83 HP),Gasoline,4,1399,83,123,5-speed manual,Front Wheel Drive,12.1,170,7.6,3881,1669,1496,2489,1100
+chevrolet,Chevrolet,Aveo / Kalos,Aveo / Kalos 3 Doors (2004),2004,2007,,1.4L 5MT FWD (94 HP),Gasoline,4,1399,94,130,5-speed manual,Front Wheel Drive,11.1,176,6.7,3881,1669,1496,2489,1060
+chevrolet,Chevrolet,Aveo / Kalos,Aveo / Kalos 5 Doors (2008),2008,2011,,1.2L DOHC 5MT FWD (84 HP),Gasoline,4,1206,84,114,5-speed manual,Front Wheel Drive,12.8,170,5.5,3919,1679,1219,2479,1005
+chevrolet,Chevrolet,Aveo / Kalos,Aveo / Kalos 5 Doors (2008),2008,2011,,1.4L DOHC 4AT FWD (100 HP),Gasoline,4,1399,101,132,4-speed automatic,Front Wheel Drive,12.3,171,6.4,3919,1679,1219,2479,1050
+chevrolet,Chevrolet,Aveo / Kalos,Aveo / Kalos 5 Doors (2008),2008,2011,,1.4L DOHC 5MT FWD (100 HP),Gasoline,4,1399,101,132,5-speed manual,Front Wheel Drive,11.9,175,5.9,3919,1679,1219,2479,1045
+chevrolet,Chevrolet,Aveo / Kalos,Aveo / Kalos 5 Doors (2005),2005,2007,,1.2L 16V 5MT FWD (84 HP),Gasoline,4,1208,84,114,5-speed manual,Front Wheel Drive,12.8,171,5.5,3919,1679,1506,2479,1005
+chevrolet,Chevrolet,Aveo / Kalos,Aveo / Kalos 5 Doors (2005),2005,2007,,1.4L 16V 4AT FWD (100 HP),Gasoline,4,1399,101,132,4-speed automatic,Front Wheel Drive,12.3,171,6.4,3919,1679,1506,2479,1050
+chevrolet,Chevrolet,Aveo / Kalos,Aveo / Kalos 5 Doors (2005),2005,2007,,1.4L 16V 5MT FWD (100 HP),Gasoline,4,1399,101,132,5-speed manual,Front Wheel Drive,11.9,175,5.9,3919,1679,1506,2479,1045
+chevrolet,Chevrolet,Aveo / Kalos,Aveo / Kalos 5 Doors (2005),2005,2007,,1.6L DOHC 5MT FWD (105 HP),Gasoline,4,1598,106,145,5-speed manual,Front Wheel Drive,,175,7.7,3919,1679,1506,2479,1090
+chevrolet,Chevrolet,Aveo / Kalos,Aveo / Kalos 5 Doors (2002),2002,2007,,1.2L 4AT FWD (71 HP),Gasoline,4,1150,71,104,4-speed automatic,Front Wheel Drive,16.2,151,6.2,3881,1669,1496,2479,965
+chevrolet,Chevrolet,Aveo / Kalos,Aveo / Kalos 5 Doors (2002),2002,2007,,1.2L 5MT FWD (71 HP),Gasoline,4,1150,71,104,5-speed manual,Front Wheel Drive,13.7,157,6.4,3881,1669,1496,2479,955
+chevrolet,Chevrolet,Aveo / Kalos,Aveo / Kalos 5 Doors (2002),2002,2007,,1.3L 5MT FWD (80 HP),Gasoline,4,1349,80,115,5-speed manual,Front Wheel Drive,,170,,3881,1669,1496,2479,1006
+chevrolet,Chevrolet,Aveo / Kalos,Aveo / Kalos 5 Doors (2002),2002,2007,,1.4L 4AT FWD (94 HP),Gasoline,4,1399,94,130,4-speed automatic,Front Wheel Drive,12,171,7.7,3881,1669,1496,2479,1065
+chevrolet,Chevrolet,Aveo / Kalos,Aveo / Kalos 5 Doors (2002),2002,2007,,1.4L 5MT FWD (83 HP),Gasoline,4,1399,83,123,5-speed manual,Front Wheel Drive,12.1,170,7.6,3881,1669,1496,2479,1025
+chevrolet,Chevrolet,Aveo / Kalos,Aveo / Kalos 5 Doors (2002),2002,2007,,1.4L 5MT FWD (94 HP),Gasoline,4,1399,94,130,5-speed manual,Front Wheel Drive,11.1,176,6.7,3881,1669,1496,2479,1060
+chevrolet,Chevrolet,Aveo / Kalos,Aveo / Kalos 5 Doors (2002),2002,2007,,1.5L 4AT FWD (86 HP),Gasoline,4,1498,84,128,4-speed automatic,Front Wheel Drive,13.1,169,7,3881,1669,1496,2479,1070
+chevrolet,Chevrolet,Aveo / Kalos,Aveo / Kalos 5 Doors (2002),2002,2007,,1.5L 5MT FWD (86 HP),Gasoline,4,1498,84,128,5-speed manual,Front Wheel Drive,12.3,175,6.1,3881,1669,1496,2479,1065
+chevrolet,Chevrolet,Aveo / Kalos,Aveo / Kalos 5 Doors (2002),2002,2007,,1.6L 5MT FWD (105 HP),Gasoline,4,1598,105,145,5-speed manual,Front Wheel Drive,,,7.6,3881,1669,1496,2479,1065
+chevrolet,Chevrolet,Aveo / Kalos,Aveo / Kalos Sedan (2011),2011,2016,,1.2L 5MT FWD (86 HP),Gasoline,4,1229,86,115,"5-speed, Manual",Front Wheel Drive,13.4,171,5.5,4399,1735,1516,2525,1160
+chevrolet,Chevrolet,Aveo / Kalos,Aveo / Kalos Sedan (2011),2011,2016,,1.4L 4AT FWD (101 HP),Gasoline,4,1398,101,132,4-Speed automatic,Front Wheel Drive,12.3,171,6.7,4399,1735,1516,2525,1085
+chevrolet,Chevrolet,Aveo / Kalos,Aveo / Kalos Sedan (2011),2011,2016,,1.4L 5MT FWD (101 HP),Gasoline,4,1398,101,132,5-Speed manual,Front Wheel Drive,11.9,175,6,4399,1735,1516,2525,1080
+chevrolet,Chevrolet,Aveo / Kalos,Aveo / Kalos Sedan (2011),2011,2016,,1.6L 5MT FWD (115 HP),Gasoline,4,1598,116,155,5-Speed manual,Front Wheel Drive,11.3,183,6,4399,1735,1516,2525,1080
+chevrolet,Chevrolet,Aveo / Kalos,Aveo / Kalos Sedan (2011),2011,2016,,1.6L 6AT FWD (115 HP),Gasoline,4,1598,116,155,6-speed automatic,Front Wheel Drive,11.7,187,7.1,4399,1735,1516,2525,1080
+chevrolet,Chevrolet,Aveo / Kalos,Aveo / Kalos Sedan (2011),2011,2016,,1.3L 5MT FWD (75 HP),Diesel,4,1248,75,190,5-Speed manual,Front Wheel Drive,14.2,163,3.8,4399,1735,1516,2525,1172
+chevrolet,Chevrolet,Aveo / Kalos,Aveo / Kalos Sedan (2011),2011,2016,,1.3L ECO FWD (95 HP),Diesel,4,1248,95,190,5 speed manual,Front Wheel Drive,11.7,174,3.6,4399,1735,1516,2525,1165
+chevrolet,Chevrolet,Aveo / Kalos,Aveo / Kalos Sedan (2011),2011,2016,,1.3L MT6 FWD (95 HP),Diesel,4,1248,95,210,6 speed manual,Front Wheel Drive,12.6,174,4.1,4399,1735,1516,2525,1185
+chevrolet,Chevrolet,Aveo / Kalos,Aveo / Kalos Sedan (2005),2005,2011,,1.2L 5MT FWD (72 HP),Gasoline,4,1150,72,104,5-speed manual,Front Wheel Drive,13.7,157,6.4,4234,1669,1496,2479,997
+chevrolet,Chevrolet,Aveo / Kalos,Aveo / Kalos Sedan (2005),2005,2011,,1.2L 5MT FWD (84 HP),Gasoline,4,1150,84,114,5-speed manual,Front Wheel Drive,12.8,171,5.5,4234,1669,1496,2479,1040
+chevrolet,Chevrolet,Aveo / Kalos,Aveo / Kalos Sedan (2005),2005,2011,,1.4 5MT FWD (94 HP),Gasoline,4,1399,94,130,5-speed manual,Front Wheel Drive,11.1,176,6.7,4234,1669,1496,2479,1052
+chevrolet,Chevrolet,Aveo / Kalos,Aveo / Kalos Sedan (2005),2005,2011,,1.4L 4AT FWD (101 HP),Gasoline,4,1399,101,131,4-speed automatic,Front Wheel Drive,12.3,175,6.4,4234,1669,1496,2479,1085
+chevrolet,Chevrolet,Aveo / Kalos,Aveo / Kalos Sedan (2005),2005,2011,,1.4L 4AT FWD (94 HP),Gasoline,4,1399,94,130,4-speed automatic,Front Wheel Drive,11.9,171,7,4234,1669,1496,2479,1052
+chevrolet,Chevrolet,Aveo / Kalos,Aveo / Kalos Sedan (2005),2005,2011,,1.4L 5MT FWD (101 HP),Gasoline,4,1399,101,131,5-speed manual,Front Wheel Drive,11,175,5.9,4234,1669,1496,2479,1052
+chevrolet,Chevrolet,Aveo / Kalos,Aveo / Kalos Sedan (2005),2005,2011,,1.6L 4AT FWD (105 HP),Gasoline,4,1598,105,145,4-speed automatic,Front Wheel Drive,,175,7.7,4234,1669,1496,2479,1750
+chevrolet,Chevrolet,Aveo / Kalos,Aveo / Kalos Sedan (2005),2005,2011,,1.6L 5MT FWD (105 HP),Gasoline,4,1598,105,145,5-speed manual,Front Wheel Drive,,183,7.3,4234,1669,1496,2479,1750
+chevrolet,Chevrolet,Aveo / Kalos,Aveo / Kalos Sedan (2004),2004,2006,,1.2L 5MT FWD (72 HP),Gasoline,4,1150,72,104,5-Speed manual,Front Wheel Drive,13.7,158,5.5,4237,1669,1496,2479,1005
+chevrolet,Chevrolet,Aveo / Kalos,Aveo / Kalos Sedan (2004),2004,2006,,1.3L 5MT FWD (80 HP),Gasoline,4,1349,80,115,5-Speed manual,Front Wheel Drive,,170,,4234,1669,1496,2479,1026
+chevrolet,Chevrolet,Aveo / Kalos,Aveo / Kalos Sedan (2004),2004,2006,,1.4L 5MT FWD (82 HP),Gasoline,4,1399,83,123,5-Speed manual,Front Wheel Drive,12.1,170,7.6,4234,1669,1496,2479,1035
+chevrolet,Chevrolet,Aveo / Kalos,Aveo / Kalos Sedan (2004),2004,2006,,1.4L 5MT FWD (94 HP),Gasoline,4,1399,94,130,5-Speed manual,Front Wheel Drive,11.1,176,6.7,4234,1669,1496,2479,1070
+chevrolet,Chevrolet,Aveo / Kalos,Aveo / Kalos Sedan (2004),2004,2006,,1.5L 5MT FWD (84 HP),Gasoline,4,1498,84,128,5-Speed manual,Front Wheel Drive,,175,6.1,4234,1669,1496,2479,1075
+chevrolet,Chevrolet,Aveo / Kalos,Aveo / Kalos Sedan (2004),2004,2006,,1.6L 5MT FWD (105 HP),Gasoline,4,1598,105,145,5-Speed manual,Front Wheel Drive,11.1,185,7.6,4234,1669,1496,2479,1075
+chevrolet,Chevrolet,Blazer,Blazer (2022),2022,,,2.0L 9AT AWD (228 HP),Gasoline,4,,228,350,9-speed automatic,All Wheel Drive,,,,4874,1948,1702,2863,1880
+chevrolet,Chevrolet,Blazer,Blazer (2022),2022,,,2.0L 9AT FWD (228 HP),Gasoline,4,,228,350,9-speed automatic,Front Wheel Drive,,,,4874,1948,1702,2863,1777
+chevrolet,Chevrolet,Blazer,Blazer (2022),2022,,,3.6L VVT 9AT AWD (308 HP),Gasoline,,,308,366,9-speed automatic,Rear Wheel Drive,,,,4874,1948,1702,2863,1961
+chevrolet,Chevrolet,Blazer,Blazer (2022),2022,,,3.6L VVT 9AT FWD (308 HP),Gasoline,,,308,366,9-speed automatic,Front Wheel Drive,,,,4874,1948,1702,2863,1824
+chevrolet,Chevrolet,Blazer,Blazer (2022),2022,,,1LT FWD,Electric,,,,,,,,,,,,,,
+chevrolet,Chevrolet,Blazer,Blazer (2022),2022,,,2LT AWD,Electric,,,,,,,,,,,,,,
+chevrolet,Chevrolet,Blazer,Blazer (2022),2022,,,2LT FWD,Electric,,,,,,,,,,,,,,
+chevrolet,Chevrolet,Blazer,Blazer (2022),2022,,,RS AWD,Electric,,,,,,,,,,,,,,
+chevrolet,Chevrolet,Blazer,Blazer (2022),2022,,,RS FWD,Electric,,,,,,,,,,,,,,
+chevrolet,Chevrolet,Blazer,Blazer (2022),2022,,,RS RWD,Electric,,,,,,,,,,,,,,
+chevrolet,Chevrolet,Blazer,Blazer (2022),2022,,,SS AWD,Electric,,,,,,,,,,,,,,
+chevrolet,Chevrolet,Blazer,Blazer (2019),2019,2022,,2.5L 9AT AWD (193 HP),Gasoline,4,,194,255,9-speed automatic,All Wheel Drive,,,,4862,1948,1702,2863,1728
+chevrolet,Chevrolet,Blazer,Blazer (2019),2019,2022,,2.5L 9AT FWD (193 HP),Gasoline,4,,194,255,9-speed automatic,Front Wheel Drive,,,,4862,1948,1702,2863,1728
+chevrolet,Chevrolet,Blazer,Blazer (2019),2019,2022,,3.6L V6 9AT AWD (305 HP),Gasoline,6,,305,366,9-speed automatic,All Wheel Drive,,,,4862,1948,1702,2863,1910
+chevrolet,Chevrolet,Blazer,Blazer (2019),2019,2022,,3.6L V6 9AT FWD (305 HP),Gasoline,6,,305,366,9-speed automatic,Front Wheel Drive,,,,4862,1948,1702,2863,1818
+chevrolet,Chevrolet,Blazer,Blazer (1995),1995,2005,,4.3L V6 4AT (193 HP),Gasoline,6,4300,195.7,339,4-speed automatic,All Wheel Drive,10.1,180,14.5,4491,1722,1648,2532,1945
+chevrolet,Chevrolet,Blazer,Blazer (1995),1995,2005,,4.3L V6 5MT (193 HP),Gasoline,6,4300,195.7,339,5-speed manual,All Wheel Drive,10.1,180,14.2,4491,1722,1648,2532,1945
+chevrolet,Chevrolet,Blazer,Blazer (1995),1995,2005,,2.2L 5MT RWD (113 HP),Gasoline,4,2198,114,180,5-speed manual,Rear Wheel Drive,,,,4600,2090,1651,2718,1620
+chevrolet,Chevrolet,Blazer,Blazer (1995),1995,2005,,2.2L 5MT RWD (137 HP),Gasoline,4,2198,137,195,5-speed manual,Rear Wheel Drive,,,,4600,2090,1651,2718,1655
+chevrolet,Chevrolet,Blazer,Blazer (1995),1995,2005,,4.3L V6 4AT AWD (193 HP),Gasoline,6,4300,195.7,339,4-speed automatic,All Wheel Drive,10.1,180,13.6,4600,2090,1651,2718,1950
+chevrolet,Chevrolet,Blazer,Blazer (1995),1995,2005,,4.3L V6 5MT AWD (193 HP),Gasoline,6,4300,195.7,339,5-speed manual,All Wheel Drive,10.1,180,13.6,4600,2090,1651,2718,1950
+chevrolet,Chevrolet,Bolt,Bolt (2025),2025,,,65 KWh FWD (210 HP),Electric,,,210,,1-speed automatic,Front Wheel Drive,,,,4308,1770,1623,2675,1713
+chevrolet,Chevrolet,Bolt,Bolt (2021),2021,2025,,65 KWh (200 HP),Electric,,,200,,1-speed automatic,Front Wheel Drive,,,,4145,1765,1610,2601,1628
+chevrolet,Chevrolet,Bolt,Bolt (2021),2021,2023,,65 KWh FWD (200 HP),Electric,,,200,,1-speed automatic,All Wheel Drive,,,,4305,1770,1615,2675,1669
+chevrolet,Chevrolet,Bolt,Bolt (2016),2016,2021,,60 kWh FWD (200 HP),Electric,,,200,,single gear,Front Wheel Drive,6.7,,,4166,1765,1595,2601,1624
+chevrolet,Chevrolet,Camaro,Camaro (2018),2018,2023,,2.0L 1LE VVT 6MT RWD (275 HP),Gasoline,4,1998,275,400,6-Speed manual,Rear Wheel Drive,,,,4783,1897,1349,2812,1521
+chevrolet,Chevrolet,Camaro,Camaro (2018),2018,2023,,2.0L 1LE VVT 8AT RWD (275 HP),Gasoline,4,1998,275,400,8-speed automatic,Rear Wheel Drive,,,,4783,1897,1349,2812,1515
+chevrolet,Chevrolet,Camaro,Camaro (2018),2018,2023,,2.0L VVT 6MT RWD (275 HP),Gasoline,4,1998,275,400,6-Speed manual,Rear Wheel Drive,5.6,,,4783,1897,1349,2812,1521
+chevrolet,Chevrolet,Camaro,Camaro (2018),2018,2023,,2.0L VVT 8AT RWD (275 HP),Gasoline,4,1998,275,400,8-speed automatic,Rear Wheel Drive,5.6,,,4783,1897,1349,2812,1515
+chevrolet,Chevrolet,Camaro,Camaro (2018),2018,2023,,3.6L V6 VVT 6MT RWD (335 HP),Gasoline,6,3640,335,385,6-speed manual,Rear Wheel Drive,,,,4783,1897,1349,2812,1571
+chevrolet,Chevrolet,Camaro,Camaro (2018),2018,2023,,3.6L V6 VVT 8AT RWD (335 HP),Gasoline,6,3640,335,385,6-speed manual,Rear Wheel Drive,,,,4783,1897,1349,2812,1571
+chevrolet,Chevrolet,Camaro,Camaro (2018),2018,2023,,6.2L V8 SS VVT 6MT RWD (455 HP),Gasoline,8,6162,455,617,6-speed manual,Rear Wheel Drive,4.1,,,4783,1897,1349,2812,1671
+chevrolet,Chevrolet,Camaro,Camaro (2018),2018,2023,,6.2L V8 SS VVT 8AT RWD (455 HP),Gasoline,8,6162,455,617,8-speed automatic,Rear Wheel Drive,,,,4783,1897,1349,2812,1677
+chevrolet,Chevrolet,Camaro,Camaro (2018),2018,2023,,6.2L LT4 V8 10AT RWD (650 HP),Gasoline,8,6162,650,650,10-Speed automatic,Rear Wheel Drive,3.6,319,,4831,1897,1331,2812,
+chevrolet,Chevrolet,Camaro,Camaro (2018),2018,2023,,6.2L LT4 V8 6MT RWD (650 HP),Gasoline,8,6162,650,650,6-Speed manual,Rear Wheel Drive,3.6,319,,4831,1897,1331,2812,
+chevrolet,Chevrolet,Camaro,Camaro (2016),2016,2018,,2.0L VVT 6MT RWD (275 HP),Gasoline,4,1998,279,400,6-speed manual,Rear Wheel Drive,5.6,,,4783,1897,1349,2812,1521
+chevrolet,Chevrolet,Camaro,Camaro (2016),2016,2018,,2.0L VVT 8AT RWD (275 HP),Gasoline,4,1998,279,400,8-speed automatic (Hydra-Matic),Rear Wheel Drive,,,,4783,1897,1349,2812,
+chevrolet,Chevrolet,Camaro,Camaro (2016),2016,2018,,3.6L V6 VVT 6MT RWD (335 HP),Gasoline,6,3640,340,385,6-speed manual,Rear Wheel Drive,,,,4783,1897,1349,2812,
+chevrolet,Chevrolet,Camaro,Camaro (2016),2016,2018,,3.6L V6 VVT 8AT RWD (335 HP),Gasoline,6,3640,340,385,8-speed automatic (Hydra-Matic),Rear Wheel Drive,,,,4783,1897,1349,2812,
+chevrolet,Chevrolet,Camaro,Camaro (2016),2016,2018,,6.2L V8 SS VVT 6MT RWD (455 HP),Gasoline,8,6162,461,617,6-speed manual,Rear Wheel Drive,4.4,,,4783,1897,1349,2812,
+chevrolet,Chevrolet,Camaro,Camaro (2016),2016,2018,,6.2L V8 SS VVT 8AT RWD (455 HP),Gasoline,8,6162,461,617,8-speed automatic (Hydra-Matic),Rear Wheel Drive,4.1,,,4783,1897,1349,2812,
+chevrolet,Chevrolet,Camaro,Camaro (2016),2016,2018,,6.2 V8 10AT (650 HP),Gasoline,8,6162,659,881,10-speed automatic,Rear Wheel Drive,3.6,,,4831,1905,1344,2812,1789
+chevrolet,Chevrolet,Camaro,Camaro (2016),2016,2018,,6.2 V8 6MT (640 HP),Gasoline,8,6162,659,881,6-speed manual,Rear Wheel Drive,3.8,,,4831,1905,1344,2812,1761
+chevrolet,Chevrolet,Camaro,Camaro (2013),2013,2015,,7l V8 6MT (500 HP),Gasoline,8,7008,507,652,6 speed manual,Rear Wheel Drive,,,,4884,1953,1331,2852,1733
+chevrolet,Chevrolet,Camaro,Camaro (2013),2013,2016,,3.6L V6 6AT RWD (323 HP),Gasoline,6,3564,328,377,6-speed automatic,Rear Wheel Drive,6.6,249,11.2,4836,1918,1377,2852,1684
+chevrolet,Chevrolet,Camaro,Camaro (2013),2013,2016,,3.6L V6 6MT RWD (323 HP),Gasoline,6,3564,328,377,6-speed manual,Rear Wheel Drive,6.1,249,11.8,4836,1918,1377,2852,1687
+chevrolet,Chevrolet,Camaro,Camaro (2013),2013,2016,,6.2L V8 6AT RWD (581 HP),Gasoline,8,6162,589,754,6-speed automatic,Rear Wheel Drive,4,296,16.8,4836,1918,1377,2852,1869
+chevrolet,Chevrolet,Camaro,Camaro (2013),2013,2016,,6.2L V8 6MT RWD (426 HP),Gasoline,8,6162,432,569,6-speed manual,Rear Wheel Drive,4.9,249,12.4,4836,1918,1377,2852,1746
+chevrolet,Chevrolet,Camaro,Camaro (2013),2013,2016,,6.2L V8 6MT RWD (581 HP),Gasoline,8,6162,589,754,6-speed manual,Rear Wheel Drive,4.1,290,14.7,4836,1918,1377,2852,1869
+chevrolet,Chevrolet,Camaro,Camaro (2012),2012,2015,,6.2L V8 6AT RWD (557 HP),Gasoline,8,6261,557,754,6-speed automatic,Rear Wheel Drive,4,296,16.8,4836,1918,1377,2852,1869
+chevrolet,Chevrolet,Camaro,Camaro (2012),2012,2015,,6.2L V8 6MT RWD (557 HP),Gasoline,8,6261,557,754,6-speed manual,Rear Wheel Drive,4.1,290,14.7,4836,1918,1377,2852,1869
+chevrolet,Chevrolet,Camaro,Camaro (2010),2010,2013,,6.2L V8 6MT RWD (420 HP),Gasoline,8,6162,421,563,6-speed automatic,Rear Wheel Drive,5.6,249,9.8,4968,1900,1491,2916,1775
+chevrolet,Chevrolet,Camaro,Camaro (2010),2010,2013,,6.2L V8 L99 6AT RWD (405 HP),Gasoline,8,6162,405,556,6-speed automatic,Rear Wheel Drive,5.4,249,12.4,4836,1918,1377,2852,1775
+chevrolet,Chevrolet,Camaro,Camaro (2010),2010,2013,,6.2L V8 LS3 6MT RWD (432 HP),Gasoline,8,6162,432,569,6-speed manual,Rear Wheel Drive,5.2,249,13.1,4836,1918,1377,2852,1751
+chevrolet,Chevrolet,Camaro,Camaro (2009),2009,2013,,3.6L V6 6AT RWD (300 HP),Gasoline,6,3564,311,370,6-speed automatic,Rear Wheel Drive,7,235,10.7,4836,1918,1377,2852,1700
+chevrolet,Chevrolet,Camaro,Camaro (2009),2009,2013,,3.6L V6 6AT RWD (328 HP),Gasoline,6,3564,328,377,6-speed automatic,Rear Wheel Drive,6.5,249,10.7,4836,1918,1377,2852,1714
+chevrolet,Chevrolet,Camaro,Camaro (2009),2009,2013,,3.6L V6 6MT RWD (328 HP),Gasoline,6,3564,328,377,6-speed manual,Rear Wheel Drive,6.2,249,11.2,4836,1918,1377,2852,1713
+chevrolet,Chevrolet,Camaro,Camaro (2009),2009,2013,,6.2L V8 6AT RWD (432 HP),Gasoline,8,6162,432,569,6-speed automatic,Rear Wheel Drive,5.4,249,10.9,4836,1918,1377,2852,1803
+chevrolet,Chevrolet,Camaro,Camaro (2009),2009,2013,,6.2L V8 6MT RWD (432 HP),Gasoline,8,6162,432,569,6-speed manual,Rear Wheel Drive,5.1,249,11.8,4836,1918,1377,2852,1769
+chevrolet,Chevrolet,Camaro,Camaro (2009),2009,2013,,7.0L V8 6MT RWD (500 HP),Gasoline,8,7008,507,637,6-speed manual,Rear Wheel Drive,4.1,249,15.7,4884,1953,1331,2852,1740
+chevrolet,Chevrolet,Camaro,Camaro (1997),1997,2002,,5.7L V8 6MT (315 HP),Gasoline,8,5665,315,461,6-Speed manual,Rear Wheel Drive,5.5,254,,4915,1882,1300,2568,1557
+chevrolet,Chevrolet,Camaro,Camaro (1997),1997,2002,,5.7L V8 4AT (320 HP),Gasoline,8,5655,324,468,4-speed automatic,Rear Wheel Drive,,,11.8,4915,1882,1300,2568,1560
+chevrolet,Chevrolet,Camaro,Camaro (1997),1997,2002,,5.7L V8 4AT (325 HP),Gasoline,8,5655,329,475,4-speed automatic,Rear Wheel Drive,,,11.2,4915,1882,1300,2568,1557
+chevrolet,Chevrolet,Camaro,Camaro (1997),1997,2002,,5.7L V8 6MT (320 HP),Gasoline,8,5655,324,468,6-speed manual,Rear Wheel Drive,,,11.2,4915,1882,1300,2568,1550
+chevrolet,Chevrolet,Camaro,Camaro (1997),1997,2002,,5.7L V8 6MT (325 HP),Gasoline,8,5655,329,475,6-speed manual,Rear Wheel Drive,5.5,254,10.7,4915,1882,1300,2568,1557
+chevrolet,Chevrolet,Camaro,Camaro (1997),1997,2002,,5.7L V8 4AT (325 HP),Gasoline,8,5665,329,475,4-speed automatic,Rear Wheel Drive,6.2,249,11.8,4915,1882,1316,2568,1630
+chevrolet,Chevrolet,Camaro,Camaro (1997),1997,2002,,5.7L V8 6MT (325 HP),Gasoline,8,5665,329,475,6-speed manual,Rear Wheel Drive,5.5,254,11.2,4915,1882,1316,2568,1623
+chevrolet,Chevrolet,Camaro,Camaro (1997),1997,2002,,5.7L 6MT (315 HP),Gasoline,8,5665,315,461,6-Speed manual,Rear Wheel Drive,5.5,254,,4915,1882,1316,2568,1623
+chevrolet,Chevrolet,Camaro,Camaro (1993),1993,2002,,3.4L V6 4AT RWD (160 HP),Gasoline,6,3350,162,271,4-speed automatic,Rear Wheel Drive,,,10.2,4907,1882,1303,2568,1496
+chevrolet,Chevrolet,Camaro,Camaro (1993),1993,2002,,3.4L V6 5MT RWD (160 HP),Gasoline,6,3350,162,271,5-speed manual,Rear Wheel Drive,,,10.2,4907,1882,1303,2568,1470
+chevrolet,Chevrolet,Camaro,Camaro (1993),1993,2002,,3.8L V6 4AT RWD (200 HP),Gasoline,6,3791,203,305,4-speed automatic,Rear Wheel Drive,,,10.7,4907,1882,1303,2568,1526
+chevrolet,Chevrolet,Camaro,Camaro (1993),1993,2002,,3.8L V6 5MT RWD (200 HP),Gasoline,6,3791,203,305,5-speed manual,Rear Wheel Drive,8.5,201,10.2,4907,1882,1303,2568,1507
+chevrolet,Chevrolet,Camaro,Camaro (1982),1982,1992,,2.5L 3AT RWD (90 HP),Gasoline,4,2471,91,179,3-speed automatic,Rear Wheel Drive,,,8.7,4770,1849,1270,2565,1305
+chevrolet,Chevrolet,Camaro,Camaro (1982),1982,1992,,2.5L 4MT RWD (90 HP),Gasoline,4,2471,91,179,4-speed manual,Rear Wheel Drive,,,8.4,4770,1849,1270,2565,1295
+chevrolet,Chevrolet,Camaro,Camaro (1982),1982,1992,,2.8L V6 3AT RWD (102 HP),Gasoline,6,2838,102,193,3-speed automatic,Rear Wheel Drive,,,9.8,4770,1849,1270,2565,1339
+chevrolet,Chevrolet,Camaro,Camaro (1982),1982,1992,,2.8L V6 4AT RWD (135 HP),Gasoline,6,2838,137,217,4-speed automatic,Rear Wheel Drive,,,10.7,4770,1849,1270,2565,1395
+chevrolet,Chevrolet,Camaro,Camaro (1982),1982,1992,,2.8L V6 4MT RWD (102 HP),Gasoline,6,2838,102,193,4-speed manual,Rear Wheel Drive,,,9.8,4770,1849,1270,2565,1329
+chevrolet,Chevrolet,Camaro,Camaro (1982),1982,1992,,2.8L V6 5MT RWD (135 HP),Gasoline,6,2838,137,217,5-speed manual,Rear Wheel Drive,,,11.8,4770,1849,1270,2565,1389
+chevrolet,Chevrolet,Camaro,Camaro (1982),1982,1992,,5.0L V8 3AT RWD (145 HP),Gasoline,8,5001,147,325,3-speed automatic,Rear Wheel Drive,,,12.4,4770,1849,1270,2565,1410
+chevrolet,Chevrolet,Camaro,Camaro (1982),1982,1992,,5.0L V8 4AT RWD (165 HP),Gasoline,8,5001,167,332,4-speed automatic,Rear Wheel Drive,,,11.8,4770,1849,1270,2565,1443
+chevrolet,Chevrolet,Camaro,Camaro (1982),1982,1992,,5.0L V8 4AT RWD (170 HP),Gasoline,8,5001,172,346,4-speed automatic,Rear Wheel Drive,,,11.8,4770,1849,1270,2565,1490
+chevrolet,Chevrolet,Camaro,Camaro (1977),1977,1981,,5.7L V8 3AT RWD (175 HP),Gasoline,8,5735,177.4,366,3-speed automatic,Rear Wheel Drive,,,18.1,5019,1892,1250,2743,1625
+chevrolet,Chevrolet,Camaro,Camaro (1977),1977,1981,,5.7L V8 3AT RWD (185 HP),Gasoline,8,5733,188,380,3-speed automatic,Rear Wheel Drive,,,11.5,5019,1890,1250,2743,1610
+chevrolet,Chevrolet,Camaro,Camaro (1977),1977,1981,,5.7L V8 4MT RWD (175 HP),Gasoline,8,5735,177.4,366,4-speed manual,Rear Wheel Drive,,,15.7,5019,1892,1250,2743,1625
+chevrolet,Chevrolet,Camaro,Camaro (1977),1977,1981,,5.7L V8 4MT RWD (185 HP),Gasoline,8,5733,188,380,4-speed manual,Rear Wheel Drive,,,13,5019,1890,1250,2743,1610
+chevrolet,Chevrolet,Camaro,Camaro (1974),1974,1974,,5.7L V8 3AT RWD (245 HP),Gasoline,8,5733,248,380,3-speed automatic,Rear Wheel Drive,,,22.4,4963,1890,1247,2743,1702
+chevrolet,Chevrolet,Camaro,Camaro (1974),1974,1974,,5.7L V8 4MT RWD (245 HP),Gasoline,8,5733,248,380,4-speed manual,Rear Wheel Drive,,,19.8,4963,1890,1247,2743,1690
+chevrolet,Chevrolet,Camaro,Camaro (1971),1971,1972,,5.7L V8 4AT (305 HP),Gasoline,8,5735,305,515,4-Speed automatic,Rear Wheel Drive,7.1,172,9.3,4755,1890,1283,2743,1637
+chevrolet,Chevrolet,Camaro,Camaro (1971),1971,1972,,6.5L V8 4AT (408 HP),Gasoline,8,6489,408,542,4-Speed automatic,Rear Wheel Drive,,,,4755,1890,1283,2743,
+chevrolet,Chevrolet,Camaro,Camaro (1970),1970,1981,,3.8L V6 3AT RWD (117 HP),Gasoline,6,3751,117,237,3-Speed automatic,Rear Wheel Drive,,,10.7,5019,1890,1250,2743,1520
+chevrolet,Chevrolet,Camaro,Camaro (1970),1970,1981,,3.8L V6 3MT RWD (115 HP),Gasoline,6,3751,117,237,3-speed manual,Rear Wheel Drive,,,10.7,5019,1890,1250,2743,1510
+chevrolet,Chevrolet,Camaro,Camaro (1970),1970,1981,,4.1L 2AT RWD (155 HP),Gasoline,6,4097,157,319,2-speed automatic,Rear Wheel Drive,,,,4775,1890,1273,2743,1440
+chevrolet,Chevrolet,Camaro,Camaro (1970),1970,1981,,4.1L 3AT RWD (100 HP),Gasoline,6,4097,101,237,3-speed automatic,Rear Wheel Drive,,,,4775,1890,1273,2743,1465
+chevrolet,Chevrolet,Camaro,Camaro (1970),1970,1981,,4.1L 3AT RWD (110 HP),Gasoline,6,4093,101,237,3-speed automatic,Rear Wheel Drive,,,,4775,1890,1273,2743,1588
+chevrolet,Chevrolet,Camaro,Camaro (1970),1970,1981,,4.1L 3AT RWD (115 HP),Gasoline,6,4093,172,258,3-speed automatic,Rear Wheel Drive,,,,4963,1890,1250,2743,1540
+chevrolet,Chevrolet,Camaro,Camaro (1970),1970,1981,,4.1L 3MT RWD (100 HP),Gasoline,6,4097,101,237,3-speed manual,Rear Wheel Drive,,,,4775,1890,1273,2743,1455
+chevrolet,Chevrolet,Camaro,Camaro (1970),1970,1981,,4.1L 3MT RWD (110 HP),Gasoline,6,4093,101.4,237,3-speed manual,Rear Wheel Drive,,,,4775,1890,1273,2743,1578
+chevrolet,Chevrolet,Camaro,Camaro (1970),1970,1981,,4.1L 3MT RWD (115 HP),Gasoline,6,4093,172,258,3-speed manual,Rear Wheel Drive,,,,4963,1890,1250,2743,1540
+chevrolet,Chevrolet,Camaro,Camaro (1970),1970,1981,,4.1L 3MT RWD (155 HP),Gasoline,6,4097,157,319,3-speed manual,Rear Wheel Drive,,,,4775,1890,1273,2743,1440
+chevrolet,Chevrolet,Camaro,Camaro (1970),1970,1981,,4.4L V8 3AT RWD (120 HP),Gasoline,8,4389,120,292,3-speed automatic,Rear Wheel Drive,,,,5019,1890,1250,2743,1567
+chevrolet,Chevrolet,Camaro,Camaro (1970),1970,1981,,5.0L V8 3AT RWD (130 HP),Gasoline,8,5025,132,312,3-speed automatic,Rear Wheel Drive,,,,4775,1890,1273,2743,1524
+chevrolet,Chevrolet,Camaro,Camaro (1970),1970,1981,,5.0L V8 3AT RWD (145 HP),Gasoline,8,5001,147,332,3-speed automatic,Rear Wheel Drive,,,,4963,1890,1250,2743,1637
+chevrolet,Chevrolet,Camaro,Camaro (1970),1970,1981,,5.0L V8 3AT RWD (155 HP),Gasoline,8,5001,157,325,3-speed automatic,Rear Wheel Drive,,,14.7,5019,1890,1250,2743,1575
+chevrolet,Chevrolet,Camaro,Camaro (1970),1970,1981,,5.0L V8 3AT RWD (200 HP),Gasoline,8,5012,203,407,3-speed automatic,Rear Wheel Drive,,,,4775,1890,1273,2743,1525
+chevrolet,Chevrolet,Camaro,Camaro (1970),1970,1981,,5.0L V8 3MT RWD (130 HP),Gasoline,8,5025,132,312,3-speed manual,Rear Wheel Drive,,,,4775,1890,1273,2743,1515
+chevrolet,Chevrolet,Camaro,Camaro (1970),1970,1981,,5.0L V8 3MT RWD (145 HP),Gasoline,8,5001,147,332,3-speed manual,Rear Wheel Drive,,,,4963,1890,1250,2743,1627
+chevrolet,Chevrolet,Camaro,Camaro (1970),1970,1981,,5.0L V8 3MT RWD (200 HP),Gasoline,8,5012,203,407,3-speed manual,Rear Wheel Drive,,,,4775,1890,1273,2743,1518
+chevrolet,Chevrolet,Camaro,Camaro (1970),1970,1981,,5.0L V8 4MT RWD (155 HP),Gasoline,8,5001,157,325,4-speed manual,Rear Wheel Drive,,,12.4,5019,1890,1250,2743,1565
+chevrolet,Chevrolet,Camaro,Camaro (1970),1970,1981,,5.7L V8 3AT RWD (165 HP),Gasoline,8,5733,167,380,3-speed automatic,Rear Wheel Drive,,,,4775,1890,1273,2743,1538
+chevrolet,Chevrolet,Camaro,Camaro (1970),1970,1981,,5.7L V8 3AT RWD (170 HP),Gasoline,8,5733,170,366,3-speed automatic,Rear Wheel Drive,,,,4963,1890,1250,2743,1637
+chevrolet,Chevrolet,Camaro,Camaro (1970),1970,1981,,5.7L V8 3AT RWD (250 HP),Gasoline,8,5733,253,468,3-speed automatic,Rear Wheel Drive,,,,4775,1890,1273,2743,1530
+chevrolet,Chevrolet,Camaro,Camaro (1970),1970,1981,,5.7L V8 4MT RWD (165 HP),Gasoline,8,5733,165,380,4-speed manual,Rear Wheel Drive,,,,4775,1890,1273,2743,1520
+chevrolet,Chevrolet,Camaro,Camaro (1970),1970,1981,,5.7L V8 4MT RWD (170 HP),Gasoline,8,5733,170,366,4-speed manual,Rear Wheel Drive,,,,4963,1890,1250,2743,1637
+chevrolet,Chevrolet,Camaro,Camaro (1970),1970,1981,,5.7L V8 4MT RWD (250 HP),Gasoline,8,5733,250,468,4-speed manual,Rear Wheel Drive,,,,4775,1890,1273,2743,1523
+chevrolet,Chevrolet,Camaro,Camaro (1967),1967,1968,,5.4,Gasoline,8,5354,279,481,,Rear Wheel Drive,,,,4689,1836,1293,2746,
+chevrolet,Chevrolet,Camaro,Camaro (1967),1967,1969,,5.7,Gasoline,8,5733,299,515,,Rear Wheel Drive,,,,4689,1836,1293,2746,
+chevrolet,Chevrolet,Camaro,Camaro (1967),1967,1970,,5.7L 2AT RWD (299 HP),Gasoline,8,5733,299,515,2-Speed automatic,Rear Wheel Drive,,,,4689,1836,1293,2746,1424
+chevrolet,Chevrolet,Camaro,Camaro Convertible (2018),2018,2023,,2.0T 6MT RWD (275 HP),Gasoline,4,1998,275,400,6-speed manual,Rear Wheel Drive,,,,4783,1897,1349,2812,1645
+chevrolet,Chevrolet,Camaro,Camaro Convertible (2018),2018,2023,,2.0T 8AT RWD (275 HP),Gasoline,4,1998,275,400,8-speed automatic,Rear Wheel Drive,,,,4783,1897,1349,2812,1636
+chevrolet,Chevrolet,Camaro,Camaro Convertible (2018),2018,2023,,3.0L V6 6MT RWD (335 HP),Gasoline,6,3640,335,383,6-speed manual,Rear Wheel Drive,,,,4783,1897,1349,2812,1693
+chevrolet,Chevrolet,Camaro,Camaro Convertible (2018),2018,2023,,3.0L V6 8AT RWD (335 HP),Gasoline,6,3640,335,383,8-speed automatic,Rear Wheel Drive,,,,4783,1897,1349,2812,1689
+chevrolet,Chevrolet,Camaro,Camaro Convertible (2016),2016,2018,,2.0L Turbo 6MT RWD (275 HP),Gasoline,4,1998,279,400,6-speed manual,Rear Wheel Drive,5.6,240,,4783,1897,1349,2812,
+chevrolet,Chevrolet,Camaro,Camaro Convertible (2016),2016,2018,,3.6L V6 6MT RWD (335 HP),Gasoline,6,3649,340,385,6-speed manual,Rear Wheel Drive,,240,11.2,4783,1897,1349,2812,
+chevrolet,Chevrolet,Camaro,Camaro Convertible (2016),2016,2018,,3.6L V6 8AT RWD (335 HP),Gasoline,6,3649,340,385,8-speed automatic,Rear Wheel Drive,5.3,240,10.2,4783,1897,1349,2812,
+chevrolet,Chevrolet,Camaro,Camaro Convertible (2016),2016,2018,,6.2L V8 6MT RWD (455 HP),Gasoline,8,6162,461,617,6-speed manual,Rear Wheel Drive,,290,12.4,4783,1897,1349,2812,
+chevrolet,Chevrolet,Camaro,Camaro Convertible (2016),2016,2018,,6.2L V8 8AT RWD (455 HP),Gasoline,8,6162,461,617,8-speed automatic,Rear Wheel Drive,4.1,180,11.8,4783,1897,1349,2812,
+chevrolet,Chevrolet,Camaro,Camaro Convertible (2016),2016,2018,,6.2L V8 10AT RWD (650 HP),Gasoline,8,6162,659,881,10-speed automatic,Rear Wheel Drive,3.8,,,4831,1905,1336,2812,1882
+chevrolet,Chevrolet,Camaro,Camaro Convertible (2016),2016,2018,,6.2L V8 6MT RWD (650 HP),Gasoline,8,6162,659,881,6-speed manual,Rear Wheel Drive,4,,,4882,1905,1336,2812,1866
+chevrolet,Chevrolet,Camaro,Camaro Convertible (2013),2013,2015,,3.6L V6 6AT RWD (327 HP),Gasoline,6,3556,328,377,6-speed automatic,Rear Wheel Drive,6.1,249,11.2,4841,1918,1389,2852,1850
+chevrolet,Chevrolet,Camaro,Camaro Convertible (2013),2013,2015,,3.6L V6 6MT RWD (327 HP),Gasoline,6,3556,328,377,6-speed manual,Rear Wheel Drive,6.1,249,11.8,4841,1918,1389,2852,1821
+chevrolet,Chevrolet,Camaro,Camaro Convertible (2013),2013,2015,,6.2L V8 6MT RWD (406 HP),Gasoline,8,6162,405,556,6-speed manual,Rear Wheel Drive,4.9,249,12.4,4841,1918,1389,28524,1872
+chevrolet,Chevrolet,Camaro,Camaro Convertible (2013),2013,2015,,6.2L V8 6MT RWD (432 HP),Gasoline,8,6162,432,569,6-speed manual,Rear Wheel Drive,4.6,249,12.4,4841,1918,1389,28524,1904
+chevrolet,Chevrolet,Camaro,Camaro Convertible (2012),2012,2016,,6.2L V8 6AT RWD (587 HP),Gasoline,8,6162,587,754,6-speed automatic,Rear Wheel Drive,4.2,249,16.8,4841,1918,1389,2852,1984
+chevrolet,Chevrolet,Camaro,Camaro Convertible (2012),2012,2016,,6.2L V8 6MT RWD (587 HP),Gasoline,8,6162,587,754,6-speed manual,Rear Wheel Drive,4.3,249,14.7,4841,1918,1389,2852,1961
+chevrolet,Chevrolet,Camaro,Camaro Convertible (2011),2011,2013,,3.6L V6 6AT RWD (315 HP),Gasoline,6,3564,315,370,6-automatic speed,Rear Wheel Drive,,,,4836,1918,1377,2852,1808
+chevrolet,Chevrolet,Camaro,Camaro Convertible (2011),2011,2013,,3.6L V6 6MT RWD (315 HP),Gasoline,6,3564,315,370,6-speed manual,Rear Wheel Drive,,,,4836,1918,1377,2852,1812
+chevrolet,Chevrolet,Camaro,Camaro Convertible (2011),2011,2013,,6.2L V8 6AT RWD (405 HP),Gasoline,8,6162,405,556,6-automatic speed,Rear Wheel Drive,,,,4836,1918,1377,2852,1891
+chevrolet,Chevrolet,Camaro,Camaro Convertible (2011),2011,2013,,6.2L V8 6MT RWD (432 HP),Gasoline,8,6162,432,569,6-speed manual,Rear Wheel Drive,,,,4836,1918,1377,2852,1867
+chevrolet,Chevrolet,Camaro,Camaro Convertible (1984),1984,1990,,5.0L V8 4AT RWD (155 HP),Gasoline,8,5001,157,332,4-speed automatic,Rear Wheel Drive,,,13.1,4877,1849,1278,2565,1455
+chevrolet,Chevrolet,Camaro,Camaro Convertible (1984),1984,1990,,5.0L V8 4AT RWD (170 HP),Gasoline,8,5001,172,339,4-speed automatic,Rear Wheel Drive,,,12.4,4877,1849,1278,2565,1480
+chevrolet,Chevrolet,Camaro,Camaro Convertible (1984),1984,1990,,5.0L V8 4AT RWD (215 HP),Gasoline,8,5001,218,373,4-speed automatic,Rear Wheel Drive,,,13.1,4877,1849,1278,2565,1470
+chevrolet,Chevrolet,Camaro,Camaro Convertible (1984),1984,1990,,5.0L V8 4AT RWD (230 HP),Gasoline,8,5001,233,447,4-speed automatic,Rear Wheel Drive,,,12.4,4877,1849,1278,2565,1500
+chevrolet,Chevrolet,Camaro,Camaro Convertible (1984),1984,1990,,5.0L V8 5MT RWD (155 HP),Gasoline,8,5001,157,332,5-speed manual,Rear Wheel Drive,,,13.1,4877,1849,1278,2565,1445
+chevrolet,Chevrolet,Camaro,Camaro Convertible (1984),1984,1990,,5.0L V8 5MT RWD (170 HP),Gasoline,8,5001,172,339,5-speed manual,Rear Wheel Drive,,,12.4,4877,1849,1278,2565,1464
+chevrolet,Chevrolet,Camaro,Camaro Convertible (1984),1984,1990,,5.0L V8 5MT RWD (190 HP),Gasoline,8,5001,193,325,5-speed manual,Rear Wheel Drive,,,12.4,4877,1849,1278,2565,1460
+chevrolet,Chevrolet,Camaro,Camaro Convertible (1984),1984,1990,,5.0L V8 5MT RWD (220 HP),Gasoline,8,5001,223,393,5-speed manual,Rear Wheel Drive,,,11.8,4877,1849,1278,2565,1480
+chevrolet,Chevrolet,Camaro,Camaro Convertible (1984),1984,1990,,5.7L V8 4AT RWD (245 HP),Gasoline,8,5733,248,468,4-speed automatic,Rear Wheel Drive,,,12.4,4877,1849,1278,2565,1520
+chevrolet,Chevrolet,Captiva,Captiva (2011),2011,2016,,2.4L DOHC AWD 6AT (167 HP),Gasoline,4,2384,167,230,6-speed automatic,All Wheel Drive,11.08,175,9.3,4674,1849,1727,2708,1868
+chevrolet,Chevrolet,Captiva,Captiva (2011),2011,2016,,2.4L DOHC AWD 6MT (167 HP),Gasoline,4,2384,167,230,6-speed manual,All Wheel Drive,10.3,187,9.3,4674,1849,1727,2708,1843
+chevrolet,Chevrolet,Captiva,Captiva (2011),2011,2016,,2.4L DOHC FWD 6AT (167 HP),Gasoline,4,2384,167,230,6-speed automatic,Front Wheel Drive,11.05,175,,4674,1849,1727,2708,1868
+chevrolet,Chevrolet,Captiva,Captiva (2011),2011,2016,,2.4L DOHC FWD 6MT (167 HP),Gasoline,4,2384,167,230,6-speed manual,Front Wheel Drive,10.5,190,8.9,4674,1849,1727,2708,1738
+chevrolet,Chevrolet,Captiva,Captiva (2011),2011,2016,,3.0L V6 AWD 6AT (258 HP),Gasoline,6,2997,258,287,6-speed automatic,All Wheel Drive,9.02,198,10.5,4674,1849,1727,2708,1890
+chevrolet,Chevrolet,Captiva,Captiva (2011),2011,2016,,2.2L DSL AWD 6AT (163 HP),Diesel,4,2231,163,251,6-speed automatic,All Wheel Drive,11.2,182,7.9,4674,1849,1727,2708,1953
+chevrolet,Chevrolet,Captiva,Captiva (2011),2011,2016,,2.2L DSL AWD 6AT (184 HP),Diesel,4,2231,184,400,6-speed automatic,All Wheel Drive,11,192,7.9,4674,1849,1727,2708,1953
+chevrolet,Chevrolet,Captiva,Captiva (2011),2011,2016,,2.2L DSL AWD 6MT (163 HP),Diesel,4,2231,163,251,6-speed manual,All Wheel Drive,11,188,6.4,4674,1849,1727,2708,1928
+chevrolet,Chevrolet,Captiva,Captiva (2011),2011,2016,,2.2L DSL AWD 6MT (184 HP),Diesel,4,2231,184,400,6-speed manual,All Wheel Drive,9.7,200,6.4,4674,1849,1727,2708,1928
+chevrolet,Chevrolet,Captiva,Captiva (2011),2011,2016,,2.2L DSL FWD 6AT (163 HP),Diesel,4,2231,163,251,6-speed automatic,Front Wheel Drive,11.1,183,7.5,4674,1849,1727,2708,1878
+chevrolet,Chevrolet,Captiva,Captiva (2011),2011,2016,,2.2L DSL FWD 6AT (184 HP),Diesel,4,2231,184,400,6-speed automatic,Front Wheel Drive,10,192,7.5,4674,1849,1727,2708,1953
+chevrolet,Chevrolet,Captiva,Captiva (2011),2011,2016,,2.2L DSL FWD 6MT (163 HP),Diesel,4,2231,163,251,6-speed manual,Front Wheel Drive,10.4,188,6.2,4674,1849,1727,2708,1853
+chevrolet,Chevrolet,Captiva,Captiva (2011),2011,2016,,2.2L DSL FWD 6MT (184 HP),Diesel,4,2231,184,400,6-speed manual,Front Wheel Drive,9.3,200,6.2,4674,1849,1727,2708,1928
+chevrolet,Chevrolet,Captiva,Captiva (2006),2006,2011,,2.4L 5MT FWD (136 HP),Gasoline,4,2405,136,220,5-speed manual,Front Wheel Drive,11.5,185,9.3,4636,1849,1720,2705,1685
+chevrolet,Chevrolet,Captiva,Captiva (2006),2006,2011,,2.4L 5MT FWD (136 HP),Gasoline,4,2405,136,220,5-speed manual,All Wheel Drive,11.5,183,9.3,4636,1849,1720,2705,1760
+chevrolet,Chevrolet,Captiva,Captiva (2006),2006,2011,,3.2L V6 5AT AWD (230 HP),Gasoline,6,3195,230,297,5-speed automatic,All Wheel Drive,8.8,204,11.5,4636,1849,1720,2705,1805
+chevrolet,Chevrolet,Captiva,Captiva (2006),2006,2011,,2.0L 5AT AWD (150 HP),Diesel,4,1991,150,320,5-speed automatic,All Wheel Drive,12.2,180,8.7,4636,1849,1720,2705,1835
+chevrolet,Chevrolet,Captiva,Captiva (2006),2006,2011,,2.0L 5MT AWD (150 HP),Diesel,4,1991,150,320,5-speed manual,All Wheel Drive,10.6,187,7.4,4636,1849,1720,2705,1820
+chevrolet,Chevrolet,Captiva,Captiva (2006),2006,2011,,2.0L 5MT FWD (127 HP),Diesel,4,1991,127,295,5-speed automatic,Front Wheel Drive,12,179,7.2,4636,1849,1720,2705,1720
+chevrolet,Chevrolet,Cavalier,Cavalier (2003),2003,2005,,2.2L 5MT (141 HP),Gasoline,4,2189,141,203,5-Speed manual,Front Wheel Drive,,,7.9,4641,1745,1346,2644,1188
+chevrolet,Chevrolet,Cavalier,Cavalier (2003),2003,2005,,2.2L 4AT FWD (141 HP),Gasoline,4,2189,141,203,"4-Speed, automatic",Front Wheel Drive,10.3,175,8.4,4580,1712,1392,2644,1191
+chevrolet,Chevrolet,Cavalier,Cavalier (2003),2003,2005,,2.2L 5MT FWD (141 HP),Gasoline,4,2189,141,203,"5-Speed, manual",Front Wheel Drive,9.3,180,8.4,4580,1712,1392,2644,1191
+chevrolet,Chevrolet,Cavalier,Cavalier (1995),1995,2000,,2.2L 4AT FWD (141 HP),Gasoline,4,2189,141,203,4-speed automatic,Front Wheel Drive,,,,4595,1745,1346,2644,
+chevrolet,Chevrolet,Cavalier,Cavalier (1995),1995,2000,,2.2L 5MT FWD (116 HP),Gasoline,4,2189,116,183,5-Speed manual,Front Wheel Drive,,,,4595,1745,1346,2644,1287
+chevrolet,Chevrolet,Cavalier,Cavalier (1994),1994,2003,,2.2L 3AT FWD (116 HP),Gasoline,4,2189,116,183,3-speed automatic,Front Wheel Drive,10.3,170,,4590,1750,1349,2644,1190
+chevrolet,Chevrolet,Cavalier,Cavalier (1994),1994,2003,,2.2L 5MT FWD (141 HP),Gasoline,4,2189,141,203,"Manual, 5 Speed",Front Wheel Drive,9,180,8.3,4595,1745,1346,2644,1188
+chevrolet,Chevrolet,Cavalier,Cavalier (1994),1994,2003,,2.2L 4AT FWD (115 HP),Gasoline,4,2190,117,183,4-speed automatic,Front Wheel Drive,11.3,164,9,4595,1725,1389,2644,1214
+chevrolet,Chevrolet,Cavalier,Cavalier (1994),1994,2003,,2.2L 4AT FWD (120 HP),Gasoline,4,2190,122,176,4-speed automatic,Front Wheel Drive,,,9,4595,1725,1389,2644,1241
+chevrolet,Chevrolet,Cavalier,Cavalier (1994),1994,2003,,2.2L 5MT FWD (115 HP),Gasoline,4,2190,117,183,5-speed manual,Front Wheel Drive,10,170,8.4,4595,1725,1389,2644,1214
+chevrolet,Chevrolet,Cavalier,Cavalier (1994),1994,2003,,2.2L 5MT FWD (120 HP),Gasoline,4,2190,122,176,5-speed manual,Front Wheel Drive,,,8.1,4595,1725,1389,2644,1214
+chevrolet,Chevrolet,Cavalier,Cavalier (1994),1994,2003,,2.4L 4AT FWD (150 HP),Gasoline,4,2392,152,210,4-speed automatic,Front Wheel Drive,9.3,190,8.1,4595,1725,1389,2644,1238
+chevrolet,Chevrolet,Celta,Celta (2000),2000,2015,,1.4L 5MT (92 HP),Gasoline,4,1398,92,121,5 speed manual,Front Wheel Drive,11.1,171,,3800,1626,1407,2443,1350
+chevrolet,Chevrolet,Celta,Celta (2000),2000,2015,,1.4L 5MT (92 HP),Gasoline,4,1398,92,121,5-Speed manual,Front Wheel Drive,15.5,151,,3800,1626,1407,2443,834
+chevrolet,Chevrolet,Chevelle,Chevelle (1969),1969,1977,,6.5L V8 4MT (375 HP),Gasoline,8,6489,375,563,4-Speed manual,Rear Wheel Drive,,,,,,,2949,
+chevrolet,Chevrolet,Chevelle,Chevelle (1963),1963,1967,,3.2L 3MT RWD (122 HP),Gasoline,6,3185,122,240,3-speed manual,Rear Wheel Drive,14.5,154,,4925,1895,1384,2921,1365
+chevrolet,Chevrolet,Classic,Classic (2002),2002,2016,,1.4L 5MT FWD (99 HP),Gasoline,4,1398,99,129,5-speed manual,Front Wheel Drive,12.3,175,6.8,4153,1608,1440,2443,1043
+chevrolet,Chevrolet,Classic,Classic (2002),2002,2016,,1.8L 5MT FWD (102 HP),Gasoline,4,1796,102,165,5-speed manual,Front Wheel Drive,10.9,179,0,4153,1608,1440,2443,1080
+chevrolet,Chevrolet,Classic,Classic (2002),2002,2016,,1.0L Flexpower 5MT FWD (79 HP),Ethanol,4,999,79,92,5-speed manual,Front Wheel Drive,14.3,166,,4153,1608,1440,2443,1065
+chevrolet,Chevrolet,Classic,Classic (2002),2002,2016,,1.4L Flexpower 5MT FWD (105 HP),Ethanol,4,1398,105,132,5-speed manual,Front Wheel Drive,12.2,180,10.2,4153,1608,1440,2443,1043
+chevrolet,Chevrolet,Classic,Classic (2002),2002,2016,,1.8L Flexpower 5MT FWD (109 HP),Ethanol,4,1796,109,178,5-speed manual,Front Wheel Drive,10.4,180,0,4153,1608,1440,2443,1117
+chevrolet,Chevrolet,Cobalt,Cobalt Coupe (2005),2005,2007,,2.0L 5MT (205 HP),Gasoline,4,1998,207.8,271,5-speed manual,Front Wheel Drive,7,,10.2,4580,1725,1415,2624,1357
+chevrolet,Chevrolet,Cobalt,Cobalt Coupe (2004),2004,2007,,2.2L 4AT FWD (145 HP),Gasoline,4,2189,147,210,4-speed automatic,Front Wheel Drive,,,9,4580,1725,1415,2624,1286
+chevrolet,Chevrolet,Cobalt,Cobalt Coupe (2004),2004,2007,,2.2L 5MT FWD (145 HP),Gasoline,4,2189,147,210,5-speed manual,Front Wheel Drive,,,8,4580,1725,1415,2624,1274
+chevrolet,Chevrolet,Cobalt,Cobalt Coupe (2004),2004,2007,,2.4L 4AT FWD (173 HP),Gasoline,4,2374,175,221,4-speed automatic,Front Wheel Drive,,,10.2,4580,1725,1415,2624,1286
+chevrolet,Chevrolet,Cobalt,Cobalt Coupe (2004),2004,2007,,2.4L 5MT FWD (173 HP),Gasoline,4,2374,175,221,5-speed manual,Front Wheel Drive,,,,4580,1725,1415,2624,1274
+chevrolet,Chevrolet,Cobalt,Cobalt Sedan (2011),2011,2020,,1.4L ECONO.FLEX 5MT FWD (97 HP),Gasoline,4,1389,97,126,5-speed manual,Front Wheel Drive,11.5,171,,4478,2004,1514,2619,1072
+chevrolet,Chevrolet,Cobalt,Cobalt Sedan (2011),2011,2020,,1.8L 5MT FWD (105 HP),Gasoline,4,1796,105,161,5-speed manual,Front Wheel Drive,,,,4478,2004,1514,2619,
+chevrolet,Chevrolet,Cobalt,Cobalt Sedan (2011),2011,2020,,1.8L 6AT FWD (105 HP),Gasoline,4,1796,105,161,6 speed automatic,Front Wheel Drive,,,,4478,2004,1514,2619,
+chevrolet,Chevrolet,Cobalt,Cobalt Sedan (2011),2011,2020,,1.4D 5MT FWD (75 HP),Diesel,4,1796,75,190,5 speed manual,Front Wheel Drive,,,,4478,2004,1514,2619,
+chevrolet,Chevrolet,Cobalt,Cobalt Sedan (2008),2008,2010,,2.2L Ecotec 4AT FWD (148 HP),Gasoline,4,2198,150,206,4-speed automatic,Front Wheel Drive,10,177,9,4585,1725,1450,2624,1270
+chevrolet,Chevrolet,Cobalt,Cobalt Sedan (2008),2008,2010,,2.2L Ecotec 5MT FWD (148 HP),Gasoline,4,2198,150,206,5-speed manual,Front Wheel Drive,9.6,180,8.7,4585,1725,1450,2624,1261
+chevrolet,Chevrolet,Cobalt,Cobalt Sedan (2008),2008,2010,,2.4L Ecotec 4AT FWD (171 HP),Gasoline,4,2374,174,226,4-speed automatic,Front Wheel Drive,8.9,196,9.4,4585,1725,1450,2624,1310
+chevrolet,Chevrolet,Cobalt,Cobalt Sedan (2008),2008,2010,,2.4L Ecotec 5MT FWD (171 HP),Gasoline,4,2374,173,226,5-speed manual,Front Wheel Drive,8.5,200,9,4585,1725,1450,2624,1302
+chevrolet,Chevrolet,Cobalt,Cobalt Sedan (2008),2008,2010,,2.0L Ecotec 5MT FWD (260 HP),Gasoline,4,1998,264,353,5-speed manual,Front Wheel Drive,6.2,251,9,4585,1725,1450,2624,1349
+chevrolet,Chevrolet,Cobalt,Cobalt Sedan (2004),2004,2007,,2.2L 4AT FWD (141 HP),Gasoline,4,2189,141,203,4-Speed automatic,Front Wheel Drive,,,8.4,4585,1725,1450,2624,
+chevrolet,Chevrolet,Cobalt,Cobalt Sedan (2004),2004,2007,,2.2L 5MT FWD (141 HP),Gasoline,4,2189,141,203,5-Speed manual,Front Wheel Drive,6.2,225,8,4585,1725,1450,2624,1301
+chevrolet,Chevrolet,Cobalt,Cobalt Sedan (2004),2004,2007,,2.4L 5MT FWD (174 HP),Gasoline,4,2384,174,221,5-Speed manual,Front Wheel Drive,6.7,220,,4585,1725,1450,2624,1318
+chevrolet,Chevrolet,Colorado,Colorado Double Cab (2023),2023,,,2.7L Turbo 8AT AWD (314 HP),Gasoline,4,,314.3,560,8-speed automatic,All Wheel Drive,,,,5438,2144,2078,3327,2388
+chevrolet,Chevrolet,Colorado,Colorado Double Cab (2015),2015,2022,,2.5L DOHC 6AT RWD (200 HP),Gasoline,4,2457,203,259,6-speed automatic,Rear Wheel Drive,,,11.2,5403,1887,1796,3259,1819
+chevrolet,Chevrolet,Colorado,Colorado Double Cab (2015),2015,2022,,3.6L V6 6AT AWD (305 HP),Gasoline,6,3564,305,365,6-speed automatic,All Wheel Drive,,,11.8,5403,1887,1793,3251,1896
+chevrolet,Chevrolet,Colorado,Colorado Double Cab (2015),2015,2022,,3.6L V6 6AT AWD L (305 HP),Gasoline,6,3564,305,365,6-speed automatic,All Wheel Drive,,,11.8,5712,1887,1791,3569,2019
+chevrolet,Chevrolet,Colorado,Colorado Double Cab (2015),2015,2022,,3.6L V6 6AT L RWD (305 HP),Gasoline,6,3564,305,365,6-speed automatic,Rear Wheel Drive,,,11.2,5712,1887,1793,3569,1919
+chevrolet,Chevrolet,Colorado,Colorado Double Cab (2015),2015,2022,,3.6L V6 6AT RWD (305 HP),Gasoline,6,3564,305,365,6-speed automatic,Rear Wheel Drive,,,11.2,5403,1887,1796,3259,1896
+chevrolet,Chevrolet,Colorado,Colorado Double Cab (2015),2015,2022,,2.8L Duramax 6AT AWD (181 HP),Diesel,4,2753,184,500,6-speed automatic,All Wheel Drive,,,10.2,5403,1887,1796,3259,2111
+chevrolet,Chevrolet,Colorado,Colorado Double Cab (2015),2015,2022,,2.8L Duramax 6AT RWD (181 HP),Diesel,4,2753,184,500,6-speed automatic,Rear Wheel Drive,,,9.4,5403,1887,1796,3259,1917
+chevrolet,Chevrolet,Colorado,Colorado Double Cab (2009),2009,2012,,2.9L 5MT (185 HP),Gasoline,4,2921,185,258,5-speed manual,Rear Wheel Drive,,,10.9,5260,1717,1656,3200,1673
+chevrolet,Chevrolet,Colorado,Colorado Double Cab (2009),2009,2012,,3.7L 4AT (241 HP),Gasoline,5,3654,242,328,4-speed automatic,Rear Wheel Drive,,,11.8,5260,1717,1656,3200,1715
+chevrolet,Chevrolet,Colorado,Colorado Double Cab (2009),2009,2012,,5.3L V8 4AT (300 HP),Gasoline,8,5328,300,434,4-speed automatic,Rear Wheel Drive,,,13.1,5260,1717,1656,3200,1820
+chevrolet,Chevrolet,Colorado,Colorado Double Cab (2003),2003,2008,,2.8L 4AT FWD (175 HP),Gasoline,4,2770,177,251,5-speed manual,Front Wheel Drive,,,10.5,5260,1717,1648,3198,1596
+chevrolet,Chevrolet,Colorado,Colorado Double Cab (2003),2003,2008,,2.9L 4AT FWD (242 HP),Gasoline,4,2921,189,258,4-speed automatic,Front Wheel Drive,,,,5260,1717,1656,3198,1715
+chevrolet,Chevrolet,Colorado,Colorado Double Cab (2003),2003,2008,,3.5L 4AT RWD (220 HP),Gasoline,5,3460,220,305,5-Speed manual,Rear Wheel Drive,,,11,5260,1717,1656,3198,
+chevrolet,Chevrolet,Colorado,Colorado Double Cab (2003),2003,2008,,3.5L 4MT AWD (220 HP),Gasoline,4,3460,220,305,4-speed manual,All Wheel Drive,,,,5260,1717,1656,3198,1671
+chevrolet,Chevrolet,Colorado,Colorado Double Cab (2003),2003,2008,,3.7L 4AT AWD (242 HP),Gasoline,5,3648,246,328,4-Speed automatic,All Wheel Drive,,,,5260,1717,1656,3198,1671
+chevrolet,Chevrolet,Colorado,Colorado Extended Cab (2015),2015,2022,,2.5L DOHC 6AT AWD (200 HP),Gasoline,4,2457,203,259,6-speed automatic,All Wheel Drive,,,11.8,5403,1887,1786,3259,1878
+chevrolet,Chevrolet,Colorado,Colorado Extended Cab (2015),2015,2022,,2.5L DOHC 6AT RWD (200 HP),Gasoline,4,2457,203,259,6-speed automatic,Rear Wheel Drive,,,11.2,5403,1887,1788,3259,1778
+chevrolet,Chevrolet,Colorado,Colorado Extended Cab (2015),2015,2022,,3.6L V6 6AT AWD (305 HP),Gasoline,6,3564,309,365,6-speed automatic,All Wheel Drive,,,11.8,5403,1887,1786,3259,1955
+chevrolet,Chevrolet,Colorado,Colorado Extended Cab (2015),2015,2022,,3.6L V6 6AT RWD (305 HP),Gasoline,6,3564,309,365,6-speed automatic,Rear Wheel Drive,,,11.2,5403,1887,1788,3259,1855
+chevrolet,Chevrolet,Colorado,Colorado Extended Cab (2009),2009,2012,,2.9L 5MT (185 HP),Gasoline,4,2921,188,258,5-speed manual,Rear Wheel Drive,,,10.9,5260,1717,1648,3200,1614
+chevrolet,Chevrolet,Colorado,Colorado Extended Cab (2009),2009,2012,,3.7L 4AT (241 HP),Gasoline,5,3654,245,328,4-speed automatic,Rear Wheel Drive,,,11.8,5260,1717,1648,3200,
+chevrolet,Chevrolet,Colorado,Colorado Extended Cab (2009),2009,2012,,5.3L V8 4AT (300 HP),Gasoline,8,5328,305,434,4-speed automatic,Rear Wheel Drive,,,13.1,5260,1717,1648,3200,
+chevrolet,Chevrolet,Colorado,Colorado Extended Cab (2003),2003,2008,,2.8L 4AT (175 HP),Gasoline,4,2770,175,251,4-speed automatic,Front Wheel Drive,,,10.5,5260,1717,1648,3198,1521
+chevrolet,Chevrolet,Colorado,Colorado Extended Cab (2003),2003,2008,,2.8L 5MT (175 HP),Gasoline,4,2770,175,251,5-speed manual,Front Wheel Drive,,,10.5,5260,1717,1648,3198,1521
+chevrolet,Chevrolet,Colorado,Colorado Extended Cab (2003),2003,2008,,2.9L 5MT AWD (185 HP),Gasoline,4,2921,185,242,5-speed manual,All Wheel Drive,,,,5260,1717,1648,3198,1570
+chevrolet,Chevrolet,Colorado,Colorado Extended Cab (2003),2003,2008,,3.5L 4AT (220 HP),Gasoline,5,3460,220,305,4-speed automatic,Rear Wheel Drive,,,11,5260,1717,1648,3198,
+chevrolet,Chevrolet,Colorado,Colorado Extended Cab (2003),2003,2008,,3.5L 5MT (220 HP),Gasoline,5,3460,220,305,5-speed manual,Rear Wheel Drive,,,11,5260,1717,1648,3198,1521
+chevrolet,Chevrolet,Colorado,Colorado Extended Cab (2003),2003,2008,,3.7L 4AT AWD (242 HP),Gasoline,5,3654,242,328,4-speed automatic,All Wheel Drive,,,,5260,1717,1648,3198,1688
+chevrolet,Chevrolet,Colorado,Colorado Extended Cab (2003),2003,2008,,3.7L 5MT AWD (242 HP),Gasoline,5,3654,242,328,5-speed manual,All Wheel Drive,,,,5260,1717,1648,3198,1688
+chevrolet,Chevrolet,Colorado Regular Cab,Colorado Regular Cab (2009),2009,2012,,2.9L 5MT (185 HP),Gasoline,4,2921,188,258,5-speed manual,Rear Wheel Drive,,,10.9,4887,1717,1648,2827,1527
+chevrolet,Chevrolet,Colorado Regular Cab,Colorado Regular Cab (2009),2009,2012,,3.7L 4AT (241 HP),Gasoline,5,3654,245,328,4-speed automatic,Rear Wheel Drive,,,11.8,4887,1717,1648,2827,1527
+chevrolet,Chevrolet,Colorado Regular Cab,Colorado Regular Cab (2003),2003,2008,,2.8L 5MT (177 HP),Gasoline,4,2770,177,251,5-Speed manual,Front Wheel Drive,,,10.5,4897,1717,1648,2824,1417
+chevrolet,Chevrolet,Colorado Regular Cab,Colorado Regular Cab (2003),2003,2008,,2.9L 5MT (188 HP),Gasoline,4,2912,188,225,5-Speed manual,Front Wheel Drive,,,,4897,1717,1648,2824,1498
+chevrolet,Chevrolet,Colorado Regular Cab,Colorado Regular Cab (2003),2003,2008,,3.5L 5MT (223 HP),Gasoline,5,3460,223,305,5-Speed manual,Front Wheel Drive,,,11,4897,1717,1648,2824,1560
+chevrolet,Chevrolet,Colorado Regular Cab,Colorado Regular Cab (2003),2003,2008,,3.7L 4AT (245 HP),Gasoline,5,3654,245,242,4-speed automatic,Front Wheel Drive,,,,4897,1717,1648,2824,1599
+chevrolet,Chevrolet,Corvette,Corvette Convertible (2023),2023,,,6.2L V8 8AT e-AWD (655 HP),Hybrid Gasoline,8,6162,502,637,8-speed automatic DCT,All Wheel Drive,2.6,209,,4689,2024,1234,2723,1749
+chevrolet,Chevrolet,Corvette,Corvette Convertible (2013),2013,2019,,6.2l V8 AT (450 HP),Gasoline,8,6162,450,610,6 speed paddle-shift automatic,Rear Wheel Drive,4,306,9,4496,1877,1234,2710,1525
+chevrolet,Chevrolet,Corvette,Corvette Convertible (2013),2013,2019,,6.2l V8 MT (450 HP),Gasoline,8,6162,450,610,6 speed paddle-shift automatic,Rear Wheel Drive,4.2,282,12.2,4496,1877,1234,2710,1525
+chevrolet,Chevrolet,Corvette,Corvette Convertible (2012),2012,2013,,7.0L V8 LS7,Gasoline,8,7008,505,637,6 speed manual,Rear Wheel Drive,3.8,306,,4460,1928,1237,2685,1522
+chevrolet,Chevrolet,Corvette,Corvette Convertible (2009),2009,2013,,6.2L V8 LS3 6AT RWD (430 HP),Gasoline,8,6162,436,575,6-speed automatic,Rear Wheel Drive,4.4,299,13.4,4460,1928,1237,2685,1460
+chevrolet,Chevrolet,Corvette,Corvette Convertible (2009),2009,2013,,6.2L V8 LS3 6MT RWD (430 HP),Gasoline,8,6162,436,575,6-speed manual,Rear Wheel Drive,4.3,299,13.3,4460,1928,1237,2685,1460
+chevrolet,Chevrolet,Corvette,Corvette Convertible (2008),2008,2013,,6.2L V8 LS3 6AT RWD (430 HP),Gasoline,8,6162,437,591,6-speed automatic,Rear Wheel Drive,4.6,306,10.7,4435,1844,1245,2685,1461
+chevrolet,Chevrolet,Corvette,Corvette Convertible (2008),2008,2013,,6.2L V8 LS3 6MT RWD (430 HP),Gasoline,8,6162,437,591,6-speed manual,Rear Wheel Drive,4.4,306,11.2,4435,1844,1245,2685,1461
+chevrolet,Chevrolet,Corvette,Corvette Convertible (2004),2004,2008,,6.0L V8 4AT RWD (400 HP),Gasoline,8,5967,405.5,542,4-speed automatic,Rear Wheel Drive,,299,11.8,4445,1854,1245,2639,1451
+chevrolet,Chevrolet,Corvette,Corvette Convertible (2004),2004,2008,,6.0L V8 6AT RWD (430 HP),Gasoline,8,5967,436,575,6-speed automatic,Rear Wheel Drive,,299,13.1,4445,1854,1245,2639,1461
+chevrolet,Chevrolet,Corvette,Corvette Convertible (2004),2004,2008,,6.0L V8 6MT RWD (400 HP),Gasoline,8,5967,405.5,542,6-speed manual,Rear Wheel Drive,4.4,299,11.2,4445,1854,1245,2639,1442
+chevrolet,Chevrolet,Corvette,Corvette Convertible (2004),2004,2008,,6.0L V8 6MT RWD (430 HP),Gasoline,8,5967,436,575,6-speed manual,Rear Wheel Drive,,299,12.4,4445,1854,1245,2639,1461
+chevrolet,Chevrolet,Corvette,Corvette Convertible (1998),1998,2004,,5.7L V8 4AT RWD (345 HP),Gasoline,8,5665,350,475,4-speed automatic,Rear Wheel Drive,5.3,277,11.8,4567,1869,1214,2657,1476
+chevrolet,Chevrolet,Corvette,Corvette Convertible (1998),1998,2004,,5.7L V8 4AT RWD (350 HP),Gasoline,8,5665,350,475,4-speed automatic,Rear Wheel Drive,5.3,282,11.2,4567,1869,1214,2657,1458
+chevrolet,Chevrolet,Corvette,Corvette Convertible (1998),1998,2004,,5.7L V8 6MT RWD (345 HP),Gasoline,8,5665,350,475,6-speed manual,Rear Wheel Drive,5,277,11.2,4567,1869,1214,2657,1456
+chevrolet,Chevrolet,Corvette,Corvette Convertible (1998),1998,2004,,5.7L V8 6MT RWD (350 HP),Gasoline,8,5665,355,508,6-speed manual,Rear Wheel Drive,4.7,285,10.7,4567,1869,1214,2657,1456
+chevrolet,Chevrolet,Corvette,Corvette Convertible (1984),1984,1996,,5.7L 4AT RWD (238 HP),Gasoline,8,5735,238,447,4-Speed automatic,Rear Wheel Drive,6.2,230,12,4534,1796,1176,2443,1524
+chevrolet,Chevrolet,Corvette,Corvette Convertible (1984),1984,1996,,5.7L 4AT RWD (305 HP),Gasoline,8,5735,305,447,4-Speed automatic,Rear Wheel Drive,,,,4534,1796,1176,2443,
+chevrolet,Chevrolet,Corvette,Corvette Convertible (1984),1984,1996,,5.7L V4 4AT RWD (243 HP),Gasoline,8,5735,243,,4-Speed automatic,Rear Wheel Drive,,,,4534,1796,1176,2443,
+chevrolet,Chevrolet,Corvette,Corvette Convertible (1958),1958,1962,,4.6L V8 3MT (290 HP),Gasoline,8,4640,290,290,3-speed manual,Rear Wheel Drive,9.2,166,,4501,1788,1298,2591,1370
+chevrolet,Chevrolet,Corvette,Corvette Convertible (1955),1955,1956,,4.3L V8 3MT (197 HP),Gasoline,8,4343,197,353,3-speed manual,Rear Wheel Drive,11.4,193,,4242,1834,1323,2591,1272
+chevrolet,Chevrolet,Corvette,Corvette Convertible (1953),1953,1955,,3.9L 3AT (153 HP),Gasoline,6,3859,153,302,3-Automatic speed,Rear Wheel Drive,11.5,,,4242,1834,1323,2591,1293
+chevrolet,Chevrolet,Corvette,Corvette Coupe (2023),2023,,,6.2L V8 8AT e-AWD (655 HP),Hybrid Gasoline,8,6162,502,637,8-speed automatic DCT,All Wheel Drive,2.6,209,,4689,2024,1234,2723,1712
+chevrolet,Chevrolet,Corvette,Corvette Coupe (2019),2019,,,6.2L V8 8AT (497 HP),Gasoline,8,6162,497,630,8-speed automatic,Rear Wheel Drive,,312,,4630,1933,1234,2723,1530
+chevrolet,Chevrolet,Corvette,Corvette Coupe (2013),2013,2019,,6.2L V8 7MT (460 HP),Gasoline,8,6162,466,624,7-speed manual,Rear Wheel Drive,4.2,290,12,4496,1877,1234,2710,1539
+chevrolet,Chevrolet,Corvette,Corvette Coupe (2013),2013,2019,,6.2L V8 8AT (460 HP),Gasoline,8,6162,466,624,8-speed automatic,Rear Wheel Drive,3.8,290,14.7,4496,1877,1234,2710,1560
+chevrolet,Chevrolet,Corvette,Corvette Coupe (2008),2008,2013,,6.2L V8 LS3 6AT RWD (430 HP),Gasoline,8,6162,437,575,6-speed automatic,Rear Wheel Drive,4.4,299,13.4,4435,1844,1245,2685,1459
+chevrolet,Chevrolet,Corvette,Corvette Coupe (2008),2008,2013,,6.2L V8 LS3 6MT RWD (430 HP),Gasoline,8,6162,437,575,6-speed manual,Rear Wheel Drive,4.3,299,13.3,4435,1844,1245,2685,1459
+chevrolet,Chevrolet,Corvette,Corvette Coupe (2004),2004,2008,,6.0 V8 6AT (400 HP),Gasoline,8,5967,405.5,542,6-speed automatic,Rear Wheel Drive,,299,11.2,4435,1844,1247,2685,1442
+chevrolet,Chevrolet,Corvette,Corvette Coupe (2004),2004,2008,,6.0 V8 6MT (400 HP),Gasoline,8,5967,405.5,542,6-speed manual,Rear Wheel Drive,4.4,299,11.2,4435,1844,1247,2685,1442
+chevrolet,Chevrolet,Corvette,Corvette Coupe (2004),2004,2008,,6.2 V8 6AT (430 HP),Gasoline,8,6162,436,450,6-speed automatic,Rear Wheel Drive,,306,13.1,4435,1844,1247,2685,1459
+chevrolet,Chevrolet,Corvette,Corvette Coupe (2004),2004,2008,,6.2 V8 6MT (430 HP),Gasoline,8,6162,436,450,6-speed manual,Rear Wheel Drive,,306,12.4,4435,1844,1247,2685,1459
+chevrolet,Chevrolet,Corvette,Corvette Coupe (2002),2002,2004,,5.7 V8 6MT (405 HP),Gasoline,8,5665,411,543,6-speed manual,Rear Wheel Drive,4.2,275,10.2,4567,1869,1212,2657,1458
+chevrolet,Chevrolet,Corvette,Corvette Coupe (1997),1997,2004,,5.7L V8 4AT RWD (345 HP),Gasoline,8,5665,349.8,475,4-speed automatic,Rear Wheel Drive,5.5,277,11.8,4567,1869,1212,2657,1465
+chevrolet,Chevrolet,Corvette,Corvette Coupe (1997),1997,2004,,5.7L V8 4AT RWD (350 HP),Gasoline,8,5665,354.9,508,4-speed automatic,Rear Wheel Drive,5.3,282,11.2,4567,1869,1212,2657,1460
+chevrolet,Chevrolet,Corvette,Corvette Coupe (1997),1997,2004,,5.7L V8 6MT RWD (345 HP),Gasoline,8,5665,349.8,475,6-speed manual,Rear Wheel Drive,5,277,11.2,4567,1869,1212,2657,1458
+chevrolet,Chevrolet,Corvette,Corvette Coupe (1997),1997,2004,,5.7L V8 6MT RWD (350 HP),Gasoline,8,5665,354.9,508,6-speed manual,Rear Wheel Drive,4.7,282,10.7,4567,1869,1212,2657,1458
+chevrolet,Chevrolet,Corvette,Corvette Coupe (1983),1983,1996,,5.7L 5MT V8 RWD (234 HP),Gasoline,8,5735,234,447,5-Speed manual,Rear Wheel Drive,,200,,4534,1796,1176,2443,1438
+chevrolet,Chevrolet,Corvette,Corvette Coupe (1983),1983,1996,,5.7L V8 5MT RWD (208 HP),Gasoline,8,5735,208,393,5-Speed manual,Rear Wheel Drive,,241,,4534,1796,1176,2443,1459
+chevrolet,Chevrolet,Corvette,Corvette Coupe (1983),1983,1996,,5.7L V8 5MT RWD (249 HP),Gasoline,8,5735,249,,,Rear Wheel Drive,,,,4534,1796,1176,2443,
+chevrolet,Chevrolet,Corvette,Corvette Coupe (1983),1983,1996,,5.7L V8 5MT RWD (253 HP),Gasoline,8,5735,253,468,5-Speed manual,Rear Wheel Drive,,,,4534,1796,1176,2443,
+chevrolet,Chevrolet,Corvette,Corvette Coupe (1983),1983,1996,,5.7L V8 5MT RWD (305 HP),Gasoline,8,5735,305,447,5-Speed manual,Rear Wheel Drive,,,,4534,1796,1176,2443,
+chevrolet,Chevrolet,Corvette,Corvette Coupe (1969),1969,1982,,5.4,Gasoline,8,5354,304,488,"Manual, 3 Speed",Rear Wheel Drive,,200,,4636,1753,1214,2489,1402
+chevrolet,Chevrolet,Corvette,Corvette Coupe (1967),1967,1982,,5.4L V8 4MT (304 HP),Gasoline,8,5354,304,488,4-Speed manual,Rear Wheel Drive,,,,4636,1753,1194,2489,1450
+chevrolet,Chevrolet,Corvette,Corvette Coupe (1967),1967,1982,,7.0L V8 4MT (429 HP),Gasoline,8,6998,429,635,4-Speed manual,Rear Wheel Drive,,,,4651,1760,1229,2499,1460
+chevrolet,Chevrolet,Corvette,Corvette Coupe (1962),1962,1967,,5.4L V8 3MT (304 HP),Gasoline,8,5356,304,488,3-speed manual,Rear Wheel Drive,,237,,4453,1770,1275,2489,1423
+chevrolet,Chevrolet,Corvette,Corvette Coupe (1956),1956,1968,,4.6L V8 2AT RWD (220 HP),Gasoline,8,4638,223.1,407,2-speed automatic,Rear Wheel Drive,,,16.8,4267,1791,1295,2591,1350
+chevrolet,Chevrolet,Corvette,Corvette Coupe (1956),1956,1968,,4.6L V8 3MT RWD (220 HP),Gasoline,8,4638,223.1,407,3-speed manual,Rear Wheel Drive,,,16.8,4267,1791,1295,2591,1350
+chevrolet,Chevrolet,Corvette Grand Sport,Corvette Grand Sport (2026),2026,,,6.7L V8 8AT RWD (535 HP),Gasoline,8,6702,542,705,8-speed automatic DCT,Rear Wheel Drive,,,,4689,2024,1234,2723,1597
+chevrolet,Chevrolet,Corvette Z06,Corvette Z06 (2021),2021,,,5.5L V8 (679 HP),Gasoline,8,,679.3,624,,,,,,,,,,
+chevrolet,Chevrolet,Corvette Z06,Corvette Z06 (2014),2014,2019,,6.2L V8 7MT (650 HP),Gasoline,8,6162,650,881,7-speed manual,Rear Wheel Drive,3.8,315,12.7,4493,1928,1234,2710,1598
+chevrolet,Chevrolet,Corvette Z06,Corvette Z06 (2014),2014,2019,,6.2L V8 8AT (650 HP),Gasoline,8,6162,659,881,8-speed automatic,Rear Wheel Drive,3.7,315,14.1,4493,1928,1234,2710,1598
+chevrolet,Chevrolet,Corvette Z06,Corvette Z06 (2008),2008,2013,,7.0 V8 LS7 6MT (506 HP),Gasoline,8,7008,513,637,6-speed manual,Rear Wheel Drive,3.9,320,14.7,4460,1928,1245,2685,1418
+chevrolet,Chevrolet,Corvette Z06,Corvette Z06 Convertible (2014),2014,2019,,6.2L V8 7MT RWD (659 HP),Gasoline,8,6162,659,881,7-speed automatic,Rear Wheel Drive,3.2,,,4493,1966,1237,2710,1625
+chevrolet,Chevrolet,Corvette Z06,Corvette Z06 Convertible (2014),2014,2019,,6.2L V8 8AT RWD (659 HP),Gasoline,8,6162,659,881,8-speed automatic,Rear Wheel Drive,2.95,,,4493,1966,1237,2710,1625
+chevrolet,Chevrolet,Corvette ZR1,Corvette ZR1 (2024),2024,,,5.5L V8 RWD 8AT (1078 HP),Gasoline,8,5463,1079,1123,8-speed automatic DCT,Rear Wheel Drive,,375,,4722,2024,1234,2723,1665
+chevrolet,Chevrolet,Corvette ZR1,Corvette ZR1 (2024),2024,,,ZR1X 5.5L V8 8AT AWD (1250 HP),Hybrid Gasoline,8,5463,1079,1123,8-speed automatic DCT,All Wheel Drive,2.1,346,,4722,2024,1234,2723,
+chevrolet,Chevrolet,Corvette ZR1,Corvette ZR1 (2018),2018,2024,,6.2L V8 7MT RWD (755 HP),Gasoline,8,6162,765.5,969,7-speed manual,Rear Wheel Drive,,,,,,,,1614
+chevrolet,Chevrolet,Corvette ZR1,Corvette ZR1 (2018),2018,2024,,6.2L V8 8AT RWD (755 HP),Gasoline,8,6162,765.5,969,8-speed automatic,Rear Wheel Drive,,,,,,,,1614
+chevrolet,Chevrolet,Corvette ZR1,Corvette ZR1 (2008),2008,2013,,6.2L V8 6MT RWD (638 HP),Gasoline,8,6162,647,819,6-speed manual,Rear Wheel Drive,3.4,330,15,4475,1928,1245,2667,1507
+chevrolet,Chevrolet,Corvette ZR1,Corvette ZR1 Convertible (2026),2026,,,5.5L V8 8AT AWD (1250 HP),Hybrid Gasoline,8,5436,1064,1123,8-speed automatic DCT,All Wheel Drive,2.1,,,4742,2025,1234,2718,1775
+chevrolet,Chevrolet,Corvette ZR1,Corvette ZR1 Convertible (2024),2024,,,5.5L V8 8AT RWD (1079 HP),Gasoline,8,5463,1078.8,1123,8-speed automatic,Rear Wheel Drive,,346,,4722,2024,1234,2723,1705
+chevrolet,Chevrolet,Cruze,Cruze (2018),2018,2019,,1.4L VVT 6AT FWD (153 HP),Gasoline,4,1399,153,239,6-speed automatic,Front Wheel Drive,,,,4666,1791,1458,2700,
+chevrolet,Chevrolet,Cruze,Cruze (2018),2018,2019,,1.6L 9AT FWD (137 HP),Diesel,4,1399,137,325,9-speed automatic,Front Wheel Drive,,,,4666,1791,1458,2700,
+chevrolet,Chevrolet,Cruze,Cruze (2016),2016,2018,,1.4L ECOTEC 6AT FWD (153 HP),Gasoline,4,1399,154,240,6-speed automatic,Front Wheel Drive,,,,4666,1796,1458,68580,
+chevrolet,Chevrolet,Cruze,Cruze (2016),2016,2018,,1.4L ECOTEC 6MT FWD (153 HP),Gasoline,4,1399,154,240,6-speed manual,Front Wheel Drive,,,,4666,1796,1458,68580,
+chevrolet,Chevrolet,Cruze,Cruze (2016),2016,2018,,1.6L 6MT FWD (137 HP),Diesel,4,1399,139,325,6-speed manual,Front Wheel Drive,,,,4666,1796,1458,68580,
+chevrolet,Chevrolet,Cruze,Cruze (2016),2016,2018,,1.6L 9AT FWD (137 HP),Diesel,4,1399,137,325,9-speed automatic,Front Wheel Drive,,,,4666,1796,1458,68580,
+chevrolet,Chevrolet,Cruze,Cruze (2009),2009,2016,,1.4L 5MT FWD (100 HP),Gasoline,4,1364,101,130,5-speed manual,Front Wheel Drive,14,188,5.3,4597,1788,1476,2685,1300
+chevrolet,Chevrolet,Cruze,Cruze (2009),2009,2016,,1.4L Turbo 6AT FWD (140 HP),Gasoline,4,1364,140,201,6-speed automatic,Front Wheel Drive,10.4,204,6.3,4597,1788,1476,2685,1418
+chevrolet,Chevrolet,Cruze,Cruze (2009),2009,2016,,1.4L Turbo ECO 6AT FWD (140 HP),Gasoline,4,1364,140,201,6-speed automatic,Front Wheel Drive,10.4,204,33.6,4597,1788,1476,2685,1407
+chevrolet,Chevrolet,Cruze,Cruze (2009),2009,2016,,1.4L Turbo ECO 6MT FWD (140 HP),Gasoline,4,1364,140,201,6-speed manual,Front Wheel Drive,9.3,200,5.7,4597,1788,1476,2685,1366
+chevrolet,Chevrolet,Cruze,Cruze (2009),2009,2016,,1.6L 5MT FWD (113 HP,Gasoline,4,1598,113,153,5-speed manual,Front Wheel Drive,11.8,185,6.8,4597,1788,1476,2685,1360
+chevrolet,Chevrolet,Cruze,Cruze (2009),2009,2016,,1.6L 5MT FWD (124 HP),Gasoline,4,1598,124,155,5-speed manual,Front Wheel Drive,12.8,190,6.5,4597,1788,1476,2685,1375
+chevrolet,Chevrolet,Cruze,Cruze (2009),2009,2016,,1.6L 6AT FWD (113 HP),Gasoline,4,1598,113,153,6-speed automatic,Front Wheel Drive,13.5,180,7,4597,1788,1476,2685,1285
+chevrolet,Chevrolet,Cruze,Cruze (2009),2009,2016,,1.8L 5MT FWD (141 HP),Gasoline,4,1796,141,176,5-speed manual,Front Wheel Drive,11,200,6.4,4597,1788,1476,2685,1380
+chevrolet,Chevrolet,Cruze,Cruze (2009),2009,2016,,1.8L 6AT FWD (141 HP),Gasoline,4,1796,141,176,6-speed automatic,Front Wheel Drive,11.5,190,7.4,4597,1788,1476,2685,1290
+chevrolet,Chevrolet,Cruze,Cruze (2009),2009,2016,,1.7L TD 6MT FWD (130 HP),Diesel,4,1686,131,300,6-speed manual,Front Wheel Drive,10,200,4.5,4597,1788,1476,2685,1500
+chevrolet,Chevrolet,Cruze,Cruze (2009),2009,2016,,1.7L VCDi 5MT FWD (132 HP),Diesel,4,1686,131,300,5-speed manual,Front Wheel Drive,9.8,200,3.2,4597,1788,1476,2685,1502
+chevrolet,Chevrolet,Cruze,Cruze (2009),2009,2016,,2.0D 5MT FWD (150 HP),Diesel,4,1991,150,320,5-speed manual,Front Wheel Drive,10.3,210,5.6,4597,1788,1476,2685,1502
+chevrolet,Chevrolet,Cruze,Cruze (2009),2009,2016,,2.0D 6AT FWD (150 HP),Diesel,4,1991,150,350,6-speed automatic,Front Wheel Drive,8.9,209,5.6,4597,1788,1476,2685,1576
+chevrolet,Chevrolet,Cruze,Cruze (2009),2009,2016,,2.0TD 6AT FWD (163 HP),Diesel,4,1998,163,361,6-speed automatic,Front Wheel Drive,9.4,209,6.6,4597,1788,1476,2685,1430
+chevrolet,Chevrolet,Cruze,Cruze (2009),2009,2016,,2.0TD 6MT FWD (163 HP),Diesel,4,1998,163,361,6-speed manual,Front Wheel Drive,8.5,204,5.3,4597,1788,1476,2685,1427
+chevrolet,Chevrolet,Cruze,Cruze - 5 doors (2018),2018,2019,,1.4L VVT 6AT FWD (153 HP),Gasoline,4,1399,153,239,6-speed automatic,Front Wheel Drive,,,,4666,1791,1458,2700,
+chevrolet,Chevrolet,Cruze,Cruze - 5 doors (2018),2018,2019,,1.6L 9AT FWD (137 HP),Diesel,4,1399,137,325,9-speed automatic,Front Wheel Drive,,,,4666,1791,1458,2700,
+chevrolet,Chevrolet,Cruze,Cruze - 5 doors (2017),2017,2018,,1.4L Turbo 6AT (153 HP),Gasoline,4,1399,155,240,6-speed automatic,Front Wheel Drive,,,7.4,4453,1791,1466,2700,1323
+chevrolet,Chevrolet,Cruze,Cruze - 5 doors (2017),2017,2018,,1.4L Turbo 6MT (153 HP),Gasoline,4,1399,155,240,6-speed manual,Front Wheel Drive,,,7.6,4453,1791,1466,2700,1312
+chevrolet,Chevrolet,Cruze,Cruze - 5 doors (2011),2011,2014,,1.4L Turbo 6MT FWD (140 HP),Gasoline,4,1364,140,201,6-Speed manual,Front Wheel Drive,9.3,195,5.6,4514,1796,1476,2685,1394
+chevrolet,Chevrolet,Cruze,Cruze - 5 doors (2011),2011,2014,,1.6L 5MT FWD (124 HP),Gasoline,4,1598,124,155,5-Speed manual,Front Wheel Drive,12,190,6.5,4514,1796,1476,2685,1305
+chevrolet,Chevrolet,Cruze,Cruze - 5 doors (2011),2011,2014,,1.8L 5MT FWD (141 HP),Gasoline,4,1796,141,176,5-Speed manual,Front Wheel Drive,10.1,200,6.5,4514,1796,1476,2685,1310
+chevrolet,Chevrolet,Cruze,Cruze - 5 doors (2011),2011,2014,,1.8L 6AT FWD (141 HP),Gasoline,4,1796,141,176,6-speed automatic,Front Wheel Drive,11.3,190,7.1,4514,1796,1476,2685,1394
+chevrolet,Chevrolet,Cruze,Cruze - 5 doors (2011),2011,2014,,1.7L TD 6MT FWD (130 HP),Diesel,4,1796,131,300,6-Speed manual,Front Wheel Drive,10.2,200,4.5,4514,1796,1476,2685,1504
+chevrolet,Chevrolet,Cruze,Cruze - 5 doors (2011),2011,2014,,2.0L TD 6AT FWD (163 HP),Diesel,4,1998,163,361,6-speed automatic,Front Wheel Drive,9.9,209,6,4514,1796,1476,2685,1585
+chevrolet,Chevrolet,Cruze,Cruze - 5 doors (2011),2011,2014,,2.0L TD 6MT FWD (163 HP),Diesel,4,1998,163,361,6-Speed manual,Front Wheel Drive,9.2,204,4.8,4514,1796,1476,2685,1504
+chevrolet,Chevrolet,Cruze,Cruze Wagon (2012),2012,2014,,1.4L Turbo 5MT FWD (140 HP),Gasoline,4,1364,140,201,5-speed manual,Front Wheel Drive,9.5,200,5.7,4676,1796,1483,2685,1405
+chevrolet,Chevrolet,Cruze,Cruze Wagon (2012),2012,2014,,1.6L 5MT FWD (124 HP),Gasoline,4,1598,124,155,5-speed manual,Front Wheel Drive,12.6,192,6.4,4676,1796,1483,2685,1360
+chevrolet,Chevrolet,Cruze,Cruze Wagon (2012),2012,2014,,1.6L 6AT FWD (124 HP),Gasoline,4,1598,124,155,6-speed automatic,Front Wheel Drive,12.9,192,6.1,4676,1796,1483,2685,1315
+chevrolet,Chevrolet,Cruze,Cruze Wagon (2012),2012,2014,,1.8L 6AT FWD (141 HP),Gasoline,4,1796,141,176,6-speed automatic,Front Wheel Drive,11.5,192,6.7,4676,1796,1483,2685,1400
+chevrolet,Chevrolet,Cruze,Cruze Wagon (2012),2012,2014,,1.8L 6MT FWD (141 HP),Gasoline,4,1796,141,176,6-speed manual,Front Wheel Drive,11,200,6.7,4676,1796,1483,2685,1370
+chevrolet,Chevrolet,Cruze,Cruze Wagon (2012),2012,2014,,1.7L CDTI 6MT FWD (130 HP),Diesel,4,1686,131,300,6-speed manual,Front Wheel Drive,10.4,200,4.5,4676,1796,1483,2685,1550
+chevrolet,Chevrolet,Cruze,Cruze Wagon (2012),2012,2014,,2.0L CDTI 6AT FWD (163 HP),Diesel,4,1998,163,361,6-speed automatic,Front Wheel Drive,10.1,198,6.2,4676,1796,1483,2685,1539
+chevrolet,Chevrolet,Cruze,Cruze Wagon (2012),2012,2014,,2.0L CDTI 6MT FWD (163 HP),Diesel,4,1998,163,361,6-speed manual,Front Wheel Drive,8.8,200,5.3,4676,1796,1483,2685,1520
+chevrolet,Chevrolet,Epica,Epica (2006),2006,2011,,2.0i 5AT (145 HP),Gasoline,4,1991,145,320,5-speed automatic,Front Wheel Drive,9.7,200,6.1,4803,1806,1448,2700,1560
+chevrolet,Chevrolet,Epica,Epica (2006),2006,2011,,2.0i 5MT (145 HP),Gasoline,6,1993,145,187,5-Speed manual,Front Wheel Drive,9.9,207,7.8,4803,1806,1448,2700,1450
+chevrolet,Chevrolet,Epica,Epica (2006),2006,2011,,2.5L 5AT (156 HP),Gasoline,6,2492,156,235,5-speed automatic,Front Wheel Drive,9.9,206,9.7,4803,1806,1448,2700,1495
+chevrolet,Chevrolet,Equinox,Equinox (2024),2024,,,1.5L 8AT AWD (177 HP),Gasoline,4,,177,250,8-speed Hydra-Matic 8T45,All Wheel Drive,,,,4653,1902,1666,2731,1555
+chevrolet,Chevrolet,Equinox,Equinox (2024),2024,,,1.5L CVT FWD (177 HP),Gasoline,4,,177.4,250,CVT,Front Wheel Drive,,,,4653,1902,1666,2731,1555
+chevrolet,Chevrolet,Equinox,Equinox (2022),2022,,,Dual Motor 89 kWh eAWD (288 HP),Electric,,,288,,1-speed automatic,All Wheel Drive,,,,4841,1953,1646,2954,
+chevrolet,Chevrolet,Equinox,Equinox (2022),2022,,,Single Motor 89 kWh FWD (213 HP),Electric,,,213,,1-speed automatic,Front Wheel Drive,,,,4841,1953,1646,2954,
+chevrolet,Chevrolet,Equinox,Equinox (2020),2020,2024,,1.5L 6AT FWD (170 HP),Gasoline,4,1490,170,275,6- speed Hydra-Matic,Front Wheel Drive,8.8,200,9.4,4651,1844,1661,2725,1531
+chevrolet,Chevrolet,Equinox,Equinox (2020),2020,2024,,2.0L 9AT AWD (256 HP),Gasoline,4,1998,256,353,9- speed Hydra-Matic,All Wheel Drive,6.6,225,,4651,1844,1661,2725,1680
+chevrolet,Chevrolet,Equinox,Equinox (2020),2020,2024,,2.0L 9AT FWD (256 HP),Gasoline,4,1998,256,353,9- speed Hydra-Matic,Front Wheel Drive,6.6,225,10.7,4651,1844,1661,2725,1604
+chevrolet,Chevrolet,Equinox,Equinox (2017),2017,2020,,1.5L 6AT AWD (170 HP),Gasoline,4,1490,172,275,6-speed automatic,All Wheel Drive,,,,4651,1844,1661,2725,1580
+chevrolet,Chevrolet,Equinox,Equinox (2017),2017,2020,,1.5L 6AT FWD (170 HP),Gasoline,4,1490,172,275,6-speed automatic,Front Wheel Drive,,,,4651,1844,1661,2725,1509
+chevrolet,Chevrolet,Equinox,Equinox (2017),2017,2020,,2.0L 9AT AWD (252 HP),Gasoline,4,1998,255,353,9-speed automatic,All Wheel Drive,,,,4651,1844,1661,2725,1650
+chevrolet,Chevrolet,Equinox,Equinox (2017),2017,2020,,2.0L 9AT FWD (252 HP),Gasoline,4,1998,255,353,9-speed automatic,Front Wheel Drive,,,,4651,1844,1661,2725,1570
+chevrolet,Chevrolet,Equinox,Equinox (2017),2017,2020,,1.6L 6AT AWD (136 HP),Diesel,4,1598,138,325,6-speed automatic,All Wheel Drive,,,,4651,1844,1661,2725,1650
+chevrolet,Chevrolet,Equinox,Equinox (2017),2017,2020,,1.6L 6AT FWD (136 HP),Diesel,4,1598,138,325,6-speed automatic,Front Wheel Drive,,,5.9,4651,1844,1661,2725,1570
+chevrolet,Chevrolet,Equinox,Equinox (2009),2009,2017,,2.4L 6AT AWD (185 HP),Gasoline,4,2384,185,233,6-speed automatic,All Wheel Drive,,,10.2,4770,1842,1684,2858,1713
+chevrolet,Chevrolet,Equinox,Equinox (2009),2009,2017,,2.4L 6AT FWD (185 HP),Gasoline,4,2384,185,233,6-speed automatic,Front Wheel Drive,,,9,4770,1842,1684,2858,1713
+chevrolet,Chevrolet,Equinox,Equinox (2009),2009,2017,,3.6L V6 6AT AWD (306 HP),Gasoline,6,3564,306,369,6-speed automatic,All Wheel Drive,,,11.8,4770,1842,1684,2858,1779
+chevrolet,Chevrolet,Equinox,Equinox (2009),2009,2017,,3.6L V6 6AT FWD (306 HP),Gasoline,6,3564,306,369,6-speed automatic,Front Wheel Drive,,,11.8,4770,1842,1684,2858,1779
+chevrolet,Chevrolet,Equinox,Equinox (2004),2004,2009,,3.4L V6 5AT AWD (185 HP),Gasoline,6,3350,188,285,5-speed automatic,All Wheel Drive,,,11.2,4796,1814,1702,2858,1713
+chevrolet,Chevrolet,Equinox,Equinox (2004),2004,2009,,3.4L V6 5AT FWD (185 HP),Gasoline,6,3350,188,285,5-speed automatic,Front Wheel Drive,,,11.2,4796,1814,1702,2858,1660
+chevrolet,Chevrolet,Equinox,Equinox (2004),2004,2009,,3.6L V6 6AT AWD (264 HP),Gasoline,6,3564,268,339,6-speed automatic,All Wheel Drive,,,12.4,4796,1814,1702,2858,1776
+chevrolet,Chevrolet,Equinox,Equinox (2004),2004,2009,,3.6L V6 6AT FWD (264 HP),Gasoline,6,3564,268,339,6-speed automatic,Front Wheel Drive,,,12.4,4796,1814,1702,2858,1732
+chevrolet,Chevrolet,Evanda,Evanda (2004),2004,2006,,2.0L 5MT FWD (116 HP),Gasoline,4,1998,116,178,5-Speed manual,Front Wheel Drive,,190,,4770,1816,1440,2700,1305
+chevrolet,Chevrolet,Evanda,Evanda (2004),2004,2006,,2.0L 5MT FWD (131 HP),Gasoline,4,1998,131,181,5-Speed manual,Front Wheel Drive,9.8,200,8.8,4770,1816,1440,2700,1422
+chevrolet,Chevrolet,Evanda,Evanda (2004),2004,2006,,2.0L 5MT FWD (148 HP),Gasoline,4,1998,148,192,5-Speed manual,Front Wheel Drive,,206,,4770,1816,1440,2700,1310
+chevrolet,Chevrolet,Evanda,Evanda (2004),2004,2006,,2.5L 4AT FWD (155 HP),Gasoline,6,2492,155,240,4-Speed automatic,Front Wheel Drive,,,,4770,1816,1440,2700,1500
+chevrolet,Chevrolet,Express,Express (2008),2008,,,4.3L V6 4AT RWD (194 HP),Gasoline,6,4293,197,353,4-speed automatic,Rear Wheel Drive,,,14.7,5690,2017,2073,3429,2198
+chevrolet,Chevrolet,Express,Express (2008),2008,,,4.8L V8 4AT RWD (275 HP),Gasoline,8,4807,275,393,4-speed automatic,Rear Wheel Drive,12.5,180,15.2,5690,2017,2073,3429,2198
+chevrolet,Chevrolet,Express,Express (2008),2008,,,5.3L V8 4AT RWD (289 HP),Gasoline,8,5328,290,441,4-speed automatic,Rear Wheel Drive,9.4,187,15.7,5690,2017,2073,3429,2276
+chevrolet,Chevrolet,Express,Express (2008),2008,,,6.0L V8 4AT RWD (304 HP),Gasoline,8,5967,305,488,4-speed automatic,Rear Wheel Drive,9.5,185,16.8,5690,2017,2073,3429,2462
+chevrolet,Chevrolet,Express,Express (2008),2008,,,6.6L V8 4AT RWD (250 HP),Diesel,8,6599,253,624,4-speed automatic,Rear Wheel Drive,,,18.5,5690,2017,2073,3429,2462
+chevrolet,Chevrolet,Express,Express (2002),2002,2007,,4.3L V6 3AT RWD (197 HP),Gasoline,6,4300,197,353,4-Speed automatic,Rear Wheel Drive,,,14.7,5692,2017,2073,3429,2385
+chevrolet,Chevrolet,Express,Express (2002),2002,2007,,4.8L V8 4AT RWD (300 HP),Gasoline,8,5328,299,447,4-Speed automatic,Rear Wheel Drive,,,,5692,2017,2073,3429,
+chevrolet,Chevrolet,Express,Express (2002),2002,2007,,5.3L V8 4AT RWD (300 HP),Gasoline,8,5328,299,447,4-Speed automatic,Rear Wheel Drive,,,15.7,5692,2017,2073,3429,2385
+chevrolet,Chevrolet,Express,Express (2002),2002,2007,,6.0L V8 4AT RWD (305 HP),Gasoline,8,5967,305,488,4-Speed automatic,Rear Wheel Drive,,,,5692,2017,2073,3429,2666
+chevrolet,Chevrolet,Express,Express (2002),2002,2007,,5.3L V8 Flexfuel 4AT RWD (300 HP),Hybrid,8,5328,300,447,4-Speed automatic,Rear Wheel Drive,,,,5692,2017,2073,3429,
+chevrolet,Chevrolet,Express,Express (2002),2002,2007,,4.8L V8 4AT RWD (290 HP),Gasoline,8,4807,290,400,4-speed automatic,Rear Wheel Drive,,,,6200,2017,2083,3937,2874
+chevrolet,Chevrolet,Express,Express (2002),2002,2007,,6.0L V8 4AT RWD (305 HP),Gasoline,8,5967,305,488,4-Speed automatic,Rear Wheel Drive,,,,6200,2017,2083,3937,2874
+chevrolet,Chevrolet,Express,Express (1995),1995,2002,,4.3L V6 4AT RWD (203 HP),Gasoline,6,4286,203,339,4-Speed automatic,Rear Wheel Drive,,,14.7,5555,2017,2022,3429,2333
+chevrolet,Chevrolet,Express,Express (1995),1995,2002,,5.0L V8 4AT RWD (223 HP),Gasoline,8,5012,223,380,4-Speed automatic,Rear Wheel Drive,,,16.7,5555,2017,2022,3429,2333
+chevrolet,Chevrolet,Express,Express (1995),1995,2002,,5.7L V8 4AT RWD (258 HP),Gasoline,8,5733,258,447,4-Speed automatic,Rear Wheel Drive,,,15.7,5555,2017,2022,3429,2333
+chevrolet,Chevrolet,Express,Express (1995),1995,2002,,8.1L V8 4AT RWD (354 HP),Gasoline,8,8128,340,617,4-Speed automatic,Rear Wheel Drive,,,,5555,2017,2022,3429,2716
+chevrolet,Chevrolet,Express,Express (1995),1995,2002,,6.5L V8 TD 4AT RWD (197 HP),Diesel,8,6468,197,522,4-Speed automatic,Rear Wheel Drive,,,,5555,2017,2022,3429,2641
+chevrolet,Chevrolet,Express,Express (1995),1995,2002,,7.4L V8 4AT RWD (294 HP),Diesel,8,7439,294,556,4-Speed automatic,Rear Wheel Drive,,,,5555,2017,2022,3429,2716
+chevrolet,Chevrolet,Express,Express (1995),1995,2002,,5.7L V8 4AT RWD (258 HP),Gasoline,8,5733,258,447,4-Speed automatic,Rear Wheel Drive,,,15.7,6063,2012,2060,3937,2724
+chevrolet,Chevrolet,Express,Express (1995),1995,2002,,7.4L V8 4AT RWD (294 HP),Gasoline,8,7439,294,556,4-speed automatic,Rear Wheel Drive,,,,6063,2012,2060,3937,2816
+chevrolet,Chevrolet,Express,Express (1995),1995,2002,,8.1L V8 4AT RWD (340 HP),Gasoline,8,8128,340,617,4-Speed automatic,Rear Wheel Drive,,,,6063,2012,2060,3937,2816
+chevrolet,Chevrolet,Express,Express (1995),1995,2002,,6.5L V8 TD V8 4AT RWD (197 HP),Diesel,8,6468,197,522,4-Speed automatic,Rear Wheel Drive,,,,6063,2012,2060,3937,2724
+chevrolet,Chevrolet,HHR,HHR (2007),2007,2011,,2.0L 4AT FWD (260 HP),Gasoline,4,1998,264,353,4-speed automatic,Front Wheel Drive,7.9,220,10.2,4483,1755,1588,2631,1524
+chevrolet,Chevrolet,HHR,HHR (2007),2007,2011,,2.0L 5MT FWD (260 HP),Gasoline,4,1998,264,353,5-speed manual,Front Wheel Drive,6.5,232,9.8,4483,1755,1588,2631,1488
+chevrolet,Chevrolet,HHR,HHR (2006),2006,2011,,2.0L Turbo 5MT FWD (194 HP),Gasoline,4,1998,354,353,5-Speed manual,Front Wheel Drive,,,9.4,4475,1755,1588,2631,1488
+chevrolet,Chevrolet,HHR,HHR (2006),2006,2011,,2.2L 5MT FWD (151 HP),Gasoline,4,2189,151,207,5-Speed manual,Front Wheel Drive,,,9.4,4432,1730,1562,2619,1381
+chevrolet,Chevrolet,HHR,HHR (2006),2006,2011,,2.4L 5MT FWD (173 HP),Gasoline,4,2384,173,235,5-Speed manual,Front Wheel Drive,,,,4432,1730,1562,2619,1405
+chevrolet,Chevrolet,HHR,HHR (2005),2005,2011,,2.2L 4AT FWD (143 HP),Gasoline,4,2189,146,203,4-speed automatic,Front Wheel Drive,,,9.8,4432,1730,1562,2619,1431
+chevrolet,Chevrolet,HHR,HHR (2005),2005,2011,,2.2L 5MT FWD (143 HP),Gasoline,4,2189,146,203,5-speed manual,Front Wheel Drive,,,9.4,4432,1730,1562,2619,1431
+chevrolet,Chevrolet,HHR,HHR (2005),2005,2011,,2.4L 4AT FWD (172 HP),Gasoline,4,2384,174,220,4-speed automatic,Front Wheel Drive,,,9.4,4432,1730,1562,2619,1455
+chevrolet,Chevrolet,HHR,HHR (2005),2005,2011,,2.4L 5MT FWD (172 HP),Gasoline,4,2384,174,220,5-speed manual,Front Wheel Drive,,,9.4,4432,1730,1562,2619,1455
+chevrolet,Chevrolet,HHR,HHR (2005),2005,2011,,2.4L FLexfuel 4AT FWD (172 HP),Natural Gas,4,2384,174,226,4-speed automatic,Front Wheel Drive,,,9.4,4432,1730,1562,2619,1455
+chevrolet,Chevrolet,HHR,HHR (2005),2005,2011,,2.4L FLexfuel 5MT FWD (172 HP),Natural Gas,4,2384,174.4,226,5-speed manual,Front Wheel Drive,,,9.4,4432,1730,1562,2619,1455
+chevrolet,Chevrolet,Impala,Impala (2013),2013,2020,,2.5L Ecotec 6AT FWD (197 HP),Gasoline,4,2457,197,254,6-speed automatic,Front Wheel Drive,,,9.4,5113,1854,1496,2837,1723
+chevrolet,Chevrolet,Impala,Impala (2013),2013,2020,,3.6L V6 6AT FWD (309 HP),Gasoline,6,3564,309,358,6-speed automatic,Front Wheel Drive,,,10.7,5113,1854,1496,2837,1724
+chevrolet,Chevrolet,Impala,Impala (2013),2013,2020,,3.6L V6 6AT FWD (260 HP),Natural Gas,6,3564,260,335,6-speed automatic,Front Wheel Drive,,,,5113,1854,1496,2837,1894
+chevrolet,Chevrolet,Impala,Impala (2013),2013,2020,,2.4L Ecotec eAssist 6AT FWD (184 HP),Hybrid Gasoline,4,2384,182,233,6 speed automatic,Front Wheel Drive,,,8.1,5113,1854,1496,2837,1724
+chevrolet,Chevrolet,Impala,Impala (2005),2005,2012,,3.5L V6 4AT (211 HP),Gasoline,6,3500,213,290,4-Speed automatic,Front Wheel Drive,,,9,5090,1852,1491,2807,1612
+chevrolet,Chevrolet,Impala,Impala (2005),2005,2012,,3.9L V6 4AT (249 HP),Gasoline,6,3900,246,328,4-Speed automatic,Front Wheel Drive,,,10.2,5090,1852,1491,2807,1655
+chevrolet,Chevrolet,Impala,Impala (2005),2005,2012,,5.3L V8 4AT (303 HP),Gasoline,8,5670,307,438,4-Speed automatic,Front Wheel Drive,,,10.2,5090,1852,1491,2807,1682
+chevrolet,Chevrolet,Impala,Impala (2003),2003,2005,,3.8L V6 4AT (240 HP),Gasoline,6,3791,240,380,4-speed automatic,Front Wheel Drive,6.7,208,10.7,5080,1854,1455,2807,1636
+chevrolet,Chevrolet,Impala,Impala (1999),1999,2005,,3.4L 4AT (182 HP),Gasoline,6,3343,182,271,4-Speed automatic,Front Wheel Drive,10,180,9.2,5080,1854,1455,2807,1572
+chevrolet,Chevrolet,Impala,Impala (1999),1999,2005,,3.8L 4AT (203 HP),Gasoline,6,3791,203,305,4-Speed automatic,Front Wheel Drive,8.5,200,9.8,5080,1854,1455,2807,1572
+chevrolet,Chevrolet,Impala,Impala (1966),1966,1970,,7.0L V8 3AT (390 HP),Gasoline,8,6999,390,610,3-speed automatic,Rear Wheel Drive,,,,5415,2007,1382,3023,1740
+chevrolet,Chevrolet,Impala,Impala Convertible (1958),1958,1959,,4.6L V8 3MT RWD (253 HP),Gasoline,8,4639,253,414,3-speed manual,Rear Wheel Drive,,,,5311,1974,1501,2985,
+chevrolet,Chevrolet,Impala,Impala Convertible (1958),1958,1959,,5.7L V8 3MT RWD (253 HP),Gasoline,8,5697,253,481,3-speed manual,Rear Wheel Drive,,,,5311,1974,1501,2985,
+chevrolet,Chevrolet,Impala,Impala Coupe (1965),1965,1970,,7.0,Gasoline,8,6999,390,610,"Automatic, 3 Speed",Rear Wheel Drive,,,,,,,,
+chevrolet,Chevrolet,Malibu,Malibu (2018),2018,2024,,1.5L VVT CVT FWD (163 HP),Gasoline,4,1499,163,250,CVT,Front Wheel Drive,,,,4923,1854,1463,2830,
+chevrolet,Chevrolet,Malibu,Malibu (2018),2018,2024,,2.0L VVT 9AT FWD (250 HP),Gasoline,4,1998,250,353,9-speed automatic,Front Wheel Drive,,,9,4923,1854,1463,2830,1426
+chevrolet,Chevrolet,Malibu,Malibu (2018),2018,2024,,1.8L FHEV 1AT FWD (185 HP),Hybrid Gasoline,4,1796,124,175,1-speed automatic,Front Wheel Drive,,,,4923,1854,1463,2830,1526
+chevrolet,Chevrolet,Malibu,Malibu (2016),2016,2018,,1.5L 6AT FWD (160 HP),Gasoline,4,1499,163,249,6-speed automatic,Front Wheel Drive,,,,,1854,1463,2830,
+chevrolet,Chevrolet,Malibu,Malibu (2016),2016,2018,,2.0L 8AT FWD (250 HP),Gasoline,4,1998,250,353,8-speed automatic,Front Wheel Drive,,,,,1854,1463,2830,
+chevrolet,Chevrolet,Malibu,Malibu (2016),2016,2018,,1.8L 6AT FWD,Hybrid,4,1798,,,6-speed automatic,Front Wheel Drive,,,,,1854,1463,2830,
+chevrolet,Chevrolet,Malibu,Malibu (2013),2013,2016,,2.4L Ecotec DOHC Hybrid,Hybrid,4,2384,182,233,6-speed automatic,Front Wheel Drive,9,206,8.1,4859,1854,1463,2738,1539
+chevrolet,Chevrolet,Malibu,Malibu (2012),2012,2016,,2.0L SIDI 6AT FWD (262 HP),Gasoline,4,2000,263,400,6-speed automatic,Front Wheel Drive,6.7,249,9.8,4859,1854,1463,2738,1649
+chevrolet,Chevrolet,Malibu,Malibu (2012),2012,2016,,2.5L ECOTEC 6AT FWD (198 HP),Gasoline,4,2457,200,259,6-speed automatic,Front Wheel Drive,9,206,9,4859,1854,1463,2738,1560
+chevrolet,Chevrolet,Malibu,Malibu (2008),2008,2012,,2.4L 4AT FWD (169 HP),Gasoline,4,2384,171,217,4-speed automatic,Front Wheel Drive,10.6,190,9,4872,1786,1450,2852,1549
+chevrolet,Chevrolet,Malibu,Malibu (2008),2008,2012,,2.4L 6AT FWD (169 HP),Gasoline,4,2384,171,217,6-speed automatic,Front Wheel Drive,9.9,193,9.4,4872,1786,1450,2852,1550
+chevrolet,Chevrolet,Malibu,Malibu (2008),2008,2012,,3.6L V6 DOHC 6AT FWD (252 HP),Gasoline,6,3564,255,340,6-speed automatic,Front Wheel Drive,6.9,220,11.8,4872,1786,1450,2852,1655
+chevrolet,Chevrolet,Malibu,Malibu (2008),2008,2012,,2.4i 4AT FWD (164 HP),Hybrid,4,2384,164,216,4-speed automatic,Front Wheel Drive,11.9,180,8.1,4872,1786,1450,2852,1604
+chevrolet,Chevrolet,Malibu,Malibu (2008),2008,2012,,2.4L Flexfuel 4AT FWD (174 HP),Ethanol,4,2384,177,230,4-speed automatic,Front Wheel Drive,9.8,190,9.4,4872,1786,1450,2852,1549
+chevrolet,Chevrolet,Malibu,Malibu (2005),2005,2008,,3.9L V6 4AT (243 HP),Gasoline,6,3880,243,325,4-Speed automatic,Front Wheel Drive,,,11.2,4783,1775,1461,2700,1549
+chevrolet,Chevrolet,Malibu,Malibu (2003),2003,2007,,2.2L 4AT FWD (145 HP),Gasoline,4,2189,145,210,4-Speed automatic,Front Wheel Drive,11,175,8.4,4783,1775,1461,2700,1440
+chevrolet,Chevrolet,Malibu,Malibu (2003),2003,2007,,3.5L V6 4AT FWD (203 HP),Gasoline,6,3500,203,298,4-Speed automatic,Front Wheel Drive,8,200,8.8,4783,1775,1461,2700,1440
+chevrolet,Chevrolet,Malibu,Malibu (2003),2003,2007,,3.9L V6 4AT FWD (243 HP),Gasoline,6,3890,243,326,4-Speed automatic,Front Wheel Drive,,,,4783,1775,1461,2700,1580
+chevrolet,Chevrolet,Malibu,Malibu (1996),1996,2003,,2.2L 4AT (141 HP),Gasoline,4,2198,141,203,4-Speed automatic,Front Wheel Drive,,,8.4,4836,1763,1427,2718,1376
+chevrolet,Chevrolet,Malibu,Malibu (1996),1996,2003,,3.1L V6 4AT (152 HP),Gasoline,6,3135,152,244,4-Speed automatic,Front Wheel Drive,8.5,180,9.8,4836,1763,1427,2718,1384
+chevrolet,Chevrolet,Malibu Maxx,Malibu Maxx (2005),2005,2008,,3.5L V6 4AT (203 HP),Gasoline,6,3880,203,298,4-Speed automatic,Front Wheel Drive,8,200,8.7,4770,1773,1476,2852,1600
+chevrolet,Chevrolet,Malibu Maxx,Malibu Maxx (2005),2005,2008,,3.9L V6 4AT (243 HP),Gasoline,6,3880,243,325,4-Speed automatic,Front Wheel Drive,,,11.2,4770,1773,1476,2852,1642
+chevrolet,Chevrolet,Malibu Maxx,Malibu Maxx (2003),2003,2008,,3.5L V6 4AT (203 HP),Gasoline,6,3500,203,298,4-Speed automatic,Front Wheel Drive,8,200,8.7,4770,1773,1476,2852,1569
+chevrolet,Chevrolet,Malibu Maxx,Malibu Maxx (2003),2003,2008,,3.9L V6 4AT (243 HP),Gasoline,6,3790,243,326,4-Speed automatic,Front Wheel Drive,8,200,,4770,1773,1476,2852,1569
+chevrolet,Chevrolet,Matiz / Spark,Matiz / Spark (2018),2018,2022,,1.4L 5MT FWD (98 HP),Gasoline,4,1399,98,127,5-speed manual,Front Wheel Drive,,,7.1,3635,1595,1483,2385,
+chevrolet,Chevrolet,Matiz / Spark,Matiz / Spark (2018),2018,2022,,1.4L CVT FWD (98 HP),Gasoline,4,1399,98,127,CVT,Front Wheel Drive,,,7.1,3635,1595,1483,2385,
+chevrolet,Chevrolet,Matiz / Spark,Matiz / Spark (2016),2016,2018,,1.4L 5MT FWD (99 HP),Gasoline,4,1399,99,128,5-speed manual,Front Wheel Drive,,,,3635,1595,1483,2385,1019
+chevrolet,Chevrolet,Matiz / Spark,Matiz / Spark (2016),2016,2018,,1.4L CVT FWD (99 HP),Gasoline,4,1399,99,128,CVT,Front Wheel Drive,,,,3635,1595,1483,2385,1033
+chevrolet,Chevrolet,Matiz / Spark,Matiz / Spark (2009),2009,2016,,1.0L 5MT FWD (68 HP),Gasoline,4,995,68,92,5-speed manual,Front Wheel Drive,15.5,154,5.1,3640,1595,1521,2375,939
+chevrolet,Chevrolet,Matiz / Spark,Matiz / Spark (2009),2009,2016,,1.2L 4AT FWD (82 HP),Gasoline,4,1249,83,113,4-speed automatic,Front Wheel Drive,16,159,7.4,3640,1595,1521,2375,1029
+chevrolet,Chevrolet,Matiz / Spark,Matiz / Spark (2009),2009,2016,,1.2L 5MT FWD (82 HP),Gasoline,4,1206,83,111,5-speed manual,Front Wheel Drive,12.1,164,5.1,3640,1595,1521,2375,939
+chevrolet,Chevrolet,Matiz / Spark,Matiz / Spark (2009),2009,2016,,1.0L 5MT FWD (62 HP),Diesel,3,936,63,150,5-speed manual,Front Wheel Drive,15.5,154,3.9,3640,1595,1521,2375,1027
+chevrolet,Chevrolet,Matiz / Spark,Matiz / Spark (2005),2005,2009,,0.8L 5MT FWD (52 HP),Gasoline,3,796,52,72,5-Speed manual,Front Wheel Drive,18.2,145,4.8,3495,1496,1501,2344,775
+chevrolet,Chevrolet,Matiz / Spark,Matiz / Spark (2005),2005,2009,,1.0L 5MT FWD (64 HP),Gasoline,4,995,67,91,5-Speed manual,Front Wheel Drive,14.1,156,5.6,3495,1496,1501,2344,795
+chevrolet,Chevrolet,Matiz / Spark,Matiz / Spark (2000),2000,2005,,0.8L 5MT FWD (52 HP),Gasoline,3,796,52,69,5-Speed manual,Front Wheel Drive,17.6,144,6.3,3495,1496,1486,2339,776
+chevrolet,Chevrolet,Matiz / Spark,Matiz / Spark (2000),2000,2005,,1.0L 5MT FWD (64 HP),Gasoline,4,995,64,87,5-Speed manual,Front Wheel Drive,12.9,152,6.6,3495,1496,1486,2339,796
+chevrolet,Chevrolet,Monte Carlo,Monte Carlo (2005),2005,2007,,3.5L V6 4AT FWD (211 HP),Gasoline,6,3500,213,290,4-Speed automatic,Front Wheel Drive,,180,9,4996,1852,1417,2807,1547
+chevrolet,Chevrolet,Monte Carlo,Monte Carlo (2005),2005,2007,,3.9L V6 4AT FWD (242 HP),Gasoline,6,3900,246,328,4-Speed automatic,Front Wheel Drive,,200,10.2,4996,1852,1417,2807,1565
+chevrolet,Chevrolet,Monte Carlo,Monte Carlo (2005),2005,2007,,5.3L V8 4AT FWD (303 HP),Gasoline,8,5670,307,438,4-Speed automatic,Front Wheel Drive,,,,4996,1852,1417,2807,
+chevrolet,Chevrolet,Nubira / Lacetti,Nubira / Lacetti (2004),2004,2009,,1.4L 5MT FWD (95 HP),Gasoline,4,1399,95,131,5-speed manual,Front Wheel Drive,11.6,175,7.1,4516,1725,1445,2601,1175
+chevrolet,Chevrolet,Nubira / Lacetti,Nubira / Lacetti (2004),2004,2009,,1.5L 5MT FWD (106 HP),Gasoline,4,1498,106,139,5-speed manual,Front Wheel Drive,11,183,6.3,4516,1725,1445,2601,1130
+chevrolet,Chevrolet,Nubira / Lacetti,Nubira / Lacetti (2004),2004,2009,,1.6L 4AT FWD (109 HP),Gasoline,4,1598,109,150,4-speed automatic,Front Wheel Drive,11.5,175,8.1,4516,1725,1445,2601,1190
+chevrolet,Chevrolet,Nubira / Lacetti,Nubira / Lacetti (2004),2004,2009,,1.6L 5MT FWD (109 HP),Gasoline,4,1598,109,150,5-speed manual,Front Wheel Drive,10.7,187,7.1,4516,1725,1445,2601,1180
+chevrolet,Chevrolet,Nubira / Lacetti,Nubira / Lacetti (2004),2004,2009,,1.8L 4AT FWD (122 HP),Gasoline,4,1799,122,169,4-speed automatic,Front Wheel Drive,10.7,183,8.8,4516,1725,1445,2601,1235
+chevrolet,Chevrolet,Nubira / Lacetti,Nubira / Lacetti (2004),2004,2009,,1.8L 5MT FWD (122 HP),Gasoline,4,1799,122,169,5-speed manual,Front Wheel Drive,9.8,195,7.4,4516,1725,1445,2601,1210
+chevrolet,Chevrolet,Nubira / Lacetti,Nubira / Lacetti (2004),2004,2009,,2.0L 5MT FWD (120 HP),Gasoline,4,1998,120,171,5-speed manual,Front Wheel Drive,,,9.1,4516,1725,1445,2601,1250
+chevrolet,Chevrolet,Nubira / Lacetti,Nubira / Lacetti (2004),2004,2009,,2.0L D 5AT FWD (121 HP),Diesel,4,1991,121,280,5-speed automatic,Front Wheel Drive,10.6,188,6.6,4516,1725,1445,2601,1295
+chevrolet,Chevrolet,Nubira / Lacetti,Nubira / Lacetti (2004),2004,2009,,2.0L D 5MT FWD (121 HP),Diesel,4,1991,121,280,5-speed manual,Front Wheel Drive,9.8,186,5.7,4516,1725,1445,2601,1285
+chevrolet,Chevrolet,Nubira / Lacetti,Nubira / Lacetti (2004),2004,2009,,1.6L 5MT (109 HP),Gasoline,4,1598,109,150,5-speed manual,Front Wheel Drive,11.4,187,7.8,4580,1725,1461,2601,1250
+chevrolet,Chevrolet,Nubira / Lacetti,Nubira / Lacetti (2004),2004,2009,,1.8L 4AT (122 HP),Gasoline,4,1799,122,165,4-speed automatic,Front Wheel Drive,11.9,183,9,4580,1725,1461,2601,1305
+chevrolet,Chevrolet,Nubira / Lacetti,Nubira / Lacetti (2004),2004,2009,,1.8L 5MT (122 HP),Gasoline,4,1799,122,165,5-speed manual,Front Wheel Drive,10.4,195,7.4,4580,1725,1461,2601,1280
+chevrolet,Chevrolet,Nubira / Lacetti,Nubira / Lacetti (2002),2002,2004,,1.4L 5MT FWD (95 HP),Gasoline,4,1399,95,131,5-Speed manual,Front Wheel Drive,11.6,175,7.1,4295,1725,1445,2601,1170
+chevrolet,Chevrolet,Nubira / Lacetti,Nubira / Lacetti (2002),2002,2004,,1.5L 5MT FWD (106 HP),Gasoline,4,1498,106,139,5-Speed manual,Front Wheel Drive,11,183,6.3,4295,1725,1445,2601,1190
+chevrolet,Chevrolet,Nubira / Lacetti,Nubira / Lacetti (2002),2002,2004,,1.6L 5MT FWD (109 HP),Gasoline,4,1598,109,142,5-Speed manual,Front Wheel Drive,10.7,180,6.5,4295,1725,1445,2601,1175
+chevrolet,Chevrolet,Nubira / Lacetti,Nubira / Lacetti (2002),2002,2004,,1.8L 5MT FWD (121 HP),Gasoline,4,1796,121,169,5-Speed manual,Front Wheel Drive,9.8,195,7.4,4295,1725,1445,2601,1205
+chevrolet,Chevrolet,Nubira / Lacetti,Nubira / Lacetti (2002),2002,2004,,2.0L 5MT FWD (120 HP),Gasoline,4,1998,120,171,5-Speed manual,Front Wheel Drive,,,,4295,1725,1445,2601,
+chevrolet,Chevrolet,Nubira / Lacetti,Nubira / Lacetti (2002),2002,2004,,2.0d 5MT FWD (122 HP),Diesel,4,1991,122,280,5-Speed manual,Front Wheel Drive,9.8,186,5.7,4295,1725,1445,2601,1280
+chevrolet,Chevrolet,Onix,Onix (2012),2012,2019,,1.0L 5MT FWD (78 HP),Gasoline,4,999,78,94,5 speed manual,Front Wheel Drive,,,,3929,1704,1483,2527,1012
+chevrolet,Chevrolet,Onix,Onix (2012),2012,2019,,1.4L 6AT FWD (98 HP),Gasoline,4,1398,98,127,6 speed automatic,Front Wheel Drive,12.7,171,,3929,1704,1483,2527,1108
+chevrolet,Chevrolet,Onix,Onix (2012),2012,2019,,1.0L 5MT FWD (80 HP,Ethanol,4,999,80,96,5 speed manual,Front Wheel Drive,,,,3929,1704,1483,2527,1012
+chevrolet,Chevrolet,Onix,Onix (2012),2012,2019,,1.4L 6AT FWD (106 HP),Ethanol,4,1398,106,136,6 speed automatic,Front Wheel Drive,12,171,,3929,1704,1483,2527,1108
+chevrolet,Chevrolet,Orlando,Orlando (2010),2010,2018,,1.4L Turbo 6MT FWD (140 HP),Gasoline,4,1362,140,201,6-speed manual,Front Wheel Drive,11,200,6.2,4648,1836,1633,2761,1539
+chevrolet,Chevrolet,Orlando,Orlando (2010),2010,2018,,1.8L 6AT FWD (141 HP),Gasoline,4,1362,140,201,6-speed automatic,Front Wheel Drive,11.8,185,7.9,4648,1836,1633,2761,1539
+chevrolet,Chevrolet,Orlando,Orlando (2010),2010,2018,,1.8L 6MT FWD (141 HP),Gasoline,4,1796,141,176,6-speed manual,Front Wheel Drive,11.6,195,7,4648,1836,1633,2761,1528
+chevrolet,Chevrolet,Orlando,Orlando (2010),2010,2018,,2.0D 6AT FWD (163 HP),Diesel,4,1998,163,361,6-speed automatic,Front Wheel Drive,9.9,195,6.4,4648,1836,1633,2761,1659
+chevrolet,Chevrolet,Orlando,Orlando (2010),2010,2018,,2.0D 6MT FWD (130 HP),Diesel,4,1998,131,315,6-speed manual,Front Wheel Drive,10.5,180,5.3,4648,1836,1633,2761,1655
+chevrolet,Chevrolet,Orlando,Orlando (2010),2010,2018,,2.0D 6MT FWD (163 HP),Diesel,4,1998,163,361,6-speed manual,Front Wheel Drive,10.3,195,5.3,4648,1836,1633,2761,1655
+chevrolet,Chevrolet,Prisma,Prisma (2013),2013,2016,,1.4L 5MT (98 HP),Gasoline,4,1389,98,126,5 speed manual,Front Wheel Drive,,,,4275,1963,1483,2527,
+chevrolet,Chevrolet,S-10,S-10 (2000),2000,2004,,4.3L V6 5MT (193 HP),Gasoline,6,4293,193,339,5-Speed manual,All Wheel Drive,,,,5215,1725,1610,3122,1852
+chevrolet,Chevrolet,S-10,S-10 (1997),1997,2003,,2.2,Gasoline,4,2189,121,190,"Manual, 5 Speed",Rear Wheel Drive,,,9.8,5202,1725,1593,3122,1457
+chevrolet,Chevrolet,S-10,S-10 (1997),1997,2003,,4.3,Gasoline,6,4293,182,332,"Manual, 5 Speed",Rear Wheel Drive,,,12.4,5202,1725,1593,3122,1457
+chevrolet,Chevrolet,S-10,S-10 (1997),1997,2003,,2.2L 5MT RWD (121 HP),Gasoline,4,2189,121,190,5-manual speed,Rear Wheel Drive,,,9.8,5235,1725,1598,2995,1446
+chevrolet,Chevrolet,S-10,S-10 (1997),1997,2003,,4.3L V6 5MT RWD (182 HP),Gasoline,6,4293,182,332,5-manual speed,Rear Wheel Drive,,,12.4,5235,1725,1598,2995,1446
+chevrolet,Chevrolet,Silverado,Silverado (2023),2023,,,RST (754 HP),Electric,,,754,,,All Wheel Drive,,,,5921,2192,1999,3701,
+chevrolet,Chevrolet,Silverado,Silverado (2023),2023,,,510 HP,Electric,,,510,,,All Wheel Drive,,,,5921,2073,1981,3701,
+chevrolet,Chevrolet,Silverado,Silverado (2021),2021,2023,,2.7L 8AT AWD (314 HP),Gasoline,4,2726,314,473,8-speed automatic,All Wheel Drive,,,,6132,2062,1915,3988,2273
+chevrolet,Chevrolet,Silverado,Silverado (2021),2021,2023,,2.7L 8AT RWD (314 HP),Gasoline,4,2726,314,473,8-speed automatic,Rear Wheel Drive,,,,6132,2062,1915,3988,2182
+chevrolet,Chevrolet,Silverado,Silverado (2021),2021,2023,,5.3L V8 10AT AWD (360 HP),Gasoline,8,5328,360,519,10-speed automatic,All Wheel Drive,,,,6132,2062,1915,3988,2327
+chevrolet,Chevrolet,Silverado,Silverado (2021),2021,2023,,5.3L V8 10AT RWD (360 HP),Gasoline,8,5328,360,519,10-speed automatic,Rear Wheel Drive,,,,6132,2062,1915,3988,2236
+chevrolet,Chevrolet,Silverado,Silverado (2021),2021,2023,,6.2L V8 10AT AWD (426 HP),Gasoline,8,6162,426,623,10-speed automatic,All Wheel Drive,,,,6132,2062,1915,3988,2404
+chevrolet,Chevrolet,Silverado,Silverado (2021),2021,2023,,3.0L Duramax TD 10AT AWD (281 HP),Diesel,6,3000,281,623,10-speed automatic,All Wheel Drive,,,,6132,2062,1915,3988,
+chevrolet,Chevrolet,Silverado,Silverado (2021),2021,2023,,3.0L Duramax TD 10AT AWD (310 HP),Diesel,6,3000,309,671,10-speed automatic,All Wheel Drive,,,,6132,2062,1915,3988,2427
+chevrolet,Chevrolet,Silverado,Silverado (2021),2021,2023,,3.0L Duramax TD 10AT RWD (281 HP),Diesel,6,3000,280.8,623,10-speed automatic,Rear Wheel Drive,,,,6132,2062,1915,3988,
+chevrolet,Chevrolet,Silverado,Silverado (2018),2018,2022,,6.6L V8 6AT (401 HP),Gasoline,8,6600,401,629,6-speed automatic,Rear Wheel Drive,,,,6106,2080,2027,3795,
+chevrolet,Chevrolet,Silverado,Silverado (2018),2018,2022,,6.6L V8 6AT AWD (401 HP),Gasoline,8,6600,401,629,6-speed automatic,All Wheel Drive,,,,6106,2080,2027,3795,
+chevrolet,Chevrolet,Silverado,Silverado (2018),2018,2022,,6.6L V8 Duramax 10AT (445 HP),Diesel,8,6619,445,1234,10-speed automatic,Rear Wheel Drive,,,,6106,2080,2027,3795,
+chevrolet,Chevrolet,Silverado,Silverado (2018),2018,2022,,6.6L V8 Duramax 10AT AWD (445 HP),Diesel,8,6619,445,1234,10-speed automatic,All Wheel Drive,,,,6106,2080,2027,3795,
+chevrolet,Chevrolet,Silverado,Silverado (2013),2013,2018,,4.3L V6 EcoTec3 6AT (285 HP) (4x4),Gasoline,6,4293,285,,6-speed automatic,Rear Wheel Drive,,,,5222,2032,1883,3023,2081
+chevrolet,Chevrolet,Silverado,Silverado (2013),2013,2018,,4.3L V6 EcoTec3 6AT (285 HP)(4x2),Gasoline,6,4293,285,,6-speed automatic,Rear Wheel Drive,,,,5222,2032,1879,3023,1990
+chevrolet,Chevrolet,Silverado,Silverado (2013),2013,2018,,5.3L V8 EcoTec3 6AT (355 HP) (4x4),Gasoline,8,5326,355,,6-speed automatic,Rear Wheel Drive,,,,5221,2032,1883,3023,2135
+chevrolet,Chevrolet,Silverado,Silverado (2013),2013,2018,,5.3L V8 EcoTec3 6AT (355 HP)(4x2),Gasoline,8,5326,355,,6-speed automatic,Rear Wheel Drive,,,,5221,2032,1879,3023,2043
+chevrolet,Chevrolet,Silverado,Silverado (2013),2013,2018,,4.3 V6 EcoTec3 (4x2),Gasoline,6,4293,286,5288,6-speed automatic,Rear Wheel Drive,,,,5843,2032,1876,3645,2204
+chevrolet,Chevrolet,Silverado,Silverado (2013),2013,2018,,4.3 V6 EcoTec3 (4x4),Gasoline,6,4293,285,414,6-speed automatic,All Wheel Drive,,,,5843,2032,1877,3645,2315
+chevrolet,Chevrolet,Silverado,Silverado (2013),2013,2018,,5.3 V8 EcoTec3 (4x2),Gasoline,8,5326,355,519,6-speed automatic,Rear Wheel Drive,,,,5843,2032,1876,3645,2251
+chevrolet,Chevrolet,Silverado,Silverado (2013),2013,2018,,5.3 V8 EcoTec3 (4x4),Gasoline,8,5326,355,519,6-speed automatic,All Wheel Drive,,,,5843,2032,1877,3645,2359
+chevrolet,Chevrolet,Silverado,Silverado (2013),2013,2018,,6.2 V8 EcoTec3 (4x2),Gasoline,8,6162,420,624,6-speed automatic,Front Wheel Drive,,,,5843,2032,1876,3645,2302
+chevrolet,Chevrolet,Silverado,Silverado (2013),2013,2018,,6.2 V8 EcoTec3 (4x4),Gasoline,8,6162,420,624,6-speed automatic,All Wheel Drive,,,,5843,2032,1877,3645,2428
+chevrolet,Chevrolet,Silverado,Silverado (2013),2013,2018,,6.0 V8 Vortec (4x2),Gasoline,8,5998,360,515,6-speed automatic heavy duty,Rear Wheel Drive,,,,5701,2035,1976,3393,2554
+chevrolet,Chevrolet,Silverado,Silverado (2013),2013,2018,,6.0 V8 Vortec (4x4),Gasoline,8,5998,360,515,6-speed automatic heavy duty,All Wheel Drive,,,,5701,2035,1975,3393,2704
+chevrolet,Chevrolet,Silverado,Silverado (2013),2013,2018,,6.6 V8 Duramax (4x2),Gasoline,8,6604,397,1037,6-speed automatic heavy duty,Rear Wheel Drive,,,,5701,2035,1976,3393,2934
+chevrolet,Chevrolet,Silverado,Silverado (2013),2013,2018,,6.6 V8 Duramax (4x4),Gasoline,8,6604,397,1037,6-speed automatic heavy duty,All Wheel Drive,,,,5701,2035,1975,3393,3094
+chevrolet,Chevrolet,Silverado,Silverado (2013),2013,2018,,6.0L V8 Vortec (4x2) 6AT (360 HP),Gasoline,8,5998,360,515,6-speed automatic heavy duty,Rear Wheel Drive,,,,5842,2045,1984,3663,2791
+chevrolet,Chevrolet,Silverado,Silverado (2013),2013,2018,,6.0L V8 Vortec (4x4) 6AT (360 HP),Gasoline,6,5998,360,515,6-speed automatic heavy duty,All Wheel Drive,,,,5842,2045,1984,3663,2918
+chevrolet,Chevrolet,Silverado,Silverado (2013),2013,2018,,6.6L V8 Duramax (4x2) 6AT (402 HP),Diesel,8,6604,402,1037,6-speed automatic heavy duty,Rear Wheel Drive,,,,5842,2045,1984,3663,3158
+chevrolet,Chevrolet,Silverado,Silverado (2013),2013,2018,,6.6L V8 Duramax (4x4) 6AT (402 HP),Diesel,8,6604,402,1037,6-speed automatic heavy duty,All Wheel Drive,,,,5842,2045,1984,3663,3309
+chevrolet,Chevrolet,Silverado,Silverado (2013),2013,2018,,6.0L V8 SFI CNG 4x2 6AT (300 HP),Natural Gas,8,5998,300,451,6-speed automatic heavy duty,Rear Wheel Drive,,,,5842,2045,1984,3663,2791
+chevrolet,Chevrolet,Silverado,Silverado (2013),2013,2018,,6.0L V8 SFI CNG 4x4 6AT (300 HP),Natural Gas,8,5998,300,451,6-speed automatic heavy duty,All Wheel Drive,,,,5842,2045,1984,3663,3309
+chevrolet,Chevrolet,Silverado,Silverado (2013),2013,2018,,6.0 V8 Vortec (4x2),Gasoline,8,5998,365,515,6-speed automatic heavy duty,Rear Wheel Drive,,,,6083,2045,1988,3904,2791
+chevrolet,Chevrolet,Silverado,Silverado (2013),2013,2018,,6.0 V8 Vortec (4x4),Gasoline,8,5998,365,515,6-speed automatic heavy duty,All Wheel Drive,,,,6083,2045,1987,3904,2918
+chevrolet,Chevrolet,Silverado,Silverado (2013),2013,2018,,6.6 V8 Duramax (4x2),Diesel,8,6604,403,1037,6-speed automatic heavy duty,Rear Wheel Drive,,,,6083,2045,1988,3904,3158
+chevrolet,Chevrolet,Silverado,Silverado (2013),2013,2018,,6.6 V8 Duramax (4x4),Diesel,8,6604,403,1037,6-speed automatic heavy duty,All Wheel Drive,,,,6083,2045,1987,3904,3309
+chevrolet,Chevrolet,Silverado,Silverado (2013),2013,2018,,6.0 V8 SFI CNG (4x2),Natural Gas,8,5998,305,451,6-speed automatic heavy duty,Rear Wheel Drive,,,,6083,2045,1988,3904,2791
+chevrolet,Chevrolet,Silverado,Silverado (2013),2013,2018,,6.0 V8 SFI CNG (4x4),Natural Gas,8,5998,305,451,6-speed automatic heavy duty,All Wheel Drive,,,,6083,2045,1987,3904,3309
+chevrolet,Chevrolet,Silverado,Silverado (2013),2013,2018,,6.0L V8 Vortec 6AT (365 HP) (4x2),Gasoline,8,5998,365,515,6-speed automatic heavy duty,Rear Wheel Drive,,,,5458,2438,1973,3393,2802
+chevrolet,Chevrolet,Silverado,Silverado (2013),2013,2018,,6.0L V8 Vortec 6AT (365 HP) 4x4,Gasoline,8,5998,365,515,6-speed automatic heavy duty,All Wheel Drive,,,,5458,2438,1962,3393,2960
+chevrolet,Chevrolet,Silverado,Silverado (2013),2013,2018,,6.6L V8 Duramax 6AT (408 HP) (4x4),Diesel,8,6604,403,1037,6-speed automatic heavy duty,All Wheel Drive,,,,5458,2438,1962,3393,3304
+chevrolet,Chevrolet,Silverado,Silverado (2013),2013,2018,,6.0 V8 Vortec (4x2),Gasoline,8,5998,365,,6-speed automatic heavy duty,Rear Wheel Drive,,,,5453,2438,1972,4016,2802
+chevrolet,Chevrolet,Silverado,Silverado (2013),2013,2018,,6.0 V8 Vortec (4x4),Gasoline,8,5998,365,515,6-speed automatic heavy duty,All Wheel Drive,,,,5452,2438,1972,4016,2960
+chevrolet,Chevrolet,Silverado,Silverado (2013),2013,2018,,6.6 V8 Duramax (4x4),Diesel,8,6604,403,1037,6-speed automatic heavy duty,All Wheel Drive,,,,5453,2438,1972,4016,3304
+chevrolet,Chevrolet,Silverado,Silverado (2013),2013,2018,,6.6L V8 Duramax 6AT (408 HP) (4x2),Diesel,8,6604,403,1037,6-speed automatic heavy duty,Rear Wheel Drive,,,,5453,2438,1972,4016,3304
+chevrolet,Chevrolet,Silverado,Silverado (2013),2013,2019,,6.0L V8 Vortec (4x2),Gasoline,8,5998,365,515,6-speed automatic heavy duty,Rear Wheel Drive,,,,5575,2438,1976,4260,3076
+chevrolet,Chevrolet,Silverado,Silverado (2013),2013,2019,,6.0L V8 Vortec (4x4),Gasoline,8,5998,364,515,6-speed automatic heavy duty,All Wheel Drive,,,,5574,2438,1975,4260,3225
+chevrolet,Chevrolet,Silverado,Silverado (2013),2013,2019,,6.6L V8 Duramax (4x2),Diesel,8,6604,403,1037,6-speed automatic heavy duty,Rear Wheel Drive,,,,5574,2438,1976,4260,3421
+chevrolet,Chevrolet,Silverado,Silverado (2013),2013,2019,,6.6L V8 Duramax (4x4),Diesel,8,6604,403,1037,6-speed automatic heavy duty,All Wheel Drive,,,,5574,2438,1975,4260,3570
+chevrolet,Chevrolet,Silverado,Silverado (2013),2013,2018,,4.3L V6 EcoTec3 RWD (4x2),Gasoline,6,4293,286,414,6-speed automatic,Rear Wheel Drive,,,,6085,2032,1873,3886,2268
+chevrolet,Chevrolet,Silverado,Silverado (2013),2013,2018,,4.3L V6 EcoTec3 RWD (4x4),Gasoline,6,4293,286,414,6-speed automatic,All Wheel Drive,,,,6085,2032,1875,3886,2357
+chevrolet,Chevrolet,Silverado,Silverado (2013),2013,2018,,5.3L V8 EcoTec3 AWD (4x4),Gasoline,8,5326,355,519,6-speed automatic,All Wheel Drive,,,,6086,2032,1875,3886,2400
+chevrolet,Chevrolet,Silverado,Silverado (2013),2013,2018,,5.3L V8 EcoTec3 RWD (4x2),Gasoline,8,5326,355,519,6-speed automatic,Rear Wheel Drive,,,,6085,2032,1873,3886,2315
+chevrolet,Chevrolet,Silverado,Silverado (2013),2013,2018,,6.2L V8 EcoTec3 AWD (4x4),Gasoline,8,6162,420,624,6-speed automatic,Rear Wheel Drive,,,,6085,2032,1875,3886,2463
+chevrolet,Chevrolet,Silverado,Silverado (2013),2013,2018,,6.2L V8 EcoTec3 RWD (4x2),Gasoline,8,6162,420,624,6-speed automatic,Rear Wheel Drive,,,,6085,2032,1873,3886,2366
+chevrolet,Chevrolet,Silverado,Silverado (2008),2008,2012,,4.3L V6 4AT RWD (195 HP),Gasoline,6,4300,197,353,4-speed automatic,Rear Wheel Drive,,,13.4,5222,2029,1867,3023,2067
+chevrolet,Chevrolet,Silverado,Silverado (2008),2008,2012,,4.8L V8 4AT RWD (295 HP),Gasoline,8,4807,299,414,4-speed automatic,Rear Wheel Drive,,,14.3,5222,2029,1867,3023,2065
+chevrolet,Chevrolet,Silverado,Silverado (2008),2008,2012,,5.3L V8 6AT RWD (315 HP),Gasoline,8,5328,319,458,6-speed automatic,Rear Wheel Drive,,,13.8,5222,2029,1867,3023,2067
+chevrolet,Chevrolet,Silverado,Silverado (2008),2008,2012,,5.3L V8 FlexFuel 6AT RWD (322 HP),Natural Gas,8,5328,326.5,461,6-speed automatic,Rear Wheel Drive,,,13.8,5222,2029,1867,3023,2067
+chevrolet,Chevrolet,Silverado,Silverado (2008),2008,2012,,4.3L V6 4AT RWD (195 HP),Gasoline,6,4300,197,353,4-speed automatic,Rear Wheel Drive,,,13.4,5847,2029,1869,3645,2299
+chevrolet,Chevrolet,Silverado,Silverado (2008),2008,2012,,4.8L V8 4AT RWD (295 HP),Gasoline,8,4807,299,414,4-speed automatic,Rear Wheel Drive,,,13.8,5847,2029,1869,3645,2299
+chevrolet,Chevrolet,Silverado,Silverado (2008),2008,2012,,5.3L V8 4AT RWD (315 HP),Gasoline,8,5328,319,458,4-speed automatic,Rear Wheel Drive,,,13.8,5847,2029,1869,3645,2299
+chevrolet,Chevrolet,Silverado,Silverado (2008),2008,2012,,6.0L V8 4AT RWD (367 HP),Gasoline,8,5967,372,508,4-speed automatic,Rear Wheel Drive,,,14.7,5847,2029,1869,3645,2299
+chevrolet,Chevrolet,Silverado,Silverado (2008),2008,2012,,5.3L V8 FlexFuel 4AT RWD (322 HP),Natural Gas,8,5328,323,461,4-speed automatic,Rear Wheel Drive,,,13.8,5847,2029,1869,3645,2299
+chevrolet,Chevrolet,Silverado,Silverado (2008),2008,2012,,5.3L V8 4AT RWD (315 HP),Gasoline,8,5328,319,458,4-speed automatic,Rear Wheel Drive,,,13.4,5842,2029,1869,3645,2339
+chevrolet,Chevrolet,Silverado,Silverado (2008),2008,2012,,6.0L V8 4AT RWD (367 HP),Gasoline,8,5967,372,508,4-speed automatic,Rear Wheel Drive,,,14.3,5842,2029,1869,3645,2339
+chevrolet,Chevrolet,Silverado,Silverado (2008),2008,2012,,5.3L V8 FlexFuel 4AT RWD (322 HP),Natural Gas,8,5328,326,461,4-speed automatic,Rear Wheel Drive,,,14.3,5842,2029,1869,3645,2339
+chevrolet,Chevrolet,Silverado,Silverado (2008),2008,2012,,6.2L V8 FlexFuel 4AT RWD (404 HP),Natural Gas,8,6162,409,565,4-speed automatic,Rear Wheel Drive,,,14.3,5842,2029,1869,3645,2339
+chevrolet,Chevrolet,Silverado 2500HD,Silverado 2500HD (2023),2023,,,6.6L 10AT AWD (406 HP),Gasoline,8,,407,629,10-speed automatic,All Wheel Drive,,,,6350,2080,2101,4041,3360
+chevrolet,Chevrolet,Silverado 2500HD,Silverado 2500HD (2023),2023,,,ZR2 Bison 6.6L 10AT AWD (406 HP),Gasoline,8,,407,629,10-speed automatic,All Wheel Drive,,,,6350,2080,2101,4041,3535
+chevrolet,Chevrolet,Silverado 2500HD,Silverado 2500HD (2023),2023,,,6.6L V8 Duramax 10 AT AWD (476 HP),Diesel,8,,407,1322,10-speed automatic,All Wheel Drive,,,,6350,2080,2101,4041,3680
+chevrolet,Chevrolet,Silverado 2500HD,Silverado 2500HD (2023),2023,,,ZR2 Bison 6.6L V8 Duramax 10 AT AWD (476 HP),Diesel,8,,407,1322,10-speed automatic,All Wheel Drive,,,,6350,2080,2101,4041,3853
+chevrolet,Chevrolet,Silverado 2500HD,Silverado 2500HD (2008),2008,2013,,6.0 V8 6AT (360 HP),Gasoline,8,5967,365,515,6-speed automatic,Rear Wheel Drive,,,18.1,5850,2032,1951,3645,2530
+chevrolet,Chevrolet,Silverado 2500HD,Silverado 2500HD (2008),2008,2013,,6.6 V8 6AT (365 HP),Diesel,8,6599,370.1,895,6-speed automatic,Rear Wheel Drive,,,14.7,5850,2032,1951,3645,2851
+chevrolet,Chevrolet,Silverado 2500HD,Silverado 2500HD (2008),2008,2013,,6.0 V8 6AT (360 HP),Gasoline,8,5967,365,515,6-speed automatic,Rear Wheel Drive,,,18.1,6096,2032,1958,3886,2595
+chevrolet,Chevrolet,Silverado 2500HD,Silverado 2500HD (2008),2008,2013,,6.6 V8 6AT (365 HP),Diesel,8,6599,370.1,895,6-speed automatic,Rear Wheel Drive,,,14.7,6096,2032,1958,3886,2595
+chevrolet,Chevrolet,Silverado 2500HD,Silverado 2500HD (2007),2007,2013,,6.0 V8 6AT (360 HP),Gasoline,8,5967,365,515,6-speed automatic,Rear Wheel Drive,,,18.1,5707,2032,1938,3378,2393
+chevrolet,Chevrolet,Silverado 2500HD,Silverado 2500HD (2007),2007,2013,,6.6 V8 6AT (365 HP),Diesel,8,6599,370.1,895,6-speed automatic,Rear Wheel Drive,,,16.8,5707,2032,1938,3378,2852
+chevrolet,Chevrolet,Silverado 3500HD,Silverado 3500HD (2008),2008,2013,,6.0 V8 6AT (360 HP),Gasoline,8,5967,365,515,6-speed automatic,Rear Wheel Drive,,,16.8,5715,2436,49378,3378,2217
+chevrolet,Chevrolet,Silverado 3500HD,Silverado 3500HD (2008),2008,2013,,6.6 V8 6AT (365 HP),Diesel,8,6599,370.1,895,6-speed automatic,Rear Wheel Drive,,,14.7,5715,2436,49378,3378,2217
+chevrolet,Chevrolet,Silverado 3500HD,Silverado 3500HD (2008),2008,2013,,6.0 V8 6AT (360 HP),Gasoline,8,5967,364.4,895,6-speed automatic,Rear Wheel Drive,,,18.1,6330,2436,1930,4001,2674
+chevrolet,Chevrolet,Silverado 3500HD,Silverado 3500HD (2008),2008,2013,,6.6 V8 6AT (365 HP),Diesel,8,5967,370.1,895,6-speed automatic,Rear Wheel Drive,,,15.7,6330,2436,1930,4001,2674
+chevrolet,Chevrolet,Silverado 3500HD,Silverado 3500HD (2008),2008,2013,,6.0 V8 6T (360 HP),Gasoline,8,5967,365,515,6-speed automatic,Rear Wheel Drive,,,18.1,6571,2436,49047,4242,2905
+chevrolet,Chevrolet,Silverado 3500HD,Silverado 3500HD (2008),2008,2013,,6.6 V8 6AT (365 HP),Diesel,8,6599,370,895,6-speed automatic,Rear Wheel Drive,,,16.8,6571,2436,49047,4242,2905
+chevrolet,Chevrolet,Silverado Hybrid,Silverado Hybrid (2008),2008,2013,,6.0 V8 Hybrid 4AT (333 HP),Hybrid,8,5967,332,498,4-speed automatic,Rear Wheel Drive,,,10.9,5842,2029,1872,3645,2559
+chevrolet,Chevrolet,Sonic,Sonic Hatchback (2011),2011,2016,,1.4L Turbo 6AT FWD (138 HP),Gasoline,4,1364,140,201,6-speed manual,Front Wheel Drive,,,7.6,4039,1735,1516,2525,1370
+chevrolet,Chevrolet,Sonic,Sonic Hatchback (2011),2011,2016,,1.4L Turbo 6MT FWD (138 HP),Gasoline,4,1364,140,201,6-speed manual,Front Wheel Drive,12.6,174,5.9,4039,1735,1516,2525,1083
+chevrolet,Chevrolet,Sonic,Sonic Hatchback (2011),2011,2016,,1.8L 5MT FWD (137 HP),Gasoline,4,1796,135,168,5-speed manual,Front Wheel Drive,,,6.8,4039,1735,1516,2525,1230
+chevrolet,Chevrolet,Sonic,Sonic Hatchback (2011),2011,2016,,1.8L 6AT FWD (137 HP),Gasoline,4,1796,140,169,6-speed automatic,Front Wheel Drive,8.3,203,7.2,4039,1735,1516,2525,1230
+chevrolet,Chevrolet,Sonic,Sonic Sedan (2016),2016,2020,,1.4L Ecotec 5MT FWD (138 HP),Gasoline,4,1364,138,200,5-speed manual,Front Wheel Drive,,,,4417,1735,1516,2525,1267
+chevrolet,Chevrolet,Sonic,Sonic Sedan (2016),2016,2020,,1.4L Ecotec 6AT FWD (138 HP),Gasoline,4,1364,138,200,6-speed automatic,Front Wheel Drive,,,,4417,1735,1516,2525,1320
+chevrolet,Chevrolet,Sonic,Sonic Sedan (2016),2016,2020,,1.8L 5MT FWD (138 HP),Gasoline,4,1796,138,170,5-speed manual,Front Wheel Drive,,,,4417,1735,1516,2525,
+chevrolet,Chevrolet,Sonic,Sonic Sedan (2016),2016,2020,,1.8L 6AT FWD (138 HP),Gasoline,4,1796,138,170,6-speed automatic,Front Wheel Drive,,,,4417,1735,1516,2525,1287
+chevrolet,Chevrolet,Sonic,Sonic Sedan (2011),2011,2016,,1.6L 6AT FWD (115 HP),Gasoline,4,1598,117,155,6-speed automatic,Front Wheel Drive,12.1,187,7.1,4397,1735,1516,2525,1183
+chevrolet,Chevrolet,Sonic,Sonic Sedan (2011),2011,2016,,1.4L 5MT FWD (100 HP),Diesel,4,1398,101,130,5-speed manual,Front Wheel Drive,12.6,177,5.9,4397,1735,1516,2525,1098
+chevrolet,Chevrolet,Sonic RS,Sonic RS (2012),2012,2020,,1.4L Turbo 6MT (140 HP),Gasoline,4,1364,140,201,six-speed manual transmission,Front Wheel Drive,11,,,4039,1735,1516,2525,1244
+chevrolet,Chevrolet,Spark EV,Spark EV (2013),2013,2016,,100 kW (136 HP),Electric,,,136,542,single-speed automatic,Front Wheel Drive,7.9,145,,3721,1626,1628,2375,1356
+chevrolet,Chevrolet,Spark EV,Spark EV (2013),2013,2016,,105 kW (143 HP),Electric,,,143,542,single-speed automatic,Front Wheel Drive,7.9,145,,3721,1628,1590,2375,1346
+chevrolet,Chevrolet,Spin,Spin (2012),2012,2018,,1.2L 5MT FWD (86 HP),Gasoline,4,1229,86,115,5-manual speed,Front Wheel Drive,,,,4361,1735,1664,2619,
+chevrolet,Chevrolet,Spin,Spin (2012),2012,2018,,1.5L 5MT FWD (106 HP),Gasoline,4,1485,106,141,5-manual speed,Front Wheel Drive,,,,4361,1735,1664,2619,
+chevrolet,Chevrolet,Spin,Spin (2012),2012,2018,,1.5L 6AT FWD (106 HP),Gasoline,4,1485,106,141,6-automatic speed,Front Wheel Drive,,,,4361,1735,1664,2619,
+chevrolet,Chevrolet,Spin,Spin (2012),2012,2018,,1.3L 5MT FWD (75 HP),Diesel,4,1485,75,190,6-manual speed,Front Wheel Drive,,,,4361,1735,1664,2619,
+chevrolet,Chevrolet,Spin,Spin (2012),2012,2018,,1.8L ECONO.FLEX Ethanol,Ethanol,4,1796,107,161,5-manual speed,Front Wheel Drive,10.6,172,,4361,1735,1664,2619,1202
+chevrolet,Chevrolet,Spin,Spin (2012),2012,2018,,1.8L ECONO.FLEX AT Ethanol,Ethanol,4,1796,107,161,6-automatic speed,Front Wheel Drive,11.9,167,,4361,1735,1664,2619,1202
+chevrolet,Chevrolet,SS,SS (2016),2016,2017,,6.2L V8 6AT (415 HP),Gasoline,8,6162,415,563,6-speed automatic,Rear Wheel Drive,,,14.7,4966,1897,1471,2916,1803
+chevrolet,Chevrolet,SS,SS (2016),2016,2017,,6.2L V8 6MT (415 HP),Gasoline,8,6162,415,563,6-Speed manual,Rear Wheel Drive,,,13.8,4966,1897,1471,2916,1796
+chevrolet,Chevrolet,SS,SS (2013),2013,2016,,6.2L V8 6AT RWD (415 HP),Gasoline,8,6162,415,563,6-speed automatic,Rear Wheel Drive,5.2,257,13.8,4966,1897,1471,2916,1803
+chevrolet,Chevrolet,SS,SS (2013),2013,2016,,6.2L V8 6MT RWD (415 HP),Gasoline,8,6162,415,563,6-Speed manual,Rear Wheel Drive,5.2,257,,4966,1897,1471,2916,1796
+chevrolet,Chevrolet,SSR,SSR (2003),2003,2006,,5.3L V8 4AT (290 HP),Gasoline,8,5327,290,441,4-speed automatic,Rear Wheel Drive,7.7,209,13.8,4862,1996,1631,2946,1850
+chevrolet,Chevrolet,SSR,SSR (2003),2003,2006,,6.0L V8 6MT (396 HP),Gasoline,8,5992,396,549,6-Speed manual,Rear Wheel Drive,5.3,220,14.7,4862,1996,1631,2946,
+chevrolet,Chevrolet,Suburban,Suburban (2023),2023,,,5.3L V8 10AT AWD (360 HP),Gasoline,8,5328,359.9,519,10-speed automatic Hydra-Matic,All Wheel Drive,,,,,,,,2664
+chevrolet,Chevrolet,Suburban,Suburban (2023),2023,,,5.3L V8 10AT RWD (360 HP),Gasoline,8,5328,360,519,10-speed automatic Hydra-Matic,Rear Wheel Drive,,,,,,,,2664
+chevrolet,Chevrolet,Suburban,Suburban (2023),2023,,,3.0d 10AT AWD (309 HP),Diesel,6,2993,309.2,671,10-speed automatic Hydra-Matic,All Wheel Drive,,,,,,,,2746
+chevrolet,Chevrolet,Suburban,Suburban (2023),2023,,,3.0d 10AT RWD (309 HP),Diesel,6,2993,309,671,10-speed automatic Hydra-Matic,Rear Wheel Drive,,,,,,,,2658
+chevrolet,Chevrolet,Suburban,Suburban (2020),2020,2023,,5.3L V8 VVT 10AT AWD (355 HP),Gasoline,8,,355,519,10-Speed automatic,All Wheel Drive,,,13.1,5700,2045,1890,3302,2534
+chevrolet,Chevrolet,Suburban,Suburban (2020),2020,2023,,5.3L V8 VVT 6AT AWD (355 HP),Gasoline,8,,355,519,6-speed automatic,Rear Wheel Drive,,,13.1,5700,2045,1890,3302,2534
+chevrolet,Chevrolet,Suburban,Suburban (2020),2020,2023,,6.2L V8 VVT 10AT AWD (420 HP),Gasoline,8,,420,623,10-Speed automatic,All Wheel Drive,,,,5733,2060,1923,3302,
+chevrolet,Chevrolet,Suburban,Suburban (2020),2020,2023,,3.0L 10AT AWD (277 HP),Diesel,6,,277,,10-Speed automatic,Rear Wheel Drive,,,,5733,2060,1923,3406,
+chevrolet,Chevrolet,Suburban,Suburban (2018),2018,2020,,6.2L V8 10AT RWD (420 HP),Gasoline,8,6200,420,,Hydra-Matic 6L80 10-speed auto,Rear Wheel Drive,,,,5179,2045,1890,2946,2493
+chevrolet,Chevrolet,Suburban,Suburban (2014),2014,2020,,5.3L EcoTec3 V8 AWD 6AT (340 HP),Gasoline,8,5328,340,519,Hydra-Matic 6L80 6-speed auto,All Wheel Drive,,182,,5179,2045,1890,2946,2674
+chevrolet,Chevrolet,Suburban,Suburban (2014),2014,2020,,5.3L EcoTec3 V8 RWD 6AT (340 HP),Gasoline,8,5328,340,519,Hydra-Matic 6L80 6-speed auto,Rear Wheel Drive,,182,,5179,2045,1890,2946,2569
+chevrolet,Chevrolet,Suburban,Suburban (2014),2014,2020,,6.2L EcoTec3 V8 AWD 6AT (426 HP),Gasoline,8,6200,426,610,Hydra-Matic 6L80 6-speed auto,All Wheel Drive,,,,5179,2045,1890,2946,2606
+chevrolet,Chevrolet,Suburban,Suburban (2014),2014,2020,,6.2L EcoTec3 V8 RWD 6AT (426 HL),Gasoline,8,6200,426,610,Hydra-Matic 6L80 6-speed auto,Rear Wheel Drive,,,,5179,2045,1890,2946,2493
+chevrolet,Chevrolet,Suburban,Suburban (2006),2006,2013,,5.3L 6AT AWD (330 HP),Gasoline,8,5328,330,472,6 speed automatic,Front Wheel Drive,,,13.8,5649,2009,1951,3302,2642
+chevrolet,Chevrolet,Suburban,Suburban (2006),2006,2013,,5.3L 6AT FWD (330 HP),Gasoline,8,5328,330,472,6 speed automatic,Front Wheel Drive,,,,5649,2009,1951,3302,2573
+chevrolet,Chevrolet,Suburban,Suburban (2006),2006,2013,,6.0L AWD 4AT (356 HP),Natural Gas,8,5967,356,518,"Automatic, 4 Speed",All Wheel Drive,,,,5649,2009,1951,3302,2912
+chevrolet,Chevrolet,Suburban,Suburban (2006),2006,2013,,6.0L FWD 4AT (356 HP),Natural Gas,8,5967,356,518,"Automatic, 4 Speed",Front Wheel Drive,,,,5649,2009,1951,3302,2790
+chevrolet,Chevrolet,Suburban,Suburban (1999),1999,2006,,5.3L V8 4AT RWD (300 HP),Gasoline,8,5328,299,447,4-Speed automatic,Rear Wheel Drive,,,14.7,5570,2002,1920,3302,2228
+chevrolet,Chevrolet,Suburban,Suburban (1999),1999,2006,,6.0L V8 4AT RWD (340 HP),Gasoline,8,5967,340,508,4-speed automatic,Rear Wheel Drive,,,,5570,2027,1946,3302,2504
+chevrolet,Chevrolet,Suburban,Suburban (1999),1999,2006,,8.1L V8 4AT RWD (325 HP),Gasoline,8,8128,325,597,4-speed automatic,Rear Wheel Drive,,,,5570,2027,1943,3302,2755
+chevrolet,Chevrolet,Tacuma,Tacuma (2004),2004,2008,,1.6L 5MT FWD (107 HP),Gasoline,4,1598,107,145,5-Speed manual,Front Wheel Drive,12.2,167,8,4351,1755,1580,2601,1272
+chevrolet,Chevrolet,Tacuma,Tacuma (2004),2004,2008,,1.8L 5MT FWD (98 HP),Gasoline,4,1761,98,148,5-Speed manual,Front Wheel Drive,12,170,9,4351,1755,1580,2601,1344
+chevrolet,Chevrolet,Tacuma,Tacuma (2004),2004,2008,,2.0L 5MT FWD (122 HP),Gasoline,4,1998,122,178,5-Speed manual,Front Wheel Drive,10.3,180,8.6,4351,1755,1580,2601,1306
+chevrolet,Chevrolet,Tahoe,Tahoe (2023),2023,,,5.3L V8 10AT AWD (360 HP),Gasoline,8,,359.9,519,10-speed automatic,All Wheel Drive,,,,,,,,2588
+chevrolet,Chevrolet,Tahoe,Tahoe (2023),2023,,,6.2L V8 10 AT AWD (426 HP),Gasoline,8,,426,623,10-speed automatic,All Wheel Drive,,,,,,,,2577
+chevrolet,Chevrolet,Tahoe,Tahoe (2023),2023,,,3.0L V8 10AT AWD (309 HP),Diesel,6,,309.2,671,10-speed automatic,All Wheel Drive,,,,,,,,
+chevrolet,Chevrolet,Tahoe,Tahoe (2020),2020,2023,,5.3L V8 VVT 10AT AWD (355 HP),Gasoline,8,,355,519,10-Speed automatic,All Wheel Drive,,,,5352,2057,1928,3071,
+chevrolet,Chevrolet,Tahoe,Tahoe (2020),2020,2023,,6.2L V8 VVT 10AT AWD (420 HP),Gasoline,8,,420,623,10-Speed automatic,All Wheel Drive,,,,5352,2057,1928,3071,
+chevrolet,Chevrolet,Tahoe,Tahoe (2020),2020,2023,,3.0L 10AT AWD (277 HP),Diesel,6,,277,623,10-Speed automatic,All Wheel Drive,,,,5352,2057,1928,3071,
+chevrolet,Chevrolet,Tahoe,Tahoe (2014),2014,2020,,5.3L EcoTec3 V8 AWD 6AT (340 HP),Gasoline,8,5328,340,519,Hydra-Matic 6L80 6-speed automatic,All Wheel Drive,,182,,5179,2045,1890,2946,2578
+chevrolet,Chevrolet,Tahoe,Tahoe (2014),2014,2020,,5.3L EcoTec3 V8 RWD 6AT (340 HP),Gasoline,8,5328,340,519,Hydra-Matic 6L80 6-speed auto,Rear Wheel Drive,,182,,5179,2045,1890,2946,2479
+chevrolet,Chevrolet,Tahoe,Tahoe (2014),2014,2020,,6.2L EcoTec3 V8 AWD 6AT (426 HP),Gasoline,8,6200,426,610,Hydra-Matic 6L80 6-speed auto,All Wheel Drive,,,,5179,2045,1890,2946,2606
+chevrolet,Chevrolet,Tahoe,Tahoe (2014),2014,2020,,6.2L EcoTec3 V8 RWD 6AT (426 HP),Gasoline,8,6200,426,610,Hydra-Matic 6L80 6-speed auto,Rear Wheel Drive,,,,5179,2045,1890,2946,2493
+chevrolet,Chevrolet,Tahoe,Tahoe (2008),2008,2014,,4.8L V8 4AT RWD (295 HP),Gasoline,8,4807,299,414,4-speed automatic,Rear Wheel Drive,9.7,200,13.8,5131,2007,1956,2946,2387
+chevrolet,Chevrolet,Tahoe,Tahoe (2008),2008,2014,,5.3L V8 4AT AWD (320 HP),Gasoline,8,5328,325,461,4-speed automatic,Rear Wheel Drive,8.8,217,13.1,5131,2007,1956,2946,2522
+chevrolet,Chevrolet,Tahoe,Tahoe (2008),2008,2014,,5.3L V8 6AT AWD (320 HP),Gasoline,8,5328,325,461,6-speed automatic,All Wheel Drive,9.4,217,13.8,5131,2007,1956,2946,2525
+chevrolet,Chevrolet,Tahoe,Tahoe (2008),2008,2014,,5.3L V8 6AT AWD (320 HP),Ethanol,8,5328,325,461,6-speed automatic,All Wheel Drive,8.9,222,13.8,5131,2007,1956,2946,2505
+chevrolet,Chevrolet,Tahoe,Tahoe (2008),2008,2014,,5.3L V8 FlexiFuel 6AT RWD (320 HP),Ethanol,8,5328,325,472,6-speed automatic,Rear Wheel Drive,8.2,225,13.8,5131,2007,1956,2946,2471
+chevrolet,Chevrolet,Tahoe,Tahoe (2008),2008,2014,,6.0L V8 CVT AWD (337 HP),Hybrid Gasoline,8,5967,337,498,CVT Automatic,All Wheel Drive,8.8,225,11.2,5131,2007,1956,2946,2647
+chevrolet,Chevrolet,Tahoe,Tahoe (2008),2008,2014,,6.0L V8 CVT AWD (370 HP),Hybrid Gasoline,8,5967,332,498,CVT Automatic,Rear Wheel Drive,9.4,220,11.8,5131,2007,1956,2946,2684
+chevrolet,Chevrolet,Tahoe,Tahoe (2006),2006,2013,,4.8L V8 4AT RWD (295 HP),Gasoline,8,4807,299,414,4-speed automatic,Rear Wheel Drive,,,13.8,5131,2007,1953,2946,2374
+chevrolet,Chevrolet,Tahoe,Tahoe (2006),2006,2013,,5.3L V8 4AT AWD (320 HP),Gasoline,8,5328,324,461,4-speed automatic,All Wheel Drive,,,14.7,5131,2007,1953,2946,2522
+chevrolet,Chevrolet,Tahoe,Tahoe (2006),2006,2013,,5.3L V8 4AT RWD (320 HP),Gasoline,8,5328,324,461,4-speed automatic,Rear Wheel Drive,,,13.1,5131,2007,1953,2946,2374
+chevrolet,Chevrolet,Tahoe,Tahoe (2006),2006,2013,,5.3L V8 FlexFuel 4AT AWD (320 HP),Ethanol,8,5328,324,461,4-speed automatic,All Wheel Drive,,,13.8,5131,2007,1953,2946,2512
+chevrolet,Chevrolet,Tahoe,Tahoe (2006),2006,2013,,5.3L V8 FlexFuel 4AT RWD (320 HP),Ethanol,8,5328,324,461,4-speed automatic,Rear Wheel Drive,,,13.1,5131,2007,1953,2946,2374
+chevrolet,Chevrolet,Tahoe,Tahoe (1991),1991,1999,,5.7L V8 4AT AWD (253 HP),Gasoline,8,5735,253,447,4-Speed automatic,Rear Wheel Drive,,,,5057,1941,1783,2985,
+chevrolet,Chevrolet,Tahoe,Tahoe (1991),1991,1999,,5.7L V8 5MT AWD (213 HP),Gasoline,8,5735,213,407,5-Speed manual,Rear Wheel Drive,,,,5057,1941,1783,2985,2329
+chevrolet,Chevrolet,Tahoe,Tahoe (1991),1991,1999,,6.5L V8 4AT AWD (182 HP),Diesel,8,6554,182,488,4-Speed automatic,All Wheel Drive,14.2,154,18.5,5057,1941,1783,2985,
+chevrolet,Chevrolet,Tahoe,Tahoe (1991),1991,1999,,5.7L V8 4AT AWD (200 HP),Gasoline,8,5733,203,420,4-speed automatic,All Wheel Drive,,,18.1,4788,1958,1814,2832,2145
+chevrolet,Chevrolet,Tahoe,Tahoe (1991),1991,1999,,5.7L V8 4AT AWD (255 HP),Gasoline,8,5733,259,447,4-speed automatic,All Wheel Drive,,,15.7,4788,1958,1814,2832,2145
+chevrolet,Chevrolet,Tahoe,Tahoe (1991),1991,1999,,5.7L V8 4AT RWD (255 HP),Gasoline,8,5733,259,447,4-speed automatic,Rear Wheel Drive,,,15.7,4788,1958,1814,2832,2020
+chevrolet,Chevrolet,Tahoe,Tahoe (1991),1991,1999,,6.5L V8 4AT AWD (180 HP),Diesel,8,6466,182,488,4-speed automatic,All Wheel Drive,,,14.7,4788,1958,1839,2832,2225
+chevrolet,Chevrolet,Tracker,Tracker (2013),2013,2017,,1.8L AWD 6AT (140 HP),Gasoline,4,1796,140,178,6 speed automatic,All Wheel Drive,,,,4247,1793,1674,2555,1425
+chevrolet,Chevrolet,Tracker,Tracker (2013),2013,2017,,1.8L FWD 5MT (140 HP),Gasoline,4,1796,140,178,5 speed manual,Front Wheel Drive,,,,4247,1793,1674,2555,1330
+chevrolet,Chevrolet,Tracker,Tracker (1999),1999,2004,,1.6L 5MT (97 HP),Gasoline,4,1590,98,140,5-speed manual,Rear Wheel Drive,,,9,3856,1709,1689,2200,1180
+chevrolet,Chevrolet,Tracker,Tracker (1999),1999,2004,,1.6L 5MT AWD (97 HP),Gasoline,4,1590,98,140,5-speed manual,All Wheel Drive,,,9,3856,1709,1689,2200,1235
+chevrolet,Chevrolet,Tracker,Tracker (1999),1999,2004,,2.0L 4AT (127 HP),Gasoline,4,1995,129,182,4-speed automatic,Rear Wheel Drive,,,9.8,3856,1709,1689,2200,1180
+chevrolet,Chevrolet,Tracker,Tracker (1999),1999,2004,,2.0L 4AT AWD (127 HP),Gasoline,4,1995,129,182,4-speed automatic,All Wheel Drive,,,9.8,3856,1709,1689,2200,1235
+chevrolet,Chevrolet,Tracker,Tracker (1999),1999,2004,,2.0L 5MT (127 HP),Gasoline,4,1995,129,182,5-speed manual,Rear Wheel Drive,,,9.8,3856,1709,1689,2200,1180
+chevrolet,Chevrolet,Tracker,Tracker (1999),1999,2004,,2.0L 5MT AWD (127 HP),Gasoline,4,1995,129,182,5-speed manual,All Wheel Drive,,,10.2,3856,1709,1689,2200,1235
+chevrolet,Chevrolet,Tracker,Tracker (1999),1999,2004,,2.0L 4AT (127 HP),Gasoline,4,1995,127,182,4-speed automatic,Rear Wheel Drive,,,9.4,4059,1694,1689,2479,1300
+chevrolet,Chevrolet,Tracker,Tracker (1999),1999,2004,,2.0L 4AT AWD (127 HP),Gasoline,4,1995,127,182,4-speed automatic,All Wheel Drive,,,9.8,4059,1694,1689,2479,1355
+chevrolet,Chevrolet,Tracker,Tracker (1999),1999,2004,,2.0L 5MT (127 HP),Gasoline,4,1995,127,182,5-speed manual,Rear Wheel Drive,,,9.8,4059,1694,1689,2479,1300
+chevrolet,Chevrolet,Tracker,Tracker (1999),1999,2004,,2.0L 5MT AWD (127 HP),Gasoline,4,1995,127,182,5-speed manual,All Wheel Drive,,,10.2,4059,1694,1689,2479,1355
+chevrolet,Chevrolet,Tracker,Tracker (1999),1999,2004,,2.5L V6 4AT (154 HP),Gasoline,6,2490,156,217,4-speed automatic,Rear Wheel Drive,,,11.8,4059,1694,1689,2479,1275
+chevrolet,Chevrolet,Tracker,Tracker (1999),1999,2004,,2.5L V6 4AT AWD (154 HP),Gasoline,6,2490,156,217,4-speed automatic,All Wheel Drive,,,12.4,4059,1694,1689,2479,1354
+chevrolet,Chevrolet,TrailBlazer,TrailBlazer (2023),2023,,,1.2L ECOTEC CVT (140 HP),Gasoline,3,,138.9,219,CVT,Front Wheel Drive,,,,4407,1808,1656,2639,1374
+chevrolet,Chevrolet,TrailBlazer,TrailBlazer (2023),2023,,,1.3L ECOTEC 9AT AWD (157 HP),Gasoline,3,,157,236,9-speed automatic,All Wheel Drive,,,,4407,1808,1656,2639,1475
+chevrolet,Chevrolet,TrailBlazer,TrailBlazer (2023),2023,,,1.3L ECOTEC CVT (157 HP),Gasoline,3,,157.1,236,CVT,Front Wheel Drive,,,,4407,1808,1656,2639,1404
+chevrolet,Chevrolet,TrailBlazer,TrailBlazer (2012),2012,2016,,3.6L V6 6AT AWD (239 HP),Gasoline,6,3564,243,361,6-speed automatic,All Wheel Drive,9.1,180,,4877,1902,1842,2845,
+chevrolet,Chevrolet,TrailBlazer,TrailBlazer (2012),2012,2016,,2.5L CDTI FWD 5MT (150 HP),Diesel,4,2449,150,350,5-Speed manual,Front Wheel Drive,10.8,180,,4877,1902,1842,2845,1971
+chevrolet,Chevrolet,TrailBlazer,TrailBlazer (2012),2012,2016,,2.8L CDTI 6AT AWD (180 HP),Diesel,4,2776,179,346,6-speed automatic,All Wheel Drive,10.8,180,,4877,1902,1842,2845,2097
+chevrolet,Chevrolet,TrailBlazer,TrailBlazer (2008),2008,2012,,4.2L 4AT AWD (285 HP),Gasoline,6,4157,273,373,4-speed automatic,All Wheel Drive,9,192,13,4872,1897,1892,2870,1976
+chevrolet,Chevrolet,TrailBlazer,TrailBlazer (2008),2008,2012,,4.2L 4AT RWD (285 HP),Gasoline,6,4157,273,373,4-speed automatic,Rear Wheel Drive,9,192,13.8,4872,1897,1892,2870,1976
+chevrolet,Chevrolet,TrailBlazer,TrailBlazer (2008),2008,2012,,5.3L V8 4AT AWD (294 HP),Gasoline,8,5327,294,441,4-speed automatic,All Wheel Drive,7.5,175,14.8,4872,1897,1892,2870,2325
+chevrolet,Chevrolet,TrailBlazer,TrailBlazer (2008),2008,2012,,5.3L V8 4AT RWD (294 HP),Gasoline,8,5327,294,441,4-speed automatic,Rear Wheel Drive,7,175,13.5,4872,1897,1892,2870,2242
+chevrolet,Chevrolet,TrailBlazer,TrailBlazer (2008),2008,2012,,6.0L V8 SS 4AT AWD (400 HP),Gasoline,8,5967,400,542,4-speed automatic,All Wheel Drive,5.7,209,15.4,4872,1897,1892,2870,2190
+chevrolet,Chevrolet,TrailBlazer,TrailBlazer (2008),2008,2012,,6.0L V8 SS 4AT RWD (400 HP),Gasoline,8,5967,400,542,4-speed automatic,Rear Wheel Drive,5.5,209,16.8,4872,1897,1892,2870,2039
+chevrolet,Chevrolet,TrailBlazer,TrailBlazer (2005),2005,2008,,6.0L V8 4AT AWD (400 HP),Gasoline,8,6000,400,540,4-Speed automatic,All Wheel Drive,5.7,209,,4872,1897,1842,2870,2190
+chevrolet,Chevrolet,TrailBlazer,TrailBlazer (2005),2005,2008,,6.0L V8 4AT RWD (400 HP),Gasoline,8,6000,400,540,4-Speed automatic,Rear Wheel Drive,5.5,240,,4872,1897,1842,2870,2004
+chevrolet,Chevrolet,TrailBlazer,TrailBlazer (2002),2002,2006,,4.2L 4AT AWD (279 HP),Gasoline,6,4195,279,373,4-Speed automatic,All Wheel Drive,9,192,13,5278,1897,1956,3274,2099
+chevrolet,Chevrolet,TrailBlazer,TrailBlazer (2002),2002,2006,,4.2L 4AT AWD (295 HP),Gasoline,6,4157,295,375,4-Speed automatic,All Wheel Drive,9,175,,5301,1900,1930,3279,2305
+chevrolet,Chevrolet,TrailBlazer,TrailBlazer (2002),2002,2006,,4.2L 4AT RWD (279 HP),Gasoline,6,4195,279,373,4-Speed automatic,Rear Wheel Drive,9,192,13.8,5278,1897,1956,3274,2247
+chevrolet,Chevrolet,TrailBlazer,TrailBlazer (2002),2002,2006,,4.2L 4AT RWD (295 HP),Gasoline,6,4157,295,375,4-Speed automatic,Rear Wheel Drive,9,192,,5301,1900,1930,3279,2290
+chevrolet,Chevrolet,TrailBlazer,TrailBlazer (2002),2002,2006,,5.3L V8 4AT RWD (305 HP),Gasoline,8,5328,305,447,4-Speed automatic,Rear Wheel Drive,,,13.8,5278,1897,1956,3279,2187
+chevrolet,Chevrolet,TrailBlazer,TrailBlazer (2000),2000,2008,,4.2L 4AT AWD (279 HP),Gasoline,6,4195,279,373,4-speed automatic,All Wheel Drive,9,192,13.1,4890,1900,1849,2870,2099
+chevrolet,Chevrolet,TrailBlazer,TrailBlazer (2000),2000,2008,,4.2L 4AT RWD (279 HP),Gasoline,6,4195,279,373,4-speed automatic,Rear Wheel Drive,9,192,13.1,4890,1900,1849,2870,2004
+chevrolet,Chevrolet,TrailBlazer,TrailBlazer (2000),2000,2008,,4.2L 4AT RWD (295 HP),Gasoline,6,4157,295,375,4-speed automatic,Rear Wheel Drive,9.4,175,,4890,1900,1849,2870,2140
+chevrolet,Chevrolet,Traverse,Traverse (2023),2023,,,2.5L 8AT AWD (333 HP),Gasoline,4,2494,333,442,8-speed automatic,All Wheel Drive,,,,5194,2022,1801,3071,2174
+chevrolet,Chevrolet,Traverse,Traverse (2023),2023,,,2.5L 8AT FWD (333 HP),Gasoline,4,2494,332.5,442,8-speed automatic,Front Wheel Drive,,,,5194,2022,1801,3071,2043
+chevrolet,Chevrolet,Traverse,Traverse (2020),2020,2024,,3.6L V6 9AT AWD (310 HP),Gasoline,6,,310,361,9-speed automatic,Front Wheel Drive,,,11.8,5189,1996,1796,3071,
+chevrolet,Chevrolet,Traverse,Traverse (2020),2020,2024,,3.6L V6 9AT FWD (310 HP),Gasoline,6,,310,361,9-speed automatic,Front Wheel Drive,,,11.2,5189,1996,1796,3071,
+chevrolet,Chevrolet,Traverse,Traverse (2017),2017,2020,,2.0L Ecotec 9AT FWD (255 HP),Gasoline,4,1998,259,400,9-speed automatic,Front Wheel Drive,,,,5189,1996,1796,3071,1978
+chevrolet,Chevrolet,Traverse,Traverse (2017),2017,2020,,3.6L V6 9AT AWD (314 HP),Gasoline,6,3564,314,360,9-speed automatic,All Wheel Drive,7.6,190,13.6,5189,1996,1796,3071,2147
+chevrolet,Chevrolet,Traverse,Traverse (2017),2017,2020,,3.6L V6 9AT FWD (314 HP),Gasoline,6,3564,314,360,9-speed automatic,Front Wheel Drive,6.6,212,,5189,1996,1796,3071,1978
+chevrolet,Chevrolet,Traverse,Traverse (2012),2012,2017,,3.6L V6 6AT AWD (281 HP),Gasoline,6,3564,285,361,6-speed automatic,All Wheel Drive,,,12.4,5174,1994,1793,3020,2248
+chevrolet,Chevrolet,Traverse,Traverse (2012),2012,2017,,3.6L V6 6AT AWD (288 HP),Gasoline,6,3564,292,366,6-speed automatic,All Wheel Drive,,,12.4,5174,1994,1793,3020,2248
+chevrolet,Chevrolet,Traverse,Traverse (2012),2012,2017,,3.6L V6 6AT FWD (281 HP),Gasoline,6,3564,285,361,6-speed automatic,Front Wheel Drive,,,12.4,5174,1994,1793,3020,2138
+chevrolet,Chevrolet,Traverse,Traverse (2012),2012,2017,,3.6L V6 6AT FWD (288 HP),Gasoline,6,3564,292,366,6-speed automatic,Front Wheel Drive,,,12.4,5174,1994,1793,3020,2138
+chevrolet,Chevrolet,Traverse,Traverse (2008),2008,2012,,3.6L V6 AWD (286 HP),Gasoline,6,3564,286,361,6-speed automatic,All Wheel Drive,,,12.4,5207,1991,1849,3020,2248
+chevrolet,Chevrolet,Traverse,Traverse (2008),2008,2012,,3.6L V6 AWD (292 HP),Gasoline,6,3564,292,366,6-speed automatic,All Wheel Drive,,,12.4,5207,1991,1849,3020,2248
+chevrolet,Chevrolet,Traverse,Traverse (2008),2008,2012,,3.6L V6 FWD (286 HP),Gasoline,6,3564,286,361,6-speed automatic,Front Wheel Drive,,,11.5,5207,1991,1849,3020,2138
+chevrolet,Chevrolet,Traverse,Traverse (2008),2008,2012,,3.6L V6 FWD (292 HP),Gasoline,6,3564,292,366,6-speed automatic,Front Wheel Drive,,,11.5,5207,1991,1849,3020,2138
+chevrolet,Chevrolet,Trax,Trax (2022),2022,,,1.2L ECOTEC Turbo 6AT (137 HP),Gasoline,3,,137,219,6-automatic speed Hydra-Matic 6T40,Front Wheel Drive,,,,4536,1824,1560,2700,2826
+chevrolet,Chevrolet,Trax,Trax (2017),2017,2019,,1.4L Ecotec Turbo MFI 6AT AWD (138 HP),Gasoline,4,1364,138,201,6-speed automatic,Front Wheel Drive,10.6,187,8.7,4247,1775,1648,2555,1455
+chevrolet,Chevrolet,Trax,Trax (2017),2017,2019,,1.4L Ecotec Turbo MFI 6AT FWD (138 HP),Gasoline,4,1364,138,201,6-speed automatic,Front Wheel Drive,9.7,187,7.1,4247,1775,1648,2555,1272
+chevrolet,Chevrolet,Trax,Trax (2013),2013,2017,,1.4L Turbo AWD 6MT (140 HP),Gasoline,4,1364,140,201,6-speed manual,All Wheel Drive,9.8,195,6.4,4247,1775,1674,2555,1380
+chevrolet,Chevrolet,Trax,Trax (2013),2013,2017,,1.6L FWD 5MT (116 HP),Gasoline,4,1598,116,155,5-speed manual,Front Wheel Drive,12.3,174,6.5,4247,1775,1674,2555,1287
+chevrolet,Chevrolet,Trax,Trax (2013),2013,2017,,1.7D AWD 6MT (130 HP),Diesel,4,1686,131,300,6-speed manual,All Wheel Drive,9.4,188,4.9,4247,1775,1674,2555,1429
+chevrolet,Chevrolet,Trax,Trax (2013),2013,2017,,1.7D FWD 6AT (130 HP),Diesel,4,1686,131,300,6-speed automatic,Front Wheel Drive,10.5,182,5.3,4247,1775,1674,2555,1387
+chevrolet,Chevrolet,Trax,Trax (2013),2013,2017,,1.7D FWD 6MT (130 HP),Diesel,4,1686,131,300,6-speed manual,Front Wheel Drive,9.6,187,4.5,4247,1775,1674,2555,1384
+chevrolet,Chevrolet,Uplander,Uplander (2004),2004,2009,,3.5L V6 4AT FWD (203 HP),Gasoline,6,3498,203,298,4-speed automatic,Front Wheel Drive,,,,5192,1829,1829,3076,2025
+chevrolet,Chevrolet,Uplander,Uplander (2004),2004,2009,,3.9L V6 4AT FWD (243 HP),Gasoline,6,3880,243,325,4-speed automatic,Front Wheel Drive,,,11.2,5192,1829,1829,3076,1853
+chevrolet,Chevrolet,Uplander,Uplander (2004),2004,2009,,3.9L FlexFuel V6 4AT FWD (243 HP),Hybrid,6,3880,243,325,4-speed automatic,Front Wheel Drive,,,11.2,5192,1829,1829,3076,1853
+chevrolet,Chevrolet,Venture,Venture (1996),1996,2005,,3.4L V6 4AT AWD (188 HP),Gasoline,6,3400,188,285,4-Speed automatic,All Wheel Drive,13.2,172,12.8,4747,1829,1712,2845,1680
+chevrolet,Chevrolet,Venture,Venture (1996),1996,2005,,3.4L V6 4AT FWD (188 HP),Gasoline,6,3400,188,285,4-Speed automatic,Front Wheel Drive,11.2,187,,4747,1829,1712,2845,1678
+chevrolet,Chevrolet,Volt,Volt (2016),2016,2019,,1.5L range extender FWD (150 HP),Hybrid,4,1499,101,,,Front Wheel Drive,,,5.6,4582,1808,1433,2695,1607
+chevrolet,Chevrolet,Volt,Volt (2011),2011,2016,,Electric + 1.4L range extender (147 HP),Electric,4,1398,147,,single gear,Front Wheel Drive,9.3,161,6.4,4498,1788,1430,2685,1715

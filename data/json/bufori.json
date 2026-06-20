@@ -7,17 +7,251 @@
         {
           "name": "CS8",
           "yearStart": 2025,
-          "yearEnd": null
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "CS8 (2025)",
+              "yearStart": 2025,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "3.6L V6 8AT RWD (324 HP)",
+                  "fuelType": "Gasoline",
+                  "cylinders": 6,
+                  "displacementCc": 3604,
+                  "powerHp": 324,
+                  "torqueNm": 352,
+                  "transmission": "8-speed automatic",
+                  "drivetrain": "Rear Wheel Drive",
+                  "zeroToHundredKmhS": 5.8,
+                  "topSpeedKmh": 249,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": 4567,
+                  "widthMm": 2029,
+                  "heightMm": 1293,
+                  "wheelbaseMm": 2609,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "V6",
+                    "ENGINE SPECS / Displacement": "3604 cm3 (220 ci)",
+                    "ENGINE SPECS / Power": "238.6 KW @ 6000 RPM324 HP @ 6000 RPM320 BHP @ 6000 RPM",
+                    "ENGINE SPECS / Torque": "260 lb-ft @ 4800 RPM352 Nm @ 4800 RPM",
+                    "ENGINE SPECS / Fuel System": "Sequential multi-port Naturally aspirated",
+                    "ENGINE SPECS / Fuel": "Gasoline",
+                    "ENGINE SPECS / Fuel capacity": "26.4 gallons (99.9 L)",
+                    "PERFORMANCE SPECS / Top Speed": "155 mph (249 km/h)",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "5.8 s",
+                    "TRANSMISSION SPECS / Drive Type": "Rear Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "8-speed automatic",
+                    "BRAKES SPECS / Front": "Ventilated discs",
+                    "BRAKES SPECS / Rear": "Ventilated discs",
+                    "TIRES SPECS / Tire Size": "275/35 R19 // 315/30/R19",
+                    "DIMENSIONS / Length": "179.8 in (4567 mm)",
+                    "DIMENSIONS / Width": "79.9 in (2029 mm)",
+                    "DIMENSIONS / Height": "50.9 in (1293 mm)",
+                    "DIMENSIONS / Front/rear Track": "63.7/67.1 in (1,618/1,704 mm)",
+                    "DIMENSIONS / Wheelbase": "102.7 in (2609 mm)",
+                    "DIMENSIONS / Cargo Volume": "8.9 cuFT (252 L)"
+                  }
+                },
+                {
+                  "label": "6.4L Supercharged V8 8AT RWD (821 HP)",
+                  "fuelType": "Gasoline",
+                  "cylinders": 8,
+                  "displacementCc": 6417,
+                  "powerHp": 821.2,
+                  "torqueNm": 973,
+                  "transmission": "8-speed automatic",
+                  "drivetrain": "Rear Wheel Drive",
+                  "zeroToHundredKmhS": 3,
+                  "topSpeedKmh": 330,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": 4567,
+                  "widthMm": 2029,
+                  "heightMm": 1293,
+                  "wheelbaseMm": 2609,
+                  "curbWeightKg": 1550,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "V8",
+                    "ENGINE SPECS / Displacement": "6417 cm3 (392 ci)",
+                    "ENGINE SPECS / Power": "604 KW @ 6000 RPM821.2 HP @ 6000 RPM810 BHP @ 6000 RPM",
+                    "ENGINE SPECS / Torque": "718 lb-ft @ 4800 RPM973 Nm @ 4800 RPM",
+                    "ENGINE SPECS / Fuel System": "Sequential multi-port Supercharged",
+                    "ENGINE SPECS / Fuel": "Gasoline",
+                    "ENGINE SPECS / Fuel capacity": "26.4 gallons (99.9 L)",
+                    "PERFORMANCE SPECS / Top Speed": "205 mph (330 km/h)",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "3 s",
+                    "TRANSMISSION SPECS / Drive Type": "Rear Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "8-speed automatic",
+                    "BRAKES SPECS / Front": "Ventilated discs",
+                    "BRAKES SPECS / Rear": "Ventilated discs",
+                    "TIRES SPECS / Tire Size": "275/35 R19 // 315/30/R19",
+                    "DIMENSIONS / Length": "179.8 in (4567 mm)",
+                    "DIMENSIONS / Width": "79.9 in (2029 mm)",
+                    "DIMENSIONS / Height": "50.9 in (1293 mm)",
+                    "DIMENSIONS / Front/rear Track": "63.7/67.1 in (1,618/1,704 mm)",
+                    "DIMENSIONS / Wheelbase": "102.7 in (2609 mm)",
+                    "DIMENSIONS / Cargo Volume": "8.9 cuFT (252 L)",
+                    "WEIGHT SPECS / Unladen Weight": "3417 lbs (1550 kg)"
+                  }
+                },
+                {
+                  "label": "6.4L V8 8AT RWD (482 HP)",
+                  "fuelType": "Gasoline",
+                  "cylinders": 8,
+                  "displacementCc": 6417,
+                  "powerHp": 481.6,
+                  "torqueNm": 640,
+                  "transmission": "8-speed automatic",
+                  "drivetrain": "Rear Wheel Drive",
+                  "zeroToHundredKmhS": 4.1,
+                  "topSpeedKmh": 280,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": 4567,
+                  "widthMm": 2029,
+                  "heightMm": 1293,
+                  "wheelbaseMm": 2609,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "V8",
+                    "ENGINE SPECS / Displacement": "6417 cm3 (392 ci)",
+                    "ENGINE SPECS / Power": "354.2 KW @ 6000 RPM481.6 HP @ 6000 RPM475 BHP @ 6000 RPM",
+                    "ENGINE SPECS / Torque": "472 lb-ft @ 4800 RPM640 Nm @ 4800 RPM",
+                    "ENGINE SPECS / Fuel System": "Multiport Injection Naturally aspirated",
+                    "ENGINE SPECS / Fuel": "Gasoline",
+                    "ENGINE SPECS / Fuel capacity": "26.4 gallons (99.9 L)",
+                    "PERFORMANCE SPECS / Top Speed": "174 mph (280 km/h)",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "4.1 s",
+                    "TRANSMISSION SPECS / Drive Type": "Rear Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "8-speed automatic",
+                    "BRAKES SPECS / Front": "Ventilated discs",
+                    "BRAKES SPECS / Rear": "Ventilated discs",
+                    "TIRES SPECS / Tire Size": "275/35 R19 // 315/30/R19",
+                    "DIMENSIONS / Length": "179.8 in (4567 mm)",
+                    "DIMENSIONS / Width": "79.9 in (2029 mm)",
+                    "DIMENSIONS / Height": "50.9 in (1293 mm)",
+                    "DIMENSIONS / Front/rear Track": "63.7/67.1 in (1,618/1,704 mm)",
+                    "DIMENSIONS / Wheelbase": "102.7 in (2609 mm)",
+                    "DIMENSIONS / Cargo Volume": "8.9 cuFT (252 L)"
+                  }
+                }
+              ]
+            }
+          ]
         },
         {
           "name": "Geneva",
           "yearStart": 2010,
-          "yearEnd": null
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Geneva (2010)",
+              "yearStart": 2010,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "6.4i V8 5AT RWD (477 HP)",
+                  "fuelType": "Gasoline",
+                  "cylinders": 8,
+                  "displacementCc": 6424,
+                  "powerHp": 477,
+                  "torqueNm": 630,
+                  "transmission": "5 speed automatic Sequential Shift Transmission",
+                  "drivetrain": "Rear Wheel Drive",
+                  "zeroToHundredKmhS": 5.4,
+                  "topSpeedKmh": 280,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": 5471,
+                  "widthMm": 1910,
+                  "heightMm": 1519,
+                  "wheelbaseMm": 3571,
+                  "curbWeightKg": 2450,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "V8",
+                    "ENGINE SPECS / Displacement": "6424 cm3 (392 ci)",
+                    "ENGINE SPECS / Power": "351 KW @ 6000 RPM477 HP @ 6000 RPM471 BHP @ 6000 RPM",
+                    "ENGINE SPECS / Torque": "465 lb-ft @ 4200 RPM630 Nm @ 4200 RPM",
+                    "ENGINE SPECS / Fuel System": "Multi-port manifold injection Naturally aspirated",
+                    "ENGINE SPECS / Fuel": "Gasoline",
+                    "ENGINE SPECS / Fuel capacity": "23.8 gallons (90.1 L)",
+                    "PERFORMANCE SPECS / Top Speed": "174 mph (280 km/h)",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "5.4 s",
+                    "TRANSMISSION SPECS / Drive Type": "Rear Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "5 speed automatic Sequential Shift Transmission",
+                    "BRAKES SPECS / Front": "360 x 32 mm vented",
+                    "BRAKES SPECS / Rear": "350 x 28 mm vented",
+                    "TIRES SPECS / Tire Size": "245/45 R20 // 255/45 R20",
+                    "DIMENSIONS / Length": "215.4 in (5471 mm)",
+                    "DIMENSIONS / Width": "75.2 in (1910 mm)",
+                    "DIMENSIONS / Height": "59.8 in (1519 mm)",
+                    "DIMENSIONS / Front/rear Track": "63.6/64 in (1,615/1,626 mm)",
+                    "DIMENSIONS / Wheelbase": "140.6 in (3571 mm)",
+                    "WEIGHT SPECS / Unladen Weight": "5401 lbs (2450 kg)"
+                  }
+                }
+              ]
+            }
+          ]
         },
         {
           "name": "La Joya",
           "yearStart": 2004,
-          "yearEnd": null
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "La Joya (2004)",
+              "yearStart": 2004,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "2.7L V6 4MT RWD (173 HP)",
+                  "fuelType": "Gasoline",
+                  "cylinders": 6,
+                  "displacementCc": 2656,
+                  "powerHp": 173,
+                  "torqueNm": 245,
+                  "transmission": "4-manual speed",
+                  "drivetrain": "Rear Wheel Drive",
+                  "zeroToHundredKmhS": 7.8,
+                  "topSpeedKmh": 200,
+                  "fuelEconomyCombinedL100": 9.1,
+                  "lengthMm": 4331,
+                  "widthMm": 1806,
+                  "heightMm": 1364,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": 1604,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "V6",
+                    "ENGINE SPECS / Displacement": "2656 cm3 (162 ci)",
+                    "ENGINE SPECS / Power": "127 KW @ 6000 RPM173 HP @ 6000 RPM170 BHP @ 6000 RPM",
+                    "ENGINE SPECS / Torque": "181 lb-ft @ 3900 RPM245 Nm @ 3900 RPM",
+                    "ENGINE SPECS / Fuel System": "Multipoint Injection",
+                    "ENGINE SPECS / Fuel": "Gasoline",
+                    "ENGINE SPECS / Fuel capacity": "21.1 gallons (79.9 L)",
+                    "PERFORMANCE SPECS / Top Speed": "124 mph (200 km/h)",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "7.8 s",
+                    "TRANSMISSION SPECS / Drive Type": "Rear Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "4-manual speed",
+                    "BRAKES SPECS / Front": "Ventilated Discs",
+                    "BRAKES SPECS / Rear": "Ventilated Discs",
+                    "TIRES SPECS / Tire Size": "255/40 R17",
+                    "DIMENSIONS / Length": "170.5 in (4331 mm)",
+                    "DIMENSIONS / Width": "71.1 in (1806 mm)",
+                    "DIMENSIONS / Height": "53.7 in (1364 mm)",
+                    "DIMENSIONS / Front/rear Track": "60.4/0 in (1,534/0 mm)",
+                    "DIMENSIONS / Ground Clearance": "110.2 in (2799 mm)",
+                    "DIMENSIONS / Cargo Volume": "8.8 cuFT (249 L)",
+                    "WEIGHT SPECS / Unladen Weight": "3536 lbs (1604 kg)",
+                    "FUEL ECONOMY (NEDC) / Combined": "25.8 mpg US (9.1 L/100Km)",
+                    "FUEL ECONOMY (NEDC) / CO2 Emissions": "298 g/km"
+                  }
+                }
+              ]
+            }
+          ]
         }
       ]
     }
