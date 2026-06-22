@@ -7,12 +7,175 @@
         {
           "name": "Karma",
           "yearStart": 2011,
-          "yearEnd": 2012
+          "yearEnd": 2012,
+          "generations": [
+            {
+              "name": "Karma (2011)",
+              "yearStart": 2011,
+              "yearEnd": 2012,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "2.0L 1Speed (400 HP)",
+                  "fuelType": "Hybrid",
+                  "cylinders": 4,
+                  "displacementCc": 2000,
+                  "powerHp": 263.6,
+                  "torqueNm": 353,
+                  "transmission": "single gear",
+                  "drivetrain": "Rear Wheel Drive",
+                  "zeroToHundredKmhS": 6.1,
+                  "topSpeedKmh": 200,
+                  "fuelEconomyCombinedL100": 2,
+                  "lengthMm": 4999,
+                  "widthMm": 2134,
+                  "heightMm": 1331,
+                  "wheelbaseMm": 3160,
+                  "curbWeightKg": 2404,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "L4",
+                    "ENGINE SPECS / Displacement": "2000 cm3 (122 ci)",
+                    "ENGINE SPECS / Power": "193.9 KW @ 5300 RPM263.6 HP @ 5300 RPM260 BHP @ 5300 RPM",
+                    "ENGINE SPECS / Torque": "260 lb-ft @ 2000 RPM353 Nm @ 2000 RPM",
+                    "ENGINE SPECS / Fuel System": "Direct Injection",
+                    "ENGINE SPECS / Fuel": "Hybrid",
+                    "PERFORMANCE SPECS / Top Speed": "124 mph (200 km/h)",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "6.1 s",
+                    "TRANSMISSION SPECS / Drive Type": "Rear Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "single gear",
+                    "BRAKES SPECS / Front": "Brembo 370x34mm 2-piece rotors w/ 6-piston calipers",
+                    "BRAKES SPECS / Rear": "Brembo 365x28mm single piece rotors w/ 4-piston calipers",
+                    "TIRES SPECS / Tire Size": "255/35R22 || 285/35RR",
+                    "DIMENSIONS / Length": "196.8 in (4999 mm)",
+                    "DIMENSIONS / Width": "84 in (2134 mm)",
+                    "DIMENSIONS / Height": "52.4 in (1331 mm)",
+                    "DIMENSIONS / Front/rear Track": "66.6/67 in (1,692/1,702 mm)",
+                    "DIMENSIONS / Wheelbase": "124.4 in (3160 mm)",
+                    "DIMENSIONS / Ground Clearance": "5.6 in (142 mm)",
+                    "DIMENSIONS / Cargo Volume": "6.9 cuFT (195 L)",
+                    "DIMENSIONS / Aerodynamics (Cd)": "0.313",
+                    "WEIGHT SPECS / Unladen Weight": "5300 lbs (2404 kg)",
+                    "FUEL ECONOMY (NEDC) / Combined": "118 mpg US (2 L/100Km)",
+                    "FUEL ECONOMY (NEDC) / CO2 Emissions": "51 g/km"
+                  }
+                }
+              ]
+            }
+          ]
         },
         {
           "name": "Ocean",
           "yearStart": 2021,
-          "yearEnd": null
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Ocean (2021)",
+              "yearStart": 2021,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "Dual Motor AWD (540 HP)",
+                  "fuelType": "Electric",
+                  "cylinders": null,
+                  "displacementCc": null,
+                  "powerHp": 540,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": "All Wheel Drive",
+                  "zeroToHundredKmhS": 4.2,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": 4775,
+                  "widthMm": 1994,
+                  "heightMm": 1628,
+                  "wheelbaseMm": 2921,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "ENGINE SPECS / Electrical motor power": "397.2 kw (540 hp, 533 bhp)",
+                    "ENGINE SPECS / Fuel System": "Electric",
+                    "ENGINE SPECS / Fuel": "Electric",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "4.2 s",
+                    "TRANSMISSION SPECS / Drive Type": "All Wheel Drive",
+                    "BRAKES SPECS / Front": "Ventilated Discs",
+                    "BRAKES SPECS / Rear": "Ventilated discs",
+                    "TIRES SPECS / Tire Size": "255/50 R20",
+                    "DIMENSIONS / Length": "188 in (4775 mm)",
+                    "DIMENSIONS / Width": "78.5 in (1994 mm)",
+                    "DIMENSIONS / Height": "64.1 in (1628 mm)",
+                    "DIMENSIONS / Wheelbase": "115 in (2921 mm)",
+                    "POWER SYSTEM SPECS / Range": "379 miles (609.9 km)"
+                  }
+                },
+                {
+                  "label": "Dual Motor AWD (550 HP)",
+                  "fuelType": "Electric",
+                  "cylinders": null,
+                  "displacementCc": null,
+                  "powerHp": 550,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": "All Wheel Drive",
+                  "zeroToHundredKmhS": 3.9,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": 4775,
+                  "widthMm": 1994,
+                  "heightMm": 1628,
+                  "wheelbaseMm": 2921,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "ENGINE SPECS / Electrical motor power": "404.5 kw (550 hp, 542 bhp)",
+                    "ENGINE SPECS / Fuel System": "Electric",
+                    "ENGINE SPECS / Fuel": "Electric",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "3.9 s",
+                    "TRANSMISSION SPECS / Drive Type": "All Wheel Drive",
+                    "BRAKES SPECS / Front": "Ventilated Discs",
+                    "BRAKES SPECS / Rear": "Ventilated discs",
+                    "TIRES SPECS / Tire Size": "255/50 R20",
+                    "DIMENSIONS / Length": "188 in (4775 mm)",
+                    "DIMENSIONS / Width": "78.5 in (1994 mm)",
+                    "DIMENSIONS / Height": "64.1 in (1628 mm)",
+                    "DIMENSIONS / Wheelbase": "115 in (2921 mm)",
+                    "POWER SYSTEM SPECS / Range": "391.5 miles (630.1 km)"
+                  }
+                },
+                {
+                  "label": "Single Motor FWD (275 HP)",
+                  "fuelType": "Electric",
+                  "cylinders": null,
+                  "displacementCc": null,
+                  "powerHp": 275,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": "Front Wheel Drive",
+                  "zeroToHundredKmhS": 7.4,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": 4775,
+                  "widthMm": 1994,
+                  "heightMm": 1628,
+                  "wheelbaseMm": 2921,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "ENGINE SPECS / Electrical motor power": "202.3 kw (275 hp, 271 bhp)",
+                    "ENGINE SPECS / Fuel System": "Electric",
+                    "ENGINE SPECS / Fuel": "Electric",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "7.4 s",
+                    "TRANSMISSION SPECS / Drive Type": "Front Wheel Drive",
+                    "BRAKES SPECS / Front": "Ventilated Discs",
+                    "BRAKES SPECS / Rear": "Ventilated discs",
+                    "TIRES SPECS / Tire Size": "255/50 R20",
+                    "DIMENSIONS / Length": "188 in (4775 mm)",
+                    "DIMENSIONS / Width": "78.5 in (1994 mm)",
+                    "DIMENSIONS / Height": "64.1 in (1628 mm)",
+                    "DIMENSIONS / Wheelbase": "115 in (2921 mm)",
+                    "POWER SYSTEM SPECS / Range": "273.4 miles (440.0 km)"
+                  }
+                }
+              ]
+            }
+          ]
         }
       ]
     }
