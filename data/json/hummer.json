@@ -7,42 +7,609 @@
         {
           "name": "H1 2 Door Hardtop",
           "yearStart": 1992,
-          "yearEnd": 2006
+          "yearEnd": 2006,
+          "generations": [
+            {
+              "name": "H1 2 Door Hardtop (1992)",
+              "yearStart": 1992,
+              "yearEnd": 2006,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "6.5L V8 4AT AWD (197 HP)",
+                  "fuelType": "Diesel",
+                  "cylinders": 8,
+                  "displacementCc": 6489,
+                  "powerHp": 197,
+                  "torqueNm": 583,
+                  "transmission": "4-speed automatic",
+                  "drivetrain": "All Wheel Drive",
+                  "zeroToHundredKmhS": 20.2,
+                  "topSpeedKmh": 134,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": 4686,
+                  "widthMm": 2197,
+                  "heightMm": 1905,
+                  "wheelbaseMm": 3302,
+                  "curbWeightKg": 2977,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "V8",
+                    "ENGINE SPECS / Displacement": "6489 cm3 (396 ci)",
+                    "ENGINE SPECS / Power": "145 KW @ 3400 RPM197 HP @ 3400 RPM194 BHP @ 3400 RPM",
+                    "ENGINE SPECS / Torque": "430 lb-ft @ 1800 RPM583 Nm @ 1800 RPM",
+                    "ENGINE SPECS / Fuel System": "Electronic Injection",
+                    "ENGINE SPECS / Fuel": "Diesel",
+                    "PERFORMANCE SPECS / Top Speed": "83 mph (134 km/h)",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "20.2 s",
+                    "TRANSMISSION SPECS / Drive Type": "All Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "4-speed automatic",
+                    "BRAKES SPECS / Front": "Discs",
+                    "BRAKES SPECS / Rear": "Discs",
+                    "TIRES SPECS / Tire Size": "37 X 12.50R-16.5 LT",
+                    "DIMENSIONS / Length": "184.5 in (4686 mm)",
+                    "DIMENSIONS / Width": "86.5 in (2197 mm)",
+                    "DIMENSIONS / Height": "75 in (1905 mm)",
+                    "DIMENSIONS / Front/rear Track": "72x72 in (1829 mm)",
+                    "DIMENSIONS / Wheelbase": "130 in (3302 mm)",
+                    "DIMENSIONS / Ground Clearance": "16 in (406 mm)",
+                    "WEIGHT SPECS / Unladen Weight": "6564 lbs (2977 kg)",
+                    "WEIGHT SPECS / Gross Weight Limit": "8201 lbs (3720 kg)"
+                  }
+                }
+              ]
+            }
+          ]
         },
         {
           "name": "H1 4 Door",
           "yearStart": 1992,
-          "yearEnd": 2006
+          "yearEnd": 2006,
+          "generations": [
+            {
+              "name": "H1 4 Door Wagon (1992)",
+              "yearStart": 1992,
+              "yearEnd": 2006,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "6.5L V8 4AT AWD (197 HP)",
+                  "fuelType": "Diesel",
+                  "cylinders": 8,
+                  "displacementCc": 6489,
+                  "powerHp": 197,
+                  "torqueNm": 583,
+                  "transmission": "4-speed automatic",
+                  "drivetrain": "All Wheel Drive",
+                  "zeroToHundredKmhS": 20.2,
+                  "topSpeedKmh": 134,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": 4686,
+                  "widthMm": 2197,
+                  "heightMm": 1905,
+                  "wheelbaseMm": 3302,
+                  "curbWeightKg": 3245,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "V8",
+                    "ENGINE SPECS / Displacement": "6489 cm3 (396 ci)",
+                    "ENGINE SPECS / Power": "145 KW @ 3400 RPM197 HP @ 3400 RPM194 BHP @ 3400 RPM",
+                    "ENGINE SPECS / Torque": "430 lb-ft @ 1800 RPM583 Nm @ 1800 RPM",
+                    "ENGINE SPECS / Fuel System": "Electronic Injection",
+                    "ENGINE SPECS / Fuel": "Diesel",
+                    "PERFORMANCE SPECS / Top Speed": "83 mph (134 km/h)",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "20.2 s",
+                    "TRANSMISSION SPECS / Drive Type": "All Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "4-speed automatic",
+                    "BRAKES SPECS / Front": "Discs",
+                    "BRAKES SPECS / Rear": "Discs",
+                    "TIRES SPECS / Tire Size": "37 X 12.50R-16.5 LT",
+                    "DIMENSIONS / Length": "184.5 in (4686 mm)",
+                    "DIMENSIONS / Width": "86.5 in (2197 mm)",
+                    "DIMENSIONS / Height": "75 in (1905 mm)",
+                    "DIMENSIONS / Wheelbase": "130 in (3302 mm)",
+                    "DIMENSIONS / Ground Clearance": "16 in (406 mm)",
+                    "WEIGHT SPECS / Unladen Weight": "7154 lbs (3245 kg)"
+                  }
+                },
+                {
+                  "label": "6.5L V8 4AT AWD (207 HP)",
+                  "fuelType": "Diesel",
+                  "cylinders": 8,
+                  "displacementCc": 6489,
+                  "powerHp": 207,
+                  "torqueNm": 597,
+                  "transmission": "4-speed automatic",
+                  "drivetrain": "All Wheel Drive",
+                  "zeroToHundredKmhS": 20.2,
+                  "topSpeedKmh": 105,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": 4686,
+                  "widthMm": 2197,
+                  "heightMm": 1905,
+                  "wheelbaseMm": 3302,
+                  "curbWeightKg": 3428,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "V8",
+                    "ENGINE SPECS / Displacement": "6489 cm3 (396 ci)",
+                    "ENGINE SPECS / Power": "152 KW @ 3400 RPM207 HP @ 3400 RPM204 BHP @ 3400 RPM",
+                    "ENGINE SPECS / Torque": "440 lb-ft @ 1800 RPM597 Nm @ 1800 RPM",
+                    "ENGINE SPECS / Fuel System": "Electronic Injection",
+                    "ENGINE SPECS / Fuel": "Diesel",
+                    "PERFORMANCE SPECS / Top Speed": "65 mph (105 km/h)",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "20.2 s",
+                    "TRANSMISSION SPECS / Drive Type": "All Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "4-speed automatic",
+                    "BRAKES SPECS / Front": "Discs",
+                    "BRAKES SPECS / Rear": "Discs",
+                    "TIRES SPECS / Tire Size": "37 X 12.50R-16.5 LT",
+                    "DIMENSIONS / Length": "184.5 in (4686 mm)",
+                    "DIMENSIONS / Width": "86.5 in (2197 mm)",
+                    "DIMENSIONS / Height": "75 in (1905 mm)",
+                    "DIMENSIONS / Front/rear Track": "69x69 in (1753 mm)",
+                    "DIMENSIONS / Wheelbase": "130 in (3302 mm)",
+                    "DIMENSIONS / Ground Clearance": "16 in (406 mm)",
+                    "WEIGHT SPECS / Unladen Weight": "7558 lbs (3428 kg)"
+                  }
+                }
+              ]
+            }
+          ]
         },
         {
           "name": "H1 4 Door Hardtop",
           "yearStart": 1992,
-          "yearEnd": 2006
+          "yearEnd": 2006,
+          "generations": [
+            {
+              "name": "H1 4 Door Hardtop (1992)",
+              "yearStart": 1992,
+              "yearEnd": 2006,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "6.5L V8 4AT AWD (197 HP)",
+                  "fuelType": "Diesel",
+                  "cylinders": 8,
+                  "displacementCc": 6489,
+                  "powerHp": 197,
+                  "torqueNm": 583,
+                  "transmission": "4-speed automatic",
+                  "drivetrain": "All Wheel Drive",
+                  "zeroToHundredKmhS": 20.2,
+                  "topSpeedKmh": 134,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": 4686,
+                  "widthMm": 2197,
+                  "heightMm": 1905,
+                  "wheelbaseMm": 3302,
+                  "curbWeightKg": 3159,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "V8",
+                    "ENGINE SPECS / Displacement": "6489 cm3 (396 ci)",
+                    "ENGINE SPECS / Power": "145 KW @ 3400 RPM197 HP @ 3400 RPM194 BHP @ 3400 RPM",
+                    "ENGINE SPECS / Torque": "430 lb-ft @ 1800 RPM583 Nm @ 1800 RPM",
+                    "ENGINE SPECS / Fuel System": "Electronic Injection",
+                    "ENGINE SPECS / Fuel": "Diesel",
+                    "PERFORMANCE SPECS / Top Speed": "83 mph (134 km/h)",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "20.2 s",
+                    "TRANSMISSION SPECS / Drive Type": "All Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "4-speed automatic",
+                    "BRAKES SPECS / Front": "Discs",
+                    "BRAKES SPECS / Rear": "Discs",
+                    "TIRES SPECS / Tire Size": "37 X 12.50R-16.5 LT",
+                    "DIMENSIONS / Length": "184.5 in (4686 mm)",
+                    "DIMENSIONS / Width": "86.5 in (2197 mm)",
+                    "DIMENSIONS / Height": "75 in (1905 mm)",
+                    "DIMENSIONS / Front/rear Track": "72x72 in (1829 mm)",
+                    "DIMENSIONS / Wheelbase": "130 in (3302 mm)",
+                    "DIMENSIONS / Ground Clearance": "16 in (406 mm)",
+                    "WEIGHT SPECS / Unladen Weight": "6964 lbs (3159 kg)"
+                  }
+                }
+              ]
+            }
+          ]
         },
         {
           "name": "H1 4 Door Opentop",
           "yearStart": 1992,
-          "yearEnd": 2006
+          "yearEnd": 2006,
+          "generations": [
+            {
+              "name": "H1 4 Door Opentop (1992)",
+              "yearStart": 1992,
+              "yearEnd": 2006,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "6.5L V8 4AT AWD (197 HP)",
+                  "fuelType": "Diesel",
+                  "cylinders": 8,
+                  "displacementCc": 6489,
+                  "powerHp": 197,
+                  "torqueNm": 583,
+                  "transmission": "4-speed automatic",
+                  "drivetrain": "All Wheel Drive",
+                  "zeroToHundredKmhS": 20.2,
+                  "topSpeedKmh": 134,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": 4686,
+                  "widthMm": 2197,
+                  "heightMm": 1956,
+                  "wheelbaseMm": 3302,
+                  "curbWeightKg": 3091,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "V8",
+                    "ENGINE SPECS / Displacement": "6489 cm3 (396 ci)",
+                    "ENGINE SPECS / Power": "145 KW @ 3400 RPM197 HP @ 3400 RPM194 BHP @ 3400 RPM",
+                    "ENGINE SPECS / Torque": "430 lb-ft @ 1800 RPM583 Nm @ 1800 RPM",
+                    "ENGINE SPECS / Fuel System": "Electronic Injection",
+                    "ENGINE SPECS / Fuel": "Diesel",
+                    "PERFORMANCE SPECS / Top Speed": "83 mph (134 km/h)",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "20.2 s",
+                    "TRANSMISSION SPECS / Drive Type": "All Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "4-speed automatic",
+                    "BRAKES SPECS / Front": "Discs",
+                    "BRAKES SPECS / Rear": "Discs",
+                    "TIRES SPECS / Tire Size": "37 X 12.50R-16.5 LT",
+                    "DIMENSIONS / Length": "184.5 in (4686 mm)",
+                    "DIMENSIONS / Width": "86.5 in (2197 mm)",
+                    "DIMENSIONS / Height": "77 in (1956 mm)",
+                    "DIMENSIONS / Front/rear Track": "72/72 in (1,829/1,829 mm)",
+                    "DIMENSIONS / Wheelbase": "130 in (3302 mm)",
+                    "DIMENSIONS / Ground Clearance": "16 in (406 mm)",
+                    "WEIGHT SPECS / Unladen Weight": "6814 lbs (3091 kg)"
+                  }
+                },
+                {
+                  "label": "6.5L V8 4AT AWD (207 HP)",
+                  "fuelType": "Diesel",
+                  "cylinders": 8,
+                  "displacementCc": 6489,
+                  "powerHp": 207,
+                  "torqueNm": 597,
+                  "transmission": "4-speed automatic",
+                  "drivetrain": "All Wheel Drive",
+                  "zeroToHundredKmhS": 20.2,
+                  "topSpeedKmh": 105,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": 4686,
+                  "widthMm": 2197,
+                  "heightMm": 1956,
+                  "wheelbaseMm": 3302,
+                  "curbWeightKg": 3272,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "V8",
+                    "ENGINE SPECS / Displacement": "6489 cm3 (396 ci)",
+                    "ENGINE SPECS / Power": "152 KW @ 3400 RPM207 HP @ 3400 RPM204 BHP @ 3400 RPM",
+                    "ENGINE SPECS / Torque": "440 lb-ft @ 1800 RPM597 Nm @ 1800 RPM",
+                    "ENGINE SPECS / Fuel System": "Indirect Injection",
+                    "ENGINE SPECS / Fuel": "Diesel",
+                    "PERFORMANCE SPECS / Top Speed": "65 mph (105 km/h)",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "20.2 s",
+                    "TRANSMISSION SPECS / Drive Type": "All Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "4-speed automatic",
+                    "BRAKES SPECS / Front": "Discs",
+                    "BRAKES SPECS / Rear": "Discs",
+                    "TIRES SPECS / Tire Size": "37x12.50R17LT",
+                    "DIMENSIONS / Length": "184.5 in (4686 mm)",
+                    "DIMENSIONS / Width": "86.5 in (2197 mm)",
+                    "DIMENSIONS / Height": "77 in (1956 mm)",
+                    "DIMENSIONS / Front/rear Track": "72/72 in (1,829/1,829 mm)",
+                    "DIMENSIONS / Wheelbase": "130 in (3302 mm)",
+                    "DIMENSIONS / Ground Clearance": "16 in (406 mm)",
+                    "WEIGHT SPECS / Unladen Weight": "7213 lbs (3272 kg)"
+                  }
+                }
+              ]
+            }
+          ]
         },
         {
           "name": "H2",
           "yearStart": 2002,
-          "yearEnd": 2009
+          "yearEnd": 2009,
+          "generations": [
+            {
+              "name": "H2 (2002)",
+              "yearStart": 2002,
+              "yearEnd": 2009,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "6.0L V8 4AT (322 HP)",
+                  "fuelType": "Gasoline",
+                  "cylinders": 8,
+                  "displacementCc": 5967,
+                  "powerHp": 322,
+                  "torqueNm": 488,
+                  "transmission": "4-Speed automatic",
+                  "drivetrain": "All Wheel Drive",
+                  "zeroToHundredKmhS": 20.2,
+                  "topSpeedKmh": 105,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": 4821,
+                  "widthMm": 2062,
+                  "heightMm": 1976,
+                  "wheelbaseMm": 3119,
+                  "curbWeightKg": 2903,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "V8",
+                    "ENGINE SPECS / Displacement": "5967 cm3 (364 ci)",
+                    "ENGINE SPECS / Power": "237 KW @ 5200 RPM322 HP @ 5200 RPM318 BHP @ 5200 RPM",
+                    "ENGINE SPECS / Torque": "360 lb-ft @ 4000 RPM488 Nm @ 4000 RPM",
+                    "ENGINE SPECS / Fuel System": "Electronic Injection",
+                    "ENGINE SPECS / Fuel": "Gasoline",
+                    "PERFORMANCE SPECS / Top Speed": "65 mph (105 km/h)",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "20.2 s",
+                    "TRANSMISSION SPECS / Drive Type": "All Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "4-Speed automatic",
+                    "BRAKES SPECS / Front": "Ventilated Discs",
+                    "BRAKES SPECS / Rear": "Ventilated Discs",
+                    "TIRES SPECS / Tire Size": "LT315/70R17",
+                    "DIMENSIONS / Length": "189.8 in (4821 mm)",
+                    "DIMENSIONS / Width": "81.2 in (2062 mm)",
+                    "DIMENSIONS / Height": "77.8 in (1976 mm)",
+                    "DIMENSIONS / Front/rear Track": "69.4/69.4 in (1,763/1,763 mm)",
+                    "DIMENSIONS / Wheelbase": "122.8 in (3119 mm)",
+                    "DIMENSIONS / Ground Clearance": "16 in (406 mm)",
+                    "WEIGHT SPECS / Unladen Weight": "6400 lbs (2903 kg)"
+                  }
+                },
+                {
+                  "label": "6.0L V8 4AT (329 HP)",
+                  "fuelType": "Gasoline",
+                  "cylinders": 8,
+                  "displacementCc": 5967,
+                  "powerHp": 329,
+                  "torqueNm": 495,
+                  "transmission": "4-Speed automatic",
+                  "drivetrain": "All Wheel Drive",
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": 5169,
+                  "widthMm": 2062,
+                  "heightMm": 1994,
+                  "wheelbaseMm": 3119,
+                  "curbWeightKg": 2903,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "V8",
+                    "ENGINE SPECS / Displacement": "5967 cm3 (364 ci)",
+                    "ENGINE SPECS / Power": "242 KW @ 5200 RPM329 HP @ 5200 RPM325 BHP @ 5200 RPM",
+                    "ENGINE SPECS / Torque": "365 lb-ft @ 4000 RPM495 Nm @ 4000 RPM",
+                    "ENGINE SPECS / Fuel System": "Electronic Injection",
+                    "ENGINE SPECS / Fuel": "Gasoline",
+                    "TRANSMISSION SPECS / Drive Type": "All Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "4-Speed automatic",
+                    "BRAKES SPECS / Front": "Ventilated Discs",
+                    "BRAKES SPECS / Rear": "Ventilated Discs",
+                    "TIRES SPECS / Tire Size": "LT315/70R17",
+                    "DIMENSIONS / Length": "203.5 in (5169 mm)",
+                    "DIMENSIONS / Width": "81.2 in (2062 mm)",
+                    "DIMENSIONS / Height": "78.5 in (1994 mm)",
+                    "DIMENSIONS / Front/rear Track": "69.4/69.4 in (1,763/1,763 mm)",
+                    "DIMENSIONS / Wheelbase": "122.8 in (3119 mm)",
+                    "WEIGHT SPECS / Unladen Weight": "6400 lbs (2903 kg)"
+                  }
+                }
+              ]
+            }
+          ]
         },
         {
           "name": "H2 SUT",
           "yearStart": 2004,
-          "yearEnd": 2009
+          "yearEnd": 2009,
+          "generations": [
+            {
+              "name": "H2 SUT (2004)",
+              "yearStart": 2004,
+              "yearEnd": 2009,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "6.0L V8 4AT (329 HP)",
+                  "fuelType": "Gasoline",
+                  "cylinders": 8,
+                  "displacementCc": 5967,
+                  "powerHp": 329,
+                  "torqueNm": 495,
+                  "transmission": "4-Speed automatic",
+                  "drivetrain": "All Wheel Drive",
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": 5169,
+                  "widthMm": 2062,
+                  "heightMm": 1994,
+                  "wheelbaseMm": 3119,
+                  "curbWeightKg": 2903,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "V8",
+                    "ENGINE SPECS / Displacement": "5967 cm3 (364 ci)",
+                    "ENGINE SPECS / Power": "242 KW @ 5200 RPM329 HP @ 5200 RPM325 BHP @ 5200 RPM",
+                    "ENGINE SPECS / Torque": "365 lb-ft @ 4000 RPM495 Nm @ 4000 RPM",
+                    "ENGINE SPECS / Fuel System": "Electronic Injection",
+                    "ENGINE SPECS / Fuel": "Gasoline",
+                    "TRANSMISSION SPECS / Drive Type": "All Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "4-Speed automatic",
+                    "BRAKES SPECS / Front": "Ventilated Discs",
+                    "BRAKES SPECS / Rear": "Ventilated Discs",
+                    "TIRES SPECS / Tire Size": "LT315/70R17",
+                    "DIMENSIONS / Length": "203.5 in (5169 mm)",
+                    "DIMENSIONS / Width": "81.2 in (2062 mm)",
+                    "DIMENSIONS / Height": "78.5 in (1994 mm)",
+                    "DIMENSIONS / Front/rear Track": "69.4/69.4 in (1,763/1,763 mm)",
+                    "DIMENSIONS / Wheelbase": "122.8 in (3119 mm)",
+                    "WEIGHT SPECS / Unladen Weight": "6400 lbs (2903 kg)"
+                  }
+                }
+              ]
+            }
+          ]
         },
         {
           "name": "H3",
           "yearStart": 2005,
-          "yearEnd": 2010
+          "yearEnd": 2010,
+          "generations": [
+            {
+              "name": "H3 (2005)",
+              "yearStart": 2005,
+              "yearEnd": 2010,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "3.5L 5MT AWD (223 HP)",
+                  "fuelType": "Gasoline",
+                  "cylinders": 5,
+                  "displacementCc": 3460,
+                  "powerHp": 223,
+                  "torqueNm": 305,
+                  "transmission": "5-Speed manual",
+                  "drivetrain": "All Wheel Drive",
+                  "zeroToHundredKmhS": 9.3,
+                  "topSpeedKmh": 156,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": 4742,
+                  "widthMm": 2172,
+                  "heightMm": 1892,
+                  "wheelbaseMm": 2842,
+                  "curbWeightKg": 2155,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "L5",
+                    "ENGINE SPECS / Displacement": "3460 cm3 (211 ci)",
+                    "ENGINE SPECS / Power": "164 KW @ 5600 RPM223 HP @ 5600 RPM220 BHP @ 5600 RPM",
+                    "ENGINE SPECS / Torque": "225 lb-ft @ 2800 RPM305 Nm @ 2800 RPM",
+                    "ENGINE SPECS / Fuel System": "Multipoint Injection",
+                    "ENGINE SPECS / Fuel": "Gasoline",
+                    "PERFORMANCE SPECS / Top Speed": "97 mph (156 km/h)",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "9.3 s",
+                    "TRANSMISSION SPECS / Drive Type": "All Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "5-Speed manual",
+                    "BRAKES SPECS / Front": "Ventilated Discs",
+                    "BRAKES SPECS / Rear": "Ventilated Discs",
+                    "TIRES SPECS / Tire Size": "265/75 R16",
+                    "DIMENSIONS / Length": "186.7 in (4742 mm)",
+                    "DIMENSIONS / Width": "85.5 in (2172 mm)",
+                    "DIMENSIONS / Height": "74.5 in (1892 mm)",
+                    "DIMENSIONS / Front/rear Track": "65/65.5 in (1,651/1,664 mm)",
+                    "DIMENSIONS / Wheelbase": "111.9 in (2842 mm)",
+                    "DIMENSIONS / Cargo Volume": "29.5 cuFT (835 L)",
+                    "WEIGHT SPECS / Unladen Weight": "4751 lbs (2155 kg)",
+                    "WEIGHT SPECS / Gross Weight Limit": "5851 lbs (2654 kg)",
+                    "FUEL ECONOMY (NEDC) / City": "16 mpg US (14.7 L/100Km)",
+                    "FUEL ECONOMY (NEDC) / Highway": "19.9 mpg US (11.8 L/100Km)",
+                    "FUEL ECONOMY (NEDC) / CO2 Emissions": "369 g/km"
+                  }
+                },
+                {
+                  "label": "3.7L 5MT AWD (245 HP)",
+                  "fuelType": "Gasoline",
+                  "cylinders": 5,
+                  "displacementCc": 3653,
+                  "powerHp": 245,
+                  "torqueNm": 328,
+                  "transmission": "5-Speed manual",
+                  "drivetrain": "All Wheel Drive",
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": 158,
+                  "fuelEconomyCombinedL100": 13.8,
+                  "lengthMm": 4742,
+                  "widthMm": 2172,
+                  "heightMm": 1892,
+                  "wheelbaseMm": 2842,
+                  "curbWeightKg": 2194,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "L5",
+                    "ENGINE SPECS / Displacement": "3653 cm3 (223 ci)",
+                    "ENGINE SPECS / Power": "180 KW @ 5600 RPM245 HP @ 5600 RPM241 BHP @ 5600 RPM",
+                    "ENGINE SPECS / Torque": "242 lb-ft @ 4600 RPM328 Nm @ 4600 RPM",
+                    "ENGINE SPECS / Fuel System": "Multipoint Injection",
+                    "ENGINE SPECS / Fuel": "Gasoline",
+                    "PERFORMANCE SPECS / Top Speed": "98.1 mph (158 km/h)",
+                    "TRANSMISSION SPECS / Drive Type": "All Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "5-Speed manual",
+                    "BRAKES SPECS / Front": "Ventilated Discs",
+                    "BRAKES SPECS / Rear": "Ventilated Discs",
+                    "TIRES SPECS / Tire Size": "265/75 R16",
+                    "DIMENSIONS / Length": "186.7 in (4742 mm)",
+                    "DIMENSIONS / Width": "85.5 in (2172 mm)",
+                    "DIMENSIONS / Height": "74.5 in (1892 mm)",
+                    "DIMENSIONS / Front/rear Track": "65/65.5 in (1,651/1,664 mm)",
+                    "DIMENSIONS / Wheelbase": "111.9 in (2842 mm)",
+                    "DIMENSIONS / Cargo Volume": "29.8 cuFT (844 L)",
+                    "WEIGHT SPECS / Unladen Weight": "4836.9 lbs (2194 kg)",
+                    "WEIGHT SPECS / Gross Weight Limit": "5864.2 lbs (2660 kg)",
+                    "FUEL ECONOMY (NEDC) / City": "12.7 mpg US (18.5 L/100Km)",
+                    "FUEL ECONOMY (NEDC) / Highway": "21.3 mpg US (11 L/100Km)",
+                    "FUEL ECONOMY (NEDC) / Combined": "17 mpg US (13.8 L/100Km)",
+                    "FUEL ECONOMY (NEDC) / CO2 Emissions": "327 g/km"
+                  }
+                }
+              ]
+            }
+          ]
         },
         {
           "name": "H3 Alpha",
           "yearStart": 2007,
-          "yearEnd": 2010
+          "yearEnd": 2010,
+          "generations": [
+            {
+              "name": "H3 Alpha (2007)",
+              "yearStart": 2007,
+              "yearEnd": 2010,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "5.3L V8 4AT (305 HP)",
+                  "fuelType": "Gasoline",
+                  "cylinders": 8,
+                  "displacementCc": 5328,
+                  "powerHp": 305,
+                  "torqueNm": 434,
+                  "transmission": "4-Speed automatic",
+                  "drivetrain": "All Wheel Drive",
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": 159,
+                  "fuelEconomyCombinedL100": 16.8,
+                  "lengthMm": 4742,
+                  "widthMm": 2172,
+                  "heightMm": 1892,
+                  "wheelbaseMm": 2842,
+                  "curbWeightKg": 2026,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "V8",
+                    "ENGINE SPECS / Displacement": "5328 cm3 (325 ci)",
+                    "ENGINE SPECS / Power": "224 KW @ 5200 RPM305 HP @ 5200 RPM300 BHP @ 5200 RPM",
+                    "ENGINE SPECS / Torque": "320 lb-ft @ 4000 RPM434 Nm @ 4000 RPM",
+                    "ENGINE SPECS / Fuel System": "Electronic Injection",
+                    "ENGINE SPECS / Fuel": "Gasoline",
+                    "PERFORMANCE SPECS / Top Speed": "99 mph (159 km/h)",
+                    "TRANSMISSION SPECS / Drive Type": "All Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "4-Speed automatic",
+                    "BRAKES SPECS / Front": "Ventilated Discs",
+                    "BRAKES SPECS / Rear": "Ventilated Discs",
+                    "TIRES SPECS / Tire Size": "P265/75R16",
+                    "DIMENSIONS / Length": "186.7 in (4742 mm)",
+                    "DIMENSIONS / Width": "85.5 in (2172 mm)",
+                    "DIMENSIONS / Height": "74.5 in (1892 mm)",
+                    "DIMENSIONS / Front/rear Track": "65/65.5 in (1,651/1,664 mm)",
+                    "DIMENSIONS / Wheelbase": "111.9 in (2842 mm)",
+                    "DIMENSIONS / Ground Clearance": "8.5 in (216 mm)",
+                    "DIMENSIONS / Cargo Volume": "29.5 cuFT (835 L)",
+                    "DIMENSIONS / Aerodynamics (Cd)": "0.55",
+                    "WEIGHT SPECS / Unladen Weight": "4467 lbs (2026 kg)",
+                    "WEIGHT SPECS / Gross Weight Limit": "6014 lbs (2728 kg)",
+                    "FUEL ECONOMY (NEDC) / City": "13 mpg US (18.1 L/100Km)",
+                    "FUEL ECONOMY (NEDC) / Highway": "16 mpg US (14.7 L/100Km)",
+                    "FUEL ECONOMY (NEDC) / Combined": "14 mpg US (16.8 L/100Km)"
+                  }
+                }
+              ]
+            }
+          ]
         }
       ]
     }
