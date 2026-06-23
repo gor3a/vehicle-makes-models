@@ -3,117 +3,456 @@
   "makes": [
     {
       "name": "Geely",
-      "country": "China",
       "models": [
-        {
-          "name": "Atlas",
-          "yearStart": 2016,
-          "yearEnd": null
-        },
-        {
-          "name": "Azkarra",
-          "yearStart": 2018,
-          "yearEnd": null
-        },
-        {
-          "name": "Binrui",
-          "yearStart": 2018,
-          "yearEnd": null
-        },
-        {
-          "name": "Binyue",
-          "yearStart": 2018,
-          "yearEnd": null
-        },
         {
           "name": "CK",
           "yearStart": 2005,
-          "yearEnd": 2016
-        },
-        {
-          "name": "Coolray",
-          "yearStart": 2018,
-          "yearEnd": null
-        },
-        {
-          "name": "Emgrand",
-          "yearStart": 2009,
-          "yearEnd": null
-        },
-        {
-          "name": "Emgrand 7",
-          "yearStart": 2016,
-          "yearEnd": null
+          "yearEnd": 2016,
+          "generations": [
+            {
+              "name": "CK (2005)",
+              "yearStart": 2005,
+              "yearEnd": 2016,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "1.3L 5MT FWD (84 HP)",
+                  "fuelType": "Gasoline",
+                  "cylinders": 4,
+                  "displacementCc": 1342,
+                  "powerHp": 84,
+                  "torqueNm": 110,
+                  "transmission": "5-speed manual",
+                  "drivetrain": "Front Wheel Drive",
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": 6,
+                  "lengthMm": 4153,
+                  "widthMm": 1679,
+                  "heightMm": 1440,
+                  "wheelbaseMm": 2433,
+                  "curbWeightKg": 1042,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "L4",
+                    "ENGINE SPECS / Displacement": "1342 cm3 (82 ci)",
+                    "ENGINE SPECS / Power": "63 KW @ 6000 RPM84 HP @ 6000 RPM84 BHP @ 6000 RPM",
+                    "ENGINE SPECS / Torque": "81 lb-ft @ 5200 RPM110 Nm @ 5200 RPM",
+                    "ENGINE SPECS / Fuel System": "MPI",
+                    "ENGINE SPECS / Fuel": "Gasoline",
+                    "TRANSMISSION SPECS / Drive Type": "Front Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "5-speed manual",
+                    "BRAKES SPECS / Front": "Ventilated Disc",
+                    "BRAKES SPECS / Rear": "drums",
+                    "TIRES SPECS / Tire Size": "175/65 R14",
+                    "DIMENSIONS / Length": "163.5 in (4153 mm)",
+                    "DIMENSIONS / Width": "66.1 in (1679 mm)",
+                    "DIMENSIONS / Height": "56.7 in (1440 mm)",
+                    "DIMENSIONS / Wheelbase": "95.8 in (2433 mm)",
+                    "WEIGHT SPECS / Unladen Weight": "2297 lbs (1042 kg)",
+                    "FUEL ECONOMY (NEDC) / Combined": "39 mpg US (6 L/100Km)"
+                  }
+                },
+                {
+                  "label": "1.5L 4AT FWD (92 HP)",
+                  "fuelType": "Gasoline",
+                  "cylinders": 4,
+                  "displacementCc": 1498,
+                  "powerHp": 92,
+                  "torqueNm": 127,
+                  "transmission": "4-speed automatic",
+                  "drivetrain": "Front Wheel Drive",
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": 6.5,
+                  "lengthMm": 4153,
+                  "widthMm": 1679,
+                  "heightMm": 1440,
+                  "wheelbaseMm": 2433,
+                  "curbWeightKg": 1052,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "L4",
+                    "ENGINE SPECS / Displacement": "1498 cm3 (91 ci)",
+                    "ENGINE SPECS / Power": "69 KW @ 6000 RPM92 HP @ 6000 RPM93 BHP @ 6000 RPM",
+                    "ENGINE SPECS / Torque": "94 lb-ft @ 3400 RPM127 Nm @ 3400 RPM",
+                    "ENGINE SPECS / Fuel System": "MPI",
+                    "ENGINE SPECS / Fuel": "Gasoline",
+                    "TRANSMISSION SPECS / Drive Type": "Front Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "4-speed automatic",
+                    "BRAKES SPECS / Front": "Ventilated Disc",
+                    "BRAKES SPECS / Rear": "drums",
+                    "TIRES SPECS / Tire Size": "175/65 R14",
+                    "DIMENSIONS / Length": "163.5 in (4153 mm)",
+                    "DIMENSIONS / Width": "66.1 in (1679 mm)",
+                    "DIMENSIONS / Height": "56.7 in (1440 mm)",
+                    "DIMENSIONS / Wheelbase": "95.8 in (2433 mm)",
+                    "WEIGHT SPECS / Unladen Weight": "2319 lbs (1052 kg)",
+                    "FUEL ECONOMY (NEDC) / Combined": "36 mpg US (6.5 L/100Km)"
+                  }
+                }
+              ]
+            }
+          ]
         },
         {
           "name": "Emgrand EC7",
           "yearStart": 2009,
-          "yearEnd": 2014
+          "yearEnd": 2014,
+          "generations": [
+            {
+              "name": "Emgrand EC7 (2009)",
+              "yearStart": 2009,
+              "yearEnd": 2014,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "1.8L 5MT (137 HP)",
+                  "fuelType": "Gasoline",
+                  "cylinders": 4,
+                  "displacementCc": 1792,
+                  "powerHp": 137,
+                  "torqueNm": 172,
+                  "transmission": "5-Speed manual",
+                  "drivetrain": "Front Wheel Drive",
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": 185,
+                  "fuelEconomyCombinedL100": 6.5,
+                  "lengthMm": 4636,
+                  "widthMm": 1788,
+                  "heightMm": 1471,
+                  "wheelbaseMm": 2649,
+                  "curbWeightKg": 1280,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "L4",
+                    "ENGINE SPECS / Displacement": "1792 cm3 (109 ci)",
+                    "ENGINE SPECS / Power": "102 KW @ 6000 RPM137 HP @ 6000 RPM137 BHP @ 6000 RPM",
+                    "ENGINE SPECS / Torque": "127 lb-ft @ 4200 RPM172 Nm @ 4200 RPM",
+                    "ENGINE SPECS / Fuel System": "MPI",
+                    "ENGINE SPECS / Fuel": "Gasoline",
+                    "PERFORMANCE SPECS / Top Speed": "115 mph (185 km/h)",
+                    "TRANSMISSION SPECS / Drive Type": "Front Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "5-Speed manual",
+                    "BRAKES SPECS / Front": "Vented disc",
+                    "BRAKES SPECS / Rear": "Vented disc",
+                    "TIRES SPECS / Tire Size": "205/65R15",
+                    "DIMENSIONS / Length": "182.5 in (4636 mm)",
+                    "DIMENSIONS / Width": "70.4 in (1788 mm)",
+                    "DIMENSIONS / Height": "57.9 in (1471 mm)",
+                    "DIMENSIONS / Wheelbase": "104.3 in (2649 mm)",
+                    "DIMENSIONS / Ground Clearance": "6.6 in (168 mm)",
+                    "DIMENSIONS / Cargo Volume": "24 cuFT (680 L)",
+                    "WEIGHT SPECS / Unladen Weight": "2822 lbs (1280 kg)",
+                    "FUEL ECONOMY (NEDC) / Combined": "36 mpg US (6.5 L/100Km)"
+                  }
+                }
+              ]
+            }
+          ]
         },
         {
           "name": "Galaxy",
           "yearStart": 2023,
-          "yearEnd": null
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Galaxy (2023)",
+              "yearStart": 2023,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
         },
         {
           "name": "Galaxy M9",
           "yearStart": 2025,
-          "yearEnd": null
-        },
-        {
-          "name": "Geometry A",
-          "yearStart": 2019,
-          "yearEnd": null
-        },
-        {
-          "name": "Geometry C",
-          "yearStart": 2020,
-          "yearEnd": null
-        },
-        {
-          "name": "GX3",
-          "yearStart": 2014,
-          "yearEnd": null
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Galaxy M9 (2025)",
+              "yearStart": 2025,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
         },
         {
           "name": "LC",
           "yearStart": 2009,
-          "yearEnd": 2017
+          "yearEnd": 2017,
+          "generations": [
+            {
+              "name": "LC (2011)",
+              "yearStart": 2011,
+              "yearEnd": 2016,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "1.3L 5MT FWD (84 HP)",
+                  "fuelType": "Gasoline",
+                  "cylinders": 4,
+                  "displacementCc": 1342,
+                  "powerHp": 84,
+                  "torqueNm": 110,
+                  "transmission": "5-Speed manual",
+                  "drivetrain": "Front Wheel Drive",
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": 155,
+                  "fuelEconomyCombinedL100": 6.3,
+                  "lengthMm": 3599,
+                  "widthMm": 1631,
+                  "heightMm": 1435,
+                  "wheelbaseMm": 2339,
+                  "curbWeightKg": 985,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "L4",
+                    "ENGINE SPECS / Displacement": "1342 cm3 (82 ci)",
+                    "ENGINE SPECS / Power": "63 KW @ 6000 RPM84 HP @ 6000 RPM84 BHP @ 6000 RPM",
+                    "ENGINE SPECS / Torque": "81 lb-ft @ 5200 RPM110 Nm @ 5200 RPM",
+                    "ENGINE SPECS / Fuel": "Gasoline",
+                    "PERFORMANCE SPECS / Top Speed": "96.3 mph (155 km/h)",
+                    "TRANSMISSION SPECS / Drive Type": "Front Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "5-Speed manual",
+                    "BRAKES SPECS / Front": "Ventilated Disc",
+                    "BRAKES SPECS / Rear": "drums",
+                    "TIRES SPECS / Tire Size": "165/60 R14",
+                    "DIMENSIONS / Length": "141.7 in (3599 mm)",
+                    "DIMENSIONS / Width": "64.2 in (1631 mm)",
+                    "DIMENSIONS / Height": "56.5 in (1435 mm)",
+                    "DIMENSIONS / Front/rear Track": "55.9/55.5 in (1,420/1,410 mm)",
+                    "DIMENSIONS / Wheelbase": "92.1 in (2339 mm)",
+                    "WEIGHT SPECS / Unladen Weight": "2172 lbs (985 kg)",
+                    "FUEL ECONOMY (NEDC) / Combined": "37.3 mpg US (6.3 L/100Km)"
+                  }
+                },
+                {
+                  "label": "1.5L 5MT FWD (101 HP)",
+                  "fuelType": "Gasoline",
+                  "cylinders": 4,
+                  "displacementCc": 1498,
+                  "powerHp": 101,
+                  "torqueNm": 136,
+                  "transmission": "5-Speed manual",
+                  "drivetrain": "Front Wheel Drive",
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": 166,
+                  "fuelEconomyCombinedL100": 7.1,
+                  "lengthMm": 3599,
+                  "widthMm": 1631,
+                  "heightMm": 1435,
+                  "wheelbaseMm": 2339,
+                  "curbWeightKg": 985,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "L4",
+                    "ENGINE SPECS / Displacement": "1498 cm3 (91 ci)",
+                    "ENGINE SPECS / Power": "75 KW @ 6000 RPM101 HP @ 6000 RPM101 BHP @ 6000 RPM",
+                    "ENGINE SPECS / Torque": "100 lb-ft @ 5200 RPM136 Nm @ 5200 RPM",
+                    "ENGINE SPECS / Fuel": "Gasoline",
+                    "PERFORMANCE SPECS / Top Speed": "103 mph (166 km/h)",
+                    "TRANSMISSION SPECS / Drive Type": "Front Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "5-Speed manual",
+                    "BRAKES SPECS / Front": "Ventilated Disc",
+                    "BRAKES SPECS / Rear": "drums",
+                    "TIRES SPECS / Tire Size": "165/60 R14",
+                    "DIMENSIONS / Length": "141.7 in (3599 mm)",
+                    "DIMENSIONS / Width": "64.2 in (1631 mm)",
+                    "DIMENSIONS / Height": "56.5 in (1435 mm)",
+                    "DIMENSIONS / Front/rear Track": "55.9/55.5 in (1,420/1,410 mm)",
+                    "DIMENSIONS / Wheelbase": "92.1 in (2339 mm)",
+                    "WEIGHT SPECS / Unladen Weight": "2172 lbs (985 kg)",
+                    "FUEL ECONOMY (NEDC) / Combined": "33 mpg US (7.1 L/100Km)"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "LC (2009)",
+              "yearStart": 2009,
+              "yearEnd": 2017,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "1.3L 5MT (84 HP)",
+                  "fuelType": "Gasoline",
+                  "cylinders": 4,
+                  "displacementCc": 1342,
+                  "powerHp": 84,
+                  "torqueNm": 110,
+                  "transmission": "5-Speed manual",
+                  "drivetrain": "Front Wheel Drive",
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": 155,
+                  "fuelEconomyCombinedL100": 6.3,
+                  "lengthMm": 3599,
+                  "widthMm": 1631,
+                  "heightMm": 1435,
+                  "wheelbaseMm": 2339,
+                  "curbWeightKg": 985,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "L4",
+                    "ENGINE SPECS / Displacement": "1342 cm3 (82 ci)",
+                    "ENGINE SPECS / Power": "63 KW @ 6000 RPM84 HP @ 6000 RPM84 BHP @ 6000 RPM",
+                    "ENGINE SPECS / Torque": "81 lb-ft @ 5200 RPM110 Nm @ 5200 RPM",
+                    "ENGINE SPECS / Fuel": "Gasoline",
+                    "PERFORMANCE SPECS / Top Speed": "96.3 mph (155 km/h)",
+                    "TRANSMISSION SPECS / Drive Type": "Front Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "5-Speed manual",
+                    "BRAKES SPECS / Front": "Ventilated Disc",
+                    "BRAKES SPECS / Rear": "drums",
+                    "TIRES SPECS / Tire Size": "165/60 R14",
+                    "DIMENSIONS / Length": "141.7 in (3599 mm)",
+                    "DIMENSIONS / Width": "64.2 in (1631 mm)",
+                    "DIMENSIONS / Height": "56.5 in (1435 mm)",
+                    "DIMENSIONS / Front/rear Track": "55.9/55.5 in (1,420/1,410 mm)",
+                    "DIMENSIONS / Wheelbase": "92.1 in (2339 mm)",
+                    "WEIGHT SPECS / Unladen Weight": "2172 lbs (985 kg)",
+                    "FUEL ECONOMY (NEDC) / Combined": "37.3 mpg US (6.3 L/100Km)"
+                  }
+                }
+              ]
+            }
+          ]
         },
         {
           "name": "MK",
           "yearStart": 2006,
-          "yearEnd": 2014
-        },
-        {
-          "name": "Monjaro",
-          "yearStart": 2021,
-          "yearEnd": null
-        },
-        {
-          "name": "Okavango",
-          "yearStart": 2020,
-          "yearEnd": null
-        },
-        {
-          "name": "Panda",
-          "yearStart": 2008,
-          "yearEnd": null
-        },
-        {
-          "name": "Preface",
-          "yearStart": 2020,
-          "yearEnd": null
-        },
-        {
-          "name": "Starray",
-          "yearStart": 2023,
-          "yearEnd": null
-        },
-        {
-          "name": "Tugella",
-          "yearStart": 2019,
-          "yearEnd": null
+          "yearEnd": 2014,
+          "generations": [
+            {
+              "name": "MK (2010)",
+              "yearStart": 2010,
+              "yearEnd": 2014,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "1.5L 5MT (92 HP)",
+                  "fuelType": "Gasoline",
+                  "cylinders": 4,
+                  "displacementCc": 1498,
+                  "powerHp": 92,
+                  "torqueNm": 127,
+                  "transmission": "5-speed manual",
+                  "drivetrain": "Front Wheel Drive",
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": 166,
+                  "fuelEconomyCombinedL100": 7.6,
+                  "lengthMm": 3995,
+                  "widthMm": 1692,
+                  "heightMm": 1435,
+                  "wheelbaseMm": 2502,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "L4",
+                    "ENGINE SPECS / Displacement": "1498 cm3 (91 ci)",
+                    "ENGINE SPECS / Power": "69 KW @ 6000 RPM92 HP @ 6000 RPM93 BHP @ 6000 RPM",
+                    "ENGINE SPECS / Torque": "94 lb-ft @ 3400 RPM127 Nm @ 3400 RPM",
+                    "ENGINE SPECS / Fuel System": "Multi Point Fuel Injection",
+                    "ENGINE SPECS / Fuel": "Gasoline",
+                    "PERFORMANCE SPECS / Top Speed": "103 mph (166 km/h)",
+                    "TRANSMISSION SPECS / Drive Type": "Front Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "5-speed manual",
+                    "BRAKES SPECS / Front": "Ventilated Disc",
+                    "BRAKES SPECS / Rear": "drums",
+                    "TIRES SPECS / Tire Size": "185/60 r15",
+                    "DIMENSIONS / Length": "157.3 in (3995 mm)",
+                    "DIMENSIONS / Width": "66.6 in (1692 mm)",
+                    "DIMENSIONS / Height": "56.5 in (1435 mm)",
+                    "DIMENSIONS / Wheelbase": "98.5 in (2502 mm)",
+                    "FUEL ECONOMY (NEDC) / Combined": "31 mpg US (7.6 L/100Km)"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "MK (2006)",
+              "yearStart": 2006,
+              "yearEnd": 2014,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "1.5L 5MT FWD (92 HP)",
+                  "fuelType": "Gasoline",
+                  "cylinders": 4,
+                  "displacementCc": 1498,
+                  "powerHp": 94,
+                  "torqueNm": 127,
+                  "transmission": "5-Speed manual",
+                  "drivetrain": "Front Wheel Drive",
+                  "zeroToHundredKmhS": 18,
+                  "topSpeedKmh": 166,
+                  "fuelEconomyCombinedL100": 7.6,
+                  "lengthMm": 4341,
+                  "widthMm": 1692,
+                  "heightMm": 1435,
+                  "wheelbaseMm": 2502,
+                  "curbWeightKg": 1040,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "L4",
+                    "ENGINE SPECS / Displacement": "1498 cm3 (91 ci)",
+                    "ENGINE SPECS / Power": "69 KW @ 6000 RPM94 HP @ 6000 RPM93 BHP @ 6000 RPM",
+                    "ENGINE SPECS / Torque": "94 lb-ft @ 3400 RPM127 Nm @ 3400 RPM",
+                    "ENGINE SPECS / Fuel System": "Multipoint Injection",
+                    "ENGINE SPECS / Fuel": "Gasoline",
+                    "ENGINE SPECS / Fuel capacity": "11.9 gallons (45.0 L)",
+                    "PERFORMANCE SPECS / Top Speed": "103 mph (166 km/h)",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "18 s",
+                    "TRANSMISSION SPECS / Drive Type": "Front Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "5-Speed manual",
+                    "BRAKES SPECS / Front": "Ventilated disks",
+                    "BRAKES SPECS / Rear": "Drums",
+                    "TIRES SPECS / Tire Size": "185/60 R15",
+                    "DIMENSIONS / Length": "170.9 in (4341 mm)",
+                    "DIMENSIONS / Width": "66.6 in (1692 mm)",
+                    "DIMENSIONS / Height": "56.5 in (1435 mm)",
+                    "DIMENSIONS / Front/rear Track": "57.1/56.3 in (1,450/1,430 mm)",
+                    "DIMENSIONS / Wheelbase": "98.5 in (2502 mm)",
+                    "DIMENSIONS / Cargo Volume": "15.9 cuFT (450 L)",
+                    "WEIGHT SPECS / Unladen Weight": "2293 lbs (1040 kg)",
+                    "WEIGHT SPECS / Gross Weight Limit": "3219 lbs (1460 kg)",
+                    "FUEL ECONOMY (NEDC) / Combined": "31 mpg US (7.6 L/100Km)"
+                  }
+                },
+                {
+                  "label": "1.6L 5MT FWD (106 HP)",
+                  "fuelType": "Gasoline",
+                  "cylinders": 4,
+                  "displacementCc": 1587,
+                  "powerHp": 106,
+                  "torqueNm": 137,
+                  "transmission": "5-Speed manual",
+                  "drivetrain": "Front Wheel Drive",
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": 175,
+                  "fuelEconomyCombinedL100": 7.8,
+                  "lengthMm": 4341,
+                  "widthMm": 1692,
+                  "heightMm": 1435,
+                  "wheelbaseMm": 2502,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "l4",
+                    "ENGINE SPECS / Displacement": "1587 cm3 (97 ci)",
+                    "ENGINE SPECS / Power": "79 KW @ 6000 RPM106 HP @ 6000 RPM106 BHP @ 6000 RPM",
+                    "ENGINE SPECS / Torque": "101 lb-ft @ 4400 RPM137 Nm @ 4400 RPM",
+                    "ENGINE SPECS / Fuel System": "MPI",
+                    "ENGINE SPECS / Fuel": "Gasoline",
+                    "PERFORMANCE SPECS / Top Speed": "109 mph (175 km/h)",
+                    "TRANSMISSION SPECS / Drive Type": "Front Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "5-Speed manual",
+                    "BRAKES SPECS / Front": "ventilated disks",
+                    "BRAKES SPECS / Rear": "drums",
+                    "TIRES SPECS / Tire Size": "185/60 R15",
+                    "DIMENSIONS / Length": "170.9 in (4341 mm)",
+                    "DIMENSIONS / Width": "66.6 in (1692 mm)",
+                    "DIMENSIONS / Height": "56.5 in (1435 mm)",
+                    "DIMENSIONS / Wheelbase": "98.5 in (2502 mm)",
+                    "DIMENSIONS / Cargo Volume": "15.9 cuFT (450 L)",
+                    "FUEL ECONOMY (NEDC) / Combined": "30 mpg US (7.8 L/100Km)"
+                  }
+                }
+              ]
+            }
+          ]
         }
       ]
     }

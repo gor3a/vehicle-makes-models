@@ -7,7 +7,56 @@
         {
           "name": "Motor Spano",
           "yearStart": 2012,
-          "yearEnd": 2015
+          "yearEnd": 2015,
+          "generations": [
+            {
+              "name": "Motor Spano (2012)",
+              "yearStart": 2012,
+              "yearEnd": 2015,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "8.3L SC V10 (820 HP)",
+                  "fuelType": "Gasoline",
+                  "cylinders": 10,
+                  "displacementCc": 8300,
+                  "powerHp": 820,
+                  "torqueNm": 960,
+                  "transmission": "7-speed automatic",
+                  "drivetrain": "Rear Wheel Drive",
+                  "zeroToHundredKmhS": 2.9,
+                  "topSpeedKmh": 349,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": 4648,
+                  "widthMm": 1979,
+                  "heightMm": 1999,
+                  "wheelbaseMm": 2799,
+                  "curbWeightKg": 1350,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "V10",
+                    "ENGINE SPECS / Displacement": "8300 cm3 (506 ci)",
+                    "ENGINE SPECS / Power": "612 KW @ 6300 RPM820 HP @ 6300 RPM821 BHP @ 6300 RPM",
+                    "ENGINE SPECS / Torque": "708 lb-ft @ - RPM960 Nm @ - RPM",
+                    "ENGINE SPECS / Fuel System": "Direct Injection",
+                    "ENGINE SPECS / Fuel": "Gasoline",
+                    "PERFORMANCE SPECS / Top Speed": "217 mph (349 km/h)",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "2.9 s",
+                    "TRANSMISSION SPECS / Drive Type": "Rear Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "7-speed automatic",
+                    "BRAKES SPECS / Front": "Ventilated Discs",
+                    "BRAKES SPECS / Rear": "Ventilated Discs",
+                    "TIRES SPECS / Tire Size": "255/35 R19 || 335/30 R20",
+                    "DIMENSIONS / Length": "183 in (4648 mm)",
+                    "DIMENSIONS / Width": "77.9 in (1979 mm)",
+                    "DIMENSIONS / Height": "78.7 in (1999 mm)",
+                    "DIMENSIONS / Wheelbase": "110.2 in (2799 mm)",
+                    "DIMENSIONS / Cargo Volume": "10.6 cuFT (300 L)",
+                    "WEIGHT SPECS / Unladen Weight": "2976 lbs (1350 kg)"
+                  }
+                }
+              ]
+            }
+          ]
         }
       ]
     }
