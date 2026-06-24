@@ -7,52 +7,739 @@
         {
           "name": "Agera",
           "yearStart": 2010,
-          "yearEnd": 2016
+          "yearEnd": 2016,
+          "generations": [
+            {
+              "name": "Agera (2015)",
+              "yearStart": 2015,
+              "yearEnd": 2016,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "5.0L V8 7AT (1,176 HP)",
+                  "fuelType": "Gasoline",
+                  "cylinders": 8,
+                  "displacementCc": 5065,
+                  "powerHp": 1176,
+                  "torqueNm": 1001,
+                  "transmission": "7-speed automatic",
+                  "drivetrain": "Rear Wheel Drive",
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": 443,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": 4293,
+                  "widthMm": 2050,
+                  "heightMm": 1120,
+                  "wheelbaseMm": 2662,
+                  "curbWeightKg": 1395,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "V8",
+                    "ENGINE SPECS / Displacement": "5065 cm3 (309 ci)",
+                    "ENGINE SPECS / Power": "865 KW @ 7800 RPM1176 HP @ 7800 RPM1160 BHP @ 7800 RPM",
+                    "ENGINE SPECS / Torque": "738 lb-ft @ 2700-6170 RPM1001 Nm @ 2700-6170 RPM",
+                    "ENGINE SPECS / Fuel System": "Turbocharged Multipoint Injection",
+                    "ENGINE SPECS / Fuel": "Gasoline",
+                    "ENGINE SPECS / Fuel capacity": "21.7 gallons (82.1 L)",
+                    "PERFORMANCE SPECS / Top Speed": "275 mph (443 km/h)",
+                    "TRANSMISSION SPECS / Drive Type": "Rear Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "7-speed automatic",
+                    "BRAKES SPECS / Front": "Ventilated Discs",
+                    "BRAKES SPECS / Rear": "Ventilated Discs",
+                    "TIRES SPECS / Tire Size": "265/35 R19 || 345/30 R20",
+                    "DIMENSIONS / Length": "169 in (4293 mm)",
+                    "DIMENSIONS / Width": "80.7 in (2050 mm)",
+                    "DIMENSIONS / Height": "44.1 in (1120 mm)",
+                    "DIMENSIONS / Front/rear Track": "66.9/65 in (1,699/1,651 mm)",
+                    "DIMENSIONS / Wheelbase": "104.8 in (2662 mm)",
+                    "DIMENSIONS / Ground Clearance": "4.1 in (104 mm)",
+                    "DIMENSIONS / Cargo Volume": "5.3 cuFT (150 L)",
+                    "DIMENSIONS / Aerodynamics (Cd)": "0.35",
+                    "WEIGHT SPECS / Unladen Weight": "3075 lbs (1395 kg)",
+                    "WEIGHT SPECS / Gross Weight Limit": "3594 lbs (1630 kg)"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Agera (2013)",
+              "yearStart": 2013,
+              "yearEnd": 2014,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "5.0 V8 7AT (1,130 HP)",
+                  "fuelType": "Gasoline",
+                  "cylinders": 8,
+                  "displacementCc": 5065,
+                  "powerHp": 1130,
+                  "torqueNm": 1100,
+                  "transmission": "7-speed automatic",
+                  "drivetrain": "Rear Wheel Drive",
+                  "zeroToHundredKmhS": 2.9,
+                  "topSpeedKmh": 439,
+                  "fuelEconomyCombinedL100": 14.7,
+                  "lengthMm": 4293,
+                  "widthMm": 1996,
+                  "heightMm": 1120,
+                  "wheelbaseMm": 2662,
+                  "curbWeightKg": 1415,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "V8",
+                    "ENGINE SPECS / Displacement": "5065 cm3 (309 ci)",
+                    "ENGINE SPECS / Power": "831 KW @ 7100 RPM1130 HP @ 7100 RPM1114 BHP @ 7100 RPM",
+                    "ENGINE SPECS / Torque": "811 lb-ft @ 4100 RPM1100 Nm @ 4100 RPM",
+                    "ENGINE SPECS / Fuel System": "Turbocharged Multipoint Injection",
+                    "ENGINE SPECS / Fuel": "Gasoline",
+                    "PERFORMANCE SPECS / Top Speed": "273 mph (439 km/h)",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "2.9 s",
+                    "TRANSMISSION SPECS / Drive Type": "Rear Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "7-speed automatic",
+                    "BRAKES SPECS / Front": "Ventilated Discs",
+                    "BRAKES SPECS / Rear": "Ventilated Discs",
+                    "TIRES SPECS / Tire Size": "265/35 R19 || 345/30 R20",
+                    "DIMENSIONS / Length": "169 in (4293 mm)",
+                    "DIMENSIONS / Width": "78.6 in (1996 mm)",
+                    "DIMENSIONS / Height": "44.1 in (1120 mm)",
+                    "DIMENSIONS / Front/rear Track": "66.9/65 in (1,699/1,651 mm)",
+                    "DIMENSIONS / Wheelbase": "104.8 in (2662 mm)",
+                    "DIMENSIONS / Ground Clearance": "3.9 in (99 mm)",
+                    "DIMENSIONS / Cargo Volume": "4.2 cuFT (119 L)",
+                    "DIMENSIONS / Aerodynamics (Cd)": "0.33",
+                    "WEIGHT SPECS / Unladen Weight": "3120 lbs (1415 kg)",
+                    "WEIGHT SPECS / Gross Weight Limit": "3638 lbs (1650 kg)",
+                    "FUEL ECONOMY (NEDC) / Highway": "18.8 mpg US (12.5 L/100Km)",
+                    "FUEL ECONOMY (NEDC) / Combined": "16 mpg US (14.7 L/100Km)"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Agera (2011)",
+              "yearStart": 2011,
+              "yearEnd": 2014,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "5.0 V8 7AT (1,115 HP)",
+                  "fuelType": "Gasoline",
+                  "cylinders": 8,
+                  "displacementCc": 5065,
+                  "powerHp": 1115,
+                  "torqueNm": 1100,
+                  "transmission": "7-speed automatic",
+                  "drivetrain": "Rear Wheel Drive",
+                  "zeroToHundredKmhS": 2.8,
+                  "topSpeedKmh": 439,
+                  "fuelEconomyCombinedL100": 14.7,
+                  "lengthMm": 4293,
+                  "widthMm": 1996,
+                  "heightMm": 1120,
+                  "wheelbaseMm": 2662,
+                  "curbWeightKg": 1435,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "V8",
+                    "ENGINE SPECS / Displacement": "5065 cm3 (309 ci)",
+                    "ENGINE SPECS / Power": "820 KW @ 6900 RPM1115 HP @ 6900 RPM1100 BHP @ 6900 RPM",
+                    "ENGINE SPECS / Torque": "811 lb-ft @ 4000 RPM1100 Nm @ 4000 RPM",
+                    "ENGINE SPECS / Fuel System": "Turbocharged Multipoint Injection",
+                    "ENGINE SPECS / Fuel": "Gasoline",
+                    "PERFORMANCE SPECS / Top Speed": "273 mph (439 km/h)",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "2.8 s",
+                    "TRANSMISSION SPECS / Drive Type": "Rear Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "7-speed automatic",
+                    "BRAKES SPECS / Front": "Ventilated Discs",
+                    "BRAKES SPECS / Rear": "Ventilated Discs",
+                    "TIRES SPECS / Tire Size": "265/35 R19 || 345/30 R20",
+                    "DIMENSIONS / Length": "169 in (4293 mm)",
+                    "DIMENSIONS / Width": "78.6 in (1996 mm)",
+                    "DIMENSIONS / Height": "44.1 in (1120 mm)",
+                    "DIMENSIONS / Front/rear Track": "66.9/65 in (1,699/1,651 mm)",
+                    "DIMENSIONS / Wheelbase": "104.8 in (2662 mm)",
+                    "DIMENSIONS / Ground Clearance": "3.9 in (99 mm)",
+                    "DIMENSIONS / Cargo Volume": "4.2 cuFT (119 L)",
+                    "DIMENSIONS / Aerodynamics (Cd)": "0.33",
+                    "WEIGHT SPECS / Unladen Weight": "3164 lbs (1435 kg)",
+                    "WEIGHT SPECS / Gross Weight Limit": "3638 lbs (1650 kg)",
+                    "FUEL ECONOMY (NEDC) / Highway": "18.8 mpg US (12.5 L/100Km)",
+                    "FUEL ECONOMY (NEDC) / Combined": "16 mpg US (14.7 L/100Km)"
+                  }
+                },
+                {
+                  "label": "5.0 V8 7AT (1,140 HP)",
+                  "fuelType": "Gasoline",
+                  "cylinders": 8,
+                  "displacementCc": 5065,
+                  "powerHp": 1140,
+                  "torqueNm": 1200,
+                  "transmission": "7-speed automatic",
+                  "drivetrain": "Rear Wheel Drive",
+                  "zeroToHundredKmhS": 2.8,
+                  "topSpeedKmh": 443,
+                  "fuelEconomyCombinedL100": 14.7,
+                  "lengthMm": 4293,
+                  "widthMm": 1996,
+                  "heightMm": 1120,
+                  "wheelbaseMm": 2662,
+                  "curbWeightKg": 1435,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "V8",
+                    "ENGINE SPECS / Displacement": "5065 cm3 (309 ci)",
+                    "ENGINE SPECS / Power": "838 KW @ 7100 RPM1140 HP @ 7100 RPM1124 BHP @ 7100 RPM",
+                    "ENGINE SPECS / Torque": "885 lb-ft @ 4100 RPM1200 Nm @ 4100 RPM",
+                    "ENGINE SPECS / Fuel System": "Turbocharged Multipoint Injection",
+                    "ENGINE SPECS / Fuel": "Gasoline",
+                    "PERFORMANCE SPECS / Top Speed": "275 mph (443 km/h)",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "2.8 s",
+                    "TRANSMISSION SPECS / Drive Type": "Rear Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "7-speed automatic",
+                    "BRAKES SPECS / Front": "Ventilated Discs",
+                    "BRAKES SPECS / Rear": "Ventilated Discs",
+                    "TIRES SPECS / Tire Size": "265/35 R19 || 345/30 R20",
+                    "DIMENSIONS / Length": "169 in (4293 mm)",
+                    "DIMENSIONS / Width": "78.6 in (1996 mm)",
+                    "DIMENSIONS / Height": "44.1 in (1120 mm)",
+                    "DIMENSIONS / Front/rear Track": "66.9/65 in (1,699/1,651 mm)",
+                    "DIMENSIONS / Wheelbase": "104.8 in (2662 mm)",
+                    "DIMENSIONS / Ground Clearance": "3.9 in (99 mm)",
+                    "DIMENSIONS / Cargo Volume": "4.2 cuFT (119 L)",
+                    "DIMENSIONS / Aerodynamics (Cd)": "0.33",
+                    "WEIGHT SPECS / Unladen Weight": "3164 lbs (1435 kg)",
+                    "WEIGHT SPECS / Gross Weight Limit": "3638 lbs (1650 kg)",
+                    "FUEL ECONOMY (NEDC) / Highway": "18.8 mpg US (12.5 L/100Km)",
+                    "FUEL ECONOMY (NEDC) / Combined": "16 mpg US (14.7 L/100Km)"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Agera (2010)",
+              "yearStart": 2010,
+              "yearEnd": 2014,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "5.0 V8 7AT (910 HP)",
+                  "fuelType": "Gasoline",
+                  "cylinders": 8,
+                  "displacementCc": 5065,
+                  "powerHp": 960,
+                  "torqueNm": 1100,
+                  "transmission": "7-speed automatic",
+                  "drivetrain": "Rear Wheel Drive",
+                  "zeroToHundredKmhS": 2.8,
+                  "topSpeedKmh": 420,
+                  "fuelEconomyCombinedL100": 14.7,
+                  "lengthMm": 4293,
+                  "widthMm": 1996,
+                  "heightMm": 1120,
+                  "wheelbaseMm": 2662,
+                  "curbWeightKg": 1435,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "V8",
+                    "ENGINE SPECS / Displacement": "5065 cm3 (309 ci)",
+                    "ENGINE SPECS / Power": "706 KW @ 7100 RPM960 HP @ 7100 RPM947 BHP @ 7100 RPM",
+                    "ENGINE SPECS / Torque": "811 lb-ft @ 4000 RPM1100 Nm @ 4000 RPM",
+                    "ENGINE SPECS / Fuel System": "Turbocharged Multipoint Injection",
+                    "ENGINE SPECS / Fuel": "Gasoline",
+                    "PERFORMANCE SPECS / Top Speed": "261 mph (420 km/h)",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "2.8 s",
+                    "TRANSMISSION SPECS / Drive Type": "Rear Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "7-speed automatic",
+                    "BRAKES SPECS / Front": "Ventilated Discs",
+                    "BRAKES SPECS / Rear": "Ventilated Discs",
+                    "TIRES SPECS / Tire Size": "265/35 x 19 Y || 345/30 x 20 Y",
+                    "DIMENSIONS / Length": "169 in (4293 mm)",
+                    "DIMENSIONS / Width": "78.6 in (1996 mm)",
+                    "DIMENSIONS / Height": "44.1 in (1120 mm)",
+                    "DIMENSIONS / Front/rear Track": "66.9/65 in (1,699/1,651 mm)",
+                    "DIMENSIONS / Wheelbase": "104.8 in (2662 mm)",
+                    "DIMENSIONS / Ground Clearance": "3.9 in (99 mm)",
+                    "DIMENSIONS / Cargo Volume": "4.2 cuFT (119 L)",
+                    "DIMENSIONS / Aerodynamics (Cd)": "0.33",
+                    "WEIGHT SPECS / Unladen Weight": "3164 lbs (1435 kg)",
+                    "WEIGHT SPECS / Gross Weight Limit": "3638 lbs (1650 kg)",
+                    "FUEL ECONOMY (NEDC) / Highway": "18.8 mpg US (12.5 L/100Km)",
+                    "FUEL ECONOMY (NEDC) / Combined": "16 mpg US (14.7 L/100Km)"
+                  }
+                }
+              ]
+            }
+          ]
         },
         {
           "name": "CC8S",
           "yearStart": 2002,
-          "yearEnd": 2005
+          "yearEnd": 2005,
+          "generations": [
+            {
+              "name": "CC8S (2002)",
+              "yearStart": 2002,
+              "yearEnd": 2005,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "4.7L V8 6MT RWD (655 HP)",
+                  "fuelType": "Gasoline",
+                  "cylinders": 8,
+                  "displacementCc": 4700,
+                  "powerHp": 655,
+                  "torqueNm": 752,
+                  "transmission": "6-speed manual",
+                  "drivetrain": "Rear Wheel Drive",
+                  "zeroToHundredKmhS": 3.2,
+                  "topSpeedKmh": 386,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": 4191,
+                  "widthMm": 1989,
+                  "heightMm": 1069,
+                  "wheelbaseMm": 2659,
+                  "curbWeightKg": 1175,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "V8",
+                    "ENGINE SPECS / Displacement": "4700 cm3 (287 ci)",
+                    "ENGINE SPECS / Power": "482 KW @ 6800 RPM655 HP @ 6800 RPM646 BHP @ 6800 RPM",
+                    "ENGINE SPECS / Torque": "555 lb-ft @ 5000 RPM752 Nm @ 5000 RPM",
+                    "ENGINE SPECS / Fuel System": "Turbocharged Multipoint Injection",
+                    "ENGINE SPECS / Fuel": "Gasoline",
+                    "PERFORMANCE SPECS / Top Speed": "240 mph (386 km/h)",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "3.2 s",
+                    "TRANSMISSION SPECS / Drive Type": "Rear Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "6-speed manual",
+                    "BRAKES SPECS / Front": "Ventilated Discs",
+                    "BRAKES SPECS / Rear": "Ventilated Discs",
+                    "TIRES SPECS / Tire Size": "255/40 ZR 18 || 335/30 ZR 20",
+                    "DIMENSIONS / Length": "165 in (4191 mm)",
+                    "DIMENSIONS / Width": "78.3 in (1989 mm)",
+                    "DIMENSIONS / Height": "42.1 in (1069 mm)",
+                    "DIMENSIONS / Wheelbase": "104.7 in (2659 mm)",
+                    "DIMENSIONS / Ground Clearance": "3.9 in (99 mm)",
+                    "DIMENSIONS / Cargo Volume": "4.2 cuFT (119 L)",
+                    "DIMENSIONS / Aerodynamics (Cd)": "0.297",
+                    "WEIGHT SPECS / Unladen Weight": "2590 lbs (1175 kg)",
+                    "WEIGHT SPECS / Gross Weight Limit": "3142 lbs (1425 kg)"
+                  }
+                }
+              ]
+            }
+          ]
         },
         {
           "name": "CCR",
           "yearStart": 2004,
-          "yearEnd": 2006
+          "yearEnd": 2006,
+          "generations": [
+            {
+              "name": "CCR (2004)",
+              "yearStart": 2004,
+              "yearEnd": 2006,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "4.7L V8 6MT RWD (806 HP)",
+                  "fuelType": "Gasoline",
+                  "cylinders": 8,
+                  "displacementCc": 4700,
+                  "powerHp": 806,
+                  "torqueNm": 921,
+                  "transmission": "6-speed manual",
+                  "drivetrain": "Rear Wheel Drive",
+                  "zeroToHundredKmhS": 3.2,
+                  "topSpeedKmh": 394,
+                  "fuelEconomyCombinedL100": 17,
+                  "lengthMm": 4191,
+                  "widthMm": 1989,
+                  "heightMm": 1069,
+                  "wheelbaseMm": 2659,
+                  "curbWeightKg": 1180,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "V8",
+                    "ENGINE SPECS / Displacement": "4700 cm3 (287 ci)",
+                    "ENGINE SPECS / Power": "601 KW @ 6900 RPM806 HP @ 6900 RPM806 BHP @ 6900 RPM",
+                    "ENGINE SPECS / Torque": "679 lb-ft @ 5700 RPM921 Nm @ 5700 RPM",
+                    "ENGINE SPECS / Fuel System": "Supercharged Multipoint Injection",
+                    "ENGINE SPECS / Fuel": "Gasoline",
+                    "PERFORMANCE SPECS / Top Speed": "245 mph (394 km/h)",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "3.2 s",
+                    "TRANSMISSION SPECS / Drive Type": "Rear Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "6-speed manual",
+                    "BRAKES SPECS / Front": "Ventilated Discs",
+                    "BRAKES SPECS / Rear": "Ventilated Discs",
+                    "TIRES SPECS / Tire Size": "245/40 R 19 || 335/30 x 20",
+                    "DIMENSIONS / Length": "165 in (4191 mm)",
+                    "DIMENSIONS / Width": "78.3 in (1989 mm)",
+                    "DIMENSIONS / Height": "42.1 in (1069 mm)",
+                    "DIMENSIONS / Wheelbase": "104.7 in (2659 mm)",
+                    "DIMENSIONS / Ground Clearance": "3.9 in (99 mm)",
+                    "DIMENSIONS / Cargo Volume": "4.2 cuFT (119 L)",
+                    "DIMENSIONS / Aerodynamics (Cd)": "0.29",
+                    "WEIGHT SPECS / Unladen Weight": "2601 lbs (1180 kg)",
+                    "WEIGHT SPECS / Gross Weight Limit": "3153 lbs (1430 kg)",
+                    "FUEL ECONOMY (NEDC) / City": "10.7 mpg US (22 L/100Km)",
+                    "FUEL ECONOMY (NEDC) / Highway": "18.1 mpg US (13 L/100Km)",
+                    "FUEL ECONOMY (NEDC) / Combined": "13.8 mpg US (17 L/100Km)"
+                  }
+                }
+              ]
+            }
+          ]
         },
         {
           "name": "CCX",
           "yearStart": 2006,
-          "yearEnd": 2010
+          "yearEnd": 2010,
+          "generations": [
+            {
+              "name": "CCX (2006)",
+              "yearStart": 2006,
+              "yearEnd": 2010,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "4.7L V8 6MT RWD (817 HP)",
+                  "fuelType": "Gasoline",
+                  "cylinders": 8,
+                  "displacementCc": 4700,
+                  "powerHp": 817,
+                  "torqueNm": 921,
+                  "transmission": "6-speed manual",
+                  "drivetrain": "Rear Wheel Drive",
+                  "zeroToHundredKmhS": 3.2,
+                  "topSpeedKmh": 394,
+                  "fuelEconomyCombinedL100": 17,
+                  "lengthMm": 4293,
+                  "widthMm": 1996,
+                  "heightMm": 1120,
+                  "wheelbaseMm": 2659,
+                  "curbWeightKg": 1280,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "V8",
+                    "ENGINE SPECS / Displacement": "4700 cm3 (287 ci)",
+                    "ENGINE SPECS / Power": "601 KW @ 7000 RPM817 HP @ 7000 RPM806 BHP @ 7000 RPM",
+                    "ENGINE SPECS / Torque": "679 lb-ft @ 5500 RPM921 Nm @ 5500 RPM",
+                    "ENGINE SPECS / Fuel System": "Supercharged Multipoint Injection",
+                    "ENGINE SPECS / Fuel": "Gasoline",
+                    "PERFORMANCE SPECS / Top Speed": "245 mph (394 km/h)",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "3.2 s",
+                    "TRANSMISSION SPECS / Drive Type": "Rear Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "6-speed manual",
+                    "BRAKES SPECS / Front": "Ventilated Discs",
+                    "BRAKES SPECS / Rear": "Ventilated Discs",
+                    "TIRES SPECS / Tire Size": "255/35 R19 || 335/30 R20",
+                    "DIMENSIONS / Length": "169 in (4293 mm)",
+                    "DIMENSIONS / Width": "78.6 in (1996 mm)",
+                    "DIMENSIONS / Height": "44.1 in (1120 mm)",
+                    "DIMENSIONS / Wheelbase": "104.7 in (2659 mm)",
+                    "DIMENSIONS / Ground Clearance": "3.94 in (100 mm)",
+                    "DIMENSIONS / Cargo Volume": "4.2 cuFT (119 L)",
+                    "DIMENSIONS / Aerodynamics (Cd)": "0.32",
+                    "WEIGHT SPECS / Unladen Weight": "2821 lbs (1280 kg)",
+                    "WEIGHT SPECS / Gross Weight Limit": "3384 lbs (1535 kg)",
+                    "FUEL ECONOMY (NEDC) / City": "11.2 mpg US (21 L/100Km)",
+                    "FUEL ECONOMY (NEDC) / Highway": "18 mpg US (13.1 L/100Km)",
+                    "FUEL ECONOMY (NEDC) / Combined": "13.8 mpg US (17 L/100Km)"
+                  }
+                }
+              ]
+            }
+          ]
         },
         {
           "name": "CCXR",
           "yearStart": 2007,
-          "yearEnd": 2010
+          "yearEnd": 2010,
+          "generations": [
+            {
+              "name": "CCXR (2007)",
+              "yearStart": 2007,
+              "yearEnd": 2010,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "4.7L V8 6MT RWD (1032 HP)",
+                  "fuelType": "Gasoline",
+                  "cylinders": 8,
+                  "displacementCc": 4700,
+                  "powerHp": 1032,
+                  "torqueNm": 1060,
+                  "transmission": "6-speed manual",
+                  "drivetrain": "Rear Wheel Drive",
+                  "zeroToHundredKmhS": 3.1,
+                  "topSpeedKmh": 402,
+                  "fuelEconomyCombinedL100": 22,
+                  "lengthMm": 4293,
+                  "widthMm": 1996,
+                  "heightMm": 1120,
+                  "wheelbaseMm": 2659,
+                  "curbWeightKg": 1280,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "V8",
+                    "ENGINE SPECS / Displacement": "4700 cm3 (287 ci)",
+                    "ENGINE SPECS / Power": "759 KW @ 7000 RPM1032 HP @ 7000 RPM1018 BHP @ 7000 RPM",
+                    "ENGINE SPECS / Torque": "782 lb-ft @ 5600 RPM1060 Nm @ 5600 RPM",
+                    "ENGINE SPECS / Fuel System": "Supercharged Multipoint Injection",
+                    "ENGINE SPECS / Fuel": "Gasoline",
+                    "PERFORMANCE SPECS / Top Speed": "250 mph (402 km/h)",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "3.1 s",
+                    "TRANSMISSION SPECS / Drive Type": "Rear Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "6-speed manual",
+                    "BRAKES SPECS / Front": "Ventilated Discs",
+                    "BRAKES SPECS / Rear": "Ventilated Discs",
+                    "TIRES SPECS / Tire Size": "255/35 R19 || 335/30 R20",
+                    "DIMENSIONS / Length": "169 in (4293 mm)",
+                    "DIMENSIONS / Width": "78.6 in (1996 mm)",
+                    "DIMENSIONS / Height": "44.1 in (1120 mm)",
+                    "DIMENSIONS / Wheelbase": "104.7 in (2659 mm)",
+                    "DIMENSIONS / Ground Clearance": "3.94 in (100 mm)",
+                    "DIMENSIONS / Cargo Volume": "4.2 cuFT (119 L)",
+                    "DIMENSIONS / Aerodynamics (Cd)": "0.33",
+                    "WEIGHT SPECS / Unladen Weight": "2821 lbs (1280 kg)",
+                    "WEIGHT SPECS / Gross Weight Limit": "3351 lbs (1520 kg)",
+                    "FUEL ECONOMY (NEDC) / City": "9 mpg US (26.1 L/100Km)",
+                    "FUEL ECONOMY (NEDC) / Highway": "13 mpg US (18.1 L/100Km)",
+                    "FUEL ECONOMY (NEDC) / Combined": "10.7 mpg US (22 L/100Km)"
+                  }
+                }
+              ]
+            }
+          ]
         },
         {
           "name": "Gemera",
           "yearStart": 2020,
-          "yearEnd": null
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Gemera (2020)",
+              "yearStart": 2020,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "2.0L AWD (1723 HP)",
+                  "fuelType": "Ethanol",
+                  "cylinders": 3,
+                  "displacementCc": null,
+                  "powerHp": 1723,
+                  "torqueNm": null,
+                  "transmission": "Hydracopu Direct Drive",
+                  "drivetrain": "All Wheel Drive",
+                  "zeroToHundredKmhS": 1.9,
+                  "topSpeedKmh": 401,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": 4976,
+                  "widthMm": 1989,
+                  "heightMm": 1295,
+                  "wheelbaseMm": 3000,
+                  "curbWeightKg": 1715,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "L3",
+                    "ENGINE SPECS / Electrical motor power": "820.1 kw (1115 hp, 1100 bhp)",
+                    "ENGINE SPECS / Electrical motor torque": "2138.9 lb-ft (2900 Nm)",
+                    "ENGINE SPECS / Total maximum power": "1267.3 kw (1723 hp, 1699 bhp)",
+                    "ENGINE SPECS / Total maximum torque": "2581.5 lb-ft (3500 Nm)",
+                    "ENGINE SPECS / Fuel System": "Turbocharged Direct Injection",
+                    "ENGINE SPECS / Fuel": "Ethanol",
+                    "ENGINE SPECS / Fuel capacity": "19.8 gallons (75.0 L)",
+                    "PERFORMANCE SPECS / Top Speed": "249 mph (401 km/h)",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "1.9 s",
+                    "TRANSMISSION SPECS / Drive Type": "All Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "Hydracopu Direct Drive",
+                    "BRAKES SPECS / Front": "Ventilated Discs",
+                    "BRAKES SPECS / Rear": "Ventilated Discs",
+                    "TIRES SPECS / Tire Size": "295/30/ZR21 // 317/30/ZR22",
+                    "DIMENSIONS / Length": "195.9 in (4976 mm)",
+                    "DIMENSIONS / Width": "78.3 in (1989 mm)",
+                    "DIMENSIONS / Height": "51 in (1295 mm)",
+                    "DIMENSIONS / Wheelbase": "118.1 in (3000 mm)",
+                    "DIMENSIONS / Cargo Volume": "7.1 cuFT (201 L)",
+                    "WEIGHT SPECS / Unladen Weight": "3781 lbs (1715 kg)",
+                    "WEIGHT SPECS / Gross Weight Limit": "4079 lbs (1850 kg)",
+                    "POWER SYSTEM SPECS / Nominal Capacity": "16.6 kWh",
+                    "POWER SYSTEM SPECS / Range": "31.1 miles (50.1 km)"
+                  }
+                }
+              ]
+            }
+          ]
         },
         {
           "name": "Jesko",
           "yearStart": 2019,
-          "yearEnd": null
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Jesko (2019)",
+              "yearStart": 2019,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "5.0L V8 9AT AWD (1280 HP)",
+                  "fuelType": "Gasoline",
+                  "cylinders": 8,
+                  "displacementCc": null,
+                  "powerHp": 1280,
+                  "torqueNm": 1500,
+                  "transmission": "9-Speed automatic Light Speed Transmission (LST)",
+                  "drivetrain": "All Wheel Drive",
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": 4610,
+                  "widthMm": 2029,
+                  "heightMm": 1209,
+                  "wheelbaseMm": 2700,
+                  "curbWeightKg": 1420,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "V8",
+                    "ENGINE SPECS / Power": "941.4 KW @ 7800-8500 RPM1280 HP @ 7800-8500 RPM1262 BHP @ 7800-8500 RPM",
+                    "ENGINE SPECS / Torque": "1106 lb-ft @ 5100 RPM1500 Nm @ 5100 RPM",
+                    "ENGINE SPECS / Fuel System": "Turbocharge Direct Injection",
+                    "ENGINE SPECS / Fuel": "Gasoline",
+                    "TRANSMISSION SPECS / Drive Type": "All Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "9-Speed automatic Light Speed Transmission (LST)",
+                    "BRAKES SPECS / Front": "Ventilated Discs",
+                    "BRAKES SPECS / Rear": "Ventilated Discs",
+                    "TIRES SPECS / Tire Size": "265/35 – 20 // 325/30 – 21",
+                    "DIMENSIONS / Length": "181.5 in (4610 mm)",
+                    "DIMENSIONS / Width": "79.9 in (2029 mm)",
+                    "DIMENSIONS / Height": "47.6 in (1209 mm)",
+                    "DIMENSIONS / Wheelbase": "106.3 in (2700 mm)",
+                    "DIMENSIONS / Cargo Volume": "5.3 cuFT (150 L)",
+                    "WEIGHT SPECS / Unladen Weight": "3131 lbs (1420 kg)"
+                  }
+                }
+              ]
+            }
+          ]
         },
         {
           "name": "One:1",
           "yearStart": 2014,
-          "yearEnd": 2015
+          "yearEnd": 2015,
+          "generations": [
+            {
+              "name": "One:1 (2014)",
+              "yearStart": 2014,
+              "yearEnd": 2015,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "5.0L V8 7AT (1,360 HP)",
+                  "fuelType": "Gasoline",
+                  "cylinders": 8,
+                  "displacementCc": 5065,
+                  "powerHp": 1360,
+                  "torqueNm": 1371,
+                  "transmission": "7-speed automatic",
+                  "drivetrain": "Rear Wheel Drive",
+                  "zeroToHundredKmhS": 2.8,
+                  "topSpeedKmh": 452,
+                  "fuelEconomyCombinedL100": 14.7,
+                  "lengthMm": 4501,
+                  "widthMm": 2060,
+                  "heightMm": 1151,
+                  "wheelbaseMm": 2662,
+                  "curbWeightKg": 1360,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "V8",
+                    "ENGINE SPECS / Displacement": "5065 cm3 (309 ci)",
+                    "ENGINE SPECS / Power": "1000 KW @ 7500 RPM1360 HP @ 7500 RPM1341 BHP @ 7500 RPM",
+                    "ENGINE SPECS / Torque": "1011 lb-ft @ 6000 RPM1371 Nm @ 6000 RPM",
+                    "ENGINE SPECS / Fuel System": "Turbocharged Multipoint Injection",
+                    "ENGINE SPECS / Fuel": "Gasoline",
+                    "ENGINE SPECS / Fuel capacity": "19.5 gallons (73.8 L)",
+                    "PERFORMANCE SPECS / Top Speed": "281 mph (452 km/h)",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "2.8 s",
+                    "TRANSMISSION SPECS / Drive Type": "Rear Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "7-speed automatic",
+                    "BRAKES SPECS / Front": "Ventilated Discs",
+                    "BRAKES SPECS / Rear": "Ventilated Discs",
+                    "TIRES SPECS / Tire Size": "265/35 R19 || 345/30 R20",
+                    "DIMENSIONS / Length": "177.2 in (4501 mm)",
+                    "DIMENSIONS / Width": "81.1 in (2060 mm)",
+                    "DIMENSIONS / Height": "45.3 in (1151 mm)",
+                    "DIMENSIONS / Front/rear Track": "66.9/65 in (1,699/1,651 mm)",
+                    "DIMENSIONS / Wheelbase": "104.8 in (2662 mm)",
+                    "DIMENSIONS / Ground Clearance": "3.9 in (99 mm)",
+                    "DIMENSIONS / Cargo Volume": "2.5 cuFT (71 L)",
+                    "DIMENSIONS / Aerodynamics (Cd)": "0.45",
+                    "WEIGHT SPECS / Unladen Weight": "2998 lbs (1360 kg)",
+                    "WEIGHT SPECS / Gross Weight Limit": "3527 lbs (1600 kg)",
+                    "FUEL ECONOMY (NEDC) / Combined": "16 mpg US (14.7 L/100Km)"
+                  }
+                }
+              ]
+            }
+          ]
         },
         {
           "name": "Regera",
           "yearStart": 2015,
-          "yearEnd": 2022
+          "yearEnd": 2022,
+          "generations": [
+            {
+              "name": "Regera (2015)",
+              "yearStart": 2015,
+              "yearEnd": 2022,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "5.0 V8 (1,509 HP)",
+                  "fuelType": "Hybrid",
+                  "cylinders": 8,
+                  "displacementCc": 5065,
+                  "powerHp": 1115,
+                  "torqueNm": 1001,
+                  "transmission": "single gear (Koenigsegg Direct Drive)",
+                  "drivetrain": "Rear Wheel Drive",
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": 4559,
+                  "widthMm": 2050,
+                  "heightMm": 1110,
+                  "wheelbaseMm": 2662,
+                  "curbWeightKg": 1628,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "V8",
+                    "ENGINE SPECS / Displacement": "5065 cm3 (309 ci)",
+                    "ENGINE SPECS / Power": "820 KW @ 7800 RPM1115 HP @ 7800 RPM1100 BHP @ 7800 RPM",
+                    "ENGINE SPECS / Torque": "738 lb-ft @ 2700-6170 RPM1001 Nm @ 2700-6170 RPM",
+                    "ENGINE SPECS / Fuel System": "Turbocharged Direct Injection",
+                    "ENGINE SPECS / Fuel": "Hybrid",
+                    "TRANSMISSION SPECS / Drive Type": "Rear Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "single gear (Koenigsegg Direct Drive)",
+                    "BRAKES SPECS / Front": "Ventilated Discs",
+                    "BRAKES SPECS / Rear": "Ventilated Discs",
+                    "TIRES SPECS / Tire Size": "275/35 R19 || 345/30 R20",
+                    "DIMENSIONS / Length": "179.5 in (4559 mm)",
+                    "DIMENSIONS / Width": "80.7 in (2050 mm)",
+                    "DIMENSIONS / Height": "43.7 in (1110 mm)",
+                    "DIMENSIONS / Wheelbase": "104.8 in (2662 mm)",
+                    "DIMENSIONS / Ground Clearance": "5.9 in (150 mm)",
+                    "DIMENSIONS / Cargo Volume": "5.3 cuFT (150 L)",
+                    "WEIGHT SPECS / Unladen Weight": "3589 lbs (1628 kg)",
+                    "WEIGHT SPECS / Gross Weight Limit": "4251 lbs (1928 kg)"
+                  }
+                }
+              ]
+            }
+          ]
         },
         {
           "name": "Sadairs Spear",
           "yearStart": 2025,
-          "yearEnd": null
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Sadairs Spear (2025)",
+              "yearStart": 2025,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
         }
       ]
     }

@@ -7,7 +7,201 @@
         {
           "name": "X-Bow",
           "yearStart": 2008,
-          "yearEnd": null
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "X-Bow (2013)",
+              "yearStart": 2013,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "2.0 6MT (285 HP)",
+                  "fuelType": "Gasoline",
+                  "cylinders": 4,
+                  "displacementCc": 1984,
+                  "powerHp": 285,
+                  "torqueNm": 420,
+                  "transmission": "6-speed manual",
+                  "drivetrain": "Rear Wheel Drive",
+                  "zeroToHundredKmhS": 4.1,
+                  "topSpeedKmh": 232,
+                  "fuelEconomyCombinedL100": 8.3,
+                  "lengthMm": 3739,
+                  "widthMm": 1915,
+                  "heightMm": 1201,
+                  "wheelbaseMm": 2431,
+                  "curbWeightKg": 847,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "L4",
+                    "ENGINE SPECS / Displacement": "1984 cm3 (121 ci)",
+                    "ENGINE SPECS / Power": "209.6 KW @ 6400 RPM285 HP @ 6400 RPM281 BHP @ 6400 RPM",
+                    "ENGINE SPECS / Torque": "310 lb-ft @ 3200 RPM420 Nm @ 3200 RPM",
+                    "ENGINE SPECS / Fuel System": "Turbocharged Direct Injection",
+                    "ENGINE SPECS / Fuel": "Gasoline",
+                    "PERFORMANCE SPECS / Top Speed": "144 mph (232 km/h)",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "4.1 s",
+                    "TRANSMISSION SPECS / Drive Type": "Rear Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "6-speed manual",
+                    "BRAKES SPECS / Front": "Ventilated Discs",
+                    "BRAKES SPECS / Rear": "Ventilated Discs",
+                    "TIRES SPECS / Tire Size": "205/40 R17 || 255/35 R18",
+                    "DIMENSIONS / Length": "147.2 in (3739 mm)",
+                    "DIMENSIONS / Width": "75.4 in (1915 mm)",
+                    "DIMENSIONS / Height": "47.3 in (1201 mm)",
+                    "DIMENSIONS / Front/rear Track": "65.8/64 in (1,671/1,626 mm)",
+                    "DIMENSIONS / Wheelbase": "95.7 in (2431 mm)",
+                    "WEIGHT SPECS / Unladen Weight": "1867 lbs (847 kg)",
+                    "FUEL ECONOMY (NEDC) / Combined": "28.3 mpg US (8.3 L/100Km)",
+                    "FUEL ECONOMY (NEDC) / CO2 Emissions": "189 g/km"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "X-Bow (2012)",
+              "yearStart": 2012,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "2.0 6MT (N/A)",
+                  "fuelType": "Gasoline",
+                  "cylinders": 4,
+                  "displacementCc": 1984,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": "6-speed manual",
+                  "drivetrain": "Rear Wheel Drive",
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": 3739,
+                  "widthMm": 1915,
+                  "heightMm": 1201,
+                  "wheelbaseMm": 2431,
+                  "curbWeightKg": 810,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "L4",
+                    "ENGINE SPECS / Displacement": "1984 cm3 (121 ci)",
+                    "ENGINE SPECS / Fuel System": "Turbocharged Direct Injection",
+                    "ENGINE SPECS / Fuel": "Gasoline",
+                    "TRANSMISSION SPECS / Drive Type": "Rear Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "6-speed manual",
+                    "BRAKES SPECS / Front": "Ventilated Discs",
+                    "BRAKES SPECS / Rear": "Ventilated Discs",
+                    "TIRES SPECS / Tire Size": "205/40 R17 || 255/35 R18",
+                    "DIMENSIONS / Length": "147.2 in (3739 mm)",
+                    "DIMENSIONS / Width": "75.4 in (1915 mm)",
+                    "DIMENSIONS / Height": "47.3 in (1201 mm)",
+                    "DIMENSIONS / Front/rear Track": "65.8/64 in (1,671/1,626 mm)",
+                    "DIMENSIONS / Wheelbase": "95.7 in (2431 mm)",
+                    "WEIGHT SPECS / Unladen Weight": "1786 lbs (810 kg)"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "X-Bow (2011)",
+              "yearStart": 2011,
+              "yearEnd": 2016,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "2.0 6MT (300 HP)",
+                  "fuelType": "Gasoline",
+                  "cylinders": 4,
+                  "displacementCc": 1984,
+                  "powerHp": 300,
+                  "torqueNm": 400,
+                  "transmission": "6-speed manual",
+                  "drivetrain": "Rear Wheel Drive",
+                  "zeroToHundredKmhS": 3.9,
+                  "topSpeedKmh": 232,
+                  "fuelEconomyCombinedL100": 8.3,
+                  "lengthMm": 3739,
+                  "widthMm": 1915,
+                  "heightMm": 1201,
+                  "wheelbaseMm": 2431,
+                  "curbWeightKg": 790,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "L4",
+                    "ENGINE SPECS / Displacement": "1984 cm3 (121 ci)",
+                    "ENGINE SPECS / Power": "220.7 KW @ 6300 RPM300 HP @ 6300 RPM296 BHP @ 6300 RPM",
+                    "ENGINE SPECS / Torque": "295 lb-ft @ 3300 RPM400 Nm @ 3300 RPM",
+                    "ENGINE SPECS / Fuel System": "Turbocharged Direct Injection",
+                    "ENGINE SPECS / Fuel": "Gasoline",
+                    "PERFORMANCE SPECS / Top Speed": "144 mph (232 km/h)",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "3.9 s",
+                    "TRANSMISSION SPECS / Drive Type": "Rear Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "6-speed manual",
+                    "BRAKES SPECS / Front": "Ventilated Discs",
+                    "BRAKES SPECS / Rear": "Ventilated Discs",
+                    "TIRES SPECS / Tire Size": "205/40 R17 || 255/35 R18",
+                    "DIMENSIONS / Length": "147.2 in (3739 mm)",
+                    "DIMENSIONS / Width": "75.4 in (1915 mm)",
+                    "DIMENSIONS / Height": "47.3 in (1201 mm)",
+                    "DIMENSIONS / Front/rear Track": "65.8/64 in (1,671/1,626 mm)",
+                    "DIMENSIONS / Wheelbase": "95.7 in (2431 mm)",
+                    "WEIGHT SPECS / Unladen Weight": "1742 lbs (790 kg)",
+                    "FUEL ECONOMY (NEDC) / Combined": "28.3 mpg US (8.3 L/100Km)",
+                    "FUEL ECONOMY (NEDC) / CO2 Emissions": "189 g/km"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "X-Bow (2008)",
+              "yearStart": 2008,
+              "yearEnd": 2011,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "R 2.0L 6MT (240 HP)",
+                  "fuelType": "Gasoline",
+                  "cylinders": 4,
+                  "displacementCc": 1984,
+                  "powerHp": 240,
+                  "torqueNm": 310,
+                  "transmission": "6-speed manual",
+                  "drivetrain": "Rear Wheel Drive",
+                  "zeroToHundredKmhS": 3.9,
+                  "topSpeedKmh": 220,
+                  "fuelEconomyCombinedL100": 7.9,
+                  "lengthMm": 3670,
+                  "widthMm": 1869,
+                  "heightMm": 1161,
+                  "wheelbaseMm": 2431,
+                  "curbWeightKg": 805,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "L4",
+                    "ENGINE SPECS / Displacement": "1984 cm3 (121 ci)",
+                    "ENGINE SPECS / Power": "176.5 KW @ 6500 RPM240 HP @ 6500 RPM237 BHP @ 6500 RPM",
+                    "ENGINE SPECS / Torque": "229 lb-ft @ 2000-5500 RPM310 Nm @ 2000-5500 RPM",
+                    "ENGINE SPECS / Fuel System": "Direct Injection",
+                    "ENGINE SPECS / Fuel": "Gasoline",
+                    "ENGINE SPECS / Fuel capacity": "10.6 gallons (40.1 L)",
+                    "PERFORMANCE SPECS / Top Speed": "137 mph (220 km/h)",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "3.9 s",
+                    "TRANSMISSION SPECS / Drive Type": "Rear Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "6-speed manual",
+                    "BRAKES SPECS / Front": "Ventilated Discs",
+                    "BRAKES SPECS / Rear": "Discs",
+                    "TIRES SPECS / Tire Size": "205/40 R 17 // 235/40 R 18",
+                    "DIMENSIONS / Length": "144.5 in (3670 mm)",
+                    "DIMENSIONS / Width": "73.6 in (1869 mm)",
+                    "DIMENSIONS / Height": "45.7 in (1161 mm)",
+                    "DIMENSIONS / Front/rear Track": "64.7/63.9 in (1,643/1,623 mm)",
+                    "DIMENSIONS / Wheelbase": "95.7 in (2431 mm)",
+                    "DIMENSIONS / Aerodynamics (Cd)": "0.65",
+                    "WEIGHT SPECS / Unladen Weight": "1774 lbs (805 kg)",
+                    "FUEL ECONOMY (NEDC) / Combined": "29.7 mpg US (7.9 L/100Km)",
+                    "FUEL ECONOMY (NEDC) / CO2 Emissions": "187.23 g/km"
+                  }
+                }
+              ]
+            }
+          ]
         }
       ]
     }
