@@ -7,12 +7,197 @@
         {
           "name": "Motors Air",
           "yearStart": 2021,
-          "yearEnd": null
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Motors Air (2021)",
+              "yearStart": 2021,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "Dream Edition Performance AWD (1111 HP)",
+                  "fuelType": "Electric",
+                  "cylinders": null,
+                  "displacementCc": null,
+                  "powerHp": 1111,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": "All Wheel Drive",
+                  "zeroToHundredKmhS": 2.6,
+                  "topSpeedKmh": 270,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": 4976,
+                  "widthMm": 1664,
+                  "heightMm": 1410,
+                  "wheelbaseMm": 2959,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "ENGINE SPECS / Total maximum power": "817.1 kw (1111 hp, 1096 bhp)",
+                    "ENGINE SPECS / Fuel System": "Electric",
+                    "ENGINE SPECS / Fuel": "Electric",
+                    "PERFORMANCE SPECS / Top Speed": "168 mph (270 km/h)",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "2.6 s",
+                    "TRANSMISSION SPECS / Drive Type": "All Wheel Drive",
+                    "DIMENSIONS / Length": "195.9 in (4976 mm)",
+                    "DIMENSIONS / Width": "65.5 in (1664 mm)",
+                    "DIMENSIONS / Height": "55.5 in (1410 mm)",
+                    "DIMENSIONS / Wheelbase": "116.5 in (2959 mm)",
+                    "DIMENSIONS / Cargo Volume": "23.2 cuFT (657 L)",
+                    "DIMENSIONS / Aerodynamics (Cd)": "0.21",
+                    "POWER SYSTEM SPECS / Range": "471 miles (758.0 km)"
+                  }
+                },
+                {
+                  "label": "Dream Edition Range AWD (933 HP)",
+                  "fuelType": "Electric",
+                  "cylinders": null,
+                  "displacementCc": null,
+                  "powerHp": 933,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": "All Wheel Drive",
+                  "zeroToHundredKmhS": 2.6,
+                  "topSpeedKmh": 270,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": 4976,
+                  "widthMm": 1664,
+                  "heightMm": 1410,
+                  "wheelbaseMm": 2959,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "ENGINE SPECS / Total maximum power": "686.2 kw (933 hp, 920 bhp)",
+                    "ENGINE SPECS / Fuel System": "Electric",
+                    "ENGINE SPECS / Fuel": "Electric",
+                    "PERFORMANCE SPECS / Top Speed": "168 mph (270 km/h)",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "2.6 s",
+                    "TRANSMISSION SPECS / Drive Type": "All Wheel Drive",
+                    "DIMENSIONS / Length": "195.9 in (4976 mm)",
+                    "DIMENSIONS / Width": "65.5 in (1664 mm)",
+                    "DIMENSIONS / Height": "55.5 in (1410 mm)",
+                    "DIMENSIONS / Wheelbase": "116.5 in (2959 mm)",
+                    "DIMENSIONS / Cargo Volume": "23.2 cuFT (657 L)",
+                    "DIMENSIONS / Aerodynamics (Cd)": "0.21",
+                    "POWER SYSTEM SPECS / Range": "523 miles (841.7 km)"
+                  }
+                },
+                {
+                  "label": "Grand Touring AWD (800 HP)",
+                  "fuelType": "Electric",
+                  "cylinders": null,
+                  "displacementCc": null,
+                  "powerHp": 800,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": "All Wheel Drive",
+                  "zeroToHundredKmhS": 2.6,
+                  "topSpeedKmh": 270,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": 4976,
+                  "widthMm": 1664,
+                  "heightMm": 1410,
+                  "wheelbaseMm": 2959,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "ENGINE SPECS / Electrical motor power": "588.4 kw (800 hp, 789 bhp)",
+                    "ENGINE SPECS / Fuel System": "Electric",
+                    "ENGINE SPECS / Fuel": "Electric",
+                    "PERFORMANCE SPECS / Top Speed": "168 mph (270 km/h)",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "2.6 s",
+                    "TRANSMISSION SPECS / Drive Type": "All Wheel Drive",
+                    "DIMENSIONS / Length": "195.9 in (4976 mm)",
+                    "DIMENSIONS / Width": "65.5 in (1664 mm)",
+                    "DIMENSIONS / Height": "55.5 in (1410 mm)",
+                    "DIMENSIONS / Wheelbase": "116.5 in (2959 mm)",
+                    "DIMENSIONS / Cargo Volume": "23.2 cuFT (657 L)",
+                    "DIMENSIONS / Aerodynamics (Cd)": "0.21",
+                    "POWER SYSTEM SPECS / Range": "517 miles (832.0 km)"
+                  }
+                },
+                {
+                  "label": "Touring AWD (620 HP)",
+                  "fuelType": "Electric",
+                  "cylinders": null,
+                  "displacementCc": null,
+                  "powerHp": 620,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": "All Wheel Drive",
+                  "zeroToHundredKmhS": 2.6,
+                  "topSpeedKmh": 270,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": 4976,
+                  "widthMm": 1664,
+                  "heightMm": 1410,
+                  "wheelbaseMm": 2959,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "ENGINE SPECS / Electrical motor power": "456 kw (620 hp, 612 bhp)",
+                    "ENGINE SPECS / Fuel System": "Electric",
+                    "ENGINE SPECS / Fuel": "Electric",
+                    "PERFORMANCE SPECS / Top Speed": "168 mph (270 km/h)",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "2.6 s",
+                    "TRANSMISSION SPECS / Drive Type": "All Wheel Drive",
+                    "DIMENSIONS / Length": "195.9 in (4976 mm)",
+                    "DIMENSIONS / Width": "65.5 in (1664 mm)",
+                    "DIMENSIONS / Height": "55.5 in (1410 mm)",
+                    "DIMENSIONS / Wheelbase": "116.5 in (2959 mm)",
+                    "DIMENSIONS / Cargo Volume": "23.2 cuFT (657 L)",
+                    "DIMENSIONS / Aerodynamics (Cd)": "0.21",
+                    "POWER SYSTEM SPECS / Range": "406 miles (653.4 km)"
+                  }
+                }
+              ]
+            }
+          ]
         },
         {
           "name": "Motors Gravity",
           "yearStart": 2023,
-          "yearEnd": null
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Motors Gravity (2023)",
+              "yearStart": 2023,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "800 HP",
+                  "fuelType": "Electric",
+                  "cylinders": null,
+                  "displacementCc": null,
+                  "powerHp": 800,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": 3.6,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": 5034,
+                  "widthMm": 1999,
+                  "heightMm": 1656,
+                  "wheelbaseMm": 3035,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "ENGINE SPECS / Total maximum power": "588.4 kw (800 hp, 789 bhp)",
+                    "ENGINE SPECS / Fuel System": "Electric",
+                    "ENGINE SPECS / Fuel": "Electric",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "3.6 s",
+                    "BRAKES SPECS / Front": "Ventilated Discs",
+                    "BRAKES SPECS / Rear": "Ventilated Discs",
+                    "DIMENSIONS / Length": "198.2 in (5034 mm)",
+                    "DIMENSIONS / Width": "78.7 in (1999 mm)",
+                    "DIMENSIONS / Height": "65.2 in (1656 mm)",
+                    "DIMENSIONS / Wheelbase": "119.5 in (3035 mm)",
+                    "DIMENSIONS / Cargo Volume": "8 cuFT (227 L)",
+                    "DIMENSIONS / Aerodynamics (Cd)": "0.24",
+                    "POWER SYSTEM SPECS / Range": "440 miles (708.1 km)"
+                  }
+                }
+              ]
+            }
+          ]
         }
       ]
     }

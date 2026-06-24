@@ -14078,3 +14078,878 @@ lamborghini,Lamborghini,Urus,Urus (2022),2022,,,4.0L V8 8AT AWD (666 HP),Gasolin
 lamborghini,Lamborghini,Urus,Urus (2018),2018,2022,,4.0L V8 8AT AWD (650 HP),Gasoline,8,3996,650,850,8-speed automatic,All Wheel Drive,3.6,306,12.7,5113,2017,1638,3002,2200
 lamborghini,Lamborghini,Veneno,Veneno (2013),2013,2014,,6.5L V12 (750 HP),Gasoline,12,6498,751,690,7-Speed Semi-Automatic ISR Transmission,All Wheel Drive,2.8,356,16,5019,2075,1166,2700,1490
 lamborghini,Lamborghini,Veneno,Veneno Roadster (2014),2014,2014,,6.5 V12 (750 HP),Gasoline,12,6498,751,,7-Speed Semi-Automatic ISR Transmission,All Wheel Drive,2.9,356,,,,,,1490
+lancia,Lancia,2000,2000 Coupe (1971),1971,1974,,2.0L 5MT RWD (115 HP),Gasoline,4,1991,115,167,5-speed manual,Rear Wheel Drive,11.3,185,10.7,4554,1605,1331,2479,1200
+lancia,Lancia,2000,2000 Coupe (1971),1971,1974,,2.0L 5MT RWD (125 HP),Gasoline,4,1991,125,172,5-speed manual,Rear Wheel Drive,10.2,190,10.3,4554,1605,1331,2479,1200
+lancia,Lancia,A112,A112 (1982),1982,1986,,0.9L 4MT (42 HP),Gasoline,4,903,42,67,4-Speed manual,Front Wheel Drive,18.6,130,,3269,1400,1359,2040,655
+lancia,Lancia,A112,A112 (1982),1982,1986,,1.0L 5MT (48 HP),Gasoline,4,965,48,72,5-Speed manual,Front Wheel Drive,17.7,137,7.1,3269,1400,1359,2040,675
+lancia,Lancia,A112 Abarth,A112 Abarth (1984),1984,1986,,1.1,Gasoline,4,1050,70,87,"Manual, 5 Speed",Front Wheel Drive,13.6,155,7.4,3269,1400,1359,2040,700
+lancia,Lancia,Beta,Beta (1975),1975,1982,,1.6L 5MT FWD (100 HP),Gasoline,4,1585,100,134,5-Speed manual,Front Wheel Drive,11.9,170,9.3,4321,1709,1400,2540,1145
+lancia,Lancia,Beta,Beta (1975),1975,1982,,2.0L 5MT FWD (115 HP),Gasoline,4,1995,115,176,5-Speed manual,Front Wheel Drive,10.2,180,9.9,4321,1709,1400,2540,1165
+lancia,Lancia,Beta,Beta (1909),1909,1909,,3.1,Gasoline,4,3119,34,,,Rear Wheel Drive,,,,,,,,
+lancia,Lancia,Beta,Beta Coupe (1973),1973,1984,,1.6L 5MT FWD (100 HP),Gasoline,4,1585,100,134,5-speed manual,Front Wheel Drive,10.9,178,8.9,4001,1651,1280,2350,1000
+lancia,Lancia,Beta,Beta Coupe (1973),1973,1984,,1.8L 5MT FWD (120 HP),Gasoline,4,1756,120,150,5-speed manual,Front Wheel Drive,9.5,190,8.4,4001,1651,1280,2350,1000
+lancia,Lancia,Beta,Beta Coupe (1973),1973,1984,,1.8L 5MT FWD (87 HP),Gasoline,4,1756,87,122,5-speed manual,Front Wheel Drive,12,166,11.8,4001,1651,1280,2350,1120
+lancia,Lancia,Beta,Beta Coupe (1973),1973,1984,,2.0L 5MT FWD (115 HP),Gasoline,4,1995,115,175,5-speed manual,Front Wheel Drive,9.5,188,9.7,4001,1651,1280,2350,1000
+lancia,Lancia,Beta,Beta Coupe (1973),1973,1984,,2.0L 5MT FWD (119 HP),Gasoline,4,1995,119,175,5-speed manual,Front Wheel Drive,9.5,188,9.9,4001,1651,1280,2350,1000
+lancia,Lancia,Beta,Beta Coupe (1973),1973,1984,,2.0L 5MT FWD (122 HP),Gasoline,4,1995,122,175,5-speed manual,Front Wheel Drive,10,190,10,4001,1651,1280,2350,1070
+lancia,Lancia,Beta,Beta Coupe (1973),1973,1984,,2.0L 5MT FWD (135 HP),Gasoline,4,1995,122,175,5-speed manual,Front Wheel Drive,9,200,9.6,4001,1651,1280,2350,1095
+lancia,Lancia,Beta,Beta Spider (1973),1973,1982,,1.6L 5MT FWD (100 HP),Gasoline,4,1585,100,134,5-speed manual,Front Wheel Drive,11.2,178,9.3,4041,1651,1260,2350,1050
+lancia,Lancia,Beta,Beta Spider (1973),1973,1982,,1.8L 5MT FWD (120 HP),Gasoline,4,1756,120,150,5-speed manual,Front Wheel Drive,9.2,193,11.5,4041,1651,1260,2350,1050
+lancia,Lancia,Beta,Beta Spider (1973),1973,1982,,2.0L 3AT FWD (83 HP),Gasoline,4,1995,84.2,137,3-speed automatic,Front Wheel Drive,16.5,161,11.8,4181,1651,1260,2350,1260
+lancia,Lancia,Beta,Beta Spider (1973),1973,1982,,2.0L 5MT FWD (115 HP),Gasoline,4,1995,115,176,5-speed manual,Front Wheel Drive,9.8,188,10.2,4041,1651,1260,2350,1050
+lancia,Lancia,Beta,Beta Spider (1973),1973,1982,,2.0L 5MT FWD (83 HP),Gasoline,4,1995,84.2,137,5-speed manual,Front Wheel Drive,13.4,164,10.7,4181,1651,1260,2350,1235
+lancia,Lancia,Beta Montecarlo,Beta Montecarlo (1974),1974,1979,,2.0L 5MT (120 HP),Gasoline,4,1995,120,170,5-speed manual,Rear Wheel Drive,9.3,195,10,3810,1702,1191,2301,1040
+lancia,Lancia,Dedra,Dedra (1995),1995,1999,,1.6L 5MT FWD (90 HP),Gasoline,4,1581,90,127,5-Speed manual,Front Wheel Drive,13.4,180,7.9,4341,1699,1430,2540,1140
+lancia,Lancia,Dedra,Dedra (1995),1995,1999,,1.8L 5MT FWD (101 HP),Gasoline,4,1750,101,142,5-Speed manual,Front Wheel Drive,12.5,185,7.9,4341,1699,1430,2540,1215
+lancia,Lancia,Dedra,Dedra (1995),1995,1999,,1.8L 5MT FWD (113 HP),Gasoline,4,1747,113,154,5-Speed manual,Front Wheel Drive,10.3,191,7.6,4341,1699,1430,2540,1215
+lancia,Lancia,Dedra,Dedra (1995),1995,1999,,2.0L 5MT FWD (113 HP),Gasoline,4,1995,113,156,5-Speed manual,Front Wheel Drive,12.9,185,10,4341,1699,1430,2540,1222
+lancia,Lancia,Dedra,Dedra (1995),1995,1999,,2.0L 5MT FWD (139 HP),Gasoline,4,1995,139,180,5-Speed manual,Front Wheel Drive,9.4,210,8.8,4341,1699,1430,2540,1250
+lancia,Lancia,Dedra,Dedra (1995),1995,1999,,1.9L Turbo 5MT FWD (90 HP),Diesel,4,1929,90,186,5-Speed manual,Front Wheel Drive,12.9,180,6.8,4341,1699,1430,2540,1225
+lancia,Lancia,Dedra,Dedra (1990),1990,1994,,1.6L 5MT FWD (80 HP),Gasoline,4,1581,80,124,5-Speed manual,Front Wheel Drive,13.8,170,8.3,4341,1699,1430,2540,1082
+lancia,Lancia,Dedra,Dedra (1990),1990,1994,,1.8L 5MT FWD (107 HP),Gasoline,4,1756,95,140,5-Speed manual,Front Wheel Drive,11.4,187,8.5,4341,1699,1430,2540,1215
+lancia,Lancia,Dedra,Dedra (1990),1990,1994,,2.0L 5MT FWD (116 HP),Gasoline,4,1995,116,156,5-Speed manual,Front Wheel Drive,10.8,195,8.9,4341,1699,1430,2540,1189
+lancia,Lancia,Dedra,Dedra (1990),1990,1994,,2.0L Integrale 5MT FWD (171 HP),Gasoline,4,1995,171,264,5-Speed manual,All Wheel Drive,8,215,10.2,4341,1699,1430,2540,1350
+lancia,Lancia,Dedra,Dedra (1990),1990,1994,,2.0L Turbo 5MT FWD (161 HP),Gasoline,4,1995,165,274,5-Speed manual,Front Wheel Drive,8.3,215,9.4,4341,1699,1430,2540,1259
+lancia,Lancia,Dedra,Dedra (1990),1990,1994,,1.9d Turbo 5MT FWD (92 HP),Diesel,4,1929,92,186,5-Speed manual,Front Wheel Drive,12.3,180,6,4341,1699,1430,2540,1188
+lancia,Lancia,Dedra Station,Dedra Station Wagon (1994),1994,1998,,1.6L 5MT FWD (90 HP),Gasoline,4,1581,90,127,5-Speed manual,Front Wheel Drive,13.3,175,8.1,4341,1699,1450,2540,1180
+lancia,Lancia,Dedra Station,Dedra Station Wagon (1994),1994,1998,,1.8L 5MT FWD (113 HP),Gasoline,4,1747,113,154,5-Speed manual,Front Wheel Drive,10.6,186,7.6,4341,1699,1450,2540,1255
+lancia,Lancia,Dedra Station,Dedra Station Wagon (1994),1994,1998,,1.8L 5TM FWD (101 HP),Gasoline,4,1750,101,142,5-Speed manual,Front Wheel Drive,12.7,180,8,4341,1699,1450,2540,1255
+lancia,Lancia,Dedra Station,Dedra Station Wagon (1994),1994,1998,,2.0L 5MT FWD (139 HP),Gasoline,4,1995,139,180,5-Speed manual,Front Wheel Drive,10.3,210,10,4341,1699,1450,2540,1300
+lancia,Lancia,Dedra Station,Dedra Station Wagon (1994),1994,1998,,1.9L Turbo 5MT FDW (90 HP),Diesel,4,1929,90,186,5-Speed manual,Front Wheel Drive,13.3,180,6.9,4341,1699,1450,2540,1265
+lancia,Lancia,Delta,Delta (2013),2013,2014,,1.4L 6MT (120 HP),Gasoline,4,1368,120,206,6-speed manual,Front Wheel Drive,9.8,195,6.6,4519,1796,1499,2700,1395
+lancia,Lancia,Delta,Delta (2013),2013,2014,,1.4L 6MT GPL (120 HP),Gasoline,4,1368,120,206,6-speed manual,Front Wheel Drive,9.8,195,8.3,4519,1796,1499,2700,1395
+lancia,Lancia,Delta,Delta (2013),2013,2014,,1.6L MultiJet 6AT (120 HP),Diesel,4,1598,120,300,6-automatic speed,Front Wheel Drive,10.7,195,4.6,4519,1796,1499,2700,1485
+lancia,Lancia,Delta,Delta (2013),2013,2014,,1.6L MultiJet 6MT (120 HP),Diesel,4,1598,120,300,6-speed manual,Front Wheel Drive,10.7,195,4.8,4519,1796,1499,2700,1485
+lancia,Lancia,Delta,Delta (2008),2008,2013,,1.4L T-Jet 6MT FWD (120 HP),Gasoline,4,1368,120,206,6-speed manual,Front Wheel Drive,9.8,195,6.3,4519,1796,1499,2700,1395
+lancia,Lancia,Delta,Delta (2008),2008,2013,,1.4L T-Jet 6MT FWD (150 HP),Gasoline,4,1368,150,206,6-speed manual,Front Wheel Drive,8.7,209,6.8,4519,1796,1499,2700,1395
+lancia,Lancia,Delta,Delta (2008),2008,2013,,1.4L Turbo MultiAir 6MT FWD (140 HP),Gasoline,4,1368,140,230,6-speed manual,Front Wheel Drive,9.2,203,5.7,4519,1796,1499,2700,1395
+lancia,Lancia,Delta,Delta (2008),2008,2013,,1.8L Di Turbo-Jet 6AT FWD (200 HP),Gasoline,4,1742,200,320,6-speed automatic,Front Wheel Drive,7.4,230,7.8,4519,1796,1499,2700,1430
+lancia,Lancia,Delta,Delta (2008),2008,2013,,1.6L MultiJet 6AT FWD (120 HP),Diesel,4,1598,120,300,6-speed automatic,Front Wheel Drive,10.7,195,4.6,4519,1796,1499,2700,1485
+lancia,Lancia,Delta,Delta (2008),2008,2013,,1.6L MultiJet 6MT FWD (120 HP),Diesel,4,1598,120,300,6-speed manual,Front Wheel Drive,10.7,195,4.8,4519,1796,1499,2700,1485
+lancia,Lancia,Delta,Delta (2008),2008,2013,,1.9L MultiJet 6MT FWD (190 HP),Diesel,4,1910,190,200,6-speed manual,Front Wheel Drive,7.9,222,5.7,4519,1796,1499,2700,1505
+lancia,Lancia,Delta,Delta (2008),2008,2013,,2.0L MultiJet 6MT FWD (165 HP),Diesel,4,1956,165,360,6-speed manual,Front Wheel Drive,8.5,210,5.3,4519,1796,1499,2700,1505
+lancia,Lancia,Delta,Delta (2008),2008,2013,,1.4L 6MT GPL FWD (120 HP),Natural Gas,4,1368,120,206,6-speed manual,Front Wheel Drive,9.8,195,8.3,4519,1796,1499,2700,1395
+lancia,Lancia,Delta,Delta (1993),1993,1998,,1.6L 5MT FWD (103 HP),Gasoline,4,1581,103,144,5-Speed manual,Front Wheel Drive,11,186,7.6,4011,1699,1400,2540,1130
+lancia,Lancia,Delta,Delta (1993),1993,1998,,1.6L 5MT FWD (75 HP),Gasoline,4,1581,75,125,5-Speed manual,Front Wheel Drive,13.8,172,8.3,4011,1699,1400,2540,1105
+lancia,Lancia,Delta,Delta (1993),1993,1998,,1.8L 5MT FWD (105 HP),Gasoline,4,1756,105,137,5-Speed manual,Front Wheel Drive,11.8,185,9.1,4011,1699,1400,2540,1202
+lancia,Lancia,Delta,Delta (1993),1993,1998,,1.8L 5MT FWD (113 HP),Gasoline,4,1747,113,154,5-Speed manual,Front Wheel Drive,10.3,191,8.1,4011,1699,1400,2540,1170
+lancia,Lancia,Delta,Delta (1993),1993,1998,,1.8L 5MT FWD (130 HP),Gasoline,4,1747,131,164,5-Speed manual,Front Wheel Drive,9.4,200,8.2,4011,1699,1400,2540,1200
+lancia,Lancia,Delta,Delta (1993),1993,1998,,2.0L 5MT FWD (139 HP),Gasoline,4,1995,139,180,5-Speed manual,Front Wheel Drive,9.6,206,9.2,4011,1699,1400,2540,1215
+lancia,Lancia,Delta,Delta (1993),1993,1998,,2.0L Turbo 5MT FWD (186 HP),Gasoline,4,1995,186,290,5-Speed manual,Front Wheel Drive,7.5,220,9.5,4011,1699,1400,2540,1275
+lancia,Lancia,Delta,Delta (1993),1993,1998,,1.9L Turbo 5MT FWD (90 HP),Diesel,4,1905,90,186,5-Speed manual,Front Wheel Drive,12,180,6.2,4011,1699,1400,2540,1280
+lancia,Lancia,Delta,Delta (1979),1979,1983,,1.3L 4MT (75 HP),Gasoline,4,1301,75,105,4-Speed manual,Front Wheel Drive,13.5,155,8.7,3881,1621,1379,2461,955
+lancia,Lancia,Delta,Delta (1979),1979,1983,,1.3L 5MT (78 HP),Gasoline,4,1301,77,105,5-Speed manual,Front Wheel Drive,14.3,164,7.2,3881,1621,1379,2461,940
+lancia,Lancia,Delta,Delta (1979),1979,1983,,1.5L 3AT (86 HP),Gasoline,4,1498,86,126,3-speed automatic,Front Wheel Drive,14.3,160,8.9,3881,1621,1379,2461,960
+lancia,Lancia,Delta,Delta (1979),1979,1983,,1.5L 5MT (85 HP),Gasoline,4,1498,86,123,5-Speed manual,Front Wheel Drive,10.5,165,8.8,3881,1621,1379,2461,975
+lancia,Lancia,Delta,Delta (1979),1979,1983,,1.6L 5MT (105 HP),Gasoline,4,1585,105,135,5-Speed manual,Front Wheel Drive,10.2,180,8.3,3881,1621,1379,2461,975
+lancia,Lancia,Delta,Delta (1979),1979,1983,,1.6L 5MT (107 HP),Gasoline,4,1585,107,135,5-Speed manual,Front Wheel Drive,10,185,8,3881,1621,1379,2461,1003
+lancia,Lancia,Delta,Delta (1979),1979,1983,,1.6L 5MT (90 HP),Gasoline,4,1585,90,123,5-Speed manual,Front Wheel Drive,11.3,175,8.3,3881,1621,1379,2461,995
+lancia,Lancia,Delta,Delta (1979),1979,1983,,1.6L Turbo 5MT (132 HP),Gasoline,4,1585,132,196,5-Speed manual,Front Wheel Drive,9.7,198,9,3881,1621,1379,2461,1050
+lancia,Lancia,Delta,Delta (1979),1979,1983,,1.6L Turbo 5MT (140 HP),Gasoline,4,1585,140,191,5-Speed manual,Front Wheel Drive,8.7,203,8.3,3881,1621,1379,2461,1020
+lancia,Lancia,Delta,Delta (1979),1979,1983,,2.0L Integrale 5MT (181 HP),Gasoline,4,1995,181,298,5-Speed manual,All Wheel Drive,6.6,215,9.6,3881,1621,1379,2461,1215
+lancia,Lancia,Delta,Delta (1979),1979,1983,,2.0L Integrale 5MT (200 HP),Gasoline,4,1995,200,310,5-Speed manual,All Wheel Drive,5.7,220,9.9,3881,1621,1379,2461,1260
+lancia,Lancia,Delta HPE,Delta HPE (1995),1995,1998,,1.6L 5MT FWD (103 HP),Gasoline,4,1581,103,144,5-Speed manual,Front Wheel Drive,11,190,7.6,4011,1760,1430,2540,1130
+lancia,Lancia,Delta HPE,Delta HPE (1995),1995,1998,,1.8L 5MT FWD (130 HP),Gasoline,4,1747,131,164,5-Speed manual,Front Wheel Drive,9.4,200,8.2,4011,1760,1430,2540,1200
+lancia,Lancia,Delta HPE,Delta HPE (1995),1995,1998,,2.0L 5MT FWD (140 HP),Gasoline,4,1995,140,180,5-Speed manual,Front Wheel Drive,9.6,206,9.1,4011,1760,1430,2540,1250
+lancia,Lancia,Delta HPE,Delta HPE (1995),1995,1998,,2.0L Turbo 5MT FWD (186 HP),Gasoline,4,1995,186,290,5-Speed manual,Front Wheel Drive,7.5,220,9.5,4011,1760,1430,2540,1330
+lancia,Lancia,Delta HPE,Delta HPE (1995),1995,1998,,1.9L Turbo 5MT FWD (90 HP),Diesel,4,1905,90,186,5-Speed manual,Front Wheel Drive,12,180,6.2,4011,1760,1430,2540,1280
+lancia,Lancia,Flaminia,Flaminia Coupe (1958),1958,1967,,2.5L V6 4AT (129 HP),Gasoline,6,2458,129,,4-Speed manual,Rear Wheel Drive,,177,,4686,1740,1420,2870,
+lancia,Lancia,Flaminia,Flaminia Sedan (1963),1963,1970,,2.8,Gasoline,6,2775,129,229,"Manual, 4 Speed",Rear Wheel Drive,,171,,4801,1727,1295,2870,1247
+lancia,Lancia,Flavia,Flavia Convertible (2013),2013,2015,,2.4 6AT (175 HP),Gasoline,4,2360,175,225,6-speed automatic,Front Wheel Drive,10.8,195,9.4,4948,1844,1471,2766,1765
+lancia,Lancia,Flavia,Flavia Convertible (1960),1960,1967,,1.5,Gasoline,4,1488,92,115,,Front Wheel Drive,,145,,4483,1610,1346,,
+lancia,Lancia,Flavia,Flavia Sedan (1967),1967,1970,,2.0L 4MT (134 HP),Gasoline,4,1991,134,179,4-Speed manual,Front Wheel Drive,,177,,4674,1359,1511,2649,1190
+lancia,Lancia,Flavia,Flavia Sedan (1967),1967,1970,,2.0L 4MT (144 HP),Gasoline,4,1991,144,193,4-Speed manual,Front Wheel Drive,,,,4674,1359,1511,2649,
+lancia,Lancia,Flavia,Flavia Sedan (1960),1960,1963,,1.5,Gasoline,4,1488,78,115,"Manual, 5 Speed",Front Wheel Drive,,150,,4590,1621,1519,2659,1190
+lancia,Lancia,Fulvia Berlina,Fulvia Berlina (1969),1969,1972,,1.3,Gasoline,4,1298,87,,"Manual, 4 Speed",Rear Wheel Drive,,,,,,,,
+lancia,Lancia,Fulvia Berlina,Fulvia Berlina (1963),1963,1964,,1.1,Gasoline,4,1091,58,,"Manual, 4 Speed",Rear Wheel Drive,,,,,,,,
+lancia,Lancia,Gamma,Gamma (1976),1976,1980,,2.0L 5MT (117 HP),Gasoline,4,1999,117,172,5-Speed manual,Front Wheel Drive,12,185,,4572,1727,1422,2670,1320
+lancia,Lancia,Gamma,Gamma (1976),1976,1980,,2.5L 5MT (142 HP),Gasoline,4,2484,142,209,5-Speed manual,Front Wheel Drive,,192,,4572,1727,1422,2670,1336
+lancia,Lancia,Gamma,Gamma Coupe (1976),1976,1980,,2.0L 5MT FWD (117 HP),Gasoline,4,1999,117,172,5-speed manual,Front Wheel Drive,,185,,4470,1727,1346,2550,1270
+lancia,Lancia,Gamma,Gamma Coupe (1976),1976,1980,,2.5L 5MT FWD (141 HP),Gasoline,4,2484,141,209,5-speed manual,Front Wheel Drive,,193,,4470,1727,1346,2550,1290
+lancia,Lancia,Kappa,Kappa (1995),1995,2000,,2.0L 5MT FWD (146 HP),Gasoline,5,1998,145,185,5-Speed manual,Front Wheel Drive,9.8,205,9.6,4689,1829,1461,2700,1424
+lancia,Lancia,Kappa,Kappa (1995),1995,2000,,2.0L Turbo FWD (205 HP),Gasoline,4,1995,205,298,"Manual, 5 Speed",Front Wheel Drive,7.3,235,9.1,4689,1829,1461,2700,1465
+lancia,Lancia,Kappa,Kappa (1995),1995,2000,,2.0L Turbo FWD (220 HP),Gasoline,5,1998,220,309,"Manual, 5 Speed",Front Wheel Drive,7.3,243,10.6,4689,1829,1461,2700,1480
+lancia,Lancia,Kappa,Kappa (1995),1995,2000,,2.4L 5MT FWD (175 HP),Gasoline,5,2446,175,230,5-Speed manual,Front Wheel Drive,8.7,218,10.7,4689,1829,1461,2700,1438
+lancia,Lancia,Kappa,Kappa (1995),1995,2000,,3.0L V6 5MT FWD (206 HP),Gasoline,6,2959,205,270,5-Speed manual,Front Wheel Drive,8,225,10.5,4689,1829,1461,2700,1467
+lancia,Lancia,Kappa,Kappa (1995),1995,2000,,2.4L JTD 5MT FWD (136 HP),Diesel,5,2387,136,304,5-Speed manual,Front Wheel Drive,10,202,7.7,4689,1829,1461,2700,1540
+lancia,Lancia,Kappa,Kappa (1995),1995,2000,,2.4L Turbo 5MT FWD (124 HP),Diesel,5,2387,124,246,5-Speed manual,Front Wheel Drive,11.5,193,7.4,4689,1829,1461,2700,1449
+lancia,Lancia,Kappa,Kappa Coupe (1997),1997,2000,,2.4L 5MT (175 HP),Gasoline,5,2446,175,230,5-Speed manual,Front Wheel Drive,8.7,218,10.7,4569,1829,1420,2581,1425
+lancia,Lancia,Kappa,Kappa Coupe (1997),1997,2000,,3.0L V6 4AT (204 HP),Gasoline,6,2959,204,270,4-speed automatic,Front Wheel Drive,9.8,220,12.3,4569,1829,1420,2581,1515
+lancia,Lancia,Kappa SW,Kappa SW (1996),1996,2000,,2.0L 5MT FWD (155 HP),Gasoline,5,1998,155,186,5-Speed manual,Front Wheel Drive,10,205,10.8,4689,1829,1461,2700,1489
+lancia,Lancia,Kappa SW,Kappa SW (1996),1996,2000,,2.0L Turbo 5MT (220 HP),Gasoline,5,1998,220,309,5-Speed manual,Front Wheel Drive,7.7,235,10.8,4689,1829,1461,2700,1550
+lancia,Lancia,Kappa SW,Kappa SW (1996),1996,2000,,2.4L 4AT FWD (175 HP),Gasoline,5,2446,175,230,4-speed automatic,Front Wheel Drive,10.7,206,,4689,1829,1461,2700,1520
+lancia,Lancia,Kappa SW,Kappa SW (1996),1996,2000,,2.4L 5MT FWD (175 HP),Gasoline,5,2446,175,230,5-Speed manual,Front Wheel Drive,8.9,212,10.9,4689,1829,1461,2700,1520
+lancia,Lancia,Kappa SW,Kappa SW (1996),1996,2000,,3.0L V6 4AT FWD (204 HP),Gasoline,6,2959,204,270,4-speed automatic,Front Wheel Drive,9.9,218,12.7,4689,1829,1461,2700,1610
+lancia,Lancia,Kappa SW,Kappa SW (1996),1996,2000,,2.4L JTD 5MT FWD (136 HP),Diesel,4,2387,136,304,5-Speed manual,Front Wheel Drive,10.8,200,7.8,4689,1829,1461,2700,1555
+lancia,Lancia,Kappa SW,Kappa SW (1996),1996,2000,,2.4L Turbo 5MT FWD (124 HP),Diesel,4,2387,124,265,5-Speed manual,Front Wheel Drive,11.5,190,7.6,4689,1829,1461,2700,1529
+lancia,Lancia,Lybra,Lybra (1999),1999,2005,,1.6L 5MT FWD (103 HP),Gasoline,4,1581,103,144,5-Speed manual,Front Wheel Drive,11.3,185,8.4,4470,1740,1461,2591,1225
+lancia,Lancia,Lybra,Lybra (1999),1999,2005,,1.8L 5MT FWD (131 HP),Gasoline,4,1747,131,164,5-Speed manual,Front Wheel Drive,10.3,201,8.4,4470,1740,1461,2591,1275
+lancia,Lancia,Lybra,Lybra (1999),1999,2005,,2.0L 5MT FWD (154 HP),Gasoline,5,1998,154,186,5-Speed manual,Front Wheel Drive,9.6,210,9.9,4470,1740,1461,2591,1325
+lancia,Lancia,Lybra,Lybra (1999),1999,2005,,1.9L JTD 5MT FWD (105 HP),Diesel,4,1910,105,255,5-Speed manual,Front Wheel Drive,11.3,185,5.8,4470,1740,1461,2591,1285
+lancia,Lancia,Lybra,Lybra (1999),1999,2005,,2.4L JTD 5MT FWD (134 HP),Diesel,5,2387,135,304,5-Speed manual,Front Wheel Drive,9.9,200,6.7,4470,1740,1461,2591,1345
+lancia,Lancia,Lybra SW,Lybra SW (1999),1999,2005,,1.6L 5MT FWD (103 HP),Gasoline,4,1581,103,144,5-Speed manual,Front Wheel Drive,11.9,185,8.6,4470,1740,1471,2591,1265
+lancia,Lancia,Lybra SW,Lybra SW (1999),1999,2005,,1.8L 5MT FWD (131 HP),Gasoline,4,1747,131,164,5-Speed manual,Front Wheel Drive,10.7,201,8.6,4470,1740,1471,2591,1315
+lancia,Lancia,Lybra SW,Lybra SW (1999),1999,2005,,2.0L 5MT FWD (154 HP),Gasoline,5,1998,154,186,5-Speed manual,Front Wheel Drive,9.9,210,10,4470,1740,1471,2591,1365
+lancia,Lancia,Lybra SW,Lybra SW (1999),1999,2005,,1.9L JTD 5MT (105 HP),Diesel,4,1910,105,255,5-Speed manual,Front Wheel Drive,11.9,185,6,4470,1740,1471,2591,1325
+lancia,Lancia,Lybra SW,Lybra SW (1999),1999,2005,,2.4L JTD 5MT (134 HP),Diesel,4,2387,135,304,5-Speed manual,Front Wheel Drive,10.2,200,6.9,4470,1740,1471,2591,1385
+lancia,Lancia,Musa,Musa (2003),2003,2012,,1.4L 5MT FWD (77 HP),Gasoline,4,1368,77,115,5-Speed manual,Front Wheel Drive,13.5,163,6.2,3985,1699,1689,2507,1155
+lancia,Lancia,Musa,Musa (2003),2003,2012,,1.4L 5MT FWD (95 HP),Gasoline,4,1368,95,127,5-Speed manual,Front Wheel Drive,11.5,175,6.6,3985,1699,1689,2507,1155
+lancia,Lancia,Musa,Musa (2003),2003,2012,,1.4L Start & Stop 5AT FWD (95 HP),Gasoline,4,1368,95,127,5-speed automatic,Front Wheel Drive,11.5,175,5.6,3985,1699,1689,2507,1155
+lancia,Lancia,Musa,Musa (2003),2003,2012,,1.4L Start & Stop 6MT FWD (95 HP),Gasoline,4,1368,95,127,6-Speed manual,Front Wheel Drive,11.5,175,6,3985,1699,1689,2507,1155
+lancia,Lancia,Musa,Musa (2003),2003,2012,,1.3L Multijet 5AT FWD (69 HP),Diesel,4,1248,69,180,"5-speed automatic, Sequential",Front Wheel Drive,15.4,159,5.1,3985,1699,1689,2507,1200
+lancia,Lancia,Musa,Musa (2003),2003,2012,,1.3L Multijet 5AT FWD (90 HP),Diesel,4,1248,90,201,5-speed automatic,Front Wheel Drive,12.5,172,4.5,3985,1699,1689,2507,1205
+lancia,Lancia,Musa,Musa (2003),2003,2012,,1.3L Multijet 5AT FWD (95 HP),Diesel,4,1248,92,201,5 speed automatic robotized,Front Wheel Drive,12.5,172,4.1,3985,1699,1689,2507,1200
+lancia,Lancia,Musa,Musa (2003),2003,2012,,1.3L Multijet 5MT FWD (90 HP),Diesel,4,1248,90,201,5-Speed manual,Front Wheel Drive,12.5,172,4.6,3985,1699,1689,2507,1205
+lancia,Lancia,Musa,Musa (2003),2003,2012,,1.3L Multijet 5MT FWD (95 HP),Diesel,4,1248,92,201,5-Speed manual,Front Wheel Drive,12.5,172,4.3,3985,1699,1689,2507,1205
+lancia,Lancia,Musa,Musa (2003),2003,2012,,1.6L Multijet 5MT FWD (120 HP),Diesel,4,1598,120,300,5-Speed manual,Front Wheel Drive,9.9,190,4.5,3985,1699,1689,2507,1205
+lancia,Lancia,Musa,Musa (2003),2003,2012,,1.9L Multijet 5MT FWD (110 HP),Diesel,4,1910,110,260,5-Speed manual,Front Wheel Drive,11.5,179,5.5,3985,1699,1689,2507,1275
+lancia,Lancia,Musa,Musa (2003),2003,2012,,1.4L GPL 5MT FWD (77 HP),Natural Gas,4,1368,77,115,5-Speed manual,Front Wheel Drive,13.5,163,7.4,3985,1699,1689,2507,1155
+lancia,Lancia,Phedra,Phedra (2002),2002,2010,,2.0L 4AT FWD (136 HP),Gasoline,4,1997,136,190,4-Speed automatic,Front Wheel Drive,12.4,179,9.6,2824,4729,1750,2824,1575
+lancia,Lancia,Phedra,Phedra (2002),2002,2010,,2.0L 5MT FWD (136 HP),Gasoline,4,1997,136,190,5-Speed manual,Front Wheel Drive,11.2,185,9.1,2824,4729,1750,2824,1600
+lancia,Lancia,Phedra,Phedra (2002),2002,2010,,3.0L V6 4AT FWD (204 HP),Gasoline,6,2946,204,285,4-Speed automatic,Front Wheel Drive,10.2,205,11.5,2824,4729,1750,2824,1837
+lancia,Lancia,Phedra,Phedra (2002),2002,2010,,2.0L JTD 5MT FWD (110 HP),Diesel,4,1997,107,270,5-Speed manual,Front Wheel Drive,13.4,174,7,2824,4729,1750,2824,1600
+lancia,Lancia,Phedra,Phedra (2002),2002,2010,,2.2L JTD 5MT FWD (128 HP),Diesel,4,2179,128,314,5-Speed manual,Front Wheel Drive,12.6,182,7.4,2824,4729,1750,2824,1600
+lancia,Lancia,Prisma,Prisma (1983),1983,1990,,1.3L 5MT FWD (77 HP),Gasoline,4,1301,77,105,5-Speed manual,Front Wheel Drive,14.3,163,7.6,4181,1621,1379,2479,935
+lancia,Lancia,Prisma,Prisma (1983),1983,1990,,1.5L 5MT FWD (86 HP),Gasoline,4,1498,86,123,5-Speed manual,Front Wheel Drive,12,165,7.7,4181,1621,1379,2479,940
+lancia,Lancia,Prisma,Prisma (1983),1983,1990,,1.6L 5MT FWD (101 HP),Gasoline,4,1585,101,126,5-Speed manual,Front Wheel Drive,10.4,180,8.2,4181,1621,1379,2479,990
+lancia,Lancia,Prisma,Prisma (1983),1983,1990,,1.6L 5MT FWD (105 HP),Gasoline,4,1585,105,135,5-Speed manual,Front Wheel Drive,10.2,178,8.3,4181,1621,1379,2479,975
+lancia,Lancia,Prisma,Prisma (1983),1983,1990,,1.6L 5MT FWD (107 HP),Gasoline,4,1585,107,135,5-Speed manual,Front Wheel Drive,10,185,8,4181,1621,1379,2479,995
+lancia,Lancia,Prisma,Prisma (1983),1983,1990,,1.6L 5MT FWD (90 HP),Gasoline,4,1585,90,124,5-Speed manual,Front Wheel Drive,11,175,8.3,4181,1621,1379,2479,995
+lancia,Lancia,Prisma,Prisma (1983),1983,1990,,2.0L 5MT FWD (116 HP),Gasoline,4,1585,116,163,5-Speed manual,All Wheel Drive,10.5,184,9.6,4181,1621,1379,2479,1180
+lancia,Lancia,Prisma,Prisma (1983),1983,1990,,1.9L Turbo 5MT FWD (80 HP),Diesel,4,1929,80,172,5-Speed manual,Front Wheel Drive,12.9,170,5.8,4181,1621,1379,2479,1060
+lancia,Lancia,Stratos,Stratos (1973),1973,1975,,2.4,Gasoline,6,2419,190,225,"Manual, 5 Speed",Rear Wheel Drive,,230,,3708,1750,1110,2179,980
+lancia,Lancia,Thema,Thema (2011),2011,2014,,3.6L V6 8AT RWD (286 HP),Gasoline,6,3604,286,340,8-speed automatic,Rear Wheel Drive,7.7,240,9.4,5065,1902,1488,3053,1876
+lancia,Lancia,Thema,Thema (2011),2011,2014,,3.0L V6 5AT RWD (190 HP),Diesel,6,2987,190,441,5-speed automatic,Rear Wheel Drive,9.7,220,7.1,5065,1902,1488,3053,2038
+lancia,Lancia,Thema,Thema (2011),2011,2014,,3.0L V6 5AT RWD (239 HP),Diesel,6,2987,239,550,5-speed automatic,Rear Wheel Drive,7.8,230,7.2,5065,1902,1488,3053,2038
+lancia,Lancia,Thema,Thema (1992),1992,1995,,2.0L 5MT FWD (116 HP),Gasoline,4,1995,116,162,5-Speed manual,Front Wheel Drive,11.4,195,8.2,4600,1750,1430,2659,1201
+lancia,Lancia,Thema,Thema (1992),1992,1995,,2.0L 5MT FWD (155 HP),Gasoline,4,1995,155,181,5-Speed manual,Front Wheel Drive,10.1,205,9.3,4600,1750,1430,2659,1227
+lancia,Lancia,Thema,Thema (1992),1992,1995,,2.0L Turbo 5MT FWD (205 HP),Gasoline,4,1995,205,304,5-Speed manual,Front Wheel Drive,7.2,230,9.2,4600,1750,1430,2659,1261
+lancia,Lancia,Thema,Thema (1992),1992,1995,,3.0L V6 5MT FWD (175 HP),Gasoline,6,2959,175,250,5-Speed manual,Front Wheel Drive,8.1,220,10.6,4600,1750,1430,2659,1268
+lancia,Lancia,Thema,Thema (1992),1992,1995,,2.5L Turbo 5MT FWD (181 HP),Diesel,4,2500,118,245,5-Speed manual,Front Wheel Drive,11.5,192,7.2,4600,1750,1430,2659,1326
+lancia,Lancia,Thema,Thema (1988),1988,1992,,2.0L 5MT FWD (116 HP),Gasoline,4,1995,116,162,5-Speed manual,Front Wheel Drive,11.4,195,8.2,4590,1750,1430,2659,1145
+lancia,Lancia,Thema,Thema (1988),1988,1992,,2.0L 5MT FWD (146 HP),Gasoline,4,1995,146,173,5-Speed manual,Front Wheel Drive,10.4,202,8.6,4590,1750,1430,2659,1210
+lancia,Lancia,Thema,Thema (1988),1988,1992,,2.0L Turbo 5MT FWD (180 HP),Gasoline,4,1995,180,270,5-Speed manual,Front Wheel Drive,8,222,9.1,4590,1750,1430,2659,1290
+lancia,Lancia,Thema,Thema (1988),1988,1992,,2.8L V6 5MT FWD (150 HP),Gasoline,6,2849,150,225,5-Speed manual,Front Wheel Drive,8.4,205,10.3,4590,1750,1430,2659,1290
+lancia,Lancia,Thema,Thema (1988),1988,1992,,2.9L V8 5MT FWD (205 HP),Gasoline,8,2927,205,263,5-Speed manual,Front Wheel Drive,6.8,235,11.7,4590,1750,1430,2659,1400
+lancia,Lancia,Thema,Thema (1988),1988,1992,,2.4L Turbo D 5MT FWD (118 HP),Diesel,4,2499,118,245,5-Speed manual,Front Wheel Drive,11,195,7,4590,1750,1430,2659,1325
+lancia,Lancia,Thema,Thema (1984),1984,1988,,2.0L 5MT FWD (116 HP),Gasoline,4,1995,116,162,5-Speed manual,Front Wheel Drive,10.4,191,8.2,4590,1760,1430,2659,1120
+lancia,Lancia,Thema,Thema (1984),1984,1988,,2.0L 5MT FWD (120 HP),Gasoline,4,1995,120,170,5-Speed manual,Front Wheel Drive,9.7,195,8.1,4590,1760,1430,2659,1120
+lancia,Lancia,Thema,Thema (1984),1984,1988,,2.0L Turbo 5MT FWD (150 HP),Gasoline,4,1995,150,245,5-Speed manual,Front Wheel Drive,7.9,210,8.3,4590,1760,1430,2659,1220
+lancia,Lancia,Thema,Thema (1984),1984,1988,,2.0L Turbo 5MT FWD (166 HP),Gasoline,4,1995,166,290,5-Speed manual,Front Wheel Drive,7.2,218,8.2,4590,1760,1430,2659,1150
+lancia,Lancia,Thema,Thema (1984),1984,1988,,2.8L V6 5MT FWD (150 HP),Gasoline,6,2849,150,245,5-Speed manual,Front Wheel Drive,8.2,208,10.5,4590,1760,1430,2659,1160
+lancia,Lancia,Thema,Thema (1984),1984,1988,,2.9L V8 5MT FWD (215 HP),Gasoline,8,2947,215,285,5-Speed manual,Front Wheel Drive,6.8,240,11.7,4590,1760,1430,2659,1400
+lancia,Lancia,Thema,Thema (1984),1984,1988,,2.4L Turbo D 5MT FWD (101 HP),Diesel,4,2445,101,217,5-Speed manual,Front Wheel Drive,11.9,185,6.9,4590,1760,1430,2659,1240
+lancia,Lancia,Thesis,Thesis (2001),2001,2009,,2.0L Turbo 6MT FWD (185 HP),Gasoline,5,1998,185,308,6-Speed manual,Front Wheel Drive,8.9,224,10.9,4887,1829,1466,2804,1695
+lancia,Lancia,Thesis,Thesis (2001),2001,2009,,2.4L 6MT FWD (170 HP),Gasoline,5,2446,170,226,6-Speed manual,Front Wheel Drive,9.5,217,10.9,4887,1829,1466,2804,1680
+lancia,Lancia,Thesis,Thesis (2001),2001,2009,,3.0L V6 5AT FWD (215 HP),Gasoline,6,2959,215,263,5-speed automatic,Front Wheel Drive,9.2,234,13.6,4887,1829,1466,2804,1750
+lancia,Lancia,Thesis,Thesis (2001),2001,2009,,3.2L V6 5AT FWD (230 HP),Gasoline,6,3179,230,289,5-speed automatic,Front Wheel Drive,8.8,240,14.9,4887,1829,1466,2804,1820
+lancia,Lancia,Thesis,Thesis (2001),2001,2009,,2.4L JTD 6MT FWD (150 HP),Diesel,5,2387,150,305,6-Speed manual,Front Wheel Drive,10.1,206,8.2,4887,1829,1466,2804,1790
+lancia,Lancia,Thesis,Thesis (2001),2001,2009,,2.4L Multijet 5AT FWD (185 HP),Diesel,5,2387,185,330,5-speed automatic,Front Wheel Drive,9.7,222,8.8,4887,1829,1466,2804,1795
+lancia,Lancia,Thesis,Thesis (2001),2001,2009,,2.4L Multijet 6MT FWD (170 HP),Diesel,5,2387,170,380,6-Speed manual,Front Wheel Drive,9.8,225,7.5,4887,1829,1466,2804,1790
+lancia,Lancia,Trevi,Trevi (1981),1981,1985,,2.0L 5MT (115 HP),Gasoline,4,1995,116,176,5-Speed manual,Front Wheel Drive,10.4,180,9.9,4361,1709,1400,2540,1165
+lancia,Lancia,Trevi,Trevi (1981),1981,1985,,2.0L 5MT (122 HP),Gasoline,4,1995,122,,5-Speed manual,Front Wheel Drive,10.2,180,9.9,4361,1709,1400,2540,1165
+lancia,Lancia,Voyager,Voyager (2011),2011,2015,,3.6L V6 6AT FWD (283 HP),Gasoline,6,3605,283,344,6-speed automatic,Front Wheel Drive,8.5,209,10.8,5217,1999,1750,3078,2091
+lancia,Lancia,Voyager,Voyager (2011),2011,2015,,2.8L 6AT FWD (163 HP),Diesel,4,2768,163,361,6-speed automatic,Front Wheel Drive,11.9,193,7.9,5217,1999,1750,3078,2242
+lancia,Lancia,Voyager,Voyager (2011),2011,2015,,2.8L 6AT FWD (178 HP),Diesel,4,2768,178,361,6-speed automatic,Front Wheel Drive,11.5,193,7.9,5217,1999,1750,3078,2242
+lancia,Lancia,Ypsilon,Ypsilon (2024),2024,,,51 KWh (156 HP),Electric,,,156,,,,,,,4079,1760,1440,,1584
+lancia,Lancia,Ypsilon,Ypsilon (2021),2021,,,0.9L TwinAir Turbo 5MT (84 HP),Gasoline,2,875,84,145,5-speed manual,Front Wheel Drive,13,171,6.5,3843,1875,1519,2319,1165
+lancia,Lancia,Ypsilon,Ypsilon (2021),2021,,,1.2L 8v Fire Evo II 5MT (69 HP),Gasoline,4,1242,69,102,5-speed manual,Front Wheel Drive,14.5,163,5.2,3843,1875,1519,2319,965
+lancia,Lancia,Ypsilon,Ypsilon (2021),2021,,,1.3L 16V MultiJet II Start&Stop 5MT (95 HP),Diesel,,1248,95,200,5-speed manual,Front Wheel Drive,11.4,183,3.8,3843,1875,1519,2319,1050
+lancia,Lancia,Ypsilon,Ypsilon (2021),2021,,,0.9L TwinAir CNG 5MT FWD (85 HP),Natural Gas,2,875,85,145,5-speed manual,Front Wheel Drive,13,171,6.5,3843,1875,1519,2319,1165
+lancia,Lancia,Ypsilon,Ypsilon (2021),2021,,,1.0L EcoChic 6MT FWD (69 HP),Mild Hybrid,3,1242,69,92,6-speed manual,Front Wheel Drive,14.2,163,5.1,3843,1875,1519,2319,1055
+lancia,Lancia,Ypsilon,Ypsilon (2021),2021,,,1.2L 5MT LPG FWD (69 HP),Liquefied Petroleum Gas (LPG),4,1242,69,102,5-speed manual,Front Wheel Drive,15.3,159,7.6,3843,1875,1519,2319,1125
+lancia,Lancia,Ypsilon,Ypsilon (2015),2015,2018,,0.9L TwinAir 5MT FWD (84 HP),Gasoline,2,875,84,145,5-speed manual,Front Wheel Drive,12.2,175,4.1,3838,1676,1519,2390,1055
+lancia,Lancia,Ypsilon,Ypsilon (2015),2015,2018,,1.2L 5MT FWD (69 HP),Gasoline,4,1242,69,102,5-speed manual,Front Wheel Drive,14.5,163,5.2,3838,1676,1519,2390,1040
+lancia,Lancia,Ypsilon,Ypsilon (2015),2015,2018,,1.3L Multijet 5MT FWD (95 HP),Diesel,4,1248,95,200,5-speed manual,Front Wheel Drive,11.4,183,3.6,3838,1676,1519,2390,1135
+lancia,Lancia,Ypsilon,Ypsilon (2015),2015,2018,,1.2L 5MT FWD (69 HP),Natural Gas,4,1242,69,102,5-speed manual,Front Wheel Drive,15,163,3.8,3838,1676,1519,2390,1040
+lancia,Lancia,Ypsilon,Ypsilon (2011),2011,2015,,0.9L Twinair 5AT FWD (85 HP),Gasoline,2,875,85,145,5-speed automatic,Front Wheel Drive,12.2,175,4.1,3843,1676,1516,2390,980
+lancia,Lancia,Ypsilon,Ypsilon (2011),2011,2015,,0.9L Twinair 5MT FWD (85 HP),Gasoline,2,875,86,145,5-speed manual,Front Wheel Drive,11.9,175,4.2,3843,1676,1516,2390,975
+lancia,Lancia,Ypsilon,Ypsilon (2011),2011,2015,,1.2L FIre EVO II FWD (69 HP),Gasoline,4,1242,69,102,5-speed manual,Front Wheel Drive,14.5,163,4.9,3843,1676,1516,2390,965
+lancia,Lancia,Ypsilon,Ypsilon (2011),2011,2015,,1.3L Multijet II 5MT FWD (95 HP),Diesel,4,1248,95,201,5-speed manual,Front Wheel Drive,11.4,183,3.8,3843,1676,1516,2390,1050
+lancia,Lancia,Ypsilon,Ypsilon (2011),2011,2015,,1.2L Bi-Fuel 5MT FWD (69 HP),Natural Gas,4,1242,69,102,5-speed manual,Front Wheel Drive,14.5,163,5.3,3843,1676,1516,2390,965
+lancia,Lancia,Ypsilon,Ypsilon (2010),2010,2011,,1.2L 5MT FWD (69 HP),Gasoline,4,1242,69,102,"5-speed, Manual",Front Wheel Drive,15.8,159,4.9,3810,1704,1529,2388,945
+lancia,Lancia,Ypsilon,Ypsilon (2010),2010,2011,,1.3L MultiJet 5MT FWD (75 HP),Diesel,4,1248,75,190,"5-speed, Manual",Front Wheel Drive,14.5,167,4.1,3810,1704,1529,2388,1045
+lancia,Lancia,Ypsilon,Ypsilon (2010),2010,2011,,1.4L GPL 5MT FWD (77 HP),Natural Gas,4,1368,77,115,"5-speed, Manual",Front Wheel Drive,13.5,167,7,3810,1704,1529,2388,975
+lancia,Lancia,Ypsilon,Ypsilon (2006),2006,2011,,1.2L 5MT FWD (80 HP),Gasoline,4,1242,80,114,5-Speed manual,Front Wheel Drive,13.2,166,6,3810,1699,1529,2390,920
+lancia,Lancia,Ypsilon,Ypsilon (2006),2006,2011,,1.2L 5MT FWD (60 HP),Gasoline,4,1242,60,102,5-Speed manual,Front Wheel Drive,16.8,153,6,3810,1699,1529,2390,920
+lancia,Lancia,Ypsilon,Ypsilon (2006),2006,2011,,1.4L 5AT FWD (95 HP),Gasoline,4,1368,95,128,5-speed automatic,Front Wheel Drive,10.91,175,6.4,3810,1699,1529,2390,955
+lancia,Lancia,Ypsilon,Ypsilon (2006),2006,2011,,1.4L 5MT FWD (77 HP),Gasoline,4,1368,76,120,5-Speed manual,Front Wheel Drive,13.5,167,5.5,3810,1699,1529,2390,
+lancia,Lancia,Ypsilon,Ypsilon (2006),2006,2011,,1.4L 6MT FWD (95 HP),Gasoline,4,1368,95,128,6-Speed manual,Front Wheel Drive,10.9,175,6.6,3810,1699,1529,2390,955
+lancia,Lancia,Ypsilon,Ypsilon (2006),2006,2011,,1.3L Multijet 5MT FWD (90 HP),Diesel,4,1251,90,200,6-Speed manual,Front Wheel Drive,11,175,4.5,3810,1699,1529,2390,1020
+lancia,Lancia,Ypsilon,Ypsilon (2003),2003,2006,,1.2L 5MT FWD (60 HP),Gasoline,4,1242,60,102,5-Speed manual,Front Wheel Drive,16.8,153,6,3780,1699,1529,2390,920
+lancia,Lancia,Ypsilon,Ypsilon (2003),2003,2006,,1.2L 5MT FWD (80 HP),Gasoline,4,1242,80,114,5-Speed manual,Front Wheel Drive,13.2,153,6,3780,1699,1529,2390,950
+lancia,Lancia,Ypsilon,Ypsilon (2003),2003,2006,,1.4L 5MT FWD (95 HP),Gasoline,4,1368,95,128,5-Speed manual,Front Wheel Drive,10.9,175,6.5,3780,1699,1529,2390,955
+lancia,Lancia,Ypsilon,Ypsilon (2003),2003,2006,,1.3L Multijet 5MT FWD (70 HP),Diesel,4,1251,69,180,5-Speed manual,Front Wheel Drive,15.1,165,4.6,3780,1699,1529,2390,1020
+lancia,Lancia,Zeta,Zeta (1994),1994,2001,,2.0L 5MT FWD (133 HP),Gasoline,4,1998,132,180,5-Speed manual,Front Wheel Drive,13.4,186,10.3,4470,1829,1720,2819,1530
+lancia,Lancia,Zeta,Zeta (1994),1994,2001,,2.0L Turbo 5MT FWD (147 HP),Gasoline,4,1998,147,235,5-Speed manual,Front Wheel Drive,10.1,195,11.1,4470,1829,1720,2819,1550
+lancia,Lancia,Zeta,Zeta (1994),1994,2001,,2.0L JTD 5MT FWD (110 HP),Diesel,4,1997,110,250,5-Speed manual,Front Wheel Drive,14.8,175,6.7,4470,1829,1720,2819,1570
+lancia,Lancia,Zeta,Zeta (1994),1994,2001,,2.1L Turbo D 5MT FWD (110 HP),Diesel,4,2088,110,258,5-Speed manual,Front Wheel Drive,12.7,175,8.2,4470,1829,1720,2819,1578
+land-rover,Land Rover,Defender 110,Defender 110 (2019),2019,2025,,2.0L Si4 8AT AWD (300 HP),Gasoline,4,1997,300,400,8-speed automatic,All Wheel Drive,8.1,192,9.9,5019,2009,1996,3023,2261
+land-rover,Land Rover,Defender 110,Defender 110 (2019),2019,2025,,5.0L V8 P525 8AT AWD (525 Hp),Gasoline,8,5000,525,625,8-speed automatic,All Wheel Drive,5.4,192,12.8,5019,2009,1996,3023,
+land-rover,Land Rover,Defender 110,Defender 110 (2019),2019,2025,,2.0L SD4 8AT AWD (200 HP),Diesel,4,1998,200,430,8-speed automatic,All Wheel Drive,10.3,175,7.6,5019,2009,1996,3023,2323
+land-rover,Land Rover,Defender 110,Defender 110 (2019),2019,2025,,2.0L SD4 8AT AWD (240 HP),Diesel,4,1998,240,430,8-speed automatic,All Wheel Drive,9.1,188,7.6,5019,2009,1996,3023,2323
+land-rover,Land Rover,Defender 110,Defender 110 (2019),2019,2025,,3.0L P400 8AT AWD (400 Hp),Hybrid Gasoline,6,2996,400,550,8-speed automatic,All Wheel Drive,6.1,208,9.6,5019,1996,1966,3023,2286
+land-rover,Land Rover,Defender 110,Defender 110 (2019),2019,2025,,3.0L P400 8AT AWD (400 HP) 5+2 Seats,Hybrid Gasoline,6,2996,400,550,8-speed automatic,All Wheel Drive,6.1,192,9.6,5019,1996,1966,3023,2343
+land-rover,Land Rover,Defender 110,Defender 110 (2019),2019,2025,,Hard Top 3.0L D250 8AT AWD (249 Hp),Mild Hybrid Diesel,6,2996,249,570,8-speed automatic,All Wheel Drive,8.3,188,7.8,5019,2009,1996,3023,
+land-rover,Land Rover,Defender 110,Defender 110 (2019),2019,2025,,Hard Top 3.0L D300 8AT AWD (299 Hp),Mild Hybrid Diesel,6,2996,299,650,8-speed automatic,All Wheel Drive,7,192,7.8,5019,2009,1996,3023,
+land-rover,Land Rover,Defender 110,Defender 110 (2012),2012,2016,,2.2L TD 6MT (122 HP),Diesel,4,2198,122,361,6-speed manual,All Wheel Drive,15.8,145,11.1,4785,2022,1791,2794,1955
+land-rover,Land Rover,Defender 110,Defender 110 (2007),2007,2012,,2.4 Td5 6MT (122 HP),Diesel,4,2401,122,360,6-speed manual,All Wheel Drive,15.8,132,11,4641,1791,2029,2789,1940
+land-rover,Land Rover,Defender 110,Defender 110 (1991),1991,2007,,3.5L V8 5MT AWD (136 HP),Gasoline,8,3528,136,256,5-speed manual,All Wheel Drive,14.7,144,18.1,4600,1791,2040,2789,1980
+land-rover,Land Rover,Defender 110,Defender 110 (1991),1991,2007,,2.5L TD 5MT AWD (122 HP),Diesel,5,2495,122,300,5-speed manual,All Wheel Drive,17.5,130,10.8,4600,1791,2040,2789,2055
+land-rover,Land Rover,Defender 110,Defender 110 (1991),1991,2007,,2.5L TD 5MT AWD (86 HP),Diesel,4,2495,86,203,5-speed manual,All Wheel Drive,24,118,,4600,1791,2040,2789,1850
+land-rover,Land Rover,Defender 110,Defender 110 (1991),1991,2007,,2.5L TDI 5MT AWD (113 HP),Diesel,4,2495,113,265,5-speed manual,All Wheel Drive,18.6,137,10.1,4600,1791,2040,2789,2055
+land-rover,Land Rover,Defender 130,Defender 130 (2022),2022,,,D250 3.0L 8AT AWD (246 HP) 5-Seats,Mild Hybrid Diesel,6,2997,246,600,8-speed automatic,All Wheel Drive,8.9,188,9.3,5357,2009,1971,3023,2550
+land-rover,Land Rover,Defender 130,Defender 130 (2022),2022,,,D250 3.0L 8AT AWD (246 HP) 8-Seats,Mild Hybrid Diesel,6,2997,246,600,8-speed automatic,All Wheel Drive,8.9,188,9.3,5357,2009,1971,3023,2589
+land-rover,Land Rover,Defender 130,Defender 130 (2022),2022,,,D300 3.0L 8AT AWD (296 HP) 5-Seats,Mild Hybrid Diesel,6,2997,296,650,8-speed automatic,All Wheel Drive,7.5,192,9.3,5357,2009,1971,3023,2550
+land-rover,Land Rover,Defender 130,Defender 130 (2022),2022,,,D300 3.0L 8AT AWD (296 HP) 8-Seats,Mild Hybrid Diesel,6,2997,296,650,8-speed automatic,All Wheel Drive,7.5,192,9.4,5357,2009,1971,3023,2589
+land-rover,Land Rover,Defender 130,Defender 130 (2022),2022,,,P400 3.0L 8AT AWD (395 HP) 5-Seats,Mild Hybrid,6,2996,395,550,8-speed automatic,All Wheel Drive,6.6,192,12.3,5357,2009,1971,3023,2507
+land-rover,Land Rover,Defender 130,Defender 130 (2022),2022,,,P400 3.0L 8AT AWD (395 HP) 8-Seats,Mild Hybrid,6,2996,395,550,8-speed automatic,All Wheel Drive,6.6,192,12.3,5357,2009,1971,3023,2528
+land-rover,Land Rover,Defender 90,Defender 90 (2019),2019,2025,,2.0L Si4 8AT AWD (300 HP),Gasoline,4,1998,300,400,8-speed automatic,All Wheel Drive,8,192,9.8,4582,2009,1996,2588,2231
+land-rover,Land Rover,Defender 90,Defender 90 (2019),2019,2025,,3.0L 8AT AWD (400 HP),Gasoline,6,2996,400,550,8-speed automatic,All Wheel Drive,6,192,9.6,4582,2009,1996,2588,2231
+land-rover,Land Rover,Defender 90,Defender 90 (2019),2019,2025,,5.0L V8 P525 8AT AWD (525 Hp),Gasoline,8,5000,525,625,8-speed automatic,All Wheel Drive,5.2,192,12.8,4582,2009,1996,2588,2471
+land-rover,Land Rover,Defender 90,Defender 90 (2019),2019,2025,,2.0L SD4 8AT AWD (200 HP),Diesel,4,1998,200,430,8-speed automatic,All Wheel Drive,10.2,175,7.5,4582,2009,1996,2588,2208
+land-rover,Land Rover,Defender 90,Defender 90 (2019),2019,2025,,2.0L SD4 8AT AWD (240 HP),Diesel,4,1998,240,430,8-speed automatic,All Wheel Drive,9,188,7.5,4582,2009,1996,2588,2231
+land-rover,Land Rover,Defender 90,Defender 90 (2018),2018,2019,,5.0L V8 8AT 4x4 AWD (405 HP),Gasoline,8,4997,405,515,8-speed automatic,All Wheel Drive,5.8,171,,3894,1791,2022,2360,
+land-rover,Land Rover,Defender 90,Defender 90 (2012),2012,2016,,2.2L TD 6MT (122 HP),Diesel,4,2198,122,361,6-Speed manual,All Wheel Drive,,145,10,3894,1791,2022,2360,1771
+land-rover,Land Rover,Defender 90,Defender 90 (2007),2007,2012,,2.4 Td5 6MT (122 HP),Diesel,4,2401,122,360,6-speed manual,All Wheel Drive,15.8,132,10,3919,1791,2019,2360,1638
+land-rover,Land Rover,Defender 90,Defender 90 (1991),1991,2007,,3.5L V8 4AT AWD (182 HP),Gasoline,8,3947,182,314,4-speed automatic,All Wheel Drive,,140,,3881,1791,1981,2360,1630
+land-rover,Land Rover,Defender 90,Defender 90 (1991),1991,2007,,2.5L TDI 5MT AWD (113 HP),Diesel,4,2495,113,265,5-speed manual,All Wheel Drive,18.6,137,9.8,3881,1791,1981,2360,1746
+land-rover,Land Rover,Defender 90,Defender 90 (1991),1991,2007,,2.5L TDi 5MT AWD (122 HP),Diesel,5,2495,122,300,5-speed manual,All Wheel Drive,17.5,130,10.1,3881,1791,1981,2360,1797
+land-rover,Land Rover,Defender Octa,Defender Octa (2024),2024,,,4.4L V8 MHEV 8AT AWD (635 HP),Mild Hybrid,8,4395,635,750,8-speed automatic,All Wheel Drive,3.9,249,,5004,2065,1994,3023,2585
+land-rover,Land Rover,Discovery,Discovery (2017),2017,2021,,2.0L SD4 8AT AWD (240 HP),Diesel,4,1999,240,500,8-speed automatic,All Wheel Drive,8.3,195,6.5,4971,2073,1880,2924,2184
+land-rover,Land Rover,Discovery,Discovery (2017),2017,2021,,3.0L V6 Si6 8AT AWD (340 HP),Diesel,6,2995,340,450,8-speed automatic,All Wheel Drive,7.1,209,10.9,4971,2073,1880,2924,2223
+land-rover,Land Rover,Discovery,Discovery (2017),2017,2021,,3.0L V6 TD6 8AT AWD (258 HP),Diesel,6,2993,258,600,8-speed automatic,All Wheel Drive,8,209,7.2,4971,2073,1880,2924,2298
+land-rover,Land Rover,Discovery,Discovery (2013),2013,2016,,3.0L SCV6 8AT (340 HP),Gasoline,6,2998,340,450,8-speed automatic,All Wheel Drive,8.1,195,8,4829,2177,1882,2885,2565
+land-rover,Land Rover,Discovery,Discovery (2013),2013,2016,,3.0L SDV6 8AT (256 HP),Diesel,6,2998,256,601,8-speed automatic,All Wheel Drive,9.3,180,8,4829,2177,1882,2885,2570
+land-rover,Land Rover,Discovery,Discovery (2009),2009,2013,,4.0L V6 6AT AWD (218 HP),Gasoline,6,3999,218,361,"6-speed, Automatic",All Wheel Drive,11.6,180,15.2,4829,2022,1887,2885,
+land-rover,Land Rover,Discovery,Discovery (2009),2009,2013,,5.0L V8 6AT AWD (375 HP),Gasoline,8,4999.7,375,508,"6-speed, Automatic",All Wheel Drive,7.9,195,14.1,4829,2022,1887,2885,2548
+land-rover,Land Rover,Discovery,Discovery (2009),2009,2013,,2.7L TD V6 6AT AWD (190 HP),Diesel,6,2720,190,441,6-automatic speed,All Wheel Drive,12.7,180,10.2,4829,2022,1887,2885,
+land-rover,Land Rover,Discovery,Discovery (2009),2009,2013,,2.7L TD V6 6MT AWD (190 HP),Diesel,6,2720,190,441,6-speed manual,All Wheel Drive,11.7,180,9.2,4829,2022,1887,2885,
+land-rover,Land Rover,Discovery,Discovery (2009),2009,2013,,3.0L SD V6 8AT AWD (256 HP),Diesel,6,2993,256,601,8-speed automatic transmission,All Wheel Drive,9.3,180,8.8,4829,2022,1887,2885,2583
+land-rover,Land Rover,Discovery,Discovery (2009),2009,2013,,3.0L TD V6 6AT AWD (245 HP),Diesel,6,2993,245,601,"6-speed, Automatic",All Wheel Drive,9.6,180,8.8,4829,2022,1887,2885,
+land-rover,Land Rover,Discovery,Discovery (2009),2009,2013,,3.0L TD V6 8AT AWD (211 HP),Diesel,6,2993,211,521,8-speed automatic transmission,All Wheel Drive,10.7,180,8.5,4829,2022,1887,2885,2583
+land-rover,Land Rover,Discovery,Discovery (2004),2004,2009,,4.0L V8 6AT AWD (219 HP),Gasoline,8,4009,219,365,6-automatic speed,All Wheel Drive,11.6,180,15,4841,1920,1890,2880,2625
+land-rover,Land Rover,Discovery,Discovery (2004),2004,2009,,4.4L V8 6AT AWD (305 HP),Gasoline,8,4394,305,427,"Automatic, 6 Speed",All Wheel Drive,8.6,195,15,4841,1920,1890,2880,2629
+land-rover,Land Rover,Discovery,Discovery (2004),2004,2009,,2.7L Td 6MT AWD (190 HP),Diesel,6,2720,190,445,6-speed manual,All Wheel Drive,11.5,180,9.4,4841,1920,1890,2880,2394
+land-rover,Land Rover,Discovery,Discovery (2002),2002,2004,,4.0 V8,Gasoline,8,3950,185,340,"Automatic, 4 Speed",All Wheel Drive,12.8,170,16.7,4699,1880,1900,2540,2175
+land-rover,Land Rover,Discovery,Discovery (2002),2002,2004,,2.5 Td5,Diesel,5,2495,137,340,"Manual, 5 Speed",All Wheel Drive,15.3,157,9.4,4699,1880,1900,2540,2175
+land-rover,Land Rover,Discovery,Discovery (1999),1999,2002,,3.9 V8,Gasoline,8,3947,185,340,"Manual, 5 Speed",All Wheel Drive,11.7,170,16.6,4699,1880,1941,2540,1995
+land-rover,Land Rover,Discovery,Discovery (1999),1999,2002,,2.5 Td5,Diesel,5,2495,137,300,"Manual, 5 Speed",All Wheel Drive,15.3,157,9.4,4699,1880,1941,2540,2050
+land-rover,Land Rover,Discovery,Discovery (1994),1994,1999,,3.9 V8,Gasoline,8,3947,185,314,"Manual, 5 Speed",All Wheel Drive,11.5,170,16.4,4481,1791,1910,2540,1975
+land-rover,Land Rover,Discovery,Discovery (1994),1994,1999,,2.5,Diesel,4,2495,113,265,"Manual, 5 Speed",All Wheel Drive,18.5,146,8.9,4481,1791,1910,2540,1985
+land-rover,Land Rover,Discovery,Discovery (1994),1994,1999,,4.0L V8 5MT AWD (185 HP),Gasoline,8,3947,185,314,5-Speed manual,All Wheel Drive,11.5,170,16.4,4481,1791,1910,2540,2020
+land-rover,Land Rover,Discovery,Discovery (1994),1994,1999,,2.5L TDI 4AT AWD (122 HP),Diesel,4,2495,122,300,4-Speed automatic,All Wheel Drive,18.5,148,9.9,4481,1791,1910,2540,1985
+land-rover,Land Rover,Discovery,Discovery (1994),1994,1999,,2.5L TDI 5MT AWD (113 HP),Diesel,4,2495,113,265,5-Speed manual,All Wheel Drive,18.5,146,8.9,4481,1791,1910,2540,1985
+land-rover,Land Rover,Discovery,Discovery (1990),1990,1994,,3.5L V8 5MT AWD (155 HP),Gasoline,8,3528,155,260,5-Speed manual,All Wheel Drive,13.7,163,15.6,4521,1791,1930,2540,1856
+land-rover,Land Rover,Discovery,Discovery (1990),1990,1994,,2.5L TDI 5MT AWD (113 HP),Diesel,4,2495,113,265,5-Speed manual,All Wheel Drive,17.8,148,8.6,4521,1791,1930,2540,1916
+land-rover,Land Rover,Discovery,Discovery (1990),1990,1994,,3.5L V8 5MT AWD (155 HP),Gasoline,8,3528,155,260,5-Speed manual,All Wheel Drive,13.7,163,15.6,4521,1791,1930,2540,1908
+land-rover,Land Rover,Discovery,Discovery (1990),1990,1994,,2.5L 5MT AWD (113 HP),Diesel,4,2495,113,264,5-Speed manual,All Wheel Drive,17.8,148,8.6,4521,1791,1930,2540,1946
+land-rover,Land Rover,Discovery Sport,Discovery Sport (2019),2019,,,2.0L D150 6MT FWD (150 HP) 5-Seat,Diesel,4,1998,150,380,6-Speed manual,Front Wheel Drive,11.1,195,5.3,4597,2174,1727,2741,1769
+land-rover,Land Rover,Discovery Sport,Discovery Sport (2019),2019,,,2.0L D150 6MT FWD (150 HP) 7-Seat,Diesel,4,1998,150,380,6-Speed manual,Front Wheel Drive,11.4,195,5.4,4597,2174,1727,2741,1926
+land-rover,Land Rover,Discovery Sport,Discovery Sport (2019),2019,,,2.0L D150 9AT AWD (150 HP) 5-Seat,Diesel,4,1998,150,380,9-speed automatic,All Wheel Drive,11.4,190,5.5,4597,2174,1727,2741,1948
+land-rover,Land Rover,Discovery Sport,Discovery Sport (2019),2019,,,2.0L D150 9AT AWD (150 HP) 7-Seat,Diesel,4,1998,150,380,9-speed automatic,All Wheel Drive,11.8,188,5.6,4597,2174,1727,2741,2028
+land-rover,Land Rover,Discovery Sport,Discovery Sport (2019),2019,,,2.0L D180 9AT AWD (180 HP) 5-Seat,Diesel,4,1998,180,430,9-speed automatic,All Wheel Drive,9.7,203,5.6,4597,2174,1727,2741,1948
+land-rover,Land Rover,Discovery Sport,Discovery Sport (2019),2019,,,2.0L D180 9AT AWD (180 HP) 7-Seat,Diesel,4,1998,180,430,9-speed automatic,All Wheel Drive,10.1,201,5.7,4597,2174,1727,2741,2028
+land-rover,Land Rover,Discovery Sport,Discovery Sport (2014),2014,2019,,2.0L Si4 9AT AWD (240 HP),Gasoline,4,1999,241,340,9-speed automatic,All Wheel Drive,8.2,200,8,4600,2070,1725,2741,1744
+land-rover,Land Rover,Discovery Sport,Discovery Sport (2014),2014,2019,,2.0L Si4 9AT AWD (290 HP),Gasoline,4,1997,290,400,9-speed automatic,All Wheel Drive,7.6,217,8.9,4600,2070,1725,2741,1882
+land-rover,Land Rover,Discovery Sport,Discovery Sport (2014),2014,2019,,2.2L SD4 6MT AWD (190 HP),Diesel,4,2179,189,420,6-speed manual,All Wheel Drive,10.1,188,5.1,4600,2174,1725,2715,1854
+land-rover,Land Rover,Discovery Sport,Discovery Sport (2014),2014,2019,,2.2L SD4 9AT AWD (190 HP),Diesel,4,2179,190,420,9-speed automatic,All Wheel Drive,8.7,188,6.3,4600,2070,1725,2741,1863
+land-rover,Land Rover,Discovery Sport,Discovery Sport (2014),2014,2019,,2.2L TD4 6MT AWD (150 HP),Diesel,4,2179,150,400,6-speed manual,All Wheel Drive,11.7,180,5.7,4600,2070,1725,2741,1765
+land-rover,Land Rover,Discovery Sport,Discovery Sport (2014),2014,2019,,2.2L TD4 9AT AWD (150 HP),Diesel,4,2179,150,400,9-speed automatic,All Wheel Drive,10.3,180,5.7,4600,2070,1725,2741,1775
+land-rover,Land Rover,Discovery SVX,Discovery SVX (2018),2018,2020,,5.0L V8 8AT (525 HP),Gasoline,8,5000,525,625,8-speed automatic,All Wheel Drive,5.5,161,,4956,2073,1910,2921,2516
+land-rover,Land Rover,Freelander,Freelander (2009),2009,2014,,2.0L Si4 GTDi 4WD 6AT (240 HP),Gasoline,4,1999,241,340,6-speed automatic,All Wheel Drive,8.8,200,9.6,4498,2659,1740,2659,1775
+land-rover,Land Rover,Freelander,Freelander (2009),2009,2014,,3.2L 6AT AWD (230 HP),Gasoline,6,3192,232,317,6-speed automatic,All Wheel Drive,8.7,195,13.8,4498,2659,1740,2659,1930
+land-rover,Land Rover,Freelander,Freelander (2009),2009,2014,,2.2L eD4 6MT FWD (150 HP),Diesel,4,2179,150,420,6-speed manual,Front Wheel Drive,11.7,180,6,4498,2659,1740,2659,1710
+land-rover,Land Rover,Freelander,Freelander (2009),2009,2014,,2.2L SD4 6AT AWD (190 HP),Diesel,4,2179,190,420,6-speed automatic,All Wheel Drive,9.5,190,7,4498,2659,1740,2659,1805
+land-rover,Land Rover,Freelander,Freelander (2009),2009,2014,,2.2L TD4 6AT AWD (150 HP),Diesel,4,2179,150,420,6-speed automatic,All Wheel Drive,11.2,180,7,4498,2659,1740,2659,1805
+land-rover,Land Rover,Freelander,Freelander (2009),2009,2014,,2.2L TD4 6AT AWD (160 HP),Diesel,4,2179,160,400,6-speed automatic,All Wheel Drive,11.2,180,8.5,4498,2659,1740,2659,1785
+land-rover,Land Rover,Freelander,Freelander (2009),2009,2014,,2.2L TD4 6MT AWD (150 HP),Diesel,4,2179,150,420,6-speed manual,All Wheel Drive,11.7,180,7.2,4498,2659,1740,2659,1785
+land-rover,Land Rover,Freelander,Freelander (2009),2009,2014,,2.2L TD4 6MT AWD (160 HP),Diesel,4,2179,160,400,6-speed manual,All Wheel Drive,11.7,180,7.5,4498,2659,1740,2659,1790
+land-rover,Land Rover,Freelander,Freelander (2006),2006,2009,,3.2L 6AT AWD (233 HP),Gasoline,6,3192,233,317,6-speed automatic,All Wheel Drive,8.9,200,11.2,4501,1910,1740,2659,1770
+land-rover,Land Rover,Freelander,Freelander (2006),2006,2009,,2.2L 6AT AWD (160 HP),Diesel,4,2179,160,400,6-speed automatic,All Wheel Drive,11.7,181,7.5,4501,1910,1740,2659,1770
+land-rover,Land Rover,Freelander,Freelander (2006),2006,2009,,2.2L 6MT AWD (160 HP),Diesel,4,2179,160,400,6-Speed manual,All Wheel Drive,11.7,181,7.5,4501,1910,1740,2659,1770
+land-rover,Land Rover,Freelander,Freelander (2003),2003,2007,,1.8i 5MT AWD (117 HP),Gasoline,4,1796,117,160,5-Speed manual,All Wheel Drive,12.6,170,10.4,4420,1811,1709,2560,1420
+land-rover,Land Rover,Freelander,Freelander (2003),2003,2007,,2.5i V6 5AT AWD (177 HP),Gasoline,6,2497,177,240,5-speed automatic,All Wheel Drive,11.1,182,12.4,4420,1811,1709,2560,1540
+land-rover,Land Rover,Freelander,Freelander (2003),2003,2007,,2.0L Td4 5MT AWD (112 HP),Diesel,4,1951,112,260,5-Speed manual,All Wheel Drive,14.4,164,7.6,4420,1811,1709,2560,1593
+land-rover,Land Rover,Freelander,Freelander (2000),2000,2003,,1.8i 5MT AWD (117 HP),Gasoline,4,1796,117,160,5-Speed manual,All Wheel Drive,12.6,170,10.4,4379,1801,1760,2560,1427
+land-rover,Land Rover,Freelander,Freelander (2000),2000,2003,,2.5i V6 5AT AWD (177 HP),Gasoline,6,2497,177,240,5-speed automatic,All Wheel Drive,11.1,182,12.4,4379,1801,1760,2560,1567
+land-rover,Land Rover,Freelander,Freelander (2000),2000,2003,,2.0L Td4 5MT AWD (112 HP),Diesel,4,1951,112,260,5-Speed manual,All Wheel Drive,14.4,164,7.6,4379,1801,1760,2560,1555
+land-rover,Land Rover,Freelander,Freelander (1998),1998,2000,,1.8i 5MT AWD (120 HP),Gasoline,4,1796,120,165,5-Speed manual,All Wheel Drive,11.1,165,10.2,4379,1801,1760,2560,1355
+land-rover,Land Rover,Freelander,Freelander (1998),1998,2000,,2.5i V6 4AT AWD (177 HP),Gasoline,6,2497,177,240,4-Speed automatic,All Wheel Drive,11.1,182,7.7,4379,1801,1760,2560,1550
+land-rover,Land Rover,Freelander,Freelander (1998),1998,2000,,2.0d 5MT AWD (97 HP),Diesel,4,1998,98,210,5-Speed manual,All Wheel Drive,14.6,155,7.7,4379,1801,1760,2560,1455
+land-rover,Land Rover,Range Rover,Range Rover (2021),2021,,,4.4L P530 V8 8AT AWD (530 HP),Gasoline,8,4395,530,750,8-speed automatic,All Wheel Drive,4.6,249,11.4,5052,2047,1869,2997,2510
+land-rover,Land Rover,Range Rover,Range Rover (2021),2021,,,3.0L D250 8AT AWD (249 HP),Mild Hybrid Diesel,6,2997,249,600,8-speed automatic,All Wheel Drive,8.3,206,7.6,5052,2047,1869,2997,2430
+land-rover,Land Rover,Range Rover,Range Rover (2021),2021,,,3.0L D300 8At AWD (301 HP),Mild Hybrid Diesel,6,2997,301,650,8-speed automatic,All Wheel Drive,6.9,217,7.6,5052,2047,1869,2997,2430
+land-rover,Land Rover,Range Rover,Range Rover (2021),2021,,,3.0L D350 8AT AWD (351 HP),Mild Hybrid Diesel,6,2997,351,700,8-speed automatic,All Wheel Drive,6.1,233,7.6,5052,2047,1869,2997,2430
+land-rover,Land Rover,Range Rover,Range Rover (2021),2021,,,3.0L P360 8AT AWD (360 HP),Mild Hybrid,6,2996,360,500,8-speed automatic,All Wheel Drive,6.3,225,,5052,2047,1869,2997,2379
+land-rover,Land Rover,Range Rover,Range Rover (2021),2021,,,3.0L P400 8AT AWD (400 HP),Mild Hybrid,6,2996,400,550,8-speed automatic,All Wheel Drive,5.8,241,9.5,5052,2047,1869,2997,2379
+land-rover,Land Rover,Range Rover,Range Rover (2021),2021,,,4.4L V8 P530 8AT AWD (530 HP),Gasoline,8,4395,530,750,8-speed automatic,All Wheel Drive,4.7,249,11.5,5253,2047,1869,3198,2626
+land-rover,Land Rover,Range Rover,Range Rover (2021),2021,,,3.0L D350 8AT AWD (350 HP),Mild Hybrid Diesel,6,2997,350,700,8-speed automatic,All Wheel Drive,5.9,233,7.6,5253,2047,1869,3198,2569
+land-rover,Land Rover,Range Rover,Range Rover (2021),2021,,,3.0L P360 8AT AWD (360 HP),Mild Hybrid,6,2996,360,500,8-speed automatic,All Wheel Drive,6.4,225,,5253,2047,1869,3198,2519
+land-rover,Land Rover,Range Rover,Range Rover (2021),2021,,,3.0L P400 8AT AWD (400 HP),Mild Hybrid,6,2996,400,550,8-speed automatic,All Wheel Drive,5.6,241,9.6,5253,2047,1869,3198,2519
+land-rover,Land Rover,Range Rover,Range Rover (2017),2017,2021,,3.0L V6 8AT AWD (340 HP),Gasoline,6,2995,340,450,8-speed automatic,All Wheel Drive,7.1,209,10.7,5001,1984,1869,2921,2509
+land-rover,Land Rover,Range Rover,Range Rover (2017),2017,2021,,5.0L V8 8AT AWD (525 HP),Gasoline,8,5000,525,625,8-speed automatic,All Wheel Drive,5.3,225,12.8,5001,1984,1869,2921,2383
+land-rover,Land Rover,Range Rover,Range Rover (2017),2017,2021,,5.0L V8 8AT AWD (565 HP),Gasoline,8,5000,565,700,8-speed automatic,All Wheel Drive,5.3,225,12.8,5001,1984,1869,2921,2497
+land-rover,Land Rover,Range Rover,Range Rover (2017),2017,2021,,3.0L V6 8AT AWD (258 HP),Diesel,6,2993,258,600,8-speed automatic,All Wheel Drive,8,209,6.9,5001,1984,1869,2921,2249
+land-rover,Land Rover,Range Rover,Range Rover (2017),2017,2021,,4.4L V8 8AT AWD (340 HP),Diesel,8,4367,340,740,8-speed automatic,All Wheel Drive,6.9,217,8.4,5001,1984,1869,2921,2509
+land-rover,Land Rover,Range Rover,Range Rover (2013),2013,2017,,3.0L SC V6 8AT AWD (340 HP),Gasoline,6,2995,340,450,8-Speed automatic ZF 8HP70,All Wheel Drive,7.2,209,10.7,4999,1984,1834,2921,2144
+land-rover,Land Rover,Range Rover,Range Rover (2013),2013,2017,,5.0L SC V8 8AT AWD (510 HP),Gasoline,8,4999.7,510,625,8-Speed automatic ZF 8HP70,All Wheel Drive,5.4,249,13.8,4999,1984,1834,2921,2330
+land-rover,Land Rover,Range Rover,Range Rover (2013),2013,2017,,5.0L V8 8AT AWD (375 HP),Gasoline,8,4999,375,508,8-Speed automatic ZF 8HP70,All Wheel Drive,6.8,209,14.7,4999,1984,1834,2921,2200
+land-rover,Land Rover,Range Rover,Range Rover (2013),2013,2017,,3.0L TDV6 8AT AWD (258 HP),Diesel,6,2993,258,601,8-Speed automatic ZF 8HP70,All Wheel Drive,7.9,209,6.9,4999,1984,1834,2921,2160
+land-rover,Land Rover,Range Rover,Range Rover (2013),2013,2017,,3.0L V6 8AT AWD (258 HP) biturbo,Diesel,6,2993,258,601,8-Speed automatic ZF 8HP70,All Wheel Drive,7.9,209,7.5,4999,1984,1834,2921,2160
+land-rover,Land Rover,Range Rover,Range Rover (2013),2013,2017,,4.4L V8 8AT AWD (340 HP),Diesel,8,4367,340,700,8-Speed automatic ZF 8HP70,All Wheel Drive,6.9,217,8.7,4999,1984,1834,2921,2360
+land-rover,Land Rover,Range Rover,Range Rover (2013),2013,2017,,3.0L V6 Hybrid 8AT AWD (340 HP),Hybrid Diesel,6,2993,292,601,8-Speed automatic ZF 8HP70,All Wheel Drive,6.9,217,6.4,4999,1984,1834,2921,2394
+land-rover,Land Rover,Range Rover,Range Rover (2009),2009,2012,,5.0L V8 6AT AWD (307 HP),Gasoline,8,4394,307,,6-speed automatic,All Wheel Drive,7.6,209,11.6,4971,2032,1877,2880,2571
+land-rover,Land Rover,Range Rover,Range Rover (2009),2009,2012,,5.0L V8 SC 6AT AWD (510 HP),Gasoline,8,4999,510,625,6-speed automatic,All Wheel Drive,6.2,225,12.4,4971,2032,1877,2880,2710
+land-rover,Land Rover,Range Rover,Range Rover (2009),2009,2012,,3.6L V8 6AT AWD (272 HP),Diesel,8,3628,272,629,6-automatic speed,All Wheel Drive,9.2,200,11.1,4971,2032,1877,2880,2774
+land-rover,Land Rover,Range Rover,Range Rover (2009),2009,2012,,4.4L V8 6AT AWD (313 HP),Diesel,8,4367,313,700,8-speed automatic transmission,All Wheel Drive,7.8,200,7.8,4971,2032,1877,2880,2710
+land-rover,Land Rover,Range Rover,Range Rover (2005),2005,2009,,4.2L V8 Supercharged 5AT AWD (396 HP),Gasoline,8,4196,396,560,5-speed automatic,All Wheel Drive,7.5,210,16,4950,1961,1821,2880,2522
+land-rover,Land Rover,Range Rover,Range Rover (2005),2005,2009,,4.4L V8 5AT AWD (306 HP),Gasoline,8,4398,306,425,5-speed automatic,All Wheel Drive,8.7,200,14.9,4950,1961,1821,2880,2450
+land-rover,Land Rover,Range Rover,Range Rover (2005),2005,2009,,2.9L TD V6 5AT AWD (177 HP),Diesel,6,2926,177,390,5-speed automatic,All Wheel Drive,13.6,179,11.3,4950,1961,1821,2880,2440
+land-rover,Land Rover,Range Rover,Range Rover (2005),2005,2009,,3.6L TD V8 5AT AWD (272 HP),Diesel,8,3630,272,640,5-speed automatic,All Wheel Drive,9.2,200,11.1,4950,1961,1821,2880,2450
+land-rover,Land Rover,Range Rover,Range Rover (2002),2002,2005,,4.4L V8 5AT AWD (286 HP),Gasoline,8,4398,286,440,5-speed automatic,All Wheel Drive,9.2,208,16.2,4950,1961,1821,2880,2435
+land-rover,Land Rover,Range Rover,Range Rover (2002),2002,2005,,2.9L V6 TD 5AT AWD (177 HP),Diesel,6,2926,177,254,5-speed automatic,All Wheel Drive,13.6,179,11.3,4950,1961,1821,2880,2440
+land-rover,Land Rover,Range Rover,Range Rover (1994),1994,2002,,4.0L V8 4AT AWD (185 HP),Gasoline,8,3950,185,340,4-Speed automatic,All Wheel Drive,12.2,187,15.3,4709,1890,1821,2741,2008
+land-rover,Land Rover,Range Rover,Range Rover (1994),1994,2002,,4.0L V8 5MT AWD (185 HP),Gasoline,8,3950,185,340,5-Speed manual,All Wheel Drive,10.5,190,,4709,1890,1821,2741,2120
+land-rover,Land Rover,Range Rover,Range Rover (1994),1994,2002,,4.0L V8 5MT AWD (190 HP),Gasoline,8,3950,190,320,5-Speed manual,All Wheel Drive,10.5,190,16.3,4709,1890,1821,2741,1993
+land-rover,Land Rover,Range Rover,Range Rover (1994),1994,2002,,4.5L V8 4AT AWD (226 HP),Gasoline,8,4554,226,241,4-Speed automatic,All Wheel Drive,9.9,200,16.2,4709,1890,1821,2741,2031
+land-rover,Land Rover,Range Rover,Range Rover (1994),1994,2002,,2.5L D 4AT AWD (136 HP),Diesel,6,2497,136,270,4-Speed automatic,All Wheel Drive,15.8,185,11.4,4709,1890,1821,2741,2115
+land-rover,Land Rover,Range Rover,Range Rover (1994),1994,2002,,2.5L D 5MT AWD (136 HP),Diesel,6,2497,136,270,5-Speed manual,All Wheel Drive,15.3,165,10.6,4709,1890,1821,2741,2115
+land-rover,Land Rover,Range Rover,Range Rover (1988),1988,1994,,3.5L V8 5MT AWD (167 HP),Gasoline,8,3528,167,279,5-Speed manual,All Wheel Drive,12,170,14.2,4478,1819,1788,2537,1910
+land-rover,Land Rover,Range Rover,Range Rover (1988),1988,1994,,3.9L V8 5MT AWD (185 HP),Gasoline,8,3950,185,313,5-Speed manual,All Wheel Drive,11.1,177,15.5,4478,1819,1788,2537,1900
+land-rover,Land Rover,Range Rover,Range Rover (1988),1988,1994,,2.5L TD 5MT AWD (121 HP),Diesel,4,2500,121,284,5-Speed manual,All Wheel Drive,19.5,150,10.3,4478,1819,1788,2537,1930
+land-rover,Land Rover,Range Rover,Range Rover (1988),1988,1994,,2.5L TDI AWD (113 HP),Diesel,4,2500,113,265,5-Speed manual,All Wheel Drive,18.3,150,8.7,4478,1819,1788,2537,2110
+land-rover,Land Rover,Range Rover,Range Rover 3 Doors (1988),1988,1993,,3.5L V8 5MT AWD (167 HP),Gasoline,8,3528,167,279,5-manual speed,All Wheel Drive,12,170,14.2,4478,1819,1788,2537,1876
+land-rover,Land Rover,Range Rover,Range Rover 3 Doors (1988),1988,1993,,2.5L TD 5MT AWD (121 HP),Diesel,4,2500,121,284,5-speed manual,All Wheel Drive,19.5,150,10.3,4478,1819,1788,2537,1900
+land-rover,Land Rover,Range Rover,Range Rover 3 Doors (1988),1988,1993,,3.9L V8 5MT AWD (121 HP),Diesel,8,3947,121,284,5-speed manual,All Wheel Drive,19.5,150,10.3,4478,1819,1788,2537,1900
+land-rover,Land Rover,Range Rover Evoque,Range Rover Evoque (2023),2023,,,2.0L D165 6MT FWD (163 HP),Diesel,4,1997,163,380,6-Speed manual,Front Wheel Drive,10.1,206,5,4371,1996,1648,2682,1712
+land-rover,Land Rover,Range Rover Evoque,Range Rover Evoque (2023),2023,,,1.5L P160 MHEV 8AT FWD (160 HP),Mild Hybrid,3,1498,160,260,8-speed automatic,Front Wheel Drive,10.3,200,7.8,4371,1996,1648,2682,1717
+land-rover,Land Rover,Range Rover Evoque,Range Rover Evoque (2023),2023,,,2.0L P200 MHEV 9AT AWD (200 HP),Mild Hybrid,4,1997,200,320,9-speed automatic,All Wheel Drive,8.6,216,7.6,4371,1996,1648,2682,1770
+land-rover,Land Rover,Range Rover Evoque,Range Rover Evoque (2023),2023,,,2.0L P250 MHEV 9AT AWD (249 HP),Mild Hybrid,4,1997,249,365,9-speed automatic,All Wheel Drive,7.6,230,7.7,4371,1996,1648,2682,1818
+land-rover,Land Rover,Range Rover Evoque,Range Rover Evoque (2023),2023,,,1.5L P300e PHEV 8AT AWD (309 HP),Plug-in Hybrid,3,1498,200,,8-speed automatic,All Wheel Drive,6.4,212,1.4,4371,1996,1648,2682,2082
+land-rover,Land Rover,Range Rover Evoque,Range Rover Evoque (2023),2023,,,2.0L D165 MHEV 9AT AWD (163 HP),Mild Hybrid Diesel,4,1997,163,380,9-speed automatic,All Wheel Drive,9.8,200,5.2,4371,1996,1648,2682,1815
+land-rover,Land Rover,Range Rover Evoque,Range Rover Evoque (2023),2023,,,2.0L D200 MHEV 9AT AWD (204 HP),Mild Hybrid Diesel,4,1997,204,430,9-speed automatic,All Wheel Drive,8.5,212,5.3,4371,1996,1648,2682,1866
+land-rover,Land Rover,Range Rover Evoque,Range Rover Evoque (2018),2018,2023,,2.0L Td4 6MT FWD (150 HP),Diesel,4,1999,150,380,6-speed manual,Front Wheel Drive,10.5,201,5.4,4371,1905,1648,2682,
+land-rover,Land Rover,Range Rover Evoque,Range Rover Evoque (2018),2018,2023,,1.5L P160 8AT FWD (160 HP),Mild Hybrid,4,1498,160,260,8-speed automatic,Front Wheel Drive,10.3,200,5.3,4371,1905,1648,2682,
+land-rover,Land Rover,Range Rover Evoque,Range Rover Evoque (2018),2018,2023,,2.0L Si4 9AT AWD (200 HP),Mild Hybrid,4,1998,200,340,9-speed automatic,All Wheel Drive,8.5,216,7.7,4371,1905,1648,2682,
+land-rover,Land Rover,Range Rover Evoque,Range Rover Evoque (2018),2018,2023,,2.0L Si4 9AT AWD (249 HP),Mild Hybrid,4,1998,249,365,9-speed automatic,All Wheel Drive,7.5,230,7.9,4371,1905,1648,2682,
+land-rover,Land Rover,Range Rover Evoque,Range Rover Evoque (2018),2018,2023,,2.0L Si4 9AT AWD (300 HP),Mild Hybrid,4,1998,300,400,9-speed automatic,All Wheel Drive,6.6,241,8.1,4371,1905,1648,2682,
+land-rover,Land Rover,Range Rover Evoque,Range Rover Evoque (2018),2018,2023,,2.0L D165 6MT FWD (163 HP),Mild Hybrid Diesel,4,1997,163,380,6-speed manual,Front Wheel Drive,10.1,206,5.3,4371,1905,1648,2682,
+land-rover,Land Rover,Range Rover Evoque,Range Rover Evoque (2018),2018,2023,,2.0L D165 9AT AWD (163 HP),Mild Hybrid Diesel,4,1997,163,380,9-speed automatic,All Wheel Drive,9.8,200,5.3,4371,1905,1648,2682,
+land-rover,Land Rover,Range Rover Evoque,Range Rover Evoque (2018),2018,2023,,2.0L D200 9AT AWD (204 HP),Mild Hybrid Diesel,4,1997,204,430,9-speed automatic,All Wheel Drive,8.5,212,5.2,4371,1905,1648,2682,
+land-rover,Land Rover,Range Rover Evoque,Range Rover Evoque (2018),2018,2023,,2.0L Sd4 9AT AWD (240 HP),Mild Hybrid Diesel,4,1999,240,500,9-speed automatic,All Wheel Drive,7.7,225,6.2,4371,1905,1648,2682,
+land-rover,Land Rover,Range Rover Evoque,Range Rover Evoque (2018),2018,2023,,2.0L Td4 9AT AWD (150 HP),Mild Hybrid Diesel,4,1999,150,380,9-speed automatic,All Wheel Drive,11.2,196,5.6,4371,1905,1648,2682,
+land-rover,Land Rover,Range Rover Evoque,Range Rover Evoque (2018),2018,2023,,2.0L Td4 9AT AWD (180 HP),Mild Hybrid Diesel,4,1999,180,430,9-speed automatic,All Wheel Drive,9.3,204,5.7,4371,1905,1648,2682,
+land-rover,Land Rover,Range Rover Evoque,Range Rover Evoque (2015),2015,2018,,2.0L Si4 4WD 9AT (240 HP),Gasoline,4,1999,240,340,9-speed automatic,All Wheel Drive,7.1,217,7.8,4371,1636,1984,2659,1657
+land-rover,Land Rover,Range Rover Evoque,Range Rover Evoque (2015),2015,2018,,2.0L eD4 2WD 6MT (150 HP),Diesel,4,1999,150,430,6-speed manual,Front Wheel Drive,10.6,182,4.3,4371,1636,1984,2659,1551
+land-rover,Land Rover,Range Rover Evoque,Range Rover Evoque (2015),2015,2018,,2.0L TD4 4WD 6MT (180 HP),Diesel,4,1999,180,430,6-speed manual,All Wheel Drive,9.5,200,4.7,4371,1636,1984,2659,1679
+land-rover,Land Rover,Range Rover Evoque,Range Rover Evoque (2015),2015,2018,,2.0L TD4 4WD 9AT (180 HP),Diesel,4,1999,180,430,9-speed automatic,All Wheel Drive,8.5,195,5.1,4371,1636,1984,2659,1690
+land-rover,Land Rover,Range Rover Evoque,Range Rover Evoque (2015),2015,2018,,2.0L Si4 4WD 9AT (240 HP),Gasoline,4,1999,240,340,9-speed automatic,All Wheel Drive,7.1,217,7.8,4371,1636,1984,2659,1657
+land-rover,Land Rover,Range Rover Evoque,Range Rover Evoque (2015),2015,2018,,2.0L eD4 2WD 6MT (150 HP),Diesel,4,1999,150,430,6-speed manual,Front Wheel Drive,10.6,182,4.1,4371,1636,1984,2659,1551
+land-rover,Land Rover,Range Rover Evoque,Range Rover Evoque (2015),2015,2018,,2.0L TD4 4WD 6MT (180 HP),Diesel,4,1999,180,430,6-speed manual,All Wheel Drive,9.5,200,4.7,4371,1636,1984,2659,1679
+land-rover,Land Rover,Range Rover Evoque,Range Rover Evoque (2015),2015,2018,,2.0L TD4 4WD 9AT (180 HP),Diesel,4,1999,180,430,9-speed automatic,All Wheel Drive,8.5,195,4.9,4371,1636,1984,2659,1690
+land-rover,Land Rover,Range Rover Evoque,Range Rover Evoque (2011),2011,2015,,2.0L Si4 4WD 6AT (240 HP),Gasoline,4,1999,241,340,6-speed automatic,All Wheel Drive,7.6,217,7.2,4369,1966,1605,2662,1640
+land-rover,Land Rover,Range Rover Evoque,Range Rover Evoque (2011),2011,2015,,2.0L Si4 4WD 9AT (240 HP),Gasoline,4,1999,241,340,9-speed automatic,All Wheel Drive,7.3,217,7.8,4369,1966,1605,2662,1640
+land-rover,Land Rover,Range Rover Evoque,Range Rover Evoque (2011),2011,2015,,2.2L 6MT FWD (150 HP),Diesel,4,2179,150,380,6-speed manual,Front Wheel Drive,11.2,180,4.1,4369,1966,1605,2662,1595
+land-rover,Land Rover,Range Rover Evoque,Range Rover Evoque (2011),2011,2015,,2.2L SD4 4WD 6AT (190 HP),Diesel,4,2179,190,420,6-speed automatic,All Wheel Drive,8.5,195,6.4,4369,1966,1605,2662,1685
+land-rover,Land Rover,Range Rover Evoque,Range Rover Evoque (2011),2011,2015,,2.2L SD4 4WD 6MT (190 HP),Diesel,4,2179,190,420,6-speed manual,All Wheel Drive,10,200,5.7,4369,1966,1605,2662,1670
+land-rover,Land Rover,Range Rover Evoque,Range Rover Evoque (2011),2011,2015,,2.2L SD4 4WD 9AT (190 HP),Diesel,4,2179,190,420,9-speed automatic,All Wheel Drive,6.8,214,5.8,4369,1966,1605,2662,1685
+land-rover,Land Rover,Range Rover Evoque,Range Rover Evoque (2011),2011,2015,,2.2L TD4 4WD 6AT (150 HP),Diesel,4,2179,150,400,6-speed automatic,All Wheel Drive,9.6,182,6.4,4369,1966,1605,2662,1685
+land-rover,Land Rover,Range Rover Evoque,Range Rover Evoque (2011),2011,2015,,2.2L TD4 4WD 6MT (150 HP),Diesel,4,2179,150,400,6-speed manual,All Wheel Drive,10.8,185,5.7,4369,1966,1605,2662,1670
+land-rover,Land Rover,Range Rover Evoque,Range Rover Evoque (2011),2011,2015,,2.0L Si4 4WD 6AT (240 HP),Gasoline,4,1999,241,340,6-speed automatic,All Wheel Drive,7.6,217,8.5,4369,1966,1641,2662,1670
+land-rover,Land Rover,Range Rover Evoque,Range Rover Evoque (2011),2011,2015,,2.0L Si4 4WD 9AT (240 HP),Gasoline,4,1999,241,340,9-speed automatic,All Wheel Drive,7.6,217,7.8,4369,1966,1641,2662,1670
+land-rover,Land Rover,Range Rover Evoque,Range Rover Evoque (2011),2011,2015,,2.2L 2WD 6MT (150 HP),Diesel,4,2179,150,380,6-speed manual,Front Wheel Drive,11.2,180,5,4369,1966,1641,2662,1625
+land-rover,Land Rover,Range Rover Evoque,Range Rover Evoque (2011),2011,2015,,2.2L SD4 4WD 6AT (190 HP),Diesel,4,2179,190,420,6-speed automatic,All Wheel Drive,8.5,195,6.5,4369,1966,1641,2662,1715
+land-rover,Land Rover,Range Rover Evoque,Range Rover Evoque (2011),2011,2015,,2.2L SD4 4WD 6MT (190 HP),Diesel,4,2179,190,420,6-speed manual,All Wheel Drive,10,200,5.7,4369,1966,1641,2662,1700
+land-rover,Land Rover,Range Rover Evoque,Range Rover Evoque (2011),2011,2015,,2.2L SD4 4WD 9AT (190 HP),Diesel,4,2179,190,420,9-speed automatic,All Wheel Drive,8.5,195,6,4369,1966,1641,2662,1685
+land-rover,Land Rover,Range Rover Evoque,Range Rover Evoque (2011),2011,2015,,2.2L TD4 4WD 6AT (150 HP),Diesel,4,2179,150,400,6-speed automatic,All Wheel Drive,9.6,182,6.5,4369,1966,1641,2662,1715
+land-rover,Land Rover,Range Rover Evoque,Range Rover Evoque (2011),2011,2015,,2.2L TD4 4WD 6MT (150 HP),Diesel,4,2179,150,400,6-speed manual,All Wheel Drive,10.8,185,5.7,4369,1966,1641,2662,1700
+land-rover,Land Rover,Range Rover Evoque,Range Rover Evoque Convertible (2016),2016,2018,,2.0L Si4 9AT AWD (240 HP),Gasoline,4,1999,240,340,9-speed automatic,All Wheel Drive,8.1,209,8.6,4369,1900,1608,2659,1936
+land-rover,Land Rover,Range Rover Evoque,Range Rover Evoque Convertible (2016),2016,2018,,2.0L TD4 9AT AWD (150 HP),Diesel,4,1998,150,380,9-speed automatic,All Wheel Drive,12,180,5.7,4369,1900,1608,2659,1967
+land-rover,Land Rover,Range Rover Evoque,Range Rover Evoque Convertible (2016),2016,2018,,2.0L TD4 9AT AWD (180 HP),Diesel,4,1998,180,430,9-speed automatic,All Wheel Drive,9.4,195,5.7,4369,1900,1608,2659,1967
+land-rover,Land Rover,Range Rover L,Range Rover L (2014),2014,2021,,5.0L SC V8 8AT AWD (510 HP),Gasoline,8,5000,510,625,8-speed Automatic Transmission with Terrain Response,All Wheel Drive,5.8,225,12.8,5276,4760,1839,3119,2413
+land-rover,Land Rover,Range Rover L,Range Rover L (2014),2014,2021,,3.0L TDV6 8AT AWD (258 HP),Diesel,6,2993,258,601,8-speed Automatic Transmission with Terrain Response,All Wheel Drive,8.3,338,7.5,5276,4760,1839,3119,
+land-rover,Land Rover,Range Rover L,Range Rover L (2014),2014,2021,,4.4L SDV8 8AT AWD (339 HP),Diesel,8,4367,340,700,8-speed Automatic Transmission with Terrain Response,All Wheel Drive,7.2,217,8.7,5276,4760,1839,3119,
+land-rover,Land Rover,Range Rover PHEV,Range Rover PHEV (2017),2017,2022,,2.0L P400e 8AT AWD (404 HP),Hybrid,4,1997,300,400,8-speed automatic,All Wheel Drive,6.6,220,2.8,5001,2073,1834,2992,2509
+land-rover,Land Rover,Range Rover PHEV,Range Rover PHEV (2013),2013,2017,,3.0L V6 8AT AWD (340 HP),Hybrid Diesel,6,2993,292,601,8-speed automatic,All Wheel Drive,6.9,217,6.4,4999,1984,1834,2921,2394
+land-rover,Land Rover,Range Rover Sport,Range Rover Sport (2023),2023,,,4.4L V8 MHEV 8AT AWD (635 HP),Mild Hybrid,8,4395,635,,8-speed automatic,All Wheel Drive,3.7,290,,,,,,
+land-rover,Land Rover,Range Rover Sport,Range Rover Sport (2023),2023,,,P550e 3.0L 8AT AWD (550 HP),Plug-in Hybrid,6,,550,800,8-speed automatic,All Wheel Drive,4.9,290,,,,,,
+land-rover,Land Rover,Range Rover Sport,Range Rover Sport (2022),2022,,,P530 4.4L V8 8AT AWD (530 HP),Gasoline,8,4395,530,750,8-speed automatic,All Wheel Drive,4.5,249,11.7,4945,2042,1824,2997,2430
+land-rover,Land Rover,Range Rover Sport,Range Rover Sport (2022),2022,,,D250 3.0L 8AT AWD (245 HP),Mild Hybrid Diesel,6,2997,245,600,8-speed automatic,All Wheel Drive,8,206,8.1,4945,2042,1824,2997,2315
+land-rover,Land Rover,Range Rover Sport,Range Rover Sport (2022),2022,,,D300 3.0L 8AT AWD (296 HP),Mild Hybrid Diesel,6,2997,296,650,8-speed automatic,All Wheel Drive,6.6,217,8.1,4945,2042,1824,2997,2315
+land-rover,Land Rover,Range Rover Sport,Range Rover Sport (2022),2022,,,D350 3.0L 8AT AWD (345 HP),Mild Hybrid Diesel,6,2997,345,700,8-speed automatic,All Wheel Drive,5.9,233,8,4945,2042,1824,2997,2360
+land-rover,Land Rover,Range Rover Sport,Range Rover Sport (2022),2022,,,P400 3.0L PHEV 8AT AWD (395 HP),Hybrid Gasoline,6,2996,395,500,8-speed automatic,All Wheel Drive,5.7,241,5.7,4945,2042,1824,2997,2310
+land-rover,Land Rover,Range Rover Sport,Range Rover Sport (2022),2022,,,P440e 3.0L PHEV 8AT AWD (434 HP),Hybrid Gasoline,6,2996,395,620,8-speed automatic,All Wheel Drive,5.8,225,0.9,4945,2042,1824,2997,2660
+land-rover,Land Rover,Range Rover Sport,Range Rover Sport (2022),2022,,,P510e 3.0L PHEV 8AT AWD (503 HP),Hybrid Gasoline,6,2996,503,700,8-speed automatic,All Wheel Drive,5.4,241,0.9,4945,2042,1824,2997,2660
+land-rover,Land Rover,Range Rover Sport,Range Rover Sport (2022),2022,,,P550e PHEV 8AT AWD (550 HP),Plug-in Hybrid,6,2997,550,,8-speed automatic,All Wheel Drive,4.9,241,11.7,4945,2042,1824,2997,2735
+land-rover,Land Rover,Range Rover Sport,Range Rover Sport (2019),2019,2022,,3.0L V6 AWD (400 HP),Gasoline,6,2995,400,450,,All Wheel Drive,7.1,209,,4849,2073,1781,2924,
+land-rover,Land Rover,Range Rover Sport,Range Rover Sport (2017),2017,2022,,2.0L 8AT AWD (240 HP),Diesel,4,1999,240,500,8-speed automatic,All Wheel Drive,8.3,208,6.2,4879,1984,1803,2924,2111
+land-rover,Land Rover,Range Rover Sport,Range Rover Sport (2017),2017,2022,,3.0L V6 8AT AWD (258 HP),Diesel,6,2993,258,600,8-speed automatic,All Wheel Drive,7.7,209,6.9,4879,1984,1803,2924,2134
+land-rover,Land Rover,Range Rover Sport,Range Rover Sport (2017),2017,2022,,3.0L V6 8AT AWD (306 HP),Diesel,6,2993,306,700,8-speed automatic,All Wheel Drive,7.3,209,7,4879,1984,1803,2924,2178
+land-rover,Land Rover,Range Rover Sport,Range Rover Sport (2013),2013,2017,,3.0L V6 SC 8AT AWD (340 HP),Gasoline,6,2995,340,450,8-speed automatic,All Wheel Drive,7.1,225,12.4,4849,2073,1781,2924,2144
+land-rover,Land Rover,Range Rover Sport,Range Rover Sport (2013),2013,2017,,5.0L SC V8 8AT AWD (510 HP),Gasoline,8,4999,510,625,8-speed automatic,All Wheel Drive,5.2,249,10.6,4849,2073,1781,2924,2310
+land-rover,Land Rover,Range Rover Sport,Range Rover Sport (2013),2013,2017,,5.0L SVR V8 8AT AWD (550 HP),Gasoline,8,4999,551,681,8-speed automatic,All Wheel Drive,4.7,261,12.8,4849,2073,1781,2924,2310
+land-rover,Land Rover,Range Rover Sport,Range Rover Sport (2013),2013,2017,,3.0L SDV6 8AT AWD (292 HP),Diesel,6,2993,292,601,8-speed automatic,All Wheel Drive,7.2,222,7.5,4849,2073,1781,2924,2115
+land-rover,Land Rover,Range Rover Sport,Range Rover Sport (2013),2013,2017,,3.0L SDV6 8AT AWD (306 HP),Diesel,6,2993,306,700,8-speed automatic,All Wheel Drive,7.2,225,7,4849,2073,1781,2924,2115
+land-rover,Land Rover,Range Rover Sport,Range Rover Sport (2013),2013,2017,,3.0L TDV6 8AT AWD (258 HP),Diesel,6,2993,258,601,8-speed automatic,All Wheel Drive,7.6,209,6.9,4849,2073,1781,2924,2115
+land-rover,Land Rover,Range Rover Sport,Range Rover Sport (2013),2013,2017,,3.0L TDV6 8AT AWD (258 HP) biturbo,Diesel,6,2993,258,601,8-speed automatic,All Wheel Drive,7.3,209,7.3,4849,2073,1781,2924,2115
+land-rover,Land Rover,Range Rover Sport,Range Rover Sport (2013),2013,2017,,4.4L TDV8 8AT AWD (340 HP),Diesel,8,4367,340,700,8-speed automatic,All Wheel Drive,6.9,225,,4849,2073,1781,2924,2398
+land-rover,Land Rover,Range Rover Sport,Range Rover Sport (2013),2013,2017,,3.0L Hybrid 8AT AWD (340 HP),Hybrid,6,2993,292,601,8-speed automatic,All Wheel Drive,6.7,225,6.4,4849,2073,1781,2924,2372
+land-rover,Land Rover,Range Rover Sport,Range Rover Sport (2009),2009,2013,,5.0L V8 6AT AWD (375 HP),Gasoline,8,4999.7,375,510,"6-speed, Automatic",All Wheel Drive,7.6,209,13.9,4783,2004,1783,2743,2489
+land-rover,Land Rover,Range Rover Sport,Range Rover Sport (2009),2009,2013,,5.0L V8 Supercharged 6AT AWD (510 HP),Gasoline,8,4999.7,510,625,"6-speed, Automatic",All Wheel Drive,6.2,225,14.9,4783,2004,1783,2743,2590
+land-rover,Land Rover,Range Rover Sport,Range Rover Sport (2009),2009,2013,,3.0L TDV6 6AT AWD (245 HP),Diesel,6,2993,245,601,6-speed automatic,All Wheel Drive,9.3,193,9.2,4783,2004,1783,2743,
+land-rover,Land Rover,Range Rover Sport,Range Rover Sport (2009),2009,2013,,3.0L TDV6 8AT AWD (211 HP),Diesel,6,2993,211,521,8-speed automatic transmission,All Wheel Drive,10.3,193,8.5,4971,2159,1783,2743,2535
+land-rover,Land Rover,Range Rover Sport,Range Rover Sport (2009),2009,2013,,3.0L TDV6 8AT AWD (256 HP),Diesel,6,2993,256,601,8-speed automatic transmission,All Wheel Drive,8.9,200,8.8,4971,2159,1783,2743,2535
+land-rover,Land Rover,Range Rover Sport,Range Rover Sport (2009),2009,2013,,3.6L TDV8 6AT AWD (272 HP),Diesel,8,3628,272,640,"6-speed, Automatic",All Wheel Drive,9.2,209,11.1,4783,2004,1783,2743,
+land-rover,Land Rover,Range Rover Sport,Range Rover Sport (2005),2005,2009,,4.2L V8 SC 6AT AWD (390 HP),Gasoline,8,4197,396,556,6-speed automatic,All Wheel Drive,7.6,225,16,4790,1930,1760,2741,2572
+land-rover,Land Rover,Range Rover Sport,Range Rover Sport (2005),2005,2009,,4.4L V8 6AT AWD (300 HP),Gasoline,8,4394,305,427,6-speed automatic,All Wheel Drive,8.9,209,14.9,4790,1930,1760,2741,2480
+land-rover,Land Rover,Range Rover Sport,Range Rover Sport (2005),2005,2009,,2.7L TDV6 6AT AWD (190 HP),Diesel,6,2720,190,440,6-speed automatic,All Wheel Drive,12.7,193,9.9,4790,1930,1760,2741,2455
+land-rover,Land Rover,Range Rover Sport,Range Rover Sport (2005),2005,2009,,3.6L TDV8 6AT AWD (272 HP),Diesel,8,3630,272,640,6-speed automatic,All Wheel Drive,9.2,209,11.1,4790,1930,1760,2741,2575
+land-rover,Land Rover,Range Rover Sport PHEV,Range Rover Sport PHEV (2017),2017,2022,,2.0L P400e 8AT AWD (404 HP),Plug-in Hybrid,4,2000,300,400,8-speed automatic,All Wheel Drive,6.7,220,2.8,4879,1984,1803,2924,2471
+land-rover,Land Rover,Range Rover Sport SVR,Range Rover Sport SVR (2017),2017,2022,,5.0L V8 8AT AWD (575 HP),Gasoline,8,5000,575,700,8-speed automatic,All Wheel Drive,4.5,283,12.8,4879,1984,1803,2924,2310
+land-rover,Land Rover,Range Rover Sport SVR,Range Rover Sport SVR (2015),2015,2017,,5.0L V8 8AT AWD (551 HP),Gasoline,8,4999,551,681,8-speed automatic,All Wheel Drive,4.7,261,12.8,4849,2073,1781,2924,2310
+land-rover,Land Rover,Range Rover Velar,Range Rover Velar (2023),2023,,,P400e (404 HP),,,,404,,,,,,,,,,,
+land-rover,Land Rover,Range Rover Velar,Range Rover Velar (2017),2017,2023,,P 250 2.0L 8AT AWD (250 HP),Gasoline,4,1997,250,365,8-speed automatic,All Wheel Drive,6.7,217,7.6,4803,2032,1666,2873,1804
+land-rover,Land Rover,Range Rover Velar,Range Rover Velar (2017),2017,2023,,P 380 3.0L V6 8AT AWD (380 HP),Gasoline,6,2995,380,450,8-speed automatic,All Wheel Drive,5.7,249,9.4,4803,2032,1666,2873,1884
+land-rover,Land Rover,Range Rover Velar,Range Rover Velar (2017),2017,2023,,P250 8AT AWD (250 HP),Gasoline,4,1997,250,365,8-speed automatic,All Wheel Drive,7.5,217,7.7,4803,2032,1666,2873,1950
+land-rover,Land Rover,Range Rover Velar,Range Rover Velar (2017),2017,2023,,D 180 2.0L 8AT AWD (180 HP),Diesel,4,1999,180,430,8-speed automatic,All Wheel Drive,8.9,209,5.4,4803,2032,1666,2873,1829
+land-rover,Land Rover,Range Rover Velar,Range Rover Velar (2017),2017,2023,,D 200 2.0L 8AT AWD (204 HP),Diesel,4,1997,204,430,8-speed automatic,All Wheel Drive,8.2,209,,4803,2032,1666,2873,1946
+land-rover,Land Rover,Range Rover Velar,Range Rover Velar (2017),2017,2023,,D 240 2.0L 8AT AWD (240 HP),Diesel,4,1999,240,500,8-speed automatic,All Wheel Drive,7.3,217,5.8,4803,2032,1666,2873,1841
+land-rover,Land Rover,Range Rover Velar,Range Rover Velar (2017),2017,2023,,D 300 3.0L 8AT AWD (300 HP),Diesel,6,2996,300,650,8-speed automatic,All Wheel Drive,6.5,230,,4803,2032,1666,2873,2068
+land-rover,Land Rover,Range Rover Velar,Range Rover Velar (2017),2017,2023,,P 340 3.0L V6 8AT AWD (300 HP),Diesel,6,2993,300,700,8-speed automatic,All Wheel Drive,6.5,241,6.4,4803,2032,1666,2873,1959
+land-rover,Land Rover,Range Rover Velar,Range Rover Velar (2017),2017,2023,,D 200 2.0L 8AT AWD (204 HP),Mild Hybrid Diesel,4,1997,204,430,8-speed automatic,All Wheel Drive,8.2,209,5.3,4803,2032,1666,2873,2003
+land-rover,Land Rover,Range Rover Velar,Range Rover Velar (2017),2017,2023,,D 300 3.0L 8AT AWD (300 HP),Mild Hybrid Diesel,6,2996,300,650,8-speed automatic,All Wheel Drive,6.5,230,6.9,4803,2032,1666,2873,2124
+land-rover,Land Rover,Range Rover Velar,Range Rover Velar (2017),2017,2023,,P340 8AT AWD (340 HP),Mild Hybrid,6,2995,340,480,8-speed automatic,All Wheel Drive,6.3,240,,4803,2032,1666,2873,
+land-rover,Land Rover,Range Rover Velar,Range Rover Velar (2017),2017,2023,,P400 8AT AWD (400 HP),Mild Hybrid,6,2995,400,550,8-speed automatic,All Wheel Drive,5.5,249,8.9,4803,2032,1666,2873,2085
+land-rover,Land Rover,Range Rover Velar,Range Rover Velar (2017),2017,2023,,P400e 8AT AWD (404 HP),Mild Hybrid,4,1997,404,640,8-speed automatic,All Wheel Drive,5.4,240,2.3,4803,2032,1666,2873,2158
+lexus,Lexus,CT,CT (2017),2017,2022,,200h (136 HP),Hybrid,4,1798,99,142,eCVT,Front Wheel Drive,10.3,180,3.8,,,,,1385
+lexus,Lexus,CT,CT (2014),2014,2017,,1.8L e-CVT (136 HP),Hybrid,4,1798,99,142,eCVT,Front Wheel Drive,10.1,182,3.8,4351,1765,1455,2601,1385
+lexus,Lexus,CT,CT (2011),2011,2014,,200h F Sport e-CVT FWD (99 HP),Gasoline,4,1798,99,142,eCVT,Front Wheel Drive,10.3,182,4.1,4321,1765,1440,2601,1440
+lexus,Lexus,CT,CT (2011),2011,2014,,200h e-CVT FWD (136 HP),Hybrid Gasoline,4,1798,99,142,eCVT,Front Wheel Drive,10.3,182,3.8,4321,1765,1430,2601,1370
+lexus,Lexus,ES,ES (2025),2025,,,300h CVT FWD (197 HP),Hybrid Gasoline,4,,197,,CVT,Front Wheel Drive,9.4,,,5141,1920,1554,2949,
+lexus,Lexus,ES,ES (2025),2025,,,300h CVT FWD (201 HP),Hybrid Gasoline,4,,201,,CVT,Front Wheel Drive,8.3,,,5141,1920,1554,2949,
+lexus,Lexus,ES,ES (2025),2025,,,350h CVT AWD (247 HP),Hybrid Gasoline,4,,247,,CVT,All Wheel Drive,7.8,,,5141,1920,1554,2949,
+lexus,Lexus,ES,ES (2025),2025,,,350h CVT FWD (247 HP),Hybrid Gasoline,4,,247,,CVT,Front Wheel Drive,7.8,,,5141,1920,1554,2949,
+lexus,Lexus,ES,ES (2023),2023,2025,,250 8AT AWD (203 HP),Gasoline,,,203,,,,,,,,,,,
+lexus,Lexus,ES,ES (2023),2023,2025,,350 V6 8AT FWD (306 HP),Gasoline,6,3456,306,362,8-speed automatic DCT,Front Wheel Drive,,,,,,,,
+lexus,Lexus,ES,ES (2023),2023,2025,,300h e-CVT FWD (215 HP),Hybrid Gasoline,,,215,,,,,,,,,,,
+lexus,Lexus,ES,ES (2021),2021,2023,,250 8AT AWD (203 HP),Gasoline,4,2487,203,249,8-speed automatic DCT,All Wheel Drive,8.6,211,8.4,4976,1864,1445,2870,1715
+lexus,Lexus,ES,ES (2021),2021,2023,,350 V6 8AT FWD (306 HP),Gasoline,6,3456,306.2,362,8-speed automatic DCT,Front Wheel Drive,6.6,211,9.9,4976,1864,1445,2870,1655
+lexus,Lexus,ES,ES (2021),2021,2023,,300h e-CVT FWD (215 HP),Hybrid Gasoline,4,2487,176,221,e-CVT,Front Wheel Drive,8.4,180,5.3,4976,1864,1445,2870,1670
+lexus,Lexus,ES,ES (2018),2018,2021,,250 8AT FWD (215 HP),Gasoline,4,2449,215,,8-speed automatic,Front Wheel Drive,,,,4973,1867,1445,2870,1660
+lexus,Lexus,ES,ES (2018),2018,2021,,350 F Sport 8AT FWD (302 HP),Gasoline,6,3696,302,,8-speed automatic,Front Wheel Drive,,,,4973,1867,1445,2870,1660
+lexus,Lexus,ES,ES (2018),2018,2021,,350 V6 8AT FWD (248 HP),Gasoline,6,3456,248.8,,8-speed automatic,Front Wheel Drive,,,4.7,4973,1867,1445,2870,1660
+lexus,Lexus,ES,ES (2018),2018,2021,,300h eCVT FWD (218 HP),Hybrid Gasoline,4,2487,178,221,eCVT,Front Wheel Drive,8.4,180,5.3,4973,1867,1445,2870,1660
+lexus,Lexus,ES,ES (2016),2016,2018,,350 6AT FWD (268 HP),Gasoline,6,3456,271.7,336,6-speed automatic (ECT-i),Front Wheel Drive,7.3,209,9.8,4910,1821,1450,2819,1620
+lexus,Lexus,ES,ES (2016),2016,2018,,300h eCVT FWD (200 HP),Hybrid,4,2494,202.8,,eCVT,Front Wheel Drive,8.4,180,5.9,4910,1821,1450,2819,1660
+lexus,Lexus,ES,ES (2012),2012,2015,,250 6AT FWD (184 HP),Gasoline,4,2494,184,235,"6-speed, Automatic",Front Wheel Drive,9.8,198,7.9,4895,1821,1450,2819,1660
+lexus,Lexus,ES,ES (2012),2012,2015,,350 6AT FWD (268 HP),Gasoline,6,3458,268,336,"6-speed, Automatic",Front Wheel Drive,7.3,209,9.8,4895,1821,1450,2819,1610
+lexus,Lexus,ES,ES (2012),2012,2015,,300h CVT FWD (200 HP),Hybrid,4,2494,160,213,Continuously variable automatic transmission,Front Wheel Drive,7.9,180,5.9,4895,1821,1450,2819,1679
+lexus,Lexus,ES,ES (2006),2006,2012,,350 6AT (276 HP),Gasoline,6,3456,276,344,6-speed automatic,Front Wheel Drive,6.8,221,,4854,1821,1455,2776,1624
+lexus,Lexus,ES,ES (2002),2002,2006,,300 V6 5AT FWD (213 HP),Gasoline,6,2994,213,299,5-speed automatic,Front Wheel Drive,8.1,225,10.2,4854,1811,1455,2720,1520
+lexus,Lexus,ES,ES (2002),2002,2006,,330 V6 5AT FWD (228 HP),Gasoline,6,3311,228,325,5-speed automatic,Front Wheel Drive,7.2,230,,4854,1811,1455,2720,1575
+lexus,Lexus,GS,GS (2015),2015,2020,,200t 8AT RWD (244 HP),Gasoline,4,1998,244,350,8-speed automatic,Rear Wheel Drive,7.6,230,9,4879,1839,1455,2850,1726
+lexus,Lexus,GS,GS (2015),2015,2020,,350 8AT AWD (315 HP),Gasoline,6,3456,315,380,8-speed automatic,All Wheel Drive,6,209,10.7,4879,1839,1455,2850,1765
+lexus,Lexus,GS,GS (2015),2015,2020,,350 8AT RWD (315 HP),Gasoline,6,3456,315,380,8-speed automatic,Rear Wheel Drive,5.9,230,10.2,4879,1839,1455,2850,1690
+lexus,Lexus,GS,GS (2015),2015,2020,,450h V6 eCVT RWD (345 HP),Hybrid,6,3456,293,352,e-CVT,Rear Wheel Drive,5.9,249,6.2,4879,1839,1455,2850,1800
+lexus,Lexus,GS,GS (2015),2015,2020,,300h eCVT RWD (223 HP),Hybrid Gasoline,4,2494,181,221,e-CVT,Rear Wheel Drive,9.2,190,5,4879,1839,1455,2850,1710
+lexus,Lexus,GS,GS (2012),2012,2015,,250 6AT RWD (209 HP),Gasoline,6,2500,209,254,6-speed automatic (ECT-i),Rear Wheel Drive,8.6,225,8.9,4849,1839,1455,2850,1640
+lexus,Lexus,GS,GS (2012),2012,2015,,350 AWD 6AT (310 HP),Gasoline,6,3456,310,376,6-speed automatic (ECT-i),All Wheel Drive,6.2,211,19.6,4844,1821,1425,2850,1755
+lexus,Lexus,GS,GS (2012),2012,2015,,350 RWD 6AT (310 HP),Gasoline,6,3456,310,376,6-speed automatic (ECT-i),All Wheel Drive,5.9,229,21.4,4844,1821,1425,2850,1680
+lexus,Lexus,GS,GS (2012),2012,2015,,460 8AT RWD (347 HP),Gasoline,8,4608,347,460,8-speed automatic (ECT-i),Rear Wheel Drive,5.8,249,19.6,4844,1821,1425,2850,1740
+lexus,Lexus,GS,GS (2012),2012,2015,,300h eCVT RWD (223 HP),Hybrid Gasoline,4,2494,181,221,eCVT,Rear Wheel Drive,9.2,190,4.7,4850,1840,1455,2850,1735
+lexus,Lexus,GS,GS (2012),2012,2015,,450h eCVT RWD (345 HP),Hybrid Gasoline,6,3500,290,344,eCVT,Rear Wheel Drive,5.9,249,6.1,4850,1840,1455,2850,1825
+lexus,Lexus,GS,GS (2008),2008,2011,,300 V6 6AT RWD (249 HP),Gasoline,6,2995,249,309,6-speed automatic,Rear Wheel Drive,7.2,240,9.6,4826,1821,1425,2850,1695
+lexus,Lexus,GS,GS (2008),2008,2011,,350 V6 6AT AWD (305 HP),Gasoline,6,3456,305,367,6-speed automatic,All Wheel Drive,5.6,245,10.6,4826,1821,1425,2850,1705
+lexus,Lexus,GS,GS (2008),2008,2011,,350 V6 6AT RWD (305 HP),Gasoline,6,3456,305,367,6-speed automatic,Rear Wheel Drive,5.7,249,11.1,4826,1821,1425,2850,1721
+lexus,Lexus,GS,GS (2008),2008,2011,,460 V8 8AT RWD (347 HP),Gasoline,8,4608,347,460,8-speed automatic,Rear Wheel Drive,5.8,249,11,4826,1821,1425,2850,1789
+lexus,Lexus,GS,GS (2008),2008,2011,,450h V6 eCVT RWD (345 HP),Hybrid,6,3456,296,367,ECVT,Rear Wheel Drive,5.9,249,7.9,4826,1821,1425,2850,1840
+lexus,Lexus,GS,GS (2005),2005,2008,,300 V6 6AT RWD (231 HP),Gasoline,6,2994,231,300,6-speed automatic,Rear Wheel Drive,7.2,230,9.8,4826,1821,1425,2850,1605
+lexus,Lexus,GS,GS (2005),2005,2008,,300 V6 6AT RWD (249 HP),Gasoline,6,2995,249,300,6-speed automatic,Rear Wheel Drive,6.8,230,9.8,4826,1821,1425,2850,1605
+lexus,Lexus,GS,GS (2005),2005,2008,,350 V6 6AT RWD (315 HP),Gasoline,6,3456,315,377,6-speed automatic,Rear Wheel Drive,5.6,240,10,4826,1821,1430,2850,1640
+lexus,Lexus,GS,GS (2005),2005,2008,,430 V8 6AT RWD (283 HP),Gasoline,8,4292,283,417,6-speed automatic,Rear Wheel Drive,6.1,240,11.4,4826,1821,1425,2850,1695
+lexus,Lexus,GS,GS (2005),2005,2008,,430 V8 6AT RWD (305 HP),Gasoline,8,4292,282.9,417,6-speed automatic,Rear Wheel Drive,6.1,249,11.4,4826,1821,1425,2850,1700
+lexus,Lexus,GS,GS (2005),2005,2008,,350H V6 CVT RWD (339 HP),Hybrid Gasoline,6,3456,292,362,CVT,Rear Wheel Drive,5.4,211,,4826,1821,1425,2850,1890
+lexus,Lexus,GS,GS (2000),2000,2005,,300 5AT RWD (220 HP),Gasoline,6,2997,220,294,5-Speed manual,Rear Wheel Drive,7.6,230,11.1,4800,1800,1440,2800,1670
+lexus,Lexus,GS,GS (2000),2000,2005,,430 V8 5AT RWD (283 HP),Gasoline,8,4293,283,417,5-speed automatic,Rear Wheel Drive,6.3,250,12.3,4801,1801,1440,2799,1745
+lexus,Lexus,GS,GS (1997),1997,2000,,300 5AT RWD (222 HP),Gasoline,6,2997,222,298,5-speed automatic,Rear Wheel Drive,8.2,230,11.4,4801,1801,1440,2799,1730
+lexus,Lexus,GS,GS (1997),1997,2000,,400 V8 5AT RWD (294 HP),Gasoline,8,3969,294,420,5-speed automatic,Rear Wheel Drive,5.7,249,11.4,4801,1801,1440,2799,1730
+lexus,Lexus,GS,GS (1993),1993,1997,,300 L6 4AT RWD (212 HP),Gasoline,6,2997,212,275,4-Speed automatic,Rear Wheel Drive,8.8,230,10.4,4960,1800,1420,2780,1675
+lexus,Lexus,GS F,GS F (2015),2015,2020,,5.0L V8 8AT RWD (467 HP),Gasoline,8,4969,467,527,8-speed automatic,Rear Wheel Drive,,,,4915,1844,1440,2850,1830
+lexus,Lexus,GX,GX (2023),2023,,,3.5L V6 10AT (354 HP),Gasoline,6,,354,,10-speed automatic,All Wheel Drive,,,,,,,,
+lexus,Lexus,GX,GX (2019),2019,2023,,4.6L V8 (301 HP),Gasoline,6,,301,446,,All Wheel Drive,,,,,,,,
+lexus,Lexus,GX,GX (2013),2013,2019,,4.6 V8 6AT (305 HP),Gasoline,8,4600,305,445,"6-speed, Automatic",All Wheel Drive,,,13.8,4879,1885,1885,2789,2326
+lexus,Lexus,GX,GX (2010),2010,2013,,460 6AT (305 HP),Gasoline,8,4608,301,446,6-speed automatic,All Wheel Drive,8.2,177,13.8,4806,1885,1844,2789,2406
+lexus,Lexus,GX,GX (2003),2003,2009,,470 V8 5AT AWD (235 HP),Gasoline,8,4664,235,434,5-speed automatic,All Wheel Drive,8.5,180,15.7,4780,1880,1895,2789,2150
+lexus,Lexus,HS,HS (2009),2009,2013,,2.4L Hybrid CVT FWD (190 HP),Hybrid Gasoline,4,2362,150,187,CVT,Front Wheel Drive,8.7,180,6.7,4694,1786,1506,2700,1660
+lexus,Lexus,IS,IS (2025),2025,,,3.5L V6 6AT AWD (315 HP),Gasoline,6,,315,380,6-speed automatic,All Wheel Drive,,,,,,,,
+lexus,Lexus,IS,IS (2025),2025,,,3.5L V6 8AT RWD (315 HP),Gasoline,6,,315.3,380,8-speed automatic Sport direct shift,Rear Wheel Drive,,,,,,,,
+lexus,Lexus,IS,IS (2020),2020,,,2.0L 8AT RWD (241 HP),Gasoline,4,,241,350,8-speed automatic,Rear Wheel Drive,7.1,230,,4709,1839,1435,2799,1625
+lexus,Lexus,IS,IS (2020),2020,,,3.5L V6 8AT AWD (260 HP),Gasoline,6,1998,241,320,8-speed automatic,All Wheel Drive,,,,4709,1839,1435,2799,
+lexus,Lexus,IS,IS (2020),2020,,,3.5L V6 8AT AWD (311 HP),Gasoline,6,3456,311,380,8-speed automatic,All Wheel Drive,6.3,,,4709,1839,1435,2799,3737
+lexus,Lexus,IS,IS (2020),2020,,,3.5L V6 8AT RWD (311 HP),Gasoline,6,3456,311,380,8-speed automatic,Rear Wheel Drive,6.3,,,4709,1839,1435,2799,3737
+lexus,Lexus,IS,IS (2020),2020,,,F Sport 5.0L V8 8AT RWD (472 HP),Gasoline,8,,472,536,8-speed automatic,Rear Wheel Drive,6.3,,,4709,1839,1435,2799,
+lexus,Lexus,IS,IS (2016),2016,2020,,200t 8AT AWD (241 HP),Gasoline,4,1999,244,350,8-speed automatic,All Wheel Drive,7.2,230,7,4666,1811,1430,2799,1680
+lexus,Lexus,IS,IS (2016),2016,2020,,200t 8AT RWD (241 HP),Gasoline,4,1999,244,350,8-speed automatic,Rear Wheel Drive,7.2,230,7,4666,1811,1430,2799,1590
+lexus,Lexus,IS,IS (2016),2016,2020,,300 6AT AWD (255 HP),Gasoline,6,3499,259,320,6-speed automatic,All Wheel Drive,,,,4666,1811,1430,2799,
+lexus,Lexus,IS,IS (2016),2016,2020,,350 8AT AWD (306 HP),Gasoline,6,3499,310,376,8-speed automatic,Rear Wheel Drive,,,,4666,1811,1430,2799,
+lexus,Lexus,IS,IS (2016),2016,2020,,350 8AT RWD (306 HP),Gasoline,6,3499,310,376,8-speed automatic,Rear Wheel Drive,,,,4666,1811,1430,2799,
+lexus,Lexus,IS,IS (2016),2016,2020,,300h eCVT (223 HP),Hybrid,4,2494,223,221,eCVT,Front Wheel Drive,8.6,200,4.3,118872,52629,36322,2799,1680
+lexus,Lexus,IS,IS (2013),2013,2016,,250 V6 AWD 6AT (204 HP) (US),Gasoline,6,2494,204,251,6-speed automatic,All Wheel Drive,8.6,211,10.2,4666,1811,1430,2799,1655
+lexus,Lexus,IS,IS (2013),2013,2016,,250 V6 RWD 6AT (204 HP) (US),Gasoline,6,2494,204,251,6-speed automatic,Rear Wheel Drive,8,225,9.8,4666,1811,1430,2799,1570
+lexus,Lexus,IS,IS (2013),2013,2016,,250 V6 RWD 6AT (207 HP) (EU),Gasoline,6,2494,207,249,6-speed automatic,Rear Wheel Drive,8.1,225,6.7,4666,1811,1430,2799,1555
+lexus,Lexus,IS,IS (2013),2013,2016,,350 V6 AWD 8AT (310 HP),Gasoline,6,3499,310,376,8-speed automatic,All Wheel Drive,5.9,211,11.2,4666,1811,1430,2799,1695
+lexus,Lexus,IS,IS (2013),2013,2016,,350 V6 RWD 8AT (310 HP),Gasoline,6,3499,310,376,8-speed automatic,Rear Wheel Drive,5.8,230,10.7,4666,1811,1430,2799,1630
+lexus,Lexus,IS,IS (2013),2013,2016,,300h,Hybrid Gasoline,4,2494,181,216,e-CVT,Rear Wheel Drive,8.3,200,4.3,4666,1811,1430,2799,1620
+lexus,Lexus,IS,IS (2012),2012,2014,,5.0L V8 8AT (422 HP),Gasoline,8,4965,422,503,8-speed direct shift automatic,Rear Wheel Drive,4.8,274,13.1,4661,1816,1415,2731,1715
+lexus,Lexus,IS,IS (2009),2009,2013,,250 6AT RWD (204 HP),Gasoline,6,2500,207,251,6-speed automatic,Rear Wheel Drive,8.4,216,10.7,4636,1801,1420,2731,1742
+lexus,Lexus,IS,IS (2009),2009,2013,,350 6AT RWD (306 HP),Gasoline,6,3500,310,376,6-speed automatic,Rear Wheel Drive,5.8,227,10.9,4636,1801,1420,2731,1760
+lexus,Lexus,IS,IS (2008),2008,2012,,5.0L V8 8AT RWD (423 HP),Gasoline,8,4969,423,505,8-speed automatic,Rear Wheel Drive,4.8,270,11.4,4658,1819,1420,2728,1675
+lexus,Lexus,IS,IS (2005),2005,2012,,250 V6 6MT RWD (208 HP),Gasoline,6,2499,208,251,6-speed manual,Rear Wheel Drive,8.1,230,9.8,4575,1801,1425,2731,1570
+lexus,Lexus,IS,IS (2005),2005,2012,,350 V6 6AT RWD (310 HP),Gasoline,6,3456,310,376,6-automatic speed,Rear Wheel Drive,5.6,229,9.8,4575,1801,1425,2731,1599
+lexus,Lexus,IS,IS (2005),2005,2012,,220 D 6MT RWD (177 HP),Diesel,4,2231,177,400,6-speed manual,Rear Wheel Drive,8.9,215,6.3,4575,1801,1425,2731,1585
+lexus,Lexus,IS,IS (2001),2001,2005,,200 6MT RWD (155 HP),Gasoline,6,1988,155,195,6-Speed manual,Rear Wheel Drive,9.5,215,9.8,4501,1720,1430,2670,1405
+lexus,Lexus,IS,IS (2001),2001,2005,,300 5AT RWD (214 HP),Gasoline,6,2997,213,288,5-speed automatic,Rear Wheel Drive,8.4,230,11.2,4501,1720,1430,2670,1515
+lexus,Lexus,IS,IS (1998),1998,2005,,200 6MT RWD (155 HP),Gasoline,6,1988,155,195,6-Speed manual,Rear Wheel Drive,9.5,215,9.8,4399,1720,1420,2670,1355
+lexus,Lexus,IS,IS (1998),1998,2005,,250 6AT RWD (207 HP),Gasoline,4,2231,207,252,6-speed automatic,Rear Wheel Drive,8.5,225,10.8,4399,1720,1420,2670,1475
+lexus,Lexus,IS,IS (1998),1998,2005,,250 6MT RWD (207 HP),Gasoline,4,2231,207,252,6-Speed manual,Rear Wheel Drive,8.7,220,10.8,4399,1720,1420,2670,1475
+lexus,Lexus,IS,IS (1998),1998,2005,,300 5AT RWD (215 HP),Gasoline,6,2997,213,288,5-speed automatic,Rear Wheel Drive,8.2,230,10.8,4399,1720,1420,2670,1475
+lexus,Lexus,IS,IS (1998),1998,2005,,220d 6AT RWD (177 HP),Diesel,4,2231,177,400,6-speed automatic,Rear Wheel Drive,9.2,216,10.8,4399,1720,1420,2670,1475
+lexus,Lexus,LBX,LBX (2023),2023,,,Morizo RR 1.6L 6MT AWD (304 HP),Gasoline,3,1618,304,400,6-manual speed iMT,All Wheel Drive,5.2,,8,4191,1826,1544,2581,
+lexus,Lexus,LBX,LBX (2023),2023,,,Morizo RR 1.6L 8AT AWD (304 HP),Gasoline,3,1618,304,400,8-speed automatic Direct shift,All Wheel Drive,5.2,,9.4,4191,1826,1544,2581,
+lexus,Lexus,LBX,LBX (2023),2023,,,1.5L e-CVT FWD (136 HP),Hybrid Gasoline,3,1490,91,120,e-CVT,Front Wheel Drive,9.2,171,4.3,4191,1826,1544,2581,
+lexus,Lexus,LBX,LBX (2023),2023,,,1.5L E-Four e-CVT AWD (136 HP),Hybrid Gasoline,3,1490,91,120,e-CVT,All Wheel Drive,9.6,171,4.8,4191,1826,1544,2581,
+lexus,Lexus,LC,LC (2021),2021,,,5.0L V8 10AT RWD (471 HP),Gasoline,8,4998,471,540,10-Speed automatic,Rear Wheel Drive,4.8,270,13.1,4760,1920,1349,2870,
+lexus,Lexus,LC,LC (2016),2016,2025,,500 V8 10AT RWD (475 HP),Gasoline,8,4968,475,530,10-speed automatic,Rear Wheel Drive,4.7,270,11.5,4760,1920,1346,2870,1935
+lexus,Lexus,LC,LC (2016),2016,2025,,500h eCVT+4AT RWD (360 HP),Hybrid Gasoline,6,3456,300,348,eCVT+4AT,Rear Wheel Drive,5,249,6.4,4760,1920,1346,2870,2012
+lexus,Lexus,LFA,LFA (2010),2010,2013,,4.8L V10 6AT RWD (560 HP),Gasoline,10,4805,560,480,6-speed automatic,Rear Wheel Drive,3.7,325,19.6,4496,1895,1219,2606,1480
+lexus,Lexus,LM,LM (2023),2023,,,2.5L AWD (250 HP),Hybrid Gasoline,4,2487,250,239,Hybrid transaxle,All Wheel Drive,,190,,5131,1859,1946,3000,
+lexus,Lexus,LS,LS (2020),2020,,,500 3.5L V6 10AT AWD (416 HP),Gasoline,6,3455,416,599,10-Speed automatic,All Wheel Drive,4.8,219,11.2,5235,1900,1450,3124,2240
+lexus,Lexus,LS,LS (2020),2020,,,500 3.5L V6 10AT RWD (416 HP),Gasoline,6,3455,416,599,10-Speed automatic,Rear Wheel Drive,4.8,219,10.2,5235,1900,1450,3124,2150
+lexus,Lexus,LS,LS (2017),2017,2020,,3.5L V6 10AT (416 HP) AWD,Gasoline,6,3456,416,599,10-speed automatic,Rear Wheel Drive,4.6,219,10.2,5235,1900,1461,3124,2310
+lexus,Lexus,LS,LS (2017),2017,2020,,3.5L V6 10AT (416 HP) RWD,Gasoline,6,3456,416,599,10-speed automatic,Rear Wheel Drive,4.6,219,10.2,5235,1900,1461,3124,2310
+lexus,Lexus,LS,LS (2017),2017,2020,,500h V6 4AT (354 HP) AWD,Hybrid,6,3456,354,0,4-speed automatic,All Wheel Drive,5.2,219,9,5235,1900,1461,3124,
+lexus,Lexus,LS,LS (2017),2017,2020,,500h V6 4AT (354 HP) RWD,Hybrid,6,3456,354,,4-speed automatic,Rear Wheel Drive,5.1,219,8.4,5235,1900,1461,3124,2310
+lexus,Lexus,LS,LS (2017),2017,2020,,500h V6 4AT AWD (369 HP),Hybrid,6,3456,299,350,4-speed automatic,All Wheel Drive,5.5,249,7,5235,1900,1471,3124,2310
+lexus,Lexus,LS,LS (2012),2012,2017,,460 F SPORT 8AT RWD (390 HP),Gasoline,8,4608,390,500,8-speed automatic,Rear Wheel Drive,5.4,209,12.4,5090,1875,1455,2969,1980
+lexus,Lexus,LS,LS (2012),2012,2017,,460 F V8 SPORT AWD (360 HP),Gasoline,8,4608,360,470,8-speed automatic,All Wheel Drive,6,209,13.1,5090,1875,1476,2969,2120
+lexus,Lexus,LS,LS (2012),2012,2017,,460 L V8 8AT AWD (360 HP),Gasoline,8,4608,360,470,8-speed automatic,All Wheel Drive,6,209,13.1,5210,1875,1476,3091,2130
+lexus,Lexus,LS,LS (2012),2012,2017,,460 L V8 8AT RWD (390 HP),Gasoline,8,4608,390,500,8-speed automatic,Rear Wheel Drive,5.6,209,12.4,5210,1875,1476,3091,1940
+lexus,Lexus,LS,LS (2012),2012,2017,,460 V8 8AT AWD (360 HP),Gasoline,8,4608,360,470,8-speed automatic,All Wheel Drive,6,209,13.1,5090,1875,1476,2969,1940
+lexus,Lexus,LS,LS (2012),2012,2017,,460 V8 8AT RWD (390 HP),Gasoline,8,4608,390,500,Eight-speed sequential-shift automatic Electronically Controlled Transmission with intelligence (ECT-i),Rear Wheel Drive,5.6,209,12.4,5090,1875,1476,2969,1920
+lexus,Lexus,LS,LS (2012),2012,2017,,600h L CVT AWD (445 HP),Hybrid,8,4969,394,522,lectronically controlled Continuously Variable Transmission (ECVT) with two-speed reduction and Snow mode,All Wheel Drive,5.8,209,11.8,5207,1875,1481,3091,2320
+lexus,Lexus,LS,LS (2009),2009,2012,,460 8AT RWD (380 HP),Gasoline,8,4608,379,498,8-speed automatic,Rear Wheel Drive,5.7,249,11.1,5060,1875,1476,2969,1925
+lexus,Lexus,LS,LS (2009),2009,2012,,460 Long 8AT RWD (380 HP),Gasoline,8,4608,379,498,8-speed automatic,Rear Wheel Drive,5.7,249,11.1,5179,1875,1476,3091,2040
+lexus,Lexus,LS,LS (2009),2009,2012,,600h eCVT AWD (445 HP),Hybrid,8,4969,394,521,ECVT,All Wheel Drive,6.1,249,8.6,5090,1875,1476,3091,2360
+lexus,Lexus,LS,LS (2009),2009,2012,,600h Long eCVT AWD (445 HP),Hybrid,8,4969,394,521,ECVT,All Wheel Drive,6.3,249,11.2,5179,1875,1476,3091,2400
+lexus,Lexus,LS,LS (2006),2006,2009,,460 (LWB) V8 8AT RWD (380 HP),Gasoline,8,4608,381,493,8-Speed automatic,Rear Wheel Drive,5.7,249,10.8,5149,1880,1481,3089,1965
+lexus,Lexus,LS,LS (2006),2006,2009,,460 V8 8AT RWD (380 HP),Gasoline,8,4608,381,493,8-Speed automatic,Rear Wheel Drive,5.7,249,11.1,5029,1880,1461,2969,1945
+lexus,Lexus,LS,LS (2006),2006,2009,,600h (LWB) V8 8AT RWD (445 HP),Hybrid Gasoline,8,4969,394,521,8-Speed automatic,Rear Wheel Drive,6.3,249,9.3,5149,1880,1481,3089,2320
+lexus,Lexus,LS,LS (2006),2006,2009,,600h V8 8AT RWD (445 HP),Hybrid Gasoline,8,4969,394,521,8-Speed automatic,Rear Wheel Drive,6.3,249,9.3,5029,1880,1461,2969,2270
+lexus,Lexus,LS,LS (2003),2003,2006,,430 6AT (242 HP),Gasoline,8,4293,282,417,6-speed automatic,Rear Wheel Drive,6.3,250,11.4,5019,1829,1471,2921,1815
+lexus,Lexus,LS,LS (2000),2000,2003,,430 V8 5AT (281 HP),Gasoline,8,4293,281,417,5-speed automatic,Rear Wheel Drive,6.7,250,12.1,4999,1829,1471,2921,1830
+lexus,Lexus,LS,LS (1997),1997,2000,,400 V8 5AT (284 HP),Gasoline,8,3969,284,398,5-speed automatic,Rear Wheel Drive,6.9,250,12.2,4999,1829,1440,2850,1755
+lexus,Lexus,LS,LS (1995),1995,1997,,400 V8 4AT (264 HP),Gasoline,8,3969,264,365,4-speed automatic,Rear Wheel Drive,7.5,250,12.4,5000,1830,1440,2850,1670
+lexus,Lexus,LS,LS (1989),1989,1995,,400 4AT V8 (245 HP),Gasoline,8,3969,245,350,4-Speed automatic,Rear Wheel Drive,8.5,249,11,5001,1829,1440,2819,1796
+lexus,Lexus,LX,LX (2021),2021,,,3.5L V6 10AT (409 HP),Gasoline,6,,409,649,10-speed automatic,,,,,,,,2845,
+lexus,Lexus,LX,LX (2021),2021,,,3.3L V6 10AT (295 HP),Diesel,6,,295,700,10-speed automatic,,,,,,,,2845,
+lexus,Lexus,LX,LX (2015),2015,2021,,570 8AT AWD (367 HP),Gasoline,8,5663,367,530,8-speed automatic (ECT),All Wheel Drive,7.7,220,14.4,5065,1981,1910,2850,2740
+lexus,Lexus,LX,LX (2015),2015,2021,,570 8AT AWD (383 HP),Gasoline,8,5663,388,546,8-speed automatic (ECT),All Wheel Drive,7.5,220,15.7,5065,1981,1910,2850,2722
+lexus,Lexus,LX,LX (2015),2015,2021,,450d 6AT AWD (272 HP),Diesel,8,4461,272,650,6-speed automatic,All Wheel Drive,8.6,209,9.5,5065,1981,1910,2850,2585
+lexus,Lexus,LX,LX (2012),2012,2015,,570 V8 6AT AWD (383 HP),Gasoline,8,5663,388.3,546,6-speed automatic,All Wheel Drive,7.5,220,16.8,4991,1971,1920,2850,2680
+lexus,Lexus,LX,LX (2008),2008,2012,,570 6AT (380 HP),Gasoline,8,5663,383,546,6-speed automatic,All Wheel Drive,7.4,220,15.7,4991,1971,1864,2850,2719
+lexus,Lexus,LX,LX (1997),1997,2007,,470 V8 4AT (235 HP),Gasoline,8,4664,235,422,4-Speed automatic,All Wheel Drive,11.7,175,16.6,4890,1941,1849,2850,2370
+lexus,Lexus,LX,LX (1996),1996,1997,,450 V8 5MT (215 HP),Gasoline,8,4477,215,373,5-Speed manual,All Wheel Drive,,,,4821,1829,1910,2850,2000
+lexus,Lexus,NX,NX (2021),2021,,,250 2.5L 8AT AWD (203 HP),Gasoline,4,,203,249,8-speed automatic,All Wheel Drive,8.9,,,,,,,
+lexus,Lexus,NX,NX (2021),2021,,,250 2.5L 8AT FWD (203 HP),Gasoline,4,,203,249,8-speed automatic,Front Wheel Drive,8.5,,,,,,,
+lexus,Lexus,NX,NX (2021),2021,,,350 2.4L 8AT AWD (275 HP),Gasoline,4,,275,430,8-speed automatic,All Wheel Drive,7,,,,,,,
+lexus,Lexus,NX,NX (2021),2021,,,350h 2.5L CVT AWD (239 HP),Hybrid Gasoline,4,,239,,CVT,All Wheel Drive,7.4,,,,,,,
+lexus,Lexus,NX,NX (2021),2021,,,450h+ 2.5L CVT AWD (302 HP),Hybrid Gasoline,4,,302,,CVT,All Wheel Drive,6.2,,,,,,,
+lexus,Lexus,NX,NX (2017),2017,2021,,300 6AT AWD (235 HP),Gasoline,4,1998,238,350,6-speed automatic,All Wheel Drive,7.2,200,9.8,4638,1869,1646,2659,1837
+lexus,Lexus,NX,NX (2017),2017,2021,,300 6AT FWD (235 HP),Gasoline,4,1998,238,350,6-speed automatic,Front Wheel Drive,7.4,200,8.4,4638,1869,1646,2659,1787
+lexus,Lexus,NX,NX (2017),2017,2021,,300h eCVT AWD (197 HP),Hybrid,4,2494,155,210,eCVT,All Wheel Drive,9.4,180,7.6,4638,1869,1646,2659,1896
+lexus,Lexus,NX,NX (2017),2017,2021,,300h eCVT FWD (197 HP),Hybrid,4,2494,155,210,eCVT,Front Wheel Drive,9.3,180,7.4,4638,1869,1646,2659,1896
+lexus,Lexus,NX,NX (2014),2014,2017,,200t 6AT AWD (238 HP),Gasoline,4,1999,238,350,6-speed automatic,All Wheel Drive,7,200,9.8,4630,1844,1646,2659,1837
+lexus,Lexus,NX,NX (2014),2014,2017,,200t 6AT FWD (238 HP),Gasoline,4,1999,238,350,6-speed automatic,Front Wheel Drive,7.2,200,9.8,4630,1844,1646,2659,1787
+lexus,Lexus,NX,NX (2014),2014,2017,,300h CVT AWD (197 HP),Hybrid,4,2494,155,210,e-CVT,All Wheel Drive,9.3,180,7.4,4630,1844,1646,2659,1896
+lexus,Lexus,NX,NX (2014),2014,2017,,300h CVT FWD (197 HP),Hybrid,4,2494,155,210,e-CVT,Front Wheel Drive,9.3,180,7.1,4630,1869,1646,2659,1839
+lexus,Lexus,RC,RC (2018),2018,2025,,350 V6 8AT AWD (311 HP),Gasoline,6,3456,311,380,8-speed automatic,All Wheel Drive,,230,10.2,4704,1844,1389,2731,1765
+lexus,Lexus,RC,RC (2018),2018,2025,,350 V6 8AT RWD (311 HP),Gasoline,6,3456,311,380,8-speed automatic,Rear Wheel Drive,,230,10.2,4704,1844,1389,2731,1765
+lexus,Lexus,RC,RC (2018),2018,2025,,5.0L V8 8AT RWD (467 HP),Gasoline,8,4969,467,,8-speed automatic,Rear Wheel Drive,,274,12.4,4704,1844,1389,2731,1680
+lexus,Lexus,RC,RC (2018),2018,2025,,300h CVT RWD (223 HP),Hybrid,4,2494,185,221,CVT,Rear Wheel Drive,8.6,190,5.9,4704,1844,1389,2731,1735
+lexus,Lexus,RC,RC (2014),2014,2018,,350 3.5L V6 8AT AWD (310 HP),Gasoline,6,3456,310,376,8-speed automatic,All Wheel Drive,6,209,11.2,4694,1839,1341,2731,1765
+lexus,Lexus,RC,RC (2014),2014,2018,,350 3.5L V6 8AT RWD (310 HP),Gasoline,6,3456,310,376,8-speed automatic,Rear Wheel Drive,5.8,230,10.7,4694,1839,1394,2731,1700
+lexus,Lexus,RC,RC (2014),2014,2018,,5.0L V8 6AT RWD (477 HP),Gasoline,8,4969,477,530,6-speed automatic,Rear Wheel Drive,4.5,270,10.8,4704,1844,1389,2731,1860
+lexus,Lexus,RC F,RC F (2014),2014,2025,,5.0 V8 8AT (467 HP),Gasoline,8,4969,467,530,8-speed direct shift automatic,Rear Wheel Drive,4.4,274,12.4,4704,1844,1389,2731,1840
+lexus,Lexus,RX,RX (2022),2022,,,350 2.4L 8AT AWD (279 HP),Gasoline,4,,279,,8-speed automatic,All Wheel Drive,7.1,,8.8,4890,1920,1709,,
+lexus,Lexus,RX,RX (2022),2022,,,350h 2.5L CVT AWD (245 HP),Hybrid Gasoline,4,,245,,Hybrid transaxle CVT,All Wheel Drive,8,,6.4,4890,1920,1709,,
+lexus,Lexus,RX,RX (2022),2022,,,450h+ 2.5L PHEV CVT AWD (306 HP),Hybrid Gasoline,4,,245,,Hybrid transaxle CVT,All Wheel Drive,7,,1.2,4890,1920,1709,,
+lexus,Lexus,RX,RX (2022),2022,,,500h 2.4L 6AT AWD (371 HP),Hybrid Gasoline,4,,371,,6-automatic speed,All Wheel Drive,6,,8.2,4890,1920,1709,,
+lexus,Lexus,RX,RX (2019),2019,2022,,350 3.5L V6 8AT AWD (295 HP),Gasoline,6,3456,295,362,8-speed automatic,All Wheel Drive,8.2,200,10.7,4890,1895,1720,2789,1990
+lexus,Lexus,RX,RX (2019),2019,2022,,350 3.5L V6 8AT FWD (295 HP),Gasoline,6,3456,295,362,8-speed automatic,Front Wheel Drive,8,198,10.2,4890,1895,1720,2789,1915
+lexus,Lexus,RX,RX (2019),2019,2022,,350L 3.5L V6 8AT AWD (290 HP),Gasoline,6,3456,290,357,8-speed automatic,All Wheel Drive,,200,11.2,5001,1895,1709,2789,2095
+lexus,Lexus,RX,RX (2019),2019,2022,,350L 3.5L V6 8AT AWD (290 HP),Gasoline,6,3456,290,357,8-speed automatic,All Wheel Drive,8.2,200,10.7,5001,1895,1709,2789,2025
+lexus,Lexus,RX,RX (2019),2019,2022,,450h eCVT AWD (308 HP),Hybrid,6,3456,308,363,e-CVT,All Wheel Drive,7.9,180,7.8,4890,1895,1720,2789,2150
+lexus,Lexus,RX,RX (2016),2016,2019,,200t 6AT AWD (238 HP),Gasoline,4,1998,238,350,6-speed automatic,All Wheel Drive,9.5,200,7.9,4890,1895,1689,2789,1960
+lexus,Lexus,RX,RX (2016),2016,2019,,200t 6AT FWD (238 HP),Gasoline,4,1998,238,350,6-speed automatic,Front Wheel Drive,9.2,200,7.8,4890,1895,1689,2789,1885
+lexus,Lexus,RX,RX (2016),2016,2019,,3.5L V6 8AT AWD (290 HP),Gasoline,6,3456,290,363,"8-automatic speed, e-CVT",All Wheel Drive,8.1,200,11.2,5001,1895,1709,2789,2090
+lexus,Lexus,RX,RX (2016),2016,2019,,350 V6 8AT AWD (295 HP),Gasoline,6,3456,299,363,8-speed automatic (ECT),All Wheel Drive,8.2,200,10.7,4890,1895,1689,2789,1990
+lexus,Lexus,RX,RX (2016),2016,2019,,350 V6 8AT FWD (295 HP),Gasoline,6,3456,299,363,8-speed automatic (ECT),Front Wheel Drive,8,200,10.2,4890,1895,1689,2789,1915
+lexus,Lexus,RX,RX (2016),2016,2019,,450h V6 eCVT AWD (308 HP),Hybrid,6,3456,308,363,"8-automatic speed, e-CVT",All Wheel Drive,7.9,180,7.8,4890,1895,1720,2789,2090
+lexus,Lexus,RX,RX (2016),2016,2019,,450h V6 eCVT AWD (313 HP),Hybrid,6,3456,263,335,e-CVT,All Wheel Drive,7.7,200,5.2,4890,1895,1689,2789,2100
+lexus,Lexus,RX,RX (2016),2016,2019,,450h V6 eCVT FWD (313 HP),Hybrid,6,3456,263,335,e-CVT,Front Wheel Drive,8,180,7.8,4890,1895,1689,2789,2090
+lexus,Lexus,RX,RX (2012),2012,2016,,270 FWD 6AT (188 HP),Gasoline,4,2671,188,252,6-speed automatic,Front Wheel Drive,8.2,180,10,4770,1885,1684,2741,2030
+lexus,Lexus,RX,RX (2012),2012,2016,,350 AWD 6AT (273 HP),Gasoline,6,3456,273,336,6-speed automatic,All Wheel Drive,8.1,180,11.8,4770,1885,1720,2741,1970
+lexus,Lexus,RX,RX (2012),2012,2016,,350 F SPORT AWD 8AT (273 HP),Gasoline,6,3456,273,336,8-speed automatic,All Wheel Drive,7.7,180,11.2,4770,1885,1684,2741,2045
+lexus,Lexus,RX,RX (2012),2012,2016,,350 FWD 6AT (273 HP),Gasoline,6,3456,273,336,6-speed automatic,Front Wheel Drive,7.7,180,11.2,4770,1885,1694,2741,1970
+lexus,Lexus,RX,RX (2012),2012,2016,,450h V6 AWD CVT (299 HP),Hybrid Gasoline,6,3456,249,317,eCVT,All Wheel Drive,7.4,180,8.1,4770,1885,1684,2741,2110
+lexus,Lexus,RX,RX (2012),2012,2016,,450h V6 FWD CVT (299 HP),Hybrid Gasoline,6,3456,249,317,eCVT,Front Wheel Drive,7.8,180,7.8,4770,1885,1684,2741,2050
+lexus,Lexus,RX,RX (2008),2008,2012,,350 6AT AWD (277 HP),Gasoline,6,3456,277,348,6-speed automatic,All Wheel Drive,8,200,10.6,4768,1885,1684,2738,1970
+lexus,Lexus,RX,RX (2008),2008,2012,,350 6AT FWD (277 HP),Gasoline,6,3456,277,346,6-speed automatic,All Wheel Drive,8,200,10.6,4770,1885,1684,2741,1895
+lexus,Lexus,RX,RX (2008),2008,2012,,450h CVT AWD (299 HP),Hybrid,6,3456,249,317,eCVT,All Wheel Drive,7.8,200,8.7,4768,1885,1684,2738,2110
+lexus,Lexus,RX,RX (2008),2008,2012,,450h CVT FWD (299 HP),Hybrid,6,3456,249,317,eCVT,All Wheel Drive,8.2,180,8.4,4768,1885,1684,2738,2050
+lexus,Lexus,RX,RX (2004),2004,2008,,300 V6 5AT FWD (204 HP),Gasoline,6,2995,204,283,5-speed automatic,Front Wheel Drive,9,200,12.2,4740,1839,1679,2720,1835
+lexus,Lexus,RX,RX (2004),2004,2008,,330 V6 5AT FWD (223 HP),Gasoline,6,3309,226,323,5-speed automatic,Front Wheel Drive,7.8,190,10.9,4740,1840,1680,2720,
+lexus,Lexus,RX,RX (2004),2004,2008,,350 V6 5AT AWD (272 HP),Gasoline,6,3456,275,342,5-speed automatic,All Wheel Drive,7.8,200,11.2,4740,1839,1679,2720,1810
+lexus,Lexus,RX,RX (2004),2004,2008,,400h V6 CVT AWD (210 HP),Hybrid,6,3311,210,287,CVT,All Wheel Drive,7.6,200,8.1,4740,1840,1680,2720,2040
+lexus,Lexus,RX,RX (2004),2004,2008,,400h V6 CVT FWD (210 HP),Hybrid,6,3456,270,342,CVT,Front Wheel Drive,7.5,200,8.1,4740,1839,1679,2720,2000
+lexus,Lexus,RX,RX (1998),1998,2003,,300 4AT FWD (240 HP),Gasoline,4,2362,160,221,4-Speed automatic,Front Wheel Drive,8.5,180,9.4,4575,1816,1666,2649,1720
+lexus,Lexus,RX,RX (1998),1998,2003,,300 V6 4AT AWD (220 HP),Gasoline,6,2995,220,304,4-Speed automatic,All Wheel Drive,8.8,180,10.5,4575,1816,1666,2649,1830
+lexus,Lexus,RZ,RZ (2025),2025,,,77 KWh AWD (408 HP),Electric,,,408,,1-speed automatic,All Wheel Drive,4.4,,,4806,1895,1636,2850,2135
+lexus,Lexus,RZ,RZ (2022),2022,2025,,450e 71.4 KWh (331 HP),Electric,,,313,,1-Speed automatic,All Wheel Drive,5.6,159,,4806,1895,1636,2850,
+lexus,Lexus,SC,SC (2005),2005,2010,,4.3L V8 6AT RWD (288 HP),Gasoline,8,4293,286,419,6-speed automatic,Rear Wheel Drive,6.4,249,12.1,4534,1829,1349,2619,1740
+lexus,Lexus,SC,SC (2001),2001,2005,,430 V8 5AT (286 HP),Gasoline,8,4293,286,419,5-speed automatic,Rear Wheel Drive,6.4,249,12,4520,1820,1370,2620,1740
+lexus,Lexus,SC,SC (1991),1991,2000,,300 5MT RWD (228 HP),Gasoline,6,2997,228,285,5-Speed manual,Rear Wheel Drive,7.4,235,,4854,1791,1336,2690,1622
+lexus,Lexus,SC,SC (1991),1991,2000,,400 V8 4AT RWD (254 HP),Gasoline,8,3969,254,353,4-Speed automatic,Rear Wheel Drive,6.9,241,,4854,1791,1336,2690,1622
+lexus,Lexus,SC,SC (1991),1991,2000,,400 V8 4AT RWD (264 HP),Gasoline,8,3969,264,370,4-Speed automatic,Rear Wheel Drive,,,,4854,1791,1336,2690,1633
+lexus,Lexus,TX,TX (2023),2023,,,350 2.4L 8AT AWD (275 HP),Gasoline,4,,275,430,8-automatic speed,All Wheel Drive,,,,5159,1989,1781,2949,
+lexus,Lexus,TX,TX (2023),2023,,,350 2.4L 8AT FWD (275 HP),Gasoline,4,,275,430,8-automatic speed,Front Wheel Drive,,,,5159,1989,1781,2949,
+lexus,Lexus,TX,TX (2023),2023,,,500h 2.4L 6AT AWD (366 HP),Hybrid Gasoline,4,,366,555,6-automatic speed,All Wheel Drive,,,,5169,1989,1781,2949,
+lexus,Lexus,TX,TX (2023),2023,,,550h+ 3.5L V6 CVT AWD (406 HP),Plug-in Hybrid,6,,406,,CVT,All Wheel Drive,,,,5159,1989,1781,2949,
+lexus,Lexus,TZ,TZ (2026),2026,,,95.82 kWh AWD (408 HP),Electric,,,408,,1-speed automatic,All Wheel Drive,5.4,,,5100,1989,1704,3051,2630
+lexus,Lexus,UX,UX (2020),2020,2022,,54.3 KWh (204 HP),Electric,,,204,,Single speed automayic,Front Wheel Drive,7.5,159,,4496,1839,1544,2639,
+lexus,Lexus,UX,UX (2018),2018,2023,,200 2.0L CVT FWD (169 HP),Gasoline,4,1987,169,205,CVT,Front Wheel Drive,9.2,190,7.1,4496,1839,1519,2639,1500
+lexus,Lexus,UX,UX (2018),2018,2023,,250h 2.0L CVT AWD (181 HP),Hybrid,4,1987,181,,CVT,All Wheel Drive,8.7,177,7.1,4496,1839,1519,2639,1635
+lexus,Lexus,UX,UX (2018),2018,2023,,300e 150 Kw (204 HP),Electric,4,,203.9,300,,All Wheel Drive,,,,4496,1839,1519,2639,
+lightyear,Lightyear,Lightyear 0,Lightyear 0 (2022),2022,,,60 kWh AWD (172 HP),Electric,,,172,,,All Wheel Drive,10,159,,5083,1971,1445,,575
+lincoln,Lincoln,Aviator,Aviator (2024),2024,,,3.0L V6 10AT AWD (400 HP),Gasoline,6,2956,406,563,10-speed automatic SelectShift,All Wheel Drive,,,,5062,2022,1768,3025,
+lincoln,Lincoln,Aviator,Aviator (2024),2024,,,3.0L V6 10AT RWD (400 HP),Gasoline,6,2956,406,563,10-speed automatic SelectShift,Rear Wheel Drive,,,,5062,2022,1768,3025,
+lincoln,Lincoln,Aviator,Aviator (2019),2019,2024,,3.0L V6 10AT AWD (400 HP),Gasoline,6,,400,542,10-speed automatic,All Wheel Drive,,,,5062,2022,1773,3025,
+lincoln,Lincoln,Aviator,Aviator (2019),2019,2024,,3.0L V6 10AT RWD (400 HP),Gasoline,6,,400,542,10-speed automatic,Rear Wheel Drive,,,,5062,2022,1773,3025,
+lincoln,Lincoln,Aviator,Aviator (2019),2019,2024,,3.0L V6 PHEV 10 AT AWD (494 HP),Hybrid Gasoline,6,,399,563,10-speed automatic,All Wheel Drive,,,,5062,2022,1773,3025,
+lincoln,Lincoln,Aviator,Aviator (2002),2002,2005,,4.6L V8 5AT (302 HP),Gasoline,8,4605,306.2,407,5-speed automatic,Rear Wheel Drive,,,16.8,4910,1877,1801,2888,2193
+lincoln,Lincoln,Aviator,Aviator (2002),2002,2005,,4.6L V8 5AT AWD (302 HP),Gasoline,8,4605,306.2,407,5-speed automatic,All Wheel Drive,,,18.1,4910,1877,1801,2888,2257
+lincoln,Lincoln,Continental,Continental (2016),2016,2020,,2.7L V6 6AT AWD (335 HP),Gasoline,6,2688,340,515,6-speed automatic,All Wheel Drive,6.2,249,11.8,5116,1913,1486,2995,1916
+lincoln,Lincoln,Continental,Continental (2016),2016,2020,,2.7L V6 6AT FWD (335 HP),Gasoline,6,2688,340,515,6-speed automatic,Front Wheel Drive,6.2,249,11.2,5116,1913,1486,2995,1916
+lincoln,Lincoln,Continental,Continental (2016),2016,2020,,3.0L GTDI V6 6AT AWD (400 HP),Gasoline,6,3000,406,542,6-speed automatic,All Wheel Drive,5.8,249,12.4,5116,1913,1486,2995,1916
+lincoln,Lincoln,Continental,Continental (2016),2016,2020,,3.7L V6 6AT AWD (305 HP),Gasoline,6,3727,309,380,6-speed automatic,All Wheel Drive,7.1,249,12.4,5116,1913,1486,2995,1916
+lincoln,Lincoln,Continental,Continental (2016),2016,2020,,3.7L V6 6AT FWD (305 HP),Gasoline,6,3727,309,380,6-speed automatic,Front Wheel Drive,6.7,249,11.8,5116,1913,1486,2995,1916
+lincoln,Lincoln,Continental,Continental (1994),1994,2002,,4.6L V8 4AT (260 HP),Gasoline,8,4601,264,359,4-speed automatic,Front Wheel Drive,8.5,215,11.8,5260,1869,1420,2771,1745
+lincoln,Lincoln,Continental,Continental (1994),1994,2002,,4.6L V8 4AT (275 HP),Gasoline,8,4601,278.8,373,4-speed automatic,Front Wheel Drive,7.9,232,11.8,5260,1869,1420,2771,1745
+lincoln,Lincoln,Continental,Continental (1988),1988,1995,,3.8L V6 4AT FWD (140 HP),Gasoline,6,3797,141.9,292,4-speed automatic,Front Wheel Drive,10.9,185,11.8,5210,1847,1412,2769,1645
+lincoln,Lincoln,Continental,Continental (1988),1988,1995,,3.8L V6 4AT FWD (155 HP),Gasoline,6,3797,157.1,298,4-speed automatic,Front Wheel Drive,10.3,193,11.8,5210,1847,1412,2769,1647
+lincoln,Lincoln,Continental,Continental (1988),1988,1995,,3.8L V6 4AT FWD (160 HP),Gasoline,6,3797,162.2,305,4-speed automatic,Front Wheel Drive,10,198,11.8,5210,1847,1412,2769,1647
+lincoln,Lincoln,Continental,Continental (1982),1982,1987,,3.8L V6 4AT RWD (112 HP),Gasoline,6,3797,113.6,237,4-speed automatic,Rear Wheel Drive,15,161,10.7,5110,1869,1397,2761,1534
+lincoln,Lincoln,Continental,Continental (1982),1982,1987,,5.0L V8 4AT RWD (131 HP),Gasoline,8,4942,133,311,4-speed automatic,Rear Wheel Drive,13,166,11.8,5110,1869,1397,2761,1593
+lincoln,Lincoln,Continental,Continental (1982),1982,1987,,5.0L V8 4AT RWD (140 HP),Gasoline,8,4942,142,339,4-speed automatic,Rear Wheel Drive,12.8,166,11.8,5110,1869,1397,2761,1701
+lincoln,Lincoln,Continental,Continental (1982),1982,1987,,5.0L V8 4AT RWD (150 HP),Gasoline,8,4942,152,366,4-speed automatic,Rear Wheel Drive,12.1,169,11.2,5110,1869,1397,2761,1714
+lincoln,Lincoln,Continental,Continental (1980),1980,1981,,5.0L V8 4AT RWD (129 HP),Gasoline,8,4942,130.8,313,4-speed automatic,Rear Wheel Drive,15,163,12.4,5568,1984,1425,2979,1842
+lincoln,Lincoln,Continental,Continental (1980),1980,1981,,5.0L V8 4AT RWD (140 HP),Gasoline,8,4942,141.9,259,4-speed automatic,Rear Wheel Drive,14.5,171,13.1,5568,1984,1425,2979,1881
+lincoln,Lincoln,Continental,Continental (1970),1970,1979,,6.6L V8 3AT RWD (166 HP),Gasoline,8,6590,168,433,3-speed automatic,Rear Wheel Drive,15,18,16.8,5715,2024,1415,3226,2203
+lincoln,Lincoln,Continental,Continental (1970),1970,1979,,6.6L V8 3AT RWD (182 HP),Gasoline,8,6590,185,449,3-speed automatic,Rear Wheel Drive,14,175,18.8,5715,2024,1415,3226,2303
+lincoln,Lincoln,Continental,Continental (1970),1970,1979,,7.5L V8 3AT RWD (206 HP),Gasoline,8,7536,209,484,3-speed automatic,Rear Wheel Drive,13.5,183,20.3,5715,2024,1415,3226,2440
+lincoln,Lincoln,Continental,Continental (1970),1970,1979,,7.5L V8 3AT RWD (215 HP),Gasoline,8,7536,218,475,3-speed automatic,Rear Wheel Drive,13,185,19.9,5715,2024,1415,3226,2432
+lincoln,Lincoln,Continental,Continental (1970),1970,1979,,7.5L V8 3AT RWD (224 HP),Gasoline,8,7536,227,485,3-speed automatic,Rear Wheel Drive,11.5,190,20.5,5715,2024,1415,3226,2321
+lincoln,Lincoln,Continental,Continental (1970),1970,1979,,7.5L V8 3AT RWD (365 HP),Gasoline,8,7536,370,678,3-speed automatic,Rear Wheel Drive,8.5,204,21.4,5715,2024,1415,3226,2227
+lincoln,Lincoln,Continental,Continental (1961),1961,1969,,7.0L V8 3AT RWD (300 HP),Gasoline,8,7044,304,631,3-speed automatic,Rear Wheel Drive,11,190,21.4,5395,1996,1359,3124,2235
+lincoln,Lincoln,Continental,Continental (1961),1961,1969,,7.0L V8 3AT RWD (320 HP),Gasoline,8,7044,324,631,3-speed automatic,Rear Wheel Drive,10.2,193,21,5395,1996,1359,3124,2235
+lincoln,Lincoln,Continental,Continental (1961),1961,1969,,7.6L V8 3AT RWD (340 HP),Gasoline,8,7565,345,658,3-speed automatic,Rear Wheel Drive,9.5,200,21.4,5395,1996,1359,3124,2397
+lincoln,Lincoln,Continental,Continental (1961),1961,1969,,7.6L V8 3AT RWD (365 HP),Gasoline,8,7565,370,678,3-speed automatic,Rear Wheel Drive,9,204,21.4,5395,1996,1359,3124,2350
+lincoln,Lincoln,Continental,Continental (1958),1958,1960,,7.0L V8 3AT RWD (315 HP),Gasoline,8,7044,319.4,631,3-speed automatic,Rear Wheel Drive,11.6,192,20.5,5768,2035,1440,3327,2347
+lincoln,Lincoln,Continental,Continental (1958),1958,1960,,7.0L V8 3AT RWD (350 HP),Gasoline,8,7044,354.9,664,3-speed automatic,Rear Wheel Drive,9.5,196,21.4,5768,2035,1440,3327,2347
+lincoln,Lincoln,Corsair,Corsair (2022),2022,,,2.0L 8AT AWD (250 HP),Gasoline,4,,250,373,8-speed SelectShift automatic,All Wheel Drive,,,,4608,1935,1628,2710,1740
+lincoln,Lincoln,Corsair,Corsair (2022),2022,,,2.0L 8AT FWD (250 HP),Gasoline,4,,250,373,8-speed SelectShift automatic,Front Wheel Drive,,,,4608,1935,1628,2710,1671
+lincoln,Lincoln,Corsair,Corsair (2022),2022,,,2.5L i-VCT Atkinson CVT AWD (266 HP),Plug-in Hybrid,4,,266,,CVT,All Wheel Drive,,,,4608,1941,1621,2710,1994
+lincoln,Lincoln,Corsair,Corsair (2019),2019,2022,,2.0L 8AT FWD (250 HP),Gasoline,4,,250,280,8-speed automatic,Front Wheel Drive,,,9.4,4587,1935,1628,2710,1674
+lincoln,Lincoln,Corsair,Corsair (2019),2019,2022,,2.3L 8AT AWD (280 HP),Gasoline,4,,280,420,8-speed automatic,All Wheel Drive,,,,4587,1935,1628,2710,
+lincoln,Lincoln,Corsair,Corsair (2019),2019,2022,,2.5L CVT AWD (266 HP),Hybrid,4,,266,,CVT,All Wheel Drive,,,,4587,1935,1628,2710,
+lincoln,Lincoln,LS,LS (1999),1999,2006,,3.0L V6 24V 5AT (235 HP),Gasoline,6,2967,235,298,5-speed automatic,Rear Wheel Drive,,209,,4925,1859,1425,2908,1670
+lincoln,Lincoln,LS,LS (1999),1999,2006,,3.0L V6 5MT (223 HP),Gasoline,6,2967,223,292,5-Speed manual,Rear Wheel Drive,,210,9.9,4925,1859,1425,2908,1621
+lincoln,Lincoln,LS,LS (1999),1999,2006,,4.0L V8 5AT (256 HP),Gasoline,8,3950,256,354,5-speed automatic,Rear Wheel Drive,,220,10.4,4925,1859,1425,2908,1678
+lincoln,Lincoln,Mark LT,Mark LT (2009),2009,2014,,5.0L Ti-VCT AWD 6AT (360 HP),Gasoline,8,,360,515,"6-speed, Automatic",All Wheel Drive,,,,5890,2012,1928,366,2593
+lincoln,Lincoln,Mark LT,Mark LT (2009),2009,2014,,5.0L Ti-VCT RWD 6AT (360 HP),Gasoline,8,,360,515,"6-speed, Automatic",Rear Wheel Drive,,,,5890,2012,1900,366,2379
+lincoln,Lincoln,Mark LT,Mark LT (2005),2005,2008,,5.4L V8 4AT RWD (304 HP),Gasoline,8,5409,304,481,4-Speed automatic,Rear Wheel Drive,,171,15.7,5685,2004,1867,3518,2436
+lincoln,Lincoln,MKC,MKC (2018),2018,2019,,2.0L 6AT AWD (245 HP),Gasoline,4,1999,245,373,6-speed automatic SelectShift,All Wheel Drive,,,13.5,4552,1938,1656,2690,1800
+lincoln,Lincoln,MKC,MKC (2018),2018,2019,,2.0L 6AT FWD (245 HP),Gasoline,4,1999,245,373,6-speed automatic SelectShift,Front Wheel Drive,,,12.3,4552,1938,1656,2690,1729
+lincoln,Lincoln,MKC,MKC (2018),2018,2019,,2.3L 6AT AWD (285 HP),Gasoline,4,2261,285,414,6-speed automatic SelectShift,All Wheel Drive,,,14.1,4552,1938,1656,2690,1800
+lincoln,Lincoln,MKC,MKC (2014),2014,2018,,2.0L EcoBoost 6AT (240 HP),Gasoline,4,1999,243,366,6-speed automatic,Front Wheel Drive,7.4,225,10.2,4552,1864,1656,2690,1266
+lincoln,Lincoln,MKC,MKC (2014),2014,2018,,2.0L EcoBoost 6AT AWD (240 HP),Gasoline,4,1999,243,366,6-speed automatic,All Wheel Drive,7.2,224,10.7,4552,1864,1656,2690,1798
+lincoln,Lincoln,MKC,MKC (2014),2014,2018,,2.3L EcoBoost 6AT AWD (285 HP),Gasoline,4,2254,290,414,6-speed automatic,All Wheel Drive,,,11.2,4552,1864,1656,2690,1798
+lincoln,Lincoln,MKS,MKS (2011),2011,2016,,3.5L Ecoboost 6AT AWD (365 HP),Gasoline,6,3496,364,350,six-speed with SelectShift Automatic with paddle shift activation,All Wheel Drive,,,,5222,2017,1565,2868,2012
+lincoln,Lincoln,MKS,MKS (2011),2011,2016,,3.7L Ti-VCT AWD (304 HP),Gasoline,6,3721,305,378,six-speed with SelectShift Automatic with paddle shift activation,All Wheel Drive,,,,5222,2017,1565,2868,1992
+lincoln,Lincoln,MKS,MKS (2011),2011,2016,,3.7L Ti-VCT FWD (304 HP),Gasoline,6,3721,305,378,six-speed with SelectShift Automatic with paddle shift activation,Front Wheel Drive,,,,5222,2017,1565,2868,1907
+lincoln,Lincoln,MKS,MKS (2008),2008,2011,,3.5L Ecoboost 6AT AWD (355 HP),Gasoline,6,3496,355,475,6-speed automatic,All Wheel Drive,,,11.8,5184,1928,1565,2868,1872
+lincoln,Lincoln,MKS,MKS (2008),2008,2011,,3.7L V6 6AT AWD (273 HP),Gasoline,6,3726,273,366,6-speed automatic,All Wheel Drive,7.4,240,12.4,5184,1928,1565,2868,1940
+lincoln,Lincoln,MKS,MKS (2008),2008,2011,,3.7L V6 6AT FWD (273 HP),Gasoline,6,3726,273,366,6-speed automatic,Front Wheel Drive,7,240,12.4,5184,1928,1565,2868,1872
+lincoln,Lincoln,MKT,MKT (2012),2012,2019,,3.5 V6 Ecoboost AWD 6AT (365 HP),Gasoline,8,3490,365,475,"Automatic, 6 Speed",All Wheel Drive,,,,5273,1930,1712,2995,2242
+lincoln,Lincoln,MKT,MKT (2012),2012,2019,,3.7 v6 Ti-VCT FWD 6AT (303 HP),Gasoline,8,3726,303,377,"Automatic, 6 Speed",Front Wheel Drive,,,,5273,1930,1712,2995,2133
+lincoln,Lincoln,MKT,MKT (2009),2009,2012,,3.5L V6 EcoBoost 6AT AWD (355 HP),Gasoline,6,3490,360,475,6-speed automatic,All Wheel Drive,7,241,12.4,5273,2029,1712,2995,2233
+lincoln,Lincoln,MKT,MKT (2009),2009,2012,,3.7L V6 AWD 6AT (270 HP),Gasoline,6,3726,274,366,6-speed automatic,All Wheel Drive,8.4,209,12.4,5273,2029,1712,2995,2203
+lincoln,Lincoln,MKT,MKT (2009),2009,2012,,3.7L V6 FWD 6AT (270 HP),Gasoline,6,3726,274,362,6-speed automatic,Front Wheel Drive,7.8,306,11.8,5273,2029,1712,2995,2123
+lincoln,Lincoln,MKX,MKX (2015),2015,2018,,2.7L EcoBoost 6AT AWD (335 HP),Gasoline,6,2699,335,515,6-speed automatic,Front Wheel Drive,,,12.4,4826,1935,1681,2850,2017
+lincoln,Lincoln,MKX,MKX (2015),2015,2018,,2.7L EcoBoost 6AT FWD (335 HP),Gasoline,6,2699,335,515,6-speed automatic,Front Wheel Drive,,,11.2,4826,1935,1681,2850,1931
+lincoln,Lincoln,MKX,MKX (2015),2015,2018,,3.7L Cyclone V6 6AT AWD (303 HP),Gasoline,6,3689,303,377,6-speed automatic,All Wheel Drive,,,12.4,4826,1935,1681,2850,1990
+lincoln,Lincoln,MKX,MKX (2015),2015,2018,,3.7L Cyclone V6 6AT FWD (303 HP),Gasoline,6,3689,303,377,6-speed automatic,Front Wheel Drive,,,11.8,4826,1935,1681,2850,1891
+lincoln,Lincoln,MKX,MKX (2011),2011,2015,,3.7L V6 Ti-VCT 6AT (305 HP),Gasoline,6,3726,305,281,6-automatic speed,Front Wheel Drive,,,11.2,4742,1930,1709,2824,1928
+lincoln,Lincoln,MKX,MKX (2011),2011,2015,,3.7L V6 Ti-VCT AWD 6AT (305 HP),Gasoline,6,3726,305,281,6-automatic speed,All Wheel Drive,,,12.4,4742,1930,1709,2824,2004
+lincoln,Lincoln,MKX,MKX (2006),2006,2010,,3.5L 6AT AWD (265 HP),Gasoline,6,3496,265,339,6-automatic speed,All Wheel Drive,,,13.1,4737,1925,1707,2824,2005
+lincoln,Lincoln,MKX,MKX (2006),2006,2010,,3.5L 6AT FWD (265 HP),Gasoline,6,3496,265,339,6-automatic speed,Front Wheel Drive,,,11.2,4737,1925,1707,2824,1910
+lincoln,Lincoln,MKZ,MKZ (2016),2016,2020,,2.0L 6AT AWD (245 HP),Gasoline,4,1999,248,373,6-speed automatic,All Wheel Drive,,,10.2,4925,1864,1478,2850,1769
+lincoln,Lincoln,MKZ,MKZ (2016),2016,2020,,2.0L 6AT FWD (245 HP),Gasoline,4,1999,248,373,6-speed automatic,Front Wheel Drive,,,9.8,4925,1864,1478,2850,1696
+lincoln,Lincoln,MKZ,MKZ (2016),2016,2020,,3.0L V6 6AT AWD (405 HP),Gasoline,6,2956,405.5,542,6-speed automatic,All Wheel Drive,,,11.8,4925,1864,1478,2850,1901
+lincoln,Lincoln,MKZ,MKZ (2016),2016,2020,,3.0L V6 6AT FWD (350 HP),Gasoline,6,3000,355,542,6-speed automatic,Front Wheel Drive,,,11.2,4925,1864,1478,2850,1825
+lincoln,Lincoln,MKZ,MKZ (2016),2016,2020,,2.0L eCVT FWD (188 HP),Hybrid,4,1999,143,175,6-speed automatic,Front Wheel Drive,,,5.9,4925,1864,1478,2850,1756
+lincoln,Lincoln,MKZ,MKZ (2012),2012,2016,,2.0L AWD 6AT (240 HP),Gasoline,4,1999,243,366,6-speed automatic,All Wheel Drive,,,9.4,4930,1864,1478,2850,1757
+lincoln,Lincoln,MKZ,MKZ (2012),2012,2016,,2.0L FWD 6AT (240 HP),Gasoline,4,1999,243,366,6-speed automatic,Front Wheel Drive,,,9,4930,1864,1478,2850,1687
+lincoln,Lincoln,MKZ,MKZ (2012),2012,2016,,3.7L V6 AWD 6AT (300 HP),Gasoline,6,3726,304,376,6-speed automatic,All Wheel Drive,,,11.2,4930,1864,1478,2850,1815
+lincoln,Lincoln,MKZ,MKZ (2012),2012,2016,,3.7L V6 FWD 6AT (300 HP),Gasoline,6,3726,304,376,6-speed automatic,Front Wheel Drive,,,10.2,4930,1864,1478,2850,1737
+lincoln,Lincoln,MKZ,MKZ (2012),2012,2016,,2.0L FWD CVT (141 HP),Hybrid,4,1999,143,175,eCVT,Front Wheel Drive,,,5.2,4930,1864,1478,2850,1736
+lincoln,Lincoln,MKZ,MKZ (2010),2010,2013,,3.5L 6AT AWD (263 HP),Gasoline,6,3497,266,338,6-speed automatic,All Wheel Drive,,,12.4,4821,1834,1445,2728,1722
+lincoln,Lincoln,MKZ,MKZ (2010),2010,2013,,3.5L 6AT FWD (263 HP),Gasoline,6,3497,266,338,6-speed automatic,Front Wheel Drive,,,11.2,4821,1834,1445,2728,1632
+lincoln,Lincoln,MKZ,MKZ (2010),2010,2013,,2.5L CVT FWD (191 HP),Hybrid,4,2488,156,183,CVT,Front Wheel Drive,,,6,4821,1834,1445,2728,1704
+lincoln,Lincoln,MKZ,MKZ (2006),2006,2010,,3.5L V6 6AT AWD (262 HP),Gasoline,6,3496,262,338,"Automatic, 6 Speed",All Wheel Drive,,,,4839,1834,1450,2728,1653
+lincoln,Lincoln,MKZ,MKZ (2006),2006,2010,,3.5L V6 6AT FWD (262 HP),Gasoline,6,3496,262,338,"Automatic, 6 Speed",Front Wheel Drive,,,,4839,1834,1450,2728,1574
+lincoln,Lincoln,Nautilus,Nautilus (2023),2023,,,2.0L 8AT AWD (250 HP),Gasoline,4,,250,275,8-speed automatic,All Wheel Drive,,,,4907,2027,1732,2901,
+lincoln,Lincoln,Nautilus,Nautilus (2023),2023,,,2.0L HEV CVT AWD (310 HP),Hybrid Gasoline,4,,310,,8-speed automatic,All Wheel Drive,,,,4907,2027,1732,2901,2049
+lincoln,Lincoln,Nautilus,Nautilus (2020),2020,2023,,2.0L 8AT AWD (250 HP),Gasoline,4,,250,280,8-speed automatic,All Wheel Drive,,,,4826,1999,1681,2850,1968
+lincoln,Lincoln,Nautilus,Nautilus (2020),2020,2023,,2.0L 8AT FWD (250 HP),Gasoline,4,,250,280,8-speed automatic,Front Wheel Drive,,,,4826,1999,1681,2850,1889
+lincoln,Lincoln,Nautilus,Nautilus (2020),2020,2023,,2.7L V6 8AT AWD (335 HP),Gasoline,6,,335,380,8-speed automatic,All Wheel Drive,,,,4826,1999,1681,2850,2062
+lincoln,Lincoln,Nautilus,Nautilus (2017),2017,2020,,2.0L 8AT AWD (245 HP),Gasoline,4,1999,245,380,8-Speed automatic,All Wheel Drive,,,12.4,4826,1935,1681,2850,2017
+lincoln,Lincoln,Nautilus,Nautilus (2017),2017,2020,,2.0L 8AT AWD (245 HP),Gasoline,4,1999,245,380,8-Speed automatic,Front Wheel Drive,,,12.4,4826,1935,1681,2850,2017
+lincoln,Lincoln,Nautilus,Nautilus (2017),2017,2020,,2.7L EcoBoost 8AT AWD (335 HP),Gasoline,6,2699,335,515,8-Speed automatic,All Wheel Drive,,,12.4,4826,1935,1681,2850,2017
+lincoln,Lincoln,Nautilus,Nautilus (2017),2017,2020,,2.7L EcoBoost 8AT AWD (335 HP),Gasoline,6,2699,335,515,8-Speed automatic,All Wheel Drive,,,12.4,4826,1935,1681,2850,2017
+lincoln,Lincoln,Navigator,Navigator (2017),2017,2024,,3.5L Long V6 10AT AWD (450 HP),Gasoline,6,3490,450,678,10- Speed automatic,All Wheel Drive,,,13.1,5636,2383,1933,3343,6056
+lincoln,Lincoln,Navigator,Navigator (2017),2017,2024,,3.5L V6 10AT AWD (450 HP),Gasoline,6,3490,450,678,10- Speed automatic,All Wheel Drive,,,13.1,5334,2383,1938,3343,2656
+lincoln,Lincoln,Navigator,Navigator (2017),2017,2024,,3.5L V6 10AT FWD (450 HP),Gasoline,6,3490,450,678,10- Speed automatic,Front Wheel Drive,,,12.4,5334,2383,1938,3112,2579
+lincoln,Lincoln,Navigator,Navigator (2014),2014,2018,,3.5L EcoBoost 4x2 6AT (370 HP),Gasoline,6,3490,375,583,6-speed automatic,Rear Wheel Drive,9.4,182,13.1,5293,2002,2332,3023,2644
+lincoln,Lincoln,Navigator,Navigator (2014),2014,2018,,3.5L EcoBoost 4x4 6AT (370 HP),Gasoline,6,3490,375,583,6-speed automatic,All Wheel Drive,9.2,180,13.8,5293,2002,2332,3023,2753
+lincoln,Lincoln,Navigator,Navigator (2006),2006,2014,,5.4L V8 6AT AWD (300 HP),Gasoline,8,5408,300,495,6-speed automatic,All Wheel Drive,,,,5293,2002,1989,3023,2724
+lincoln,Lincoln,Navigator,Navigator (2006),2006,2014,,5.4L V8 6AT AWD (310 HP),Gasoline,8,5408,310,495,6-speed automatic,All Wheel Drive,,,15.7,5293,2002,1989,3023,2620
+lincoln,Lincoln,Navigator,Navigator (2006),2006,2014,,5.4L V8 6AT Long AWD (310 HP),Gasoline,8,5408,310,495,6-speed automatic,Rear Wheel Drive,,,15.7,5672,2002,1984,3327,2833
+lincoln,Lincoln,Navigator,Navigator (2006),2006,2014,,5.4L V8 6AT Long RWD (300 HP),Gasoline,8,5408,300,495,6-speed automatic,Rear Wheel Drive,,,,5672,2002,1984,3327,2724
+lincoln,Lincoln,Navigator,Navigator (2006),2006,2014,,5.4L V8 6AT Long RWD (300 HP),Gasoline,8,5408,300,495,6-speed automatic,Rear Wheel Drive,,,,5672,2002,1984,3327,2833
+lincoln,Lincoln,Navigator,Navigator (2006),2006,2014,,5.4L V8 6AT Long RWD (310 HP),Gasoline,8,5408,310,495,6-speed automatic,Rear Wheel Drive,,,14.7,5672,2002,1984,3327,2833
+lincoln,Lincoln,Navigator,Navigator (2006),2006,2014,,5.4L V8 6AT RWD (300 HP),Gasoline,8,5408,300,495,6-speed automatic,Rear Wheel Drive,,,16.8,5293,2002,1989,3023,2620
+lincoln,Lincoln,Navigator,Navigator (2006),2006,2014,,5.4L V8 6AT RWD (310 HP),Gasoline,8,5408,310,495,6-speed automatic,Rear Wheel Drive,,,14.7,5293,2002,1989,3023,2620
+lincoln,Lincoln,Navigator,Navigator (2002),2002,2006,,5.4L V8 4AT AWD (305 HP),Gasoline,8,5404,305,481,4-Speed automatic,All Wheel Drive,10,171,,5202,2029,1910,3023,2805
+lincoln,Lincoln,Navigator,Navigator (2002),2002,2006,,5.4L V8 4AT RWD (305 HP),Gasoline,8,5404,305,481,4-Speed automatic,Rear Wheel Drive,9.3,190,18.1,5202,2029,1910,3023,2441
+lincoln,Lincoln,Navigator,Navigator (1998),1998,2003,,5.4L V8 4AT AWD (230 HP),Gasoline,8,5404,231,441,4-Speed automatic,All Wheel Drive,10.6,190,15,5199,2029,1951,3020,2560
+lincoln,Lincoln,Navigator,Navigator (1998),1998,2003,,5.4L V8 4AT AWD (305 HP),Gasoline,8,5404,305,481,4-Speed automatic,All Wheel Drive,10.6,190,15.4,5199,2029,1951,3020,2595
+lincoln,Lincoln,Navigator,Navigator (1998),1998,2003,,5.4L V8 4AT RWD (230 HP),Gasoline,8,5404,231,441,4-Speed automatic,Rear Wheel Drive,10.6,190,15,5199,2029,1951,3020,2560
+lincoln,Lincoln,Navigator,Navigator (1998),1998,2003,,5.4L V8 4AT RWD (305 HP),Gasoline,8,5404,305,481,4-Speed automatic,Rear Wheel Drive,10.6,190,15,5199,2029,1951,3020,2640
+lincoln,Lincoln,Navigator L,Navigator L (2017),2017,2024,,3.5L V6 10AT (456 HP),Gasoline,6,3496,450,691,10-Speed automatic,Rear Wheel Drive,,,12.4,5636,2383,1935,3343,2688
+lincoln,Lincoln,Navigator L,Navigator L (2017),2017,2024,,3.5L V6 10AT AWD (456 HP),Gasoline,6,3496,450,691,10-Speed automatic,All Wheel Drive,,,13.1,5636,2383,1933,3343,2747
+lincoln,Lincoln,Navigator L,Navigator L (2014),2014,2017,,3.5L EcoBoost 6AT AWD (370 HP),Gasoline,6,3490,375,583,6-speed automatic,All Wheel Drive,9.4,177,14.7,5672,2002,2332,3327,2856
+lincoln,Lincoln,Navigator L,Navigator L (2014),2014,2017,,3.5L EcoBoost 6AT RWD (370 HP),Gasoline,6,3490,375,583,6-speed automatic,Rear Wheel Drive,9.3,179,13.8,5672,2002,2332,3327,2749
+lincoln,Lincoln,Navigator L,Navigator L (2006),2006,2014,,5.4L V8 6AT RWD (310 HP),Gasoline,8,5408,310,495,6-automatic speed,Rear Wheel Drive,,,18.1,5672,2002,1984,3327,2741
+lincoln,Lincoln,Town Car,Town Car (2007),2007,2011,,4.6L V8 4AT RWD (239 HP),Gasoline,8,4606,242,389,4-speed automatic,Rear Wheel Drive,10.1,214,11.8,5471,1994,1499,2990,1950
+lincoln,Lincoln,Town Car,Town Car (2007),2007,2011,,4.6L V8 LONG 4AT RWD (239 HP),Gasoline,8,4606,242,389,4-speed automatic,Rear Wheel Drive,10.2,212,12.4,5624,1994,1501,3142,1970
+lincoln,Lincoln,Town Car,Town Car (2002),2002,2006,,4.7L 4AT (242 HP),Gasoline,8,4697,242,389,"Automatic, 4 Speed",Rear Wheel Drive,,,13.1,5471,1986,1499,2990,1945
+lincoln,Lincoln,Town Car,Town Car (1998),1998,2003,,4.6L V8 4AT (203 HP),Gasoline,8,4606,203,373,4-speed automatic,Rear Wheel Drive,,180,,5469,1986,1473,2990,1836
+lincoln,Lincoln,Town Car,Town Car (1998),1998,2003,,4.6L V8 4AT (218 HP),Gasoline,8,4606,218,359,4-speed automatic,Rear Wheel Drive,,180,,5469,1986,1473,2990,1836
+lincoln,Lincoln,Town Car,Town Car (1998),1998,2003,,4.6L V8 4AT (238 HP),Gasoline,8,4606,238,373,4-speed automatic,Rear Wheel Drive,,180,,5469,1986,1473,2990,1869
+lincoln,Lincoln,Zephyr,Zephyr (2021),2021,,,2.0L 8AT,,,,,,,,,,,,,,2901,
+lincoln,Lincoln,Zephyr,Zephyr (2005),2005,2007,,3.0i V6 24V 6AT FWD (221 HP),Gasoline,6,2967,221,278,6-speed automatic,Front Wheel Drive,7.9,232,,4839,1834,1420,2728,1545
+lincoln,Lincoln,Zephyr,Zephyr Fastback (1936),1936,1942,,4.4,Gasoline,12,4380,112,,"Manual, 3 Speed",Rear Wheel Drive,,145,,5334,1854,,3099,1680
+lotus,Lotus,2 Eleven,2 Eleven (2007),2007,2015,,1.8 6MT (256 HP),Gasoline,4,1796,256,241,6-speed manual,Rear Wheel Drive,3.9,249,10.7,3820,1735,1113,2299,745
+lotus,Lotus,3 Eleven,3 Eleven (2018),2018,2018,,3.5 V6 6MT (436 HP),Gasoline,6,3500,436,440,6-speed manual,Rear Wheel Drive,3.2,290,,,,,,920
+lotus,Lotus,Elan,Elan (1989),1989,1994,,1.6i 16V 5MT (132 HP),Gasoline,4,1588,132,142,5-Speed manual,Front Wheel Drive,,196,,3802,1735,1229,2250,997
+lotus,Lotus,Elan,Elan (1989),1989,1994,,1.6i 16V Turbo 5MT (167 HP),Gasoline,4,1588,167,201,5-Speed manual,Front Wheel Drive,7.2,220,8.9,3802,1735,1229,2250,997
+lotus,Lotus,Elan,Elan (1962),1962,1973,,1.5L 4MT (101 HP),Gasoline,4,1499,102,138,4-speed manual,Rear Wheel Drive,,,,3688,1422,1105,2134,585
+lotus,Lotus,Elan,Elan (1962),1962,1973,,1.6L 4MT (106 HP),Gasoline,4,1559,106,146,4-speed manual,Rear Wheel Drive,9,185,,3688,1422,1105,2134,585
+lotus,Lotus,Eletre,Eletre (2022),2022,,,Dual Motor 112 KWh AWD (603 HP),Electric,,,603,,1-Speed automatic,All Wheel Drive,4.5,257,,5103,2230,1636,3020,
+lotus,Lotus,Eletre,Eletre (2022),2022,,,Dual Motor 112 KWh AWD (905 HP),Electric,,,905,,1-Speed automatic,All Wheel Drive,2.95,266,,5103,2230,1636,3020,
+lotus,Lotus,Elise,Elise (2021),2021,2021,,1.8L 6MT (240 HP),Gasoline,4,,240,244,6-speed manual,Rear Wheel Drive,4.5,237,7.8,,,,,922
+lotus,Lotus,Elise,Elise (2016),2016,2017,,1.8L 6MT (250 HP),Gasoline,4,1796,250,250,6-speed automatic,Rear Wheel Drive,4.3,248,7.5,3825,1720,1118,,917
+lotus,Lotus,Elise,Elise (2010),2010,2021,,1.6L S 6MT RWD (134 HP),Gasoline,4,1598,134,160,6-speed manual,Rear Wheel Drive,6.5,204,6.3,3785,1720,1118,2299,870
+lotus,Lotus,Elise,Elise (2010),2010,2021,,1.8L R 6MT RWD (192 HP),Gasoline,4,1796,192,180,6-speed manual,Rear Wheel Drive,5.4,241,8.2,3785,1720,1118,2299,870
+lotus,Lotus,Elise,Elise (2010),2010,2021,,1.8L SC 6AT RWD (217 HP),Gasoline,4,1796,217,212,6-speed automatic,Rear Wheel Drive,4.6,233,8.5,3785,1720,1118,2299,870
+lotus,Lotus,Elise,Elise (2008),2008,2010,,1.8L 5MT RWD (122 HP),Gasoline,4,1796,121,168,5-speed manual,Rear Wheel Drive,5.7,200,7.4,3785,1717,1115,2299,756
+lotus,Lotus,Elise,Elise (2008),2008,2010,,1.8L R 6MT RWD (192 HP),Gasoline,4,1796,192,180,6-speed manual,Rear Wheel Drive,5.4,222,8.2,3785,1717,1115,2299,860
+lotus,Lotus,Elise,Elise (2008),2008,2010,,1.8L S 5MT RWD (136 HP),Gasoline,4,1794,136,172,5-speed manual,Rear Wheel Drive,6.1,208,7.6,3785,1717,1115,2299,860
+lotus,Lotus,Elise,Elise (2008),2008,2010,,1.8L SC 6MT RWD (218 HP),Gasoline,4,1796,218,212,6-speed manual,Rear Wheel Drive,4.6,233,8.5,3785,1717,1115,2299,870
+lotus,Lotus,Elise,Elise (2001),2001,2007,,1.8L 5MT FWD (120 HP),Gasoline,4,1796,120,165,5-Speed manual,Rear Wheel Drive,5.9,200,7.3,3780,1720,1140,2301,710
+lotus,Lotus,Elise,Elise (2001),2001,2007,,1.8L 5MT FWD (122 HP),Gasoline,4,1796,122,168,5-Speed manual,Rear Wheel Drive,5.7,200,7.4,3780,1720,1140,2301,710
+lotus,Lotus,Elise,Elise (2001),2001,2007,,1.8L 5MT FWD (160 HP),Gasoline,4,1796,160,175,5-Speed manual,Rear Wheel Drive,5.1,212,6.9,3780,1720,1140,2301,757
+lotus,Lotus,Elise,Elise (2001),2001,2007,,1.8L 6MT FWD (136 HP),Gasoline,4,1796,136,172,6-speed manual,Rear Wheel Drive,6.4,205,8.3,3780,1720,1140,2301,860
+lotus,Lotus,Elise,Elise (2001),2001,2007,,1.8L 6MT FWD (192 HP),Gasoline,4,1796,192,181,6-speed manual,Rear Wheel Drive,5.2,241,6.9,3780,1720,1140,2301,860
+lotus,Lotus,Elise,Elise (1997),1997,2001,,1.8L 5MT RWD (118 HP),Gasoline,4,1796,120,165,5-Speed manual,Rear Wheel Drive,5.9,202,7.1,3731,1699,1199,2301,699
+lotus,Lotus,Elise,Elise (1997),1997,2001,,1.8L 5MT RWD (143 HP),Gasoline,4,1796,145,174,5-Speed manual,Rear Wheel Drive,5.4,213,7.3,3731,1699,1199,2301,714
+lotus,Lotus,Elise,Elise (1997),1997,2001,,1.8L 5MT RWD (179 HP),Gasoline,4,1796,179,171,5-Speed manual,Rear Wheel Drive,4.6,203,,3731,1699,1199,2301,658
+lotus,Lotus,Elite,Elite (1973),1973,1983,,2.0L 5MT (144 HP),Gasoline,4,1973,144,178,5-Speed manual,Rear Wheel Drive,,190,,4460,1821,1209,2479,1060
+lotus,Lotus,Elite,Elite (1973),1973,1983,,2.0L 5MT (162 HP),Gasoline,4,1973,162,190,5-Speed manual,Rear Wheel Drive,,200,,4460,1821,1209,2479,1060
+lotus,Lotus,Elite,Elite (1957),1957,1963,,1.2L 4MT (72 HP),Gasoline,4,1216,72,104,4-Speed manual,Rear Wheel Drive,,180,,3708,1506,1181,2235,506
+lotus,Lotus,Elite,Elite (1957),1957,1963,,1.2L 4MT (84 HP),Gasoline,4,1216,84,102,4-Speed manual,Rear Wheel Drive,,190,,3708,1506,1181,2235,660
+lotus,Lotus,Emira,Emira (2021),2021,2024,,2.0L 8AT RWD (365 HP),Gasoline,4,1991,365,430,8-speed automatic,Rear Wheel Drive,4.4,290,,4412,1895,1224,2576,1446
+lotus,Lotus,Emira,Emira (2021),2021,2024,,3.5L V6 6AT RWD (400 HP),Gasoline,6,3456,400,430,6-speed automatic,Rear Wheel Drive,4.2,290,,4412,1895,1224,2576,
+lotus,Lotus,Emira,Emira (2021),2021,2024,,3.5L V6 6MT RWD (400 HP),Gasoline,6,3456,400,420,6-speed manual,Rear Wheel Drive,4.3,290,,4412,1895,1224,2576,
+lotus,Lotus,Esprit,Esprit (1976),1976,2004,,2.0L 5MT RWD (162 HP),Gasoline,4,1973,271,190,5-Speed manual,Rear Wheel Drive,6.7,220,,4191,1862,1110,2438,900
+lotus,Lotus,Esprit,Esprit (1976),1976,2004,,2.0L 5MT RWD (243 HP),Gasoline,4,1973,243,294,5-Speed manual,Rear Wheel Drive,,262,,4191,1862,1110,2438,
+lotus,Lotus,Esprit,Esprit (1976),1976,2004,,2.0L 5MT RWD (254 HP),Gasoline,4,1973,253,,5-Speed manual,Rear Wheel Drive,,262,,4191,1862,1110,2438,1225
+lotus,Lotus,Esprit,Esprit (1976),1976,2004,,2.2L 5MT RWD (162 HP),Gasoline,4,2174,162,217,5-Speed manual,Rear Wheel Drive,7,217,,4191,1852,1118,2438,1067
+lotus,Lotus,Esprit,Esprit (1976),1976,2004,,2.2L 5MT RWD (174 HP),Gasoline,4,2174,174,221,5-Speed manual,Rear Wheel Drive,,222,,4191,1862,1110,2438,1100
+lotus,Lotus,Esprit,Esprit (1976),1976,2004,,2.2L 5MT RWD (213 HP),Gasoline,4,2174,213,271,5-Speed manual,Rear Wheel Drive,6,245,,4191,1852,1118,2438,1219
+lotus,Lotus,Esprit,Esprit (1976),1976,2004,,2.2L 5MT RWD (218 HP),Gasoline,4,2174,218,298,5-Speed manual,Rear Wheel Drive,,245,,4191,1862,1110,2438,1384
+lotus,Lotus,Esprit,Esprit (1976),1976,2004,,2.2L 5MT RWD (268 HP),Gasoline,4,2174,268,354,5-Speed manual,Rear Wheel Drive,,266,,4191,1862,1110,2438,
+lotus,Lotus,Esprit,Esprit (1976),1976,2004,,2.2L 5MT RWD (289 HP),Gasoline,4,2174,290,393,5-Speed manual,Rear Wheel Drive,,257,,4191,1862,1110,2438,1347
+lotus,Lotus,Esprit,Esprit (1976),1976,2004,,2.2L 5MT RWD (304 HP),Gasoline,4,2174,305,380,5-Speed manual,Rear Wheel Drive,,266,,4191,1862,1110,2438,1315
+lotus,Lotus,Esprit,Esprit (1976),1976,2004,,3.5L V8 5MT RWD (355 HP),Gasoline,8,3506,355,400,5-Speed manual,Rear Wheel Drive,4.9,282,,4191,1862,1110,2438,1378
+lotus,Lotus,Europa,Europa (2006),2006,2010,,2.0 Turbo 6MT (200 HP),Gasoline,4,1998,200,272,6-Speed manual,Rear Wheel Drive,5.8,242,9.3,3899,1709,1120,2329,995
+lotus,Lotus,Europa,Europa (2006),2006,2010,,2.0 Turbo 6MT (222 HP),Gasoline,4,1998,222,301,6-Speed manual,Rear Wheel Drive,5.3,235,9.8,3899,1709,1120,2329,995
+lotus,Lotus,Europa,Europa (1965),1965,1975,,1.5L 4MT RWD (79 HP),Gasoline,4,1470,79,103,4-speed manual,Rear Wheel Drive,,185,,3975,1638,1067,2311,660
+lotus,Lotus,Europa,Europa (1965),1965,1975,,1.6L 4MT RWD (107 HP),Gasoline,4,1558,106,146,4-speed manual,Rear Wheel Drive,,195,,3993,1638,1067,2311,737
+lotus,Lotus,Europa,Europa (1965),1965,1975,,1.6L 5MT RWD (128 HP),Gasoline,4,1558,128,153,5-Speed manual,Rear Wheel Drive,7.2,204,,3993,1638,1067,2311,711
+lotus,Lotus,Evija,Evija (2020),2020,,,1471 KW AWD (2000 HP),Electric,,,2000,1700,Single speed,All Wheel Drive,3,320,,4460,1999,1123,,1680
+lotus,Lotus,Evora,Evora (2019),2019,2021,,3.5L V6 6AT AWD (422 HP),Gasoline,6,3456,422,450,6-Speed manual,All Wheel Drive,3.9,303,11.8,4394,1971,1222,,14651
+lotus,Lotus,Evora,Evora (2019),2019,2021,,3.5L V6 6MT AWD (422 HP),Gasoline,6,3456,422,430,6-Speed manual,All Wheel Drive,3.9,303,11.8,4394,1971,1222,,1440
+lotus,Lotus,Evora,Evora (2018),2018,2021,,3.5L V6 6AT (416 HP),Gasoline,6,3456,416,420,6-speed automatic,Rear Wheel Drive,4.1,275,11,4394,1971,1222,,1331
+lotus,Lotus,Evora,Evora (2018),2018,2021,,3.5L V6 6MT (416 HP),Gasoline,6,3456,416,420,6-speed manual,Rear Wheel Drive,4.2,306,10.6,4394,1971,1222,,1320
+lotus,Lotus,Evora,Evora (2017),2017,2018,,3.5L V6 6AT RWD (436 HP),Gasoline,6,3456,436,450,6-speed automatic,Rear Wheel Drive,3.7,280,,4394,1844,1229,2576,1310
+lotus,Lotus,Evora,Evora (2017),2017,2018,,3.5L V6 6MT RWD (436 HP),Gasoline,6,3456,436,440,6-speed manual,Rear Wheel Drive,3.8,306,,4394,1844,1229,2576,1299
+lotus,Lotus,Evora,Evora (2016),2016,2018,,3.5L V6 6AT RWD (416 HP),Gasoline,6,3456,416,420,6-speed automatic,Rear Wheel Drive,4.1,280,9.7,4394,1844,1229,2576,1336
+lotus,Lotus,Evora,Evora (2016),2016,2018,,3.5L V6 6MT RWD (416 HP),Gasoline,6,3456,416,420,6-speed manual,Rear Wheel Drive,4.2,306,9.7,4394,1844,1229,2576,1325
+lotus,Lotus,Evora,Evora (2015),2015,2018,,3.5L V6 6AT RWD (406 HP),Gasoline,6,3456,405,409,6-speed automatic,Rear Wheel Drive,4.3,299,,4394,2047,1298,2576,1419
+lotus,Lotus,Evora,Evora (2015),2015,2018,,3.5L V6 6MT RWD (406 HP),Gasoline,6,3456,405,409,6-speed manual,Rear Wheel Drive,4.2,299,,4394,2047,1298,2576,1415
+lotus,Lotus,Evora,Evora (2008),2008,2014,,3.5L V6 6AT RWD (280 HP),Gasoline,6,3506,280,350,6-speed automatic,Rear Wheel Drive,5.2,262,8.8,4351,2047,1229,2576,1436
+lotus,Lotus,Evora,Evora (2008),2008,2014,,3.5L V6 6MT RWD (280 HP),Gasoline,6,3506,280,350,"Manual, 6 Speed",Rear Wheel Drive,5,262,8.7,4351,2047,1229,2576,1383
+lotus,Lotus,Evora,Evora (2008),2008,2014,,3.6L V6 6AT RWD (350 HP),Gasoline,6,3506,349,400,6-speed automatic,Rear Wheel Drive,4.7,269,9.7,4351,2047,1229,2576,1442
+lotus,Lotus,Evora,Evora (2008),2008,2014,,3.6L V6 6MT RWD (350 HP),Gasoline,6,3506,349,400,6-speed manual,Rear Wheel Drive,4.6,286,10,4351,2047,1229,2576,1437
+lotus,Lotus,Excel,Excel (1982),1982,1992,,2.2L 4AT RWD (183 HP),Gasoline,4,2174,183,224,4-speed automatic,Rear Wheel Drive,,200,,4376,1816,1016,2482,1177
+lotus,Lotus,Excel,Excel (1982),1982,1992,,2.2L 5MT RWD (162 HP),Gasoline,4,2174,162,217,5-Speed manual,Rear Wheel Drive,,206,,4376,1816,1016,2482,1135
+lotus,Lotus,Exige,Exige (2021),2021,2021,,3.5L V6 6MT (420 HP),Gasoline,6,,420,427,,Rear Wheel Drive,3.5,290,10.2,,,,,
+lotus,Lotus,Exige,Exige (2021),2021,2021,,3.5L V6 6MT (390 HP),Gasoline,6,,390,420,6-speed manual,Rear Wheel Drive,3.8,277,10.2,,,,,1138
+lotus,Lotus,Exige,Exige (2017),2017,2021,,3.5L V6 6MT (410 HP),Gasoline,6,3458,410,420,6-Speed manual,Rear Wheel Drive,3.4,233,,,,,,1108
+lotus,Lotus,Exige,Exige (2012),2012,2021,,S 3.5L V6 6MT (350 HP),Gasoline,6,3456,349,400,6-speed manual,Rear Wheel Drive,3.8,274,10.1,4049,1801,1128,2370,1176
+lotus,Lotus,Exige,Exige (2012),2012,2021,,S Roadster 3.5L V6 6MT (350 HP),Gasoline,6,3456,349,400,6-speed manual,Rear Wheel Drive,3.8,274,10.1,4049,1801,1128,2370,1166
+lotus,Lotus,Exige,Exige (2008),2008,2012,,1.8L 6MT RWD (192 HP),Gasoline,4,1796,192,180,6-speed manual,Rear Wheel Drive,5.2,237,8.8,3785,1717,1168,2299,875
+lotus,Lotus,Exige,Exige (2008),2008,2012,,1.8L CUP 260 6MT RWD (261 HP),Gasoline,4,1796,261,236,6-speed manual,Rear Wheel Drive,4.1,245,9.1,3785,1717,1168,2299,935
+lotus,Lotus,Exige,Exige (2008),2008,2012,,1.8L S 240 6MT RWD (240 HP),Gasoline,4,1796,241,230,6-speed manual,Rear Wheel Drive,4.2,241,10.2,3785,1717,1168,2299,942
+lotus,Lotus,Exige,Exige (2008),2008,2012,,1.8L S 6MT RWD (220 HP),Gasoline,4,1796,223,180,6-speed manual,Rear Wheel Drive,4.3,238,8.5,3785,1717,1168,2299,935
+lotus,Lotus,Exige,Exige (2004),2004,2007,,1.8 6MT (192 HP),Gasoline,4,1796,192,181,6-Speed manual,Rear Wheel Drive,5.2,237,8.8,3800,1730,1161,2301,875
+lotus,Lotus,Exige,Exige (2004),2004,2007,,1.8 6MT (225 HP),Gasoline,4,1796,225,181,6-Speed manual,Rear Wheel Drive,4.3,238,9.1,3800,1730,1161,2301,935
+lotus,Lotus,Exige,Exige (2000),2000,2003,,1.8 5MT (179 HP),Gasoline,4,1796,179,171,5-Speed manual,Rear Wheel Drive,4.9,219,,3780,1720,1181,2301,780
+lucid,Lucid,Motors Air,Motors Air (2021),2021,,,Dream Edition Performance AWD (1111 HP),Electric,,,1111,,,All Wheel Drive,2.6,270,,4976,1664,1410,2959,
+lucid,Lucid,Motors Air,Motors Air (2021),2021,,,Dream Edition Range AWD (933 HP),Electric,,,933,,,All Wheel Drive,2.6,270,,4976,1664,1410,2959,
+lucid,Lucid,Motors Air,Motors Air (2021),2021,,,Grand Touring AWD (800 HP),Electric,,,800,,,All Wheel Drive,2.6,270,,4976,1664,1410,2959,
+lucid,Lucid,Motors Air,Motors Air (2021),2021,,,Touring AWD (620 HP),Electric,,,620,,,All Wheel Drive,2.6,270,,4976,1664,1410,2959,
+lucid,Lucid,Motors Gravity,Motors Gravity (2023),2023,,,800 HP,Electric,,,800,,,,3.6,,,5034,1999,1656,3035,
+mahindra,Mahindra,Bolero,Bolero (2011),2011,2020,,2.5L D (63 HP),Diesel,4,2523,63,195,5-speed manual,All Wheel Drive,,,,4107,1745,1880,2680,
+mahindra,Mahindra,Scorpio / GOA,Scorpio / GOA (2002),2002,2014,,2.2D 5MT 4WD (118 HP),Gasoline,4,2179,118,290,5 speed manual,All Wheel Drive,,,,4430,1816,1976,2680,
+mahindra,Mahindra,Scorpio / GOA,Scorpio / GOA (2002),2002,2014,,2.2D 6AT 4WD (118 HP),Gasoline,4,2179,118,290,"6 speed, automatic",All Wheel Drive,,,,4430,1816,1976,2680,
+mahindra,Mahindra,Scorpio / GOA,Scorpio / GOA (2002),2002,2014,,2.6D 5MT 4WD (109 HP),Gasoline,4,2609,109,255,5 speed manual,All Wheel Drive,,,,5118,1849,1875,3040,
+mahindra,Mahindra,Scorpio / GOA,Scorpio / GOA (2002),2002,2014,,2.6D 5MT 4WD (116 HP),Gasoline,4,2609,116,278,5 speed manual,All Wheel Drive,,,,5118,1849,1875,3040,
+mahindra,Mahindra,Thar,Thar (2010),2010,2020,,2.5D 2WD (63 HP),Diesel,4,2523,63.9,182,5-speed manual,Rear Wheel Drive,,,5.5,3759,1641,1905,2431,
+mahindra,Mahindra,Thar,Thar (2010),2010,2020,,2.5D 4WD (63 HP),Diesel,4,2523,63.9,183,5-speed manual,All Wheel Drive,,,5.3,3759,1641,1905,2431,
+mahindra,Mahindra,Thar,Thar (2010),2010,2020,,2.5L CRDe 5MT AWD (105 HP),Diesel,4,2498,106.5,247,5-speed manual,All Wheel Drive,,,6,3919,1709,1930,2431,
+mahindra,Mahindra,Verito,Verito (2012),2012,2019,,1.4L MFPI (75 HP),Gasoline,4,1390,75,110,5 speed manual,Front Wheel Drive,,,,4277,1740,1539,2629,1080
+mahindra,Mahindra,Verito,Verito (2012),2012,2019,,1.5L dCI (65 HP),Diesel,4,1461,65,160,5 speed manual,Front Wheel Drive,,,,4277,1740,1539,2629,1140

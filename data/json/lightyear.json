@@ -7,12 +7,69 @@
         {
           "name": "Lightyear 0",
           "yearStart": 2022,
-          "yearEnd": null
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Lightyear 0 (2022)",
+              "yearStart": 2022,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "60 kWh AWD (172 HP)",
+                  "fuelType": "Electric",
+                  "cylinders": null,
+                  "displacementCc": null,
+                  "powerHp": 172,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": "All Wheel Drive",
+                  "zeroToHundredKmhS": 10,
+                  "topSpeedKmh": 159,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": 5083,
+                  "widthMm": 1971,
+                  "heightMm": 1445,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": 575,
+                  "specs": {
+                    "ENGINE SPECS / Total maximum power": "126.5 kw (172 hp, 170 bhp)",
+                    "ENGINE SPECS / Total maximum torque": "1268.6 lb-ft (1720 Nm)",
+                    "ENGINE SPECS / Fuel System": "Electric",
+                    "ENGINE SPECS / Fuel": "Electric",
+                    "PERFORMANCE SPECS / Top speed (electrical)": "99 mph (159 km/h)",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "10 s",
+                    "TRANSMISSION SPECS / Drive Type": "All Wheel Drive",
+                    "BRAKES SPECS / Front": "Ventilated Discs",
+                    "BRAKES SPECS / Rear": "Ventilated discs",
+                    "DIMENSIONS / Length": "200.1 in (5083 mm)",
+                    "DIMENSIONS / Width": "77.6 in (1971 mm)",
+                    "DIMENSIONS / Height": "56.9 in (1445 mm)",
+                    "DIMENSIONS / Ground Clearance": "7.2 in (183 mm)",
+                    "DIMENSIONS / Cargo Volume": "22.6 cuFT (640 L)",
+                    "WEIGHT SPECS / Unladen Weight": "1268 lbs (575 kg)",
+                    "POWER SYSTEM SPECS / Power pack": "Lithium-Ion",
+                    "POWER SYSTEM SPECS / Nominal Capacity": "60 kWh",
+                    "POWER SYSTEM SPECS / Range": "388.4 miles (625.1 km)"
+                  }
+                }
+              ]
+            }
+          ]
         },
         {
           "name": "Lightyear 2",
           "yearStart": 2023,
-          "yearEnd": null
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Lightyear 2 (2023)",
+              "yearStart": 2023,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
         }
       ]
     }
