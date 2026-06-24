@@ -7,112 +7,1569 @@
         {
           "name": "12C GT Sprint",
           "yearStart": 2013,
-          "yearEnd": 2014
+          "yearEnd": 2014,
+          "generations": [
+            {
+              "name": "12C GT Sprint (2013)",
+              "yearStart": 2013,
+              "yearEnd": 2014,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "3.8L 7AT (625 HP)",
+                  "fuelType": "Gasoline",
+                  "cylinders": 8,
+                  "displacementCc": 3799,
+                  "powerHp": 625,
+                  "torqueNm": 601,
+                  "transmission": "Seven-speed McLaren dual clutch Seamless-Shift gearbox (SSG) with Pre-Cog functionality",
+                  "drivetrain": "Rear Wheel Drive",
+                  "zeroToHundredKmhS": 3.1,
+                  "topSpeedKmh": 333,
+                  "fuelEconomyCombinedL100": 11.7,
+                  "lengthMm": 4509,
+                  "widthMm": 1908,
+                  "heightMm": 1204,
+                  "wheelbaseMm": 2670,
+                  "curbWeightKg": 1434,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "v8",
+                    "ENGINE SPECS / Displacement": "3799 cm3 (232 ci)",
+                    "ENGINE SPECS / Power": "460 KW @ 7500 RPM625 HP @ 7500 RPM617 BHP @ 7500 RPM",
+                    "ENGINE SPECS / Torque": "443 lb-ft @ 3000-7000 RPM601 Nm @ 3000-7000 RPM",
+                    "ENGINE SPECS / Fuel System": "Direct Injection",
+                    "ENGINE SPECS / Fuel": "Gasoline",
+                    "PERFORMANCE SPECS / Top Speed": "207 mph (333 km/h)",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "3.1 s",
+                    "TRANSMISSION SPECS / Drive Type": "Rear Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "Seven-speed McLaren dual clutch Seamless-Shift gearbox (SSG) with Pre-Cog functionality",
+                    "BRAKES SPECS / Front": "Ventilated discs",
+                    "BRAKES SPECS / Rear": "Ventilated discs",
+                    "TIRES SPECS / Tire Size": "Front: 235/35 R19 Rear: 305/30 R20",
+                    "DIMENSIONS / Length": "177.5 in (4509 mm)",
+                    "DIMENSIONS / Width": "75.1 in (1908 mm)",
+                    "DIMENSIONS / Height": "47.4 in (1204 mm)",
+                    "DIMENSIONS / Front/rear Track": "65.2/62.3 in (1,656/1,582 mm)",
+                    "DIMENSIONS / Wheelbase": "105.1 in (2670 mm)",
+                    "WEIGHT SPECS / Unladen Weight": "3161 lbs (1434 kg)",
+                    "FUEL ECONOMY (NEDC) / Combined": "20.1 mpg US (11.7 L/100Km)",
+                    "FUEL ECONOMY (NEDC) / CO2 Emissions": "279 g/km"
+                  }
+                }
+              ]
+            }
+          ]
         },
         {
           "name": "540C",
           "yearStart": 2015,
-          "yearEnd": 2021
+          "yearEnd": 2021,
+          "generations": [
+            {
+              "name": "540C (2015)",
+              "yearStart": 2015,
+              "yearEnd": 2021,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "3.8 V8 7AT (540 HP)",
+                  "fuelType": "Gasoline",
+                  "cylinders": 8,
+                  "displacementCc": 3799,
+                  "powerHp": 540,
+                  "torqueNm": 540,
+                  "transmission": "7-speed automatic (SSG)",
+                  "drivetrain": "Rear Wheel Drive",
+                  "zeroToHundredKmhS": 3.5,
+                  "topSpeedKmh": 320,
+                  "fuelEconomyCombinedL100": 11.1,
+                  "lengthMm": 4529,
+                  "widthMm": 2096,
+                  "heightMm": 1201,
+                  "wheelbaseMm": 2670,
+                  "curbWeightKg": 1350,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "V8",
+                    "ENGINE SPECS / Displacement": "3799 cm3 (232 ci)",
+                    "ENGINE SPECS / Power": "397.2 KW @ 7500 RPM540 HP @ 7500 RPM533 BHP @ 7500 RPM",
+                    "ENGINE SPECS / Torque": "398 lb-ft @ 3500-6500 RPM540 Nm @ 3500-6500 RPM",
+                    "ENGINE SPECS / Fuel System": "Turbocharged Direct Injection",
+                    "ENGINE SPECS / Fuel": "Gasoline",
+                    "PERFORMANCE SPECS / Top Speed": "199 mph (320 km/h)",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "3.5 s",
+                    "TRANSMISSION SPECS / Drive Type": "Rear Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "7-speed automatic (SSG)",
+                    "BRAKES SPECS / Front": "Ventilated Discs",
+                    "BRAKES SPECS / Rear": "Ventilated Discs",
+                    "TIRES SPECS / Tire Size": "225/35/R19",
+                    "DIMENSIONS / Length": "178.3 in (4529 mm)",
+                    "DIMENSIONS / Width": "82.5 in (2096 mm)",
+                    "DIMENSIONS / Height": "47.3 in (1201 mm)",
+                    "DIMENSIONS / Wheelbase": "105.1 in (2670 mm)",
+                    "DIMENSIONS / Cargo Volume": "5.3 cuFT (150 L)",
+                    "WEIGHT SPECS / Unladen Weight": "2976 lbs (1350 kg)",
+                    "FUEL ECONOMY (NEDC) / City": "14.2 mpg US (16.6 L/100Km)",
+                    "FUEL ECONOMY (NEDC) / Highway": "29 mpg US (8.1 L/100Km)",
+                    "FUEL ECONOMY (NEDC) / Combined": "21.2 mpg US (11.1 L/100Km)",
+                    "FUEL ECONOMY (NEDC) / CO2 Emissions": "258 g/km"
+                  }
+                }
+              ]
+            }
+          ]
         },
         {
           "name": "570GT",
           "yearStart": 2016,
-          "yearEnd": 2021
+          "yearEnd": 2021,
+          "generations": [
+            {
+              "name": "570GT (2016)",
+              "yearStart": 2016,
+              "yearEnd": 2021,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "3.8 V8 7AT (570 HP)",
+                  "fuelType": "Gasoline",
+                  "cylinders": 8,
+                  "displacementCc": 3799,
+                  "powerHp": 570,
+                  "torqueNm": 600,
+                  "transmission": "7-speed automatic (SSG)",
+                  "drivetrain": "Rear Wheel Drive",
+                  "zeroToHundredKmhS": 3.4,
+                  "topSpeedKmh": 328,
+                  "fuelEconomyCombinedL100": 10.7,
+                  "lengthMm": 4529,
+                  "widthMm": 2096,
+                  "heightMm": 1201,
+                  "wheelbaseMm": 2670,
+                  "curbWeightKg": 1400,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "V8",
+                    "ENGINE SPECS / Displacement": "3799 cm3 (232 ci)",
+                    "ENGINE SPECS / Power": "419.2 KW @ 7500 RPM570 HP @ 7500 RPM562 BHP @ 7500 RPM",
+                    "ENGINE SPECS / Torque": "443 lb-ft @ 5000-6500 RPM600 Nm @ 5000-6500 RPM",
+                    "ENGINE SPECS / Fuel System": "Turbocharged Direct Injection",
+                    "ENGINE SPECS / Fuel": "Gasoline",
+                    "PERFORMANCE SPECS / Top Speed": "204 mph (328 km/h)",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "3.4 s",
+                    "TRANSMISSION SPECS / Drive Type": "Rear Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "7-speed automatic (SSG)",
+                    "BRAKES SPECS / Front": "Ventilated Discs",
+                    "BRAKES SPECS / Rear": "Ventilated Discs",
+                    "TIRES SPECS / Tire Size": "225/35/R19",
+                    "DIMENSIONS / Length": "178.3 in (4529 mm)",
+                    "DIMENSIONS / Width": "82.5 in (2096 mm)",
+                    "DIMENSIONS / Height": "47.3 in (1201 mm)",
+                    "DIMENSIONS / Wheelbase": "105.1 in (2670 mm)",
+                    "DIMENSIONS / Cargo Volume": "13.1 cuFT (371 L)",
+                    "WEIGHT SPECS / Unladen Weight": "3086 lbs (1400 kg)",
+                    "FUEL ECONOMY (NEDC) / City": "Infinity mpg US (0 L/100Km)",
+                    "FUEL ECONOMY (NEDC) / Highway": "Infinity mpg US (0 L/100Km)",
+                    "FUEL ECONOMY (NEDC) / Combined": "22 mpg US (10.7 L/100Km)",
+                    "FUEL ECONOMY (NEDC) / CO2 Emissions": "249 g/km"
+                  }
+                }
+              ]
+            }
+          ]
         },
         {
           "name": "570S",
           "yearStart": 2015,
-          "yearEnd": 2021
+          "yearEnd": 2021,
+          "generations": [
+            {
+              "name": "570S (2015)",
+              "yearStart": 2015,
+              "yearEnd": 2021,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "3.8 V8 7AT (570 HP)",
+                  "fuelType": "Gasoline",
+                  "cylinders": 8,
+                  "displacementCc": 3799,
+                  "powerHp": 570,
+                  "torqueNm": 601,
+                  "transmission": "7-speed automatic (SSG)",
+                  "drivetrain": "Rear Wheel Drive",
+                  "zeroToHundredKmhS": 3.2,
+                  "topSpeedKmh": 328,
+                  "fuelEconomyCombinedL100": 9.2,
+                  "lengthMm": 4529,
+                  "widthMm": 2096,
+                  "heightMm": 1201,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": 1313,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "V8",
+                    "ENGINE SPECS / Displacement": "3799 cm3 (232 ci)",
+                    "ENGINE SPECS / Power": "419 KW @ 7400 RPM570 HP @ 7400 RPM562 BHP @ 7400 RPM",
+                    "ENGINE SPECS / Torque": "443 lb-ft @ 5000-6500 RPM601 Nm @ 5000-6500 RPM",
+                    "ENGINE SPECS / Fuel System": "Turbocharged Direct Injection",
+                    "ENGINE SPECS / Fuel": "Gasoline",
+                    "PERFORMANCE SPECS / Top Speed": "204 mph (328 km/h)",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "3.2 s",
+                    "TRANSMISSION SPECS / Drive Type": "Rear Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "7-speed automatic (SSG)",
+                    "BRAKES SPECS / Front": "Ventilated Discs",
+                    "BRAKES SPECS / Rear": "Ventilated Discs",
+                    "TIRES SPECS / Tire Size": "225/35/R19 || 285/35/R20",
+                    "DIMENSIONS / Length": "178.3 in (4529 mm)",
+                    "DIMENSIONS / Width": "82.5 in (2096 mm)",
+                    "DIMENSIONS / Height": "47.3 in (1201 mm)",
+                    "DIMENSIONS / Cargo Volume": "5.3 cuFT (150 L)",
+                    "WEIGHT SPECS / Unladen Weight": "2895 lbs (1313 kg)",
+                    "FUEL ECONOMY (NEDC) / Combined": "25.6 mpg US (9.2 L/100Km)",
+                    "FUEL ECONOMY (NEDC) / CO2 Emissions": "258 g/km"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "570S Spider (2017)",
+              "yearStart": 2017,
+              "yearEnd": 2021,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "3.8 V8 7AT (570 HP)",
+                  "fuelType": "Gasoline",
+                  "cylinders": 8,
+                  "displacementCc": 3799,
+                  "powerHp": 570,
+                  "torqueNm": 600,
+                  "transmission": "7-speed automatic (SSG)",
+                  "drivetrain": "Rear Wheel Drive",
+                  "zeroToHundredKmhS": 3.2,
+                  "topSpeedKmh": 328,
+                  "fuelEconomyCombinedL100": 10.7,
+                  "lengthMm": 4529,
+                  "widthMm": 2045,
+                  "heightMm": 1201,
+                  "wheelbaseMm": 2670,
+                  "curbWeightKg": 1498,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "V8",
+                    "ENGINE SPECS / Displacement": "3799 cm3 (232 ci)",
+                    "ENGINE SPECS / Power": "419.2 KW @ 7500 RPM570 HP @ 7500 RPM562 BHP @ 7500 RPM",
+                    "ENGINE SPECS / Torque": "443 lb-ft @ 5000-6500 RPM600 Nm @ 5000-6500 RPM",
+                    "ENGINE SPECS / Fuel System": "Turbocharged Direct Injection",
+                    "ENGINE SPECS / Fuel": "Gasoline",
+                    "PERFORMANCE SPECS / Top Speed": "204 mph (328 km/h)",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "3.2 s",
+                    "TRANSMISSION SPECS / Drive Type": "Rear Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "7-speed automatic (SSG)",
+                    "BRAKES SPECS / Front": "Ventilated Discs",
+                    "BRAKES SPECS / Rear": "Ventilated Discs",
+                    "TIRES SPECS / Tire Size": "225/35 R19 || 285/35 R20",
+                    "DIMENSIONS / Length": "178.3 in (4529 mm)",
+                    "DIMENSIONS / Width": "80.5 in (2045 mm)",
+                    "DIMENSIONS / Height": "47.3 in (1201 mm)",
+                    "DIMENSIONS / Front/rear Track": "65.9/63.7 in (1,674/1,618 mm)",
+                    "DIMENSIONS / Wheelbase": "105.1 in (2670 mm)",
+                    "DIMENSIONS / Cargo Volume": "5.3 cuFT (150 L)",
+                    "WEIGHT SPECS / Unladen Weight": "3303 lbs (1498 kg)",
+                    "FUEL ECONOMY (NEDC) / City": "13.7 mpg US (17.2 L/100Km)",
+                    "FUEL ECONOMY (NEDC) / Highway": "31.8 mpg US (7.4 L/100Km)",
+                    "FUEL ECONOMY (NEDC) / Combined": "22 mpg US (10.7 L/100Km)",
+                    "FUEL ECONOMY (NEDC) / CO2 Emissions": "249 g/km"
+                  }
+                }
+              ]
+            }
+          ]
         },
         {
           "name": "600LT",
           "yearStart": 2018,
-          "yearEnd": 2020
+          "yearEnd": 2020,
+          "generations": [
+            {
+              "name": "600LT (2018)",
+              "yearStart": 2018,
+              "yearEnd": 2020,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "3.8L V8 7AT (600 HP)",
+                  "fuelType": "Gasoline",
+                  "cylinders": 8,
+                  "displacementCc": 3799,
+                  "powerHp": 600,
+                  "torqueNm": 620,
+                  "transmission": "7-speed automatic",
+                  "drivetrain": "Rear Wheel Drive",
+                  "zeroToHundredKmhS": 3.2,
+                  "topSpeedKmh": 333,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": 4580,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": 1247,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "V8",
+                    "ENGINE SPECS / Displacement": "3799 cm3 (232 ci)",
+                    "ENGINE SPECS / Power": "441.3 KW @ 7250 RPM600 HP @ 7250 RPM592 BHP @ 7250 RPM",
+                    "ENGINE SPECS / Torque": "457 lb-ft @ 3000-7000 RPM620 Nm @ 3000-7000 RPM",
+                    "ENGINE SPECS / Fuel System": "Turbocharged Direct Injection",
+                    "ENGINE SPECS / Fuel": "Gasoline",
+                    "PERFORMANCE SPECS / Top Speed": "207 mph (333 km/h)",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "3.2 s",
+                    "TRANSMISSION SPECS / Drive Type": "Rear Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "7-speed automatic",
+                    "BRAKES SPECS / Front": "Ventilated Discs",
+                    "BRAKES SPECS / Rear": "Discs",
+                    "TIRES SPECS / Tire Size": "235/35 R19 || 305/30 R20",
+                    "DIMENSIONS / Length": "180.3 in (4580 mm)",
+                    "WEIGHT SPECS / Unladen Weight": "2749 lbs (1247 kg)"
+                  }
+                }
+              ]
+            }
+          ]
         },
         {
           "name": "620R",
           "yearStart": 2019,
-          "yearEnd": 2021
+          "yearEnd": 2021,
+          "generations": [
+            {
+              "name": "620R (2019)",
+              "yearStart": 2019,
+              "yearEnd": 2021,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "3.8L V8 7AT (620 HP)",
+                  "fuelType": "Gasoline",
+                  "cylinders": 8,
+                  "displacementCc": 3799,
+                  "powerHp": 620,
+                  "torqueNm": 620,
+                  "transmission": "7-speed automatic",
+                  "drivetrain": "Rear Wheel Drive",
+                  "zeroToHundredKmhS": 2.9,
+                  "topSpeedKmh": 322,
+                  "fuelEconomyCombinedL100": 13.1,
+                  "lengthMm": 4557,
+                  "widthMm": 2045,
+                  "heightMm": 1194,
+                  "wheelbaseMm": 2670,
+                  "curbWeightKg": 1386,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "V8",
+                    "ENGINE SPECS / Displacement": "3799 cm3 (232 ci)",
+                    "ENGINE SPECS / Power": "456 KW @ 7000 RPM620 HP @ 7000 RPM612 BHP @ 7000 RPM",
+                    "ENGINE SPECS / Torque": "457 lb-ft @ 3500 RPM620 Nm @ 3500 RPM",
+                    "ENGINE SPECS / Fuel System": "Turbocharged Direct Injection",
+                    "ENGINE SPECS / Fuel": "Gasoline",
+                    "PERFORMANCE SPECS / Top Speed": "200 mph (322 km/h)",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "2.9 s",
+                    "TRANSMISSION SPECS / Drive Type": "Rear Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "7-speed automatic",
+                    "BRAKES SPECS / Front": "Ventilated Discs",
+                    "BRAKES SPECS / Rear": "Ventilated Discs",
+                    "TIRES SPECS / Tire Size": "225/35/R19 // 285/35/R20",
+                    "DIMENSIONS / Length": "179.4 in (4557 mm)",
+                    "DIMENSIONS / Width": "80.5 in (2045 mm)",
+                    "DIMENSIONS / Height": "47 in (1194 mm)",
+                    "DIMENSIONS / Front/rear Track": "66.1/63.7 in (1,679/1,618 mm)",
+                    "DIMENSIONS / Wheelbase": "105.1 in (2670 mm)",
+                    "DIMENSIONS / Cargo Volume": "4.2 cuFT (119 L)",
+                    "WEIGHT SPECS / Unladen Weight": "3056 lbs (1386 kg)",
+                    "FUEL ECONOMY (NEDC) / City": "15 mpg US (15.7 L/100Km)",
+                    "FUEL ECONOMY (NEDC) / Highway": "23.1 mpg US (10.2 L/100Km)",
+                    "FUEL ECONOMY (NEDC) / Combined": "18 mpg US (13.1 L/100Km)"
+                  }
+                }
+              ]
+            }
+          ]
         },
         {
           "name": "650S",
           "yearStart": 2014,
-          "yearEnd": 2017
+          "yearEnd": 2017,
+          "generations": [
+            {
+              "name": "650S (2014)",
+              "yearStart": 2014,
+              "yearEnd": 2017,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "3.8L V8 7AT (650 HP)",
+                  "fuelType": "Gasoline",
+                  "cylinders": 8,
+                  "displacementCc": 3800,
+                  "powerHp": 650,
+                  "torqueNm": 678,
+                  "transmission": "7-speed automatic",
+                  "drivetrain": "Rear Wheel Drive",
+                  "zeroToHundredKmhS": 2.9,
+                  "topSpeedKmh": 333,
+                  "fuelEconomyCombinedL100": 11.7,
+                  "lengthMm": 4509,
+                  "widthMm": 1895,
+                  "heightMm": 1199,
+                  "wheelbaseMm": 2670,
+                  "curbWeightKg": 1330,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "V8",
+                    "ENGINE SPECS / Displacement": "3800 cm3 (232 ci)",
+                    "ENGINE SPECS / Power": "478 KW @ 7250- RPM650 HP @ 7250- RPM641 BHP @ 7250- RPM",
+                    "ENGINE SPECS / Torque": "500 lb-ft @ 3000-7000 RPM678 Nm @ 3000-7000 RPM",
+                    "ENGINE SPECS / Fuel System": "Turbocharged Direct Injection",
+                    "ENGINE SPECS / Fuel": "Gasoline",
+                    "ENGINE SPECS / Fuel capacity": "19 gallons (71.9 L)",
+                    "PERFORMANCE SPECS / Top Speed": "207 mph (333 km/h)",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "2.9 s",
+                    "TRANSMISSION SPECS / Drive Type": "Rear Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "7-speed automatic",
+                    "BRAKES SPECS / Front": "Ventilated Discs",
+                    "BRAKES SPECS / Rear": "Ventilated Discs",
+                    "TIRES SPECS / Tire Size": "235/35 R19 || 305/30 R20",
+                    "DIMENSIONS / Length": "177.5 in (4509 mm)",
+                    "DIMENSIONS / Width": "74.6 in (1895 mm)",
+                    "DIMENSIONS / Height": "47.2 in (1199 mm)",
+                    "DIMENSIONS / Front/rear Track": "65.2/62.3 in (1,656/1,582 mm)",
+                    "DIMENSIONS / Wheelbase": "105.1 in (2670 mm)",
+                    "DIMENSIONS / Ground Clearance": "3.9 in (99 mm)",
+                    "DIMENSIONS / Aerodynamics (Cd)": "0.36",
+                    "WEIGHT SPECS / Unladen Weight": "2932 lbs (1330 kg)",
+                    "FUEL ECONOMY (NEDC) / City": "13.4 mpg US (17.6 L/100Km)",
+                    "FUEL ECONOMY (NEDC) / Highway": "27.7 mpg US (8.5 L/100Km)",
+                    "FUEL ECONOMY (NEDC) / Combined": "20.1 mpg US (11.7 L/100Km)",
+                    "FUEL ECONOMY (NEDC) / CO2 Emissions": "275 g/km"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "650S Spider (2014)",
+              "yearStart": 2014,
+              "yearEnd": 2017,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "3.8L V8 7AT RWD (650 HP)",
+                  "fuelType": "Gasoline",
+                  "cylinders": 8,
+                  "displacementCc": 3799,
+                  "powerHp": 650,
+                  "torqueNm": 678,
+                  "transmission": "7-speed automatic (SSG)",
+                  "drivetrain": "Rear Wheel Drive",
+                  "zeroToHundredKmhS": 3,
+                  "topSpeedKmh": 333,
+                  "fuelEconomyCombinedL100": 13.1,
+                  "lengthMm": 4511,
+                  "widthMm": 1908,
+                  "heightMm": 1204,
+                  "wheelbaseMm": 2670,
+                  "curbWeightKg": 1468,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "V8",
+                    "ENGINE SPECS / Displacement": "3799 cm3 (232 ci)",
+                    "ENGINE SPECS / Power": "478.1 KW @ 7250 RPM650 HP @ 7250 RPM641 BHP @ 7250 RPM",
+                    "ENGINE SPECS / Torque": "500 lb-ft @ 6000 RPM678 Nm @ 6000 RPM",
+                    "ENGINE SPECS / Fuel System": "Turbocharged Direct Injection",
+                    "ENGINE SPECS / Fuel": "Gasoline",
+                    "PERFORMANCE SPECS / Top Speed": "207 mph (333 km/h)",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "3 s",
+                    "TRANSMISSION SPECS / Drive Type": "Rear Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "7-speed automatic (SSG)",
+                    "BRAKES SPECS / Front": "Ventilated Discs",
+                    "BRAKES SPECS / Rear": "Ventilated Discs",
+                    "TIRES SPECS / Tire Size": "235/35 R19 || 305/30 R20",
+                    "DIMENSIONS / Length": "177.6 in (4511 mm)",
+                    "DIMENSIONS / Width": "75.1 in (1908 mm)",
+                    "DIMENSIONS / Height": "47.4 in (1204 mm)",
+                    "DIMENSIONS / Front/rear Track": "65.2/62.3 in (1,656/1,582 mm)",
+                    "DIMENSIONS / Wheelbase": "105.1 in (2670 mm)",
+                    "DIMENSIONS / Ground Clearance": "3.9 in (99 mm)",
+                    "WEIGHT SPECS / Unladen Weight": "3236 lbs (1468 kg)",
+                    "FUEL ECONOMY (NEDC) / City": "16 mpg US (14.7 L/100Km)",
+                    "FUEL ECONOMY (NEDC) / Highway": "22 mpg US (10.7 L/100Km)",
+                    "FUEL ECONOMY (NEDC) / Combined": "18 mpg US (13.1 L/100Km)",
+                    "FUEL ECONOMY (NEDC) / CO2 Emissions": "275 g/km"
+                  }
+                }
+              ]
+            }
+          ]
         },
         {
           "name": "675LT",
           "yearStart": 2015,
-          "yearEnd": 2017
+          "yearEnd": 2017,
+          "generations": [
+            {
+              "name": "675LT (2015)",
+              "yearStart": 2015,
+              "yearEnd": 2017,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "3.8 V8 7AT (675 HP)",
+                  "fuelType": "Gasoline",
+                  "cylinders": 8,
+                  "displacementCc": 3799,
+                  "powerHp": 675,
+                  "torqueNm": 700,
+                  "transmission": "7-speed automatic",
+                  "drivetrain": "Rear Wheel Drive",
+                  "zeroToHundredKmhS": 2.9,
+                  "topSpeedKmh": 330,
+                  "fuelEconomyCombinedL100": 11.6,
+                  "lengthMm": 4547,
+                  "widthMm": 2096,
+                  "heightMm": 1189,
+                  "wheelbaseMm": 2670,
+                  "curbWeightKg": 1328,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "V8",
+                    "ENGINE SPECS / Displacement": "3799 cm3 (232 ci)",
+                    "ENGINE SPECS / Power": "496 KW @ 7100 RPM675 HP @ 7100 RPM665 BHP @ 7100 RPM",
+                    "ENGINE SPECS / Torque": "516 lb-ft @ 5500 RPM700 Nm @ 5500 RPM",
+                    "ENGINE SPECS / Fuel System": "Turbocharged Direct Injection",
+                    "ENGINE SPECS / Fuel": "Gasoline",
+                    "PERFORMANCE SPECS / Top Speed": "205 mph (330 km/h)",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "2.9 s",
+                    "TRANSMISSION SPECS / Drive Type": "Rear Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "7-speed automatic",
+                    "BRAKES SPECS / Front": "Ventilated Discs",
+                    "BRAKES SPECS / Rear": "Ventilated Discs",
+                    "TIRES SPECS / Tire Size": "235/35 R19 || 305/30 R20",
+                    "DIMENSIONS / Length": "179 in (4547 mm)",
+                    "DIMENSIONS / Width": "82.5 in (2096 mm)",
+                    "DIMENSIONS / Height": "46.8 in (1189 mm)",
+                    "DIMENSIONS / Front/rear Track": "65.2/62.3 in (1,656/1,582 mm)",
+                    "DIMENSIONS / Wheelbase": "105.1 in (2670 mm)",
+                    "DIMENSIONS / Ground Clearance": "3.9 in (99 mm)",
+                    "DIMENSIONS / Aerodynamics (Cd)": "0.35",
+                    "WEIGHT SPECS / Unladen Weight": "2928 lbs (1328 kg)",
+                    "WEIGHT SPECS / Gross Weight Limit": "3369 lbs (1528 kg)",
+                    "FUEL ECONOMY (NEDC) / Combined": "20.3 mpg US (11.6 L/100Km)",
+                    "FUEL ECONOMY (NEDC) / CO2 Emissions": "275 g/km"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "675LT Spider (2016)",
+              "yearStart": 2016,
+              "yearEnd": 2017,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "3.8L V8 7AT RWD (675 HP)",
+                  "fuelType": "Gasoline",
+                  "cylinders": 8,
+                  "displacementCc": 3799,
+                  "powerHp": 675,
+                  "torqueNm": 700,
+                  "transmission": "7-speed automatic (SSG)",
+                  "drivetrain": "Rear Wheel Drive",
+                  "zeroToHundredKmhS": 2.9,
+                  "topSpeedKmh": 327,
+                  "fuelEconomyCombinedL100": 11.6,
+                  "lengthMm": 4547,
+                  "widthMm": 2096,
+                  "heightMm": 1191,
+                  "wheelbaseMm": 2670,
+                  "curbWeightKg": 1370,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "V8",
+                    "ENGINE SPECS / Displacement": "3799 cm3 (232 ci)",
+                    "ENGINE SPECS / Power": "496.5 KW @ 7100 RPM675 HP @ 7100 RPM666 BHP @ 7100 RPM",
+                    "ENGINE SPECS / Torque": "516 lb-ft @ 5000-6500 RPM700 Nm @ 5000-6500 RPM",
+                    "ENGINE SPECS / Fuel System": "Turbocharged Direct Injection",
+                    "ENGINE SPECS / Fuel": "Gasoline",
+                    "ENGINE SPECS / Fuel capacity": "19 gallons (71.9 L)",
+                    "PERFORMANCE SPECS / Top Speed": "203 mph (327 km/h)",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "2.9 s",
+                    "TRANSMISSION SPECS / Drive Type": "Rear Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "7-speed automatic (SSG)",
+                    "BRAKES SPECS / Front": "Ventilated Discs",
+                    "BRAKES SPECS / Rear": "Ventilated Discs",
+                    "TIRES SPECS / Tire Size": "235/35 R19 || 305/30 R20",
+                    "DIMENSIONS / Length": "179 in (4547 mm)",
+                    "DIMENSIONS / Width": "82.5 in (2096 mm)",
+                    "DIMENSIONS / Height": "46.9 in (1191 mm)",
+                    "DIMENSIONS / Wheelbase": "105.1 in (2670 mm)",
+                    "DIMENSIONS / Ground Clearance": "3.9 in (99 mm)",
+                    "DIMENSIONS / Aerodynamics (Cd)": "0.35",
+                    "WEIGHT SPECS / Unladen Weight": "3020 lbs (1370 kg)",
+                    "FUEL ECONOMY (NEDC) / City": "13.2 mpg US (17.8 L/100Km)",
+                    "FUEL ECONOMY (NEDC) / Highway": "28.7 mpg US (8.2 L/100Km)",
+                    "FUEL ECONOMY (NEDC) / Combined": "20.3 mpg US (11.6 L/100Km)",
+                    "FUEL ECONOMY (NEDC) / CO2 Emissions": "275 g/km"
+                  }
+                }
+              ]
+            }
+          ]
         },
         {
           "name": "720S",
           "yearStart": 2017,
-          "yearEnd": 2023
+          "yearEnd": 2023,
+          "generations": [
+            {
+              "name": "720S (2018)",
+              "yearStart": 2018,
+              "yearEnd": 2023,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "4.0L V8 7AT RWD (720 HP)",
+                  "fuelType": "Gasoline",
+                  "cylinders": 8,
+                  "displacementCc": 3994,
+                  "powerHp": 720,
+                  "torqueNm": 770,
+                  "transmission": "7-speed automatic SSG",
+                  "drivetrain": "Rear Wheel Drive",
+                  "zeroToHundredKmhS": 2.9,
+                  "topSpeedKmh": 341,
+                  "fuelEconomyCombinedL100": 11.6,
+                  "lengthMm": 4544,
+                  "widthMm": 2162,
+                  "heightMm": 1196,
+                  "wheelbaseMm": 2670,
+                  "curbWeightKg": 1332,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "V8",
+                    "ENGINE SPECS / Displacement": "3994 cm3 (244 ci)",
+                    "ENGINE SPECS / Power": "529.6 KW @ 7500 RPM720 HP @ 7500 RPM710 BHP @ 7500 RPM",
+                    "ENGINE SPECS / Torque": "568 lb-ft @ 6500 RPM770 Nm @ 6500 RPM",
+                    "ENGINE SPECS / Fuel System": "Turbocharge Direct Injection",
+                    "ENGINE SPECS / Fuel": "Gasoline",
+                    "PERFORMANCE SPECS / Top Speed": "212 mph (341 km/h)",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "2.9 s",
+                    "TRANSMISSION SPECS / Drive Type": "Rear Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "7-speed automatic SSG",
+                    "BRAKES SPECS / Front": "Ventilated Discs",
+                    "BRAKES SPECS / Rear": "Discs",
+                    "TIRES SPECS / Tire Size": "245/35/R19 93Y // 305/30/R20 103Y",
+                    "DIMENSIONS / Length": "178.9 in (4544 mm)",
+                    "DIMENSIONS / Width": "85.1 in (2162 mm)",
+                    "DIMENSIONS / Height": "47.1 in (1196 mm)",
+                    "DIMENSIONS / Front/rear Track": "65.9/64.1 in (1,674/1,628 mm)",
+                    "DIMENSIONS / Wheelbase": "105.1 in (2670 mm)",
+                    "DIMENSIONS / Cargo Volume": "5.3 cuFT (150 L)",
+                    "WEIGHT SPECS / Unladen Weight": "2937 lbs (1332 kg)",
+                    "FUEL ECONOMY (NEDC) / City": "14 mpg US (16.8 L/100Km)",
+                    "FUEL ECONOMY (NEDC) / Highway": "27.4 mpg US (8.6 L/100Km)",
+                    "FUEL ECONOMY (NEDC) / Combined": "20.3 mpg US (11.6 L/100Km)",
+                    "FUEL ECONOMY (NEDC) / CO2 Emissions": "276 g/km"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "720S (2017)",
+              "yearStart": 2017,
+              "yearEnd": 2023,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "4.0L V8 7AT RWD (720 HP)",
+                  "fuelType": "Gasoline",
+                  "cylinders": 8,
+                  "displacementCc": 3994,
+                  "powerHp": 720.1,
+                  "torqueNm": 770,
+                  "transmission": "7-speed automatic (SSG)",
+                  "drivetrain": "Rear Wheel Drive",
+                  "zeroToHundredKmhS": 2.9,
+                  "topSpeedKmh": 341,
+                  "fuelEconomyCombinedL100": 10.7,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": 1322,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "V8",
+                    "ENGINE SPECS / Displacement": "3994 cm3 (244 ci)",
+                    "ENGINE SPECS / Power": "529.6 KW @ 7250 RPM720.1 HP @ 7250 RPM710 BHP @ 7250 RPM",
+                    "ENGINE SPECS / Torque": "568 lb-ft @ 5500 RPM770 Nm @ 5500 RPM",
+                    "ENGINE SPECS / Fuel System": "Turbocharged Direct Injection",
+                    "ENGINE SPECS / Fuel": "Gasoline",
+                    "PERFORMANCE SPECS / Top Speed": "212 mph (341 km/h)",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "2.9 s",
+                    "TRANSMISSION SPECS / Drive Type": "Rear Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "7-speed automatic (SSG)",
+                    "BRAKES SPECS / Front": "Ventilated Discs",
+                    "BRAKES SPECS / Rear": "Ventilated Discs",
+                    "TIRES SPECS / Tire Size": "245 / 35 / R19 || 305 / 30 / R20",
+                    "WEIGHT SPECS / Unladen Weight": "2915 lbs (1322 kg)",
+                    "FUEL ECONOMY (NEDC) / City": "14.3 mpg US (16.4 L/100Km)",
+                    "FUEL ECONOMY (NEDC) / Highway": "31.8 mpg US (7.4 L/100Km)",
+                    "FUEL ECONOMY (NEDC) / Combined": "22 mpg US (10.7 L/100Km)",
+                    "FUEL ECONOMY (NEDC) / CO2 Emissions": "249 g/km"
+                  }
+                }
+              ]
+            }
+          ]
         },
         {
           "name": "750S",
           "yearStart": 2023,
-          "yearEnd": null
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "750S (2023)",
+              "yearStart": 2023,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "4.0L V8 7AT RWD (750 HP)",
+                  "fuelType": "Gasoline",
+                  "cylinders": 8,
+                  "displacementCc": 3994,
+                  "powerHp": 750,
+                  "torqueNm": 800,
+                  "transmission": "7-speed automatic",
+                  "drivetrain": "Rear Wheel Drive",
+                  "zeroToHundredKmhS": 2.8,
+                  "topSpeedKmh": 332,
+                  "fuelEconomyCombinedL100": 12.2,
+                  "lengthMm": 4569,
+                  "widthMm": 1930,
+                  "heightMm": 1196,
+                  "wheelbaseMm": 2670,
+                  "curbWeightKg": 1389,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "V8",
+                    "ENGINE SPECS / Displacement": "3994 cm3 (244 ci)",
+                    "ENGINE SPECS / Power": "551.6 KW @ 7500 RPM750 HP @ 7500 RPM740 BHP @ 7500 RPM",
+                    "ENGINE SPECS / Torque": "590 lb-ft @ 5500-6000 RPM800 Nm @ 5500-6000 RPM",
+                    "ENGINE SPECS / Fuel System": "Turbocharged Direct Injection",
+                    "ENGINE SPECS / Fuel": "Gasoline",
+                    "ENGINE SPECS / Fuel capacity": "19 gallons (71.9 L)",
+                    "PERFORMANCE SPECS / Top Speed": "206 mph (332 km/h)",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "2.8 s",
+                    "TRANSMISSION SPECS / Drive Type": "Rear Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "7-speed automatic",
+                    "BRAKES SPECS / Front": "Ventilated Discs",
+                    "BRAKES SPECS / Rear": "Ventilated Discs",
+                    "TIRES SPECS / Tire Size": "245/35 R19 93Y XL // 305/30 R20 103Y XL",
+                    "DIMENSIONS / Length": "179.9 in (4569 mm)",
+                    "DIMENSIONS / Width": "76 in (1930 mm)",
+                    "DIMENSIONS / Height": "47.1 in (1196 mm)",
+                    "DIMENSIONS / Front/rear Track": "66.1/64.1 in (1,679/1,628 mm)",
+                    "DIMENSIONS / Wheelbase": "105.1 in (2670 mm)",
+                    "DIMENSIONS / Cargo Volume": "12.7 cuFT (360 L)",
+                    "WEIGHT SPECS / Unladen Weight": "3062 lbs (1389 kg)",
+                    "FUEL ECONOMY (WLTP) / Low": "10.7 mpg US (22 L/100Km)",
+                    "FUEL ECONOMY (WLTP) / CO2 Emissions (Low)": "500 g/km",
+                    "FUEL ECONOMY (WLTP) / Medium": "21 mpg US (11.2 L/100Km)",
+                    "FUEL ECONOMY (WLTP) / CO2 Emissions (Medium)": "255 g/km",
+                    "FUEL ECONOMY (WLTP) / High": "24 mpg US (9.8 L/100Km)",
+                    "FUEL ECONOMY (WLTP) / CO2 Emissions (High)": "223 g/km",
+                    "FUEL ECONOMY (WLTP) / Extra high": "21.4 mpg US (11 L/100Km)",
+                    "FUEL ECONOMY (WLTP) / CO2 Emissions (Extra high)": "250 g/km",
+                    "FUEL ECONOMY (WLTP) / Combined": "19.3 mpg US (12.2 L/100Km)",
+                    "FUEL ECONOMY (WLTP) / CO2 Emissions (Combined)": "276 g/km"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "750S (2023)",
+              "yearStart": 2023,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "4.0L V8 RWD 7AT (750 HP)",
+                  "fuelType": "Gasoline",
+                  "cylinders": 8,
+                  "displacementCc": null,
+                  "powerHp": 750,
+                  "torqueNm": 800,
+                  "transmission": "7-speed automatic",
+                  "drivetrain": "Rear Wheel Drive",
+                  "zeroToHundredKmhS": 2.8,
+                  "topSpeedKmh": 332,
+                  "fuelEconomyCombinedL100": 12.2,
+                  "lengthMm": 4569,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": 1438,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "V8",
+                    "ENGINE SPECS / Power": "551.6 KW @ 7500 RPM750 HP @ 7500 RPM740 BHP @ 7500 RPM",
+                    "ENGINE SPECS / Torque": "590 lb-ft @ 5500-6000 RPM800 Nm @ 5500-6000 RPM",
+                    "ENGINE SPECS / Fuel System": "Turbocharged Direct Injection",
+                    "ENGINE SPECS / Fuel": "Gasoline",
+                    "ENGINE SPECS / Fuel capacity": "19 gallons (71.9 L)",
+                    "PERFORMANCE SPECS / Top Speed": "206 mph (332 km/h)",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "2.8 s",
+                    "TRANSMISSION SPECS / Drive Type": "Rear Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "7-speed automatic",
+                    "BRAKES SPECS / Front": "Ventilated Discs",
+                    "BRAKES SPECS / Rear": "Ventilated Discs",
+                    "DIMENSIONS / Length": "179.9 in (4569 mm)",
+                    "DIMENSIONS / Cargo Volume": "7.3 cuFT (207 L)",
+                    "WEIGHT SPECS / Unladen Weight": "3170 lbs (1438 kg)",
+                    "FUEL ECONOMY (WLTP) / Low": "10.7 mpg US (22 L/100Km)",
+                    "FUEL ECONOMY (WLTP) / CO2 Emissions (Low)": "500 g/km",
+                    "FUEL ECONOMY (WLTP) / Medium": "21 mpg US (11.2 L/100Km)",
+                    "FUEL ECONOMY (WLTP) / CO2 Emissions (Medium)": "255 g/km",
+                    "FUEL ECONOMY (WLTP) / High": "24 mpg US (9.8 L/100Km)",
+                    "FUEL ECONOMY (WLTP) / CO2 Emissions (High)": "223 g/km",
+                    "FUEL ECONOMY (WLTP) / Extra high": "21.4 mpg US (11 L/100Km)",
+                    "FUEL ECONOMY (WLTP) / CO2 Emissions (Extra high)": "250 g/km",
+                    "FUEL ECONOMY (WLTP) / Combined": "19.3 mpg US (12.2 L/100Km)",
+                    "FUEL ECONOMY (WLTP) / CO2 Emissions (Combined)": "276 g/km"
+                  }
+                }
+              ]
+            }
+          ]
         },
         {
           "name": "765LT",
           "yearStart": 2020,
-          "yearEnd": null
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "765LT (2020)",
+              "yearStart": 2020,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "4.0L V8 7AT (765 HP)",
+                  "fuelType": "Gasoline",
+                  "cylinders": 8,
+                  "displacementCc": 3994,
+                  "powerHp": 765,
+                  "torqueNm": 800,
+                  "transmission": "7-speed automatic",
+                  "drivetrain": "Rear Wheel Drive",
+                  "zeroToHundredKmhS": 2.8,
+                  "topSpeedKmh": 330,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": 4600,
+                  "widthMm": 2060,
+                  "heightMm": 1158,
+                  "wheelbaseMm": 2670,
+                  "curbWeightKg": 1339,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "V8",
+                    "ENGINE SPECS / Displacement": "3994 cm3 (244 ci)",
+                    "ENGINE SPECS / Power": "562.7 KW @ 7500 RPM765 HP @ 7500 RPM755 BHP @ 7500 RPM",
+                    "ENGINE SPECS / Torque": "590 lb-ft @ 5500 RPM800 Nm @ 5500 RPM",
+                    "ENGINE SPECS / Fuel System": "Turbocharged Direct Injection",
+                    "ENGINE SPECS / Fuel": "Gasoline",
+                    "ENGINE SPECS / Fuel capacity": "19 gallons (71.9 L)",
+                    "PERFORMANCE SPECS / Top Speed": "205 mph (330 km/h)",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "2.8 s",
+                    "TRANSMISSION SPECS / Drive Type": "Rear Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "7-speed automatic",
+                    "BRAKES SPECS / Front": "Ventilated Discs",
+                    "BRAKES SPECS / Rear": "Ventilated Discs",
+                    "TIRES SPECS / Tire Size": "245/35/R19 93Y // 305/30/R20 103Y",
+                    "DIMENSIONS / Length": "181.1 in (4600 mm)",
+                    "DIMENSIONS / Width": "81.1 in (2060 mm)",
+                    "DIMENSIONS / Height": "45.6 in (1158 mm)",
+                    "DIMENSIONS / Front/rear Track": "65.2/63.5 in (1,656/1,613 mm)",
+                    "DIMENSIONS / Wheelbase": "105.1 in (2670 mm)",
+                    "WEIGHT SPECS / Unladen Weight": "2952 lbs (1339 kg)"
+                  }
+                }
+              ]
+            }
+          ]
         },
         {
           "name": "Artura",
           "yearStart": 2021,
-          "yearEnd": null
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Artura (2024)",
+              "yearStart": 2024,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "3.0L V6 PHEV 8AT (700 HP)",
+                  "fuelType": "Plug-in Hybrid",
+                  "cylinders": 6,
+                  "displacementCc": 2993,
+                  "powerHp": 605,
+                  "torqueNm": 585,
+                  "transmission": "8-Speed SSG (reverse using E-motor) with Electronic Differential (E-Diff). Electric, Comfort, Sport and Track modes",
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": 3,
+                  "topSpeedKmh": 330,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": 4539,
+                  "widthMm": 1976,
+                  "heightMm": 1194,
+                  "wheelbaseMm": 2639,
+                  "curbWeightKg": 1560,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "V6",
+                    "ENGINE SPECS / Displacement": "2993 cm3 (183 ci)",
+                    "ENGINE SPECS / Power": "445 KW @ 7000 RPM605 HP @ 7000 RPM597 BHP @ 7000 RPM",
+                    "ENGINE SPECS / Torque": "432 lb-ft @ 2250-7000 RPM585 Nm @ 2250-7000 RPM",
+                    "ENGINE SPECS / Electrical motor power": "69.9 kw (95 hp, 94 bhp)",
+                    "ENGINE SPECS / Electrical motor torque": "166 lb-ft (225 Nm)",
+                    "ENGINE SPECS / Total maximum power": "514.8 kw (700 hp, 690 bhp)",
+                    "ENGINE SPECS / Total maximum torque": "531 lb-ft (720 Nm)",
+                    "ENGINE SPECS / Fuel System": "Turbocharged Direct Injection",
+                    "ENGINE SPECS / Fuel": "Plug-in Hybrid",
+                    "ENGINE SPECS / Fuel capacity": "17.2 gallons (65.1 L)",
+                    "PERFORMANCE SPECS / Top Speed": "205 mph (330 km/h)",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "3 s",
+                    "TRANSMISSION SPECS / Gearbox": "8-Speed SSG (reverse using E-motor) with Electronic Differential (E-Diff). Electric, Comfort, Sport and Track modes",
+                    "BRAKES SPECS / Front": "Carbon Ceramic Discs 390 mm",
+                    "BRAKES SPECS / Rear": "Carbon Ceramic Discs 380 mm",
+                    "TIRES SPECS / Tire Size": "235/35/ZR19 91Y // 295/35/ZR20 105Y",
+                    "DIMENSIONS / Length": "178.7 in (4539 mm)",
+                    "DIMENSIONS / Width": "77.8 in (1976 mm)",
+                    "DIMENSIONS / Height": "47 in (1194 mm)",
+                    "DIMENSIONS / Front/rear Track": "65/63.5 in (1,651/1,613 mm)",
+                    "DIMENSIONS / Wheelbase": "103.9 in (2639 mm)",
+                    "DIMENSIONS / Cargo Volume": "5.7 cuFT (161 L)",
+                    "WEIGHT SPECS / Unladen Weight": "3439 lbs (1560 kg)",
+                    "POWER SYSTEM SPECS / Nominal Capacity": "7.4 kWh",
+                    "POWER SYSTEM SPECS / Range": "11 miles (17.7 km)"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Artura (2021)",
+              "yearStart": 2021,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "3.0L V6 8AT (680 HP)",
+                  "fuelType": "Hybrid Gasoline",
+                  "cylinders": 6,
+                  "displacementCc": 2993,
+                  "powerHp": 585,
+                  "torqueNm": 585,
+                  "transmission": "8-speed automatic",
+                  "drivetrain": "Rear Wheel Drive",
+                  "zeroToHundredKmhS": 3.1,
+                  "topSpeedKmh": 330,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": 4539,
+                  "widthMm": 1976,
+                  "heightMm": 1194,
+                  "wheelbaseMm": 2639,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "V6",
+                    "ENGINE SPECS / Displacement": "2993 cm3 (183 ci)",
+                    "ENGINE SPECS / Power": "430.3 KW @ 7500 RPM585 HP @ 7500 RPM577 BHP @ 7500 RPM",
+                    "ENGINE SPECS / Torque": "432 lb-ft @ 2250-7000 RPM585 Nm @ 2250-7000 RPM",
+                    "ENGINE SPECS / Electrical motor power": "69.9 kw (95 hp, 94 bhp)",
+                    "ENGINE SPECS / Electrical motor torque": "166 lb-ft (225 Nm)",
+                    "ENGINE SPECS / Total maximum power": "500.1 kw (680 hp, 671 bhp)",
+                    "ENGINE SPECS / Total maximum torque": "531 lb-ft (720 Nm)",
+                    "ENGINE SPECS / Fuel System": "Turbocharged Direct Injection",
+                    "ENGINE SPECS / Fuel": "Hybrid Gasoline",
+                    "ENGINE SPECS / Fuel capacity": "19 gallons (71.9 L)",
+                    "PERFORMANCE SPECS / Top Speed": "205 mph (330 km/h)",
+                    "PERFORMANCE SPECS / Top speed (electrical)": "81 mph (130 km/h)",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "3.1 s",
+                    "TRANSMISSION SPECS / Drive Type": "Rear Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "8-speed automatic",
+                    "BRAKES SPECS / Front": "Ventilated Discs",
+                    "BRAKES SPECS / Rear": "Ventilated Discs",
+                    "TIRES SPECS / Tire Size": "235/35Z/R19 91Y // 295/35/R20 105Y",
+                    "DIMENSIONS / Length": "178.7 in (4539 mm)",
+                    "DIMENSIONS / Width": "77.8 in (1976 mm)",
+                    "DIMENSIONS / Height": "47 in (1194 mm)",
+                    "DIMENSIONS / Front/rear Track": "65/63.5 in (1,651/1,613 mm)",
+                    "DIMENSIONS / Wheelbase": "103.9 in (2639 mm)",
+                    "DIMENSIONS / Cargo Volume": "5.7 cuFT (161 L)",
+                    "POWER SYSTEM SPECS / Nominal Capacity": "7.4 kWh",
+                    "POWER SYSTEM SPECS / Range": "18.6 miles (29.9 km)"
+                  }
+                }
+              ]
+            }
+          ]
         },
         {
           "name": "Elva",
           "yearStart": 2020,
-          "yearEnd": null
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Elva (2020)",
+              "yearStart": 2020,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "4.0L V8 7AT (815 HP)",
+                  "fuelType": "Gasoline",
+                  "cylinders": 8,
+                  "displacementCc": null,
+                  "powerHp": 815,
+                  "torqueNm": null,
+                  "transmission": "7-speed automatic",
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": 6.7,
+                  "topSpeedKmh": 200,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "V8",
+                    "ENGINE SPECS / Power": "599.4 KW @ - RPM815 HP @ - RPM804 BHP @ - RPM",
+                    "ENGINE SPECS / Fuel System": "Turbocharged Direct Injection",
+                    "ENGINE SPECS / Fuel": "Gasoline",
+                    "PERFORMANCE SPECS / Top Speed": "124 mph (200 km/h)",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "6.7 s",
+                    "TRANSMISSION SPECS / Gearbox": "7-speed automatic",
+                    "BRAKES SPECS / Front": "Ventilated Discs",
+                    "BRAKES SPECS / Rear": "Ventilated Discs"
+                  }
+                }
+              ]
+            }
+          ]
         },
         {
           "name": "F1",
           "yearStart": 1993,
-          "yearEnd": 1998
+          "yearEnd": 1998,
+          "generations": [
+            {
+              "name": "F1 (1993)",
+              "yearStart": 1993,
+              "yearEnd": 1998,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "6.1 V12 6MT (622 HP)",
+                  "fuelType": "Gasoline",
+                  "cylinders": 12,
+                  "displacementCc": 6064,
+                  "powerHp": 627,
+                  "torqueNm": 651,
+                  "transmission": "6-Speed manual",
+                  "drivetrain": "Rear Wheel Drive",
+                  "zeroToHundredKmhS": 3.2,
+                  "topSpeedKmh": 386,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": 4287,
+                  "widthMm": 1820,
+                  "heightMm": 1140,
+                  "wheelbaseMm": 2718,
+                  "curbWeightKg": 1140,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "V12",
+                    "ENGINE SPECS / Displacement": "6064 cm3 (370 ci)",
+                    "ENGINE SPECS / Power": "461 KW @ 7500 RPM627 HP @ 7500 RPM618 BHP @ 7500 RPM",
+                    "ENGINE SPECS / Torque": "480 lb-ft @ 5600 RPM651 Nm @ 5600 RPM",
+                    "ENGINE SPECS / Fuel System": "Multipoint Injection",
+                    "ENGINE SPECS / Fuel": "Gasoline",
+                    "PERFORMANCE SPECS / Top Speed": "240.1 mph (386 km/h)",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "3.2 s",
+                    "TRANSMISSION SPECS / Drive Type": "Rear Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "6-Speed manual",
+                    "BRAKES SPECS / Front": "Ventilated Discs",
+                    "BRAKES SPECS / Rear": "Ventilated Discs",
+                    "TIRES SPECS / Tire Size": "235/45 ZR 17 (Front) - 315/45 ZR 17 (Rear)",
+                    "DIMENSIONS / Length": "168.78 in (4287 mm)",
+                    "DIMENSIONS / Width": "71.65 in (1820 mm)",
+                    "DIMENSIONS / Height": "44.88 in (1140 mm)",
+                    "DIMENSIONS / Front/rear Track": "61.73 / 57.95 in (1,568/1,472 mm)",
+                    "DIMENSIONS / Wheelbase": "107.01 in (2718 mm)",
+                    "DIMENSIONS / Ground Clearance": "4.7 in (119 mm)",
+                    "DIMENSIONS / Cargo Volume": "8 cuFT (227 L)",
+                    "DIMENSIONS / Aerodynamics (Cd)": "0.32",
+                    "WEIGHT SPECS / Unladen Weight": "2513 lbs (1140 kg)"
+                  }
+                }
+              ]
+            }
+          ]
         },
         {
           "name": "F1 GT",
           "yearStart": null,
-          "yearEnd": null
+          "yearEnd": null,
+          "generations": []
         },
         {
           "name": "F1 LM",
           "yearStart": null,
-          "yearEnd": null
+          "yearEnd": null,
+          "generations": []
         },
         {
           "name": "GT",
           "yearStart": 2019,
-          "yearEnd": 2023
+          "yearEnd": 2023,
+          "generations": [
+            {
+              "name": "GT (2019)",
+              "yearStart": 2019,
+              "yearEnd": 2023,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "4.0L V8 7AT RWD (620 HP)",
+                  "fuelType": "Gasoline",
+                  "cylinders": 8,
+                  "displacementCc": 3994,
+                  "powerHp": 620,
+                  "torqueNm": 630,
+                  "transmission": "7-speed automatic",
+                  "drivetrain": "Rear Wheel Drive",
+                  "zeroToHundredKmhS": 3.2,
+                  "topSpeedKmh": 327,
+                  "fuelEconomyCombinedL100": 10.8,
+                  "lengthMm": 4684,
+                  "widthMm": 2096,
+                  "heightMm": 1214,
+                  "wheelbaseMm": 2675,
+                  "curbWeightKg": 1530,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "V8",
+                    "ENGINE SPECS / Displacement": "3994 cm3 (244 ci)",
+                    "ENGINE SPECS / Power": "456 KW @ 7500 RPM620 HP @ 7500 RPM612 BHP @ 7500 RPM",
+                    "ENGINE SPECS / Torque": "465 lb-ft @ 5500-6500 RPM630 Nm @ 5500-6500 RPM",
+                    "ENGINE SPECS / Fuel System": "Turbocharged Direct Injection",
+                    "ENGINE SPECS / Fuel": "Gasoline",
+                    "ENGINE SPECS / Fuel capacity": "19 gallons (71.9 L)",
+                    "PERFORMANCE SPECS / Top Speed": "203 mph (327 km/h)",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "3.2 s",
+                    "TRANSMISSION SPECS / Drive Type": "Rear Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "7-speed automatic",
+                    "BRAKES SPECS / Front": "Ventilated Discs",
+                    "BRAKES SPECS / Rear": "Discs",
+                    "TIRES SPECS / Tire Size": "225/35/R20 // 295/30/R21",
+                    "DIMENSIONS / Length": "184.4 in (4684 mm)",
+                    "DIMENSIONS / Width": "82.5 in (2096 mm)",
+                    "DIMENSIONS / Height": "47.8 in (1214 mm)",
+                    "DIMENSIONS / Front/rear Track": "65.8/65.5 in (1,671/1,664 mm)",
+                    "DIMENSIONS / Wheelbase": "105.3 in (2675 mm)",
+                    "DIMENSIONS / Cargo Volume": "20.1 cuFT (569 L)",
+                    "WEIGHT SPECS / Unladen Weight": "3373 lbs (1530 kg)",
+                    "FUEL ECONOMY (NEDC) / City": "16.1 mpg US (14.6 L/100Km)",
+                    "FUEL ECONOMY (NEDC) / Highway": "27 mpg US (8.7 L/100Km)",
+                    "FUEL ECONOMY (NEDC) / Combined": "21.8 mpg US (10.8 L/100Km)",
+                    "FUEL ECONOMY (NEDC) / CO2 Emissions": "245 g/km",
+                    "FUEL ECONOMY (WLTP) / Low": "10.6 mpg US (22.2 L/100Km)",
+                    "FUEL ECONOMY (WLTP) / Medium": "19.8 mpg US (11.9 L/100Km)",
+                    "FUEL ECONOMY (WLTP) / High": "25.3 mpg US (9.3 L/100Km)",
+                    "FUEL ECONOMY (WLTP) / Extra high": "23.1 mpg US (10.2 L/100Km)",
+                    "FUEL ECONOMY (WLTP) / Combined": "19.8 mpg US (11.9 L/100Km)",
+                    "FUEL ECONOMY (WLTP) / CO2 Emissions (Combined)": "270 g/km"
+                  }
+                }
+              ]
+            }
+          ]
         },
         {
           "name": "GTS",
           "yearStart": 2023,
-          "yearEnd": null
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "GTS (2023)",
+              "yearStart": 2023,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "4.0L V8 7AT RWD (635 HP)",
+                  "fuelType": "Gasoline",
+                  "cylinders": 8,
+                  "displacementCc": 3994,
+                  "powerHp": 635,
+                  "torqueNm": 630,
+                  "transmission": "7-speed automatic+reverse SSG. Comfort, Sport and Track modes",
+                  "drivetrain": "Rear Wheel Drive",
+                  "zeroToHundredKmhS": 3.2,
+                  "topSpeedKmh": 327,
+                  "fuelEconomyCombinedL100": 11.9,
+                  "lengthMm": 4684,
+                  "widthMm": 2045,
+                  "heightMm": 1214,
+                  "wheelbaseMm": 2675,
+                  "curbWeightKg": 1520,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "V8",
+                    "ENGINE SPECS / Displacement": "3994 cm3 (244 ci)",
+                    "ENGINE SPECS / Power": "467 KW @ 7500 RPM635 HP @ 7500 RPM626 BHP @ 7500 RPM",
+                    "ENGINE SPECS / Torque": "465 lb-ft @ 5500-6500 RPM630 Nm @ 5500-6500 RPM",
+                    "ENGINE SPECS / Fuel System": "Turbocharged Direct Injection",
+                    "ENGINE SPECS / Fuel": "Gasoline",
+                    "ENGINE SPECS / Fuel capacity": "19 gallons (71.9 L)",
+                    "PERFORMANCE SPECS / Top Speed": "203 mph (327 km/h)",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "3.2 s",
+                    "TRANSMISSION SPECS / Drive Type": "Rear Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "7-speed automatic+reverse SSG. Comfort, Sport and Track modes",
+                    "BRAKES SPECS / Front": "Carbon ceramic discs: 390 mm",
+                    "BRAKES SPECS / Rear": "Carbon ceramic discs: 380 mm",
+                    "TIRES SPECS / Tire Size": "Pirelli P ZERO 225/35/R20 // 295/30/R21",
+                    "DIMENSIONS / Length": "184.4 in (4684 mm)",
+                    "DIMENSIONS / Width": "80.5 in (2045 mm)",
+                    "DIMENSIONS / Height": "47.8 in (1214 mm)",
+                    "DIMENSIONS / Front/rear Track": "65.5/63.7 in (1,664/1,618 mm)",
+                    "DIMENSIONS / Wheelbase": "105.3 in (2675 mm)",
+                    "DIMENSIONS / Cargo Volume": "20.1 cuFT (569 L)",
+                    "WEIGHT SPECS / Unladen Weight": "3351 lbs (1520 kg)",
+                    "FUEL ECONOMY (WLTP) / Low": "10.6 mpg US (22.2 L/100Km)",
+                    "FUEL ECONOMY (WLTP) / Medium": "19.8 mpg US (11.9 L/100Km)",
+                    "FUEL ECONOMY (WLTP) / High": "25.3 mpg US (9.3 L/100Km)",
+                    "FUEL ECONOMY (WLTP) / Extra high": "23.1 mpg US (10.2 L/100Km)",
+                    "FUEL ECONOMY (WLTP) / Combined": "19.8 mpg US (11.9 L/100Km)"
+                  }
+                }
+              ]
+            }
+          ]
         },
         {
           "name": "MP4-12C",
           "yearStart": 2011,
-          "yearEnd": 2015
+          "yearEnd": 2015,
+          "generations": [
+            {
+              "name": "MP4-12C (2011)",
+              "yearStart": 2011,
+              "yearEnd": 2014,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "3.8L V8 7AT RWD (600 HP)",
+                  "fuelType": "Gasoline",
+                  "cylinders": 8,
+                  "displacementCc": 3799,
+                  "powerHp": 600,
+                  "torqueNm": 601,
+                  "transmission": "7-speed automatic",
+                  "drivetrain": "Rear Wheel Drive",
+                  "zeroToHundredKmhS": 3.3,
+                  "topSpeedKmh": 322,
+                  "fuelEconomyCombinedL100": 13.1,
+                  "lengthMm": 4506,
+                  "widthMm": 1910,
+                  "heightMm": 1199,
+                  "wheelbaseMm": 2670,
+                  "curbWeightKg": 1399,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "V8",
+                    "ENGINE SPECS / Displacement": "3799 cm3 (232 ci)",
+                    "ENGINE SPECS / Power": "441 KW @ 7000 RPM600 HP @ 7000 RPM591 BHP @ 7000 RPM",
+                    "ENGINE SPECS / Torque": "443 lb-ft @ 3000-7000 RPM601 Nm @ 3000-7000 RPM",
+                    "ENGINE SPECS / Fuel System": "Multipoint Injection",
+                    "ENGINE SPECS / Fuel": "Gasoline",
+                    "PERFORMANCE SPECS / Top Speed": "200 mph (322 km/h)",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "3.3 s",
+                    "TRANSMISSION SPECS / Drive Type": "Rear Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "7-speed automatic",
+                    "BRAKES SPECS / Front": "ceramic discs",
+                    "BRAKES SPECS / Rear": "ceramic discs",
+                    "TIRES SPECS / Tire Size": "235/35 R19 - 305/30 R20",
+                    "DIMENSIONS / Length": "177.4 in (4506 mm)",
+                    "DIMENSIONS / Width": "75.2 in (1910 mm)",
+                    "DIMENSIONS / Height": "47.2 in (1199 mm)",
+                    "DIMENSIONS / Front/rear Track": "74.6/75.1 in (1,895/1,908 mm)",
+                    "DIMENSIONS / Wheelbase": "105.1 in (2670 mm)",
+                    "DIMENSIONS / Ground Clearance": "4.7 in (119 mm)",
+                    "DIMENSIONS / Cargo Volume": "5.1 cuFT (144 L)",
+                    "DIMENSIONS / Aerodynamics (Cd)": "0.32",
+                    "WEIGHT SPECS / Unladen Weight": "3084 lbs (1399 kg)",
+                    "FUEL ECONOMY (NEDC) / City": "15 mpg US (15.7 L/100Km)",
+                    "FUEL ECONOMY (NEDC) / Highway": "22 mpg US (10.7 L/100Km)",
+                    "FUEL ECONOMY (NEDC) / Combined": "18 mpg US (13.1 L/100Km)",
+                    "FUEL ECONOMY (NEDC) / CO2 Emissions": "279 g/km"
+                  }
+                },
+                {
+                  "label": "3.8L V8 7AT RWD (625 HP)",
+                  "fuelType": "Gasoline",
+                  "cylinders": 8,
+                  "displacementCc": 3799,
+                  "powerHp": 625,
+                  "torqueNm": 601,
+                  "transmission": "7-speed automatic (SSG)",
+                  "drivetrain": "Rear Wheel Drive",
+                  "zeroToHundredKmhS": 3.1,
+                  "topSpeedKmh": 333,
+                  "fuelEconomyCombinedL100": 11.7,
+                  "lengthMm": 4506,
+                  "widthMm": 1910,
+                  "heightMm": 1199,
+                  "wheelbaseMm": 2670,
+                  "curbWeightKg": 1336,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "V8",
+                    "ENGINE SPECS / Displacement": "3799 cm3 (232 ci)",
+                    "ENGINE SPECS / Power": "460 KW @ 7500 RPM625 HP @ 7500 RPM617 BHP @ 7500 RPM",
+                    "ENGINE SPECS / Torque": "443 lb-ft @ 3000-7000 RPM601 Nm @ 3000-7000 RPM",
+                    "ENGINE SPECS / Fuel System": "Multipoint Injection",
+                    "ENGINE SPECS / Fuel": "Gasoline",
+                    "PERFORMANCE SPECS / Top Speed": "207 mph (333 km/h)",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "3.1 s",
+                    "TRANSMISSION SPECS / Drive Type": "Rear Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "7-speed automatic (SSG)",
+                    "BRAKES SPECS / Front": "ceramic discs",
+                    "BRAKES SPECS / Rear": "ceramic discs",
+                    "TIRES SPECS / Tire Size": "235/35 R19 - 305/30 R20",
+                    "DIMENSIONS / Length": "177.4 in (4506 mm)",
+                    "DIMENSIONS / Width": "75.2 in (1910 mm)",
+                    "DIMENSIONS / Height": "47.2 in (1199 mm)",
+                    "DIMENSIONS / Front/rear Track": "74.6/75.1 in (1,895/1,908 mm)",
+                    "DIMENSIONS / Wheelbase": "105.1 in (2670 mm)",
+                    "DIMENSIONS / Ground Clearance": "4.7 in (119 mm)",
+                    "DIMENSIONS / Cargo Volume": "5.1 cuFT (144 L)",
+                    "DIMENSIONS / Aerodynamics (Cd)": "0.32",
+                    "WEIGHT SPECS / Unladen Weight": "2945 lbs (1336 kg)",
+                    "FUEL ECONOMY (NEDC) / City": "16 mpg US (14.7 L/100Km)",
+                    "FUEL ECONOMY (NEDC) / Highway": "24 mpg US (9.8 L/100Km)",
+                    "FUEL ECONOMY (NEDC) / Combined": "20.1 mpg US (11.7 L/100Km)",
+                    "FUEL ECONOMY (NEDC) / CO2 Emissions": "279 g/km"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "MP4-12C Spider (2012)",
+              "yearStart": 2012,
+              "yearEnd": 2015,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "3.8 v8 7AT (625 HP)",
+                  "fuelType": "Gasoline",
+                  "cylinders": 8,
+                  "displacementCc": 3799,
+                  "powerHp": 625,
+                  "torqueNm": 601,
+                  "transmission": "7-speed automatic (SSG)",
+                  "drivetrain": "Rear Wheel Drive",
+                  "zeroToHundredKmhS": 3.1,
+                  "topSpeedKmh": 328,
+                  "fuelEconomyCombinedL100": 13.1,
+                  "lengthMm": 4509,
+                  "widthMm": 2093,
+                  "heightMm": 1204,
+                  "wheelbaseMm": 2670,
+                  "curbWeightKg": 1376,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "V8",
+                    "ENGINE SPECS / Displacement": "3799 cm3 (232 ci)",
+                    "ENGINE SPECS / Power": "460 KW @ 7500 RPM625 HP @ 7500 RPM617 BHP @ 7500 RPM",
+                    "ENGINE SPECS / Torque": "443 lb-ft @ 3000-7000 RPM601 Nm @ 3000-7000 RPM",
+                    "ENGINE SPECS / Fuel System": "Turbocharged Multipoint Injection",
+                    "ENGINE SPECS / Fuel": "Gasoline",
+                    "PERFORMANCE SPECS / Top Speed": "204 mph (328 km/h)",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "3.1 s",
+                    "TRANSMISSION SPECS / Drive Type": "Rear Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "7-speed automatic (SSG)",
+                    "BRAKES SPECS / Front": "Cast Iron Discs with Forged Aluminium Hubs 370mm",
+                    "BRAKES SPECS / Rear": "Cast Iron Discs with Forged Aluminium Hubs 350mm",
+                    "TIRES SPECS / Tire Size": "Pirelli P Zero 235/35 R19 – 305/30 R20",
+                    "DIMENSIONS / Length": "177.5 in (4509 mm)",
+                    "DIMENSIONS / Width": "82.4 in (2093 mm)",
+                    "DIMENSIONS / Height": "47.4 in (1204 mm)",
+                    "DIMENSIONS / Front/rear Track": "65.2/62.3 in (1,656/1,582 mm)",
+                    "DIMENSIONS / Wheelbase": "105.1 in (2670 mm)",
+                    "DIMENSIONS / Ground Clearance": "4.7 in (119 mm)",
+                    "DIMENSIONS / Cargo Volume": "6.92 cuFT (196 L)",
+                    "DIMENSIONS / Aerodynamics (Cd)": "0.36",
+                    "WEIGHT SPECS / Unladen Weight": "3034 lbs (1376 kg)",
+                    "WEIGHT SPECS / Gross Weight Limit": "3505 lbs (1590 kg)",
+                    "FUEL ECONOMY (NEDC) / City": "14 mpg US (16.8 L/100Km)",
+                    "FUEL ECONOMY (NEDC) / Highway": "22 mpg US (10.7 L/100Km)",
+                    "FUEL ECONOMY (NEDC) / Combined": "18 mpg US (13.1 L/100Km)",
+                    "FUEL ECONOMY (NEDC) / CO2 Emissions": "279 g/km"
+                  }
+                }
+              ]
+            }
+          ]
         },
         {
           "name": "P1",
           "yearStart": 2013,
-          "yearEnd": 2015
+          "yearEnd": 2015,
+          "generations": [
+            {
+              "name": "P1 (2013)",
+              "yearStart": 2013,
+              "yearEnd": 2015,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "3.8 V8 7AT (737 HP)",
+                  "fuelType": "Hybrid",
+                  "cylinders": 8,
+                  "displacementCc": 3799,
+                  "powerHp": 737,
+                  "torqueNm": 720,
+                  "transmission": "7-speed automatic (SSG)",
+                  "drivetrain": "Rear Wheel Drive",
+                  "zeroToHundredKmhS": 2.5,
+                  "topSpeedKmh": 349,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": 4587,
+                  "widthMm": 1946,
+                  "heightMm": 1189,
+                  "wheelbaseMm": 2670,
+                  "curbWeightKg": 1395,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "V8",
+                    "ENGINE SPECS / Displacement": "3799 cm3 (232 ci)",
+                    "ENGINE SPECS / Power": "542 KW @ 7500 RPM737 HP @ 7500 RPM727 BHP @ 7500 RPM",
+                    "ENGINE SPECS / Torque": "531 lb-ft @ 4000 RPM720 Nm @ 4000 RPM",
+                    "ENGINE SPECS / Fuel System": "Turbocharged Multipoint Injection",
+                    "ENGINE SPECS / Fuel": "Hybrid",
+                    "PERFORMANCE SPECS / Top Speed": "217 mph (349 km/h)",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "2.5 s",
+                    "TRANSMISSION SPECS / Drive Type": "Rear Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "7-speed automatic (SSG)",
+                    "BRAKES SPECS / Front": "Ceramic",
+                    "BRAKES SPECS / Rear": "Ceramic",
+                    "TIRES SPECS / Tire Size": "Front: 245/35 ZR19; Rear: 315/30 ZR20",
+                    "DIMENSIONS / Length": "180.6 in (4587 mm)",
+                    "DIMENSIONS / Width": "76.6 in (1946 mm)",
+                    "DIMENSIONS / Height": "46.8 in (1189 mm)",
+                    "DIMENSIONS / Front/rear Track": "65.3/63.1 in (1,659/1,603 mm)",
+                    "DIMENSIONS / Wheelbase": "105.1 in (2670 mm)",
+                    "DIMENSIONS / Ground Clearance": "4.7 in (119 mm)",
+                    "DIMENSIONS / Cargo Volume": "4.2 cuFT (119 L)",
+                    "DIMENSIONS / Aerodynamics (Cd)": "0.34",
+                    "WEIGHT SPECS / Unladen Weight": "3075 lbs (1395 kg)",
+                    "WEIGHT SPECS / Gross Weight Limit": "3300 lbs (1497 kg)",
+                    "FUEL ECONOMY (NEDC) / City": "16 mpg US (14.7 L/100Km)",
+                    "FUEL ECONOMY (NEDC) / Highway": "21 mpg US (11.2 L/100Km)",
+                    "FUEL ECONOMY (NEDC) / CO2 Emissions": "200 g/km"
+                  }
+                }
+              ]
+            }
+          ]
         },
         {
           "name": "Senna",
           "yearStart": 2018,
-          "yearEnd": 2020
+          "yearEnd": 2020,
+          "generations": [
+            {
+              "name": "Senna (2018)",
+              "yearStart": 2018,
+              "yearEnd": 2020,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "4.0 V8 (800 HP)",
+                  "fuelType": "Gasoline",
+                  "cylinders": 8,
+                  "displacementCc": 3999,
+                  "powerHp": 800,
+                  "torqueNm": 800,
+                  "transmission": null,
+                  "drivetrain": "Rear Wheel Drive",
+                  "zeroToHundredKmhS": 2.8,
+                  "topSpeedKmh": 340,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": 1198,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "V8",
+                    "ENGINE SPECS / Displacement": "3999 cm3 (244 ci)",
+                    "ENGINE SPECS / Power": "588.4 KW @ - RPM800 HP @ - RPM789 BHP @ - RPM",
+                    "ENGINE SPECS / Torque": "590 lb-ft @ 3000 RPM800 Nm @ 3000 RPM",
+                    "ENGINE SPECS / Fuel System": "Turbocharged Direct Injection",
+                    "ENGINE SPECS / Fuel": "Gasoline",
+                    "PERFORMANCE SPECS / Top Speed": "211 mph (340 km/h)",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "2.8 s",
+                    "TRANSMISSION SPECS / Drive Type": "Rear Wheel Drive",
+                    "BRAKES SPECS / Front": "Ventilated Discs",
+                    "BRAKES SPECS / Rear": "Ventilated Discs",
+                    "TIRES SPECS / Tire Size": "245/35 ZR19 || 315/30 ZR20",
+                    "WEIGHT SPECS / Unladen Weight": "2641 lbs (1198 kg)"
+                  }
+                }
+              ]
+            }
+          ]
         },
         {
           "name": "Speedtail",
           "yearStart": 2018,
-          "yearEnd": null
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Speedtail (2018)",
+              "yearStart": 2018,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "4.0L V8 8AT (1050 HP)",
+                  "fuelType": "Hybrid",
+                  "cylinders": 8,
+                  "displacementCc": 3994,
+                  "powerHp": 1050,
+                  "torqueNm": 0,
+                  "transmission": "7-speed automatic (SSG)",
+                  "drivetrain": "All Wheel Drive",
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": 402,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": 5136,
+                  "widthMm": null,
+                  "heightMm": 1120,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": 1430,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "V8",
+                    "ENGINE SPECS / Displacement": "3994 cm3 (244 ci)",
+                    "ENGINE SPECS / Power": "772.3 KW @ - RPM1050 HP @ - RPM1036 BHP @ - RPM",
+                    "ENGINE SPECS / Torque": "0 lb-ft @ - RPM0 Nm @ RPM",
+                    "ENGINE SPECS / Fuel System": "Turbocharge Direct Injection",
+                    "ENGINE SPECS / Fuel": "Hybrid",
+                    "PERFORMANCE SPECS / Top Speed": "250 mph (402 km/h)",
+                    "TRANSMISSION SPECS / Drive Type": "All Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "7-speed automatic (SSG)",
+                    "BRAKES SPECS / Front": "Ventilated Discs",
+                    "BRAKES SPECS / Rear": "Discs",
+                    "DIMENSIONS / Length": "202.2 in (5136 mm)",
+                    "DIMENSIONS / Height": "44.1 in (1120 mm)",
+                    "WEIGHT SPECS / Unladen Weight": "3153 lbs (1430 kg)"
+                  }
+                }
+              ]
+            }
+          ]
         }
       ]
     }
