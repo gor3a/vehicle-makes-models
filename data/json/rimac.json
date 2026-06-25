@@ -7,7 +7,94 @@
         {
           "name": "Nevera",
           "yearStart": 2021,
-          "yearEnd": null
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Nevera (2024)",
+              "yearStart": 2024,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "108 KWh AWD (2107 HP)",
+                  "fuelType": "Electric",
+                  "cylinders": null,
+                  "displacementCc": null,
+                  "powerHp": 2107,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": "All Wheel Drive",
+                  "zeroToHundredKmhS": 1.66,
+                  "topSpeedKmh": 431,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "ENGINE SPECS / Total maximum power": "1549.7 kw (2107 hp, 2078 bhp)",
+                    "ENGINE SPECS / Fuel System": "Electric",
+                    "ENGINE SPECS / Fuel": "Electric",
+                    "PERFORMANCE SPECS / Top speed (electrical)": "268 mph (431 km/h)",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "1.66 s",
+                    "TRANSMISSION SPECS / Drive Type": "All Wheel Drive",
+                    "BRAKES SPECS / Front": "Ventilated Discs",
+                    "BRAKES SPECS / Rear": "Ventilated Discs",
+                    "POWER SYSTEM SPECS / Maximum Capacity": "108 kWh"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Nevera (2021)",
+              "yearStart": 2021,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "120 KWh (1888 HP)",
+                  "fuelType": "Electric",
+                  "cylinders": null,
+                  "displacementCc": null,
+                  "powerHp": 1888,
+                  "torqueNm": null,
+                  "transmission": "2-Speed automatic",
+                  "drivetrain": "All Wheel Drive",
+                  "zeroToHundredKmhS": 1.97,
+                  "topSpeedKmh": 412,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": 4750,
+                  "widthMm": 1986,
+                  "heightMm": 1209,
+                  "wheelbaseMm": 2746,
+                  "curbWeightKg": 2150,
+                  "specs": {
+                    "ENGINE SPECS / Total maximum power": "1388.6 kw (1888 hp, 1862 bhp)",
+                    "ENGINE SPECS / Total maximum torque": "1740.6 lb-ft (2360 Nm)",
+                    "ENGINE SPECS / Fuel System": "Electric",
+                    "ENGINE SPECS / Fuel": "Electric",
+                    "PERFORMANCE SPECS / Top speed (electrical)": "256 mph (412 km/h)",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "1.97 s",
+                    "TRANSMISSION SPECS / Drive Type": "All Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "2-Speed automatic",
+                    "BRAKES SPECS / Front": "Ventilated Discs",
+                    "BRAKES SPECS / Rear": "Ventilated discs",
+                    "TIRES SPECS / Tire Size": "275/35 R20 // 315/35 R20",
+                    "DIMENSIONS / Length": "187 in (4750 mm)",
+                    "DIMENSIONS / Width": "78.2 in (1986 mm)",
+                    "DIMENSIONS / Height": "47.6 in (1209 mm)",
+                    "DIMENSIONS / Wheelbase": "108.1 in (2746 mm)",
+                    "DIMENSIONS / Aerodynamics (Cd)": "0.3",
+                    "WEIGHT SPECS / Unladen Weight": "4740 lbs (2150 kg)",
+                    "POWER SYSTEM SPECS / Power pack": "Lithium Manganese Nickel",
+                    "POWER SYSTEM SPECS / Nominal Capacity": "120 kWh",
+                    "POWER SYSTEM SPECS / Range": "341.8 miles (550.1 km)"
+                  }
+                }
+              ]
+            }
+          ]
         }
       ]
     }
