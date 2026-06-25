@@ -7,37 +7,561 @@
         {
           "name": "Huayra",
           "yearStart": 2012,
-          "yearEnd": 2022
+          "yearEnd": 2022,
+          "generations": [
+            {
+              "name": "Huayra (2012)",
+              "yearStart": 2012,
+              "yearEnd": 2018,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "6.0 V12 7AT (730 HP)",
+                  "fuelType": "Gasoline",
+                  "cylinders": 12,
+                  "displacementCc": 5980,
+                  "powerHp": 730,
+                  "torqueNm": 1001,
+                  "transmission": "7-speed automatic",
+                  "drivetrain": "Rear Wheel Drive",
+                  "zeroToHundredKmhS": 3.3,
+                  "topSpeedKmh": 360,
+                  "fuelEconomyCombinedL100": 20.1,
+                  "lengthMm": 4651,
+                  "widthMm": 2037,
+                  "heightMm": 1168,
+                  "wheelbaseMm": 2794,
+                  "curbWeightKg": 1350,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "V12",
+                    "ENGINE SPECS / Displacement": "5980 cm3 (365 ci)",
+                    "ENGINE SPECS / Power": "537 KW @ 5800 RPM730 HP @ 5800 RPM720 BHP @ 5800 RPM",
+                    "ENGINE SPECS / Torque": "738 lb-ft @ 2250-4500 RPM1001 Nm @ 2250-4500 RPM",
+                    "ENGINE SPECS / Fuel System": "Twin-turbo direct injection",
+                    "ENGINE SPECS / Fuel": "Gasoline",
+                    "PERFORMANCE SPECS / Top Speed": "224 mph (360 km/h)",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "3.3 s",
+                    "TRANSMISSION SPECS / Drive Type": "Rear Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "7-speed automatic",
+                    "BRAKES SPECS / Front": "Ventilated Discs",
+                    "BRAKES SPECS / Rear": "Ventilated disc",
+                    "TIRES SPECS / Tire Size": "255/35R-19 || 335/30R-20D",
+                    "DIMENSIONS / Length": "183.1 in (4651 mm)",
+                    "DIMENSIONS / Width": "80.2 in (2037 mm)",
+                    "DIMENSIONS / Height": "46 in (1168 mm)",
+                    "DIMENSIONS / Wheelbase": "110 in (2794 mm)",
+                    "DIMENSIONS / Ground Clearance": "3.3 in (84 mm)",
+                    "DIMENSIONS / Aerodynamics (Cd)": "0.31",
+                    "WEIGHT SPECS / Unladen Weight": "2976 lbs (1350 kg)",
+                    "FUEL ECONOMY (NEDC) / City": "10 mpg US (23.5 L/100Km)",
+                    "FUEL ECONOMY (NEDC) / Highway": "14 mpg US (16.8 L/100Km)",
+                    "FUEL ECONOMY (NEDC) / Combined": "11.7 mpg US (20.1 L/100Km)"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Huayra Roadster (2019)",
+              "yearStart": 2019,
+              "yearEnd": 2022,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "6.0L V12 7AT (802 HP)",
+                  "fuelType": "Gasoline",
+                  "cylinders": 12,
+                  "displacementCc": 5980,
+                  "powerHp": 802.2,
+                  "torqueNm": 1050,
+                  "transmission": "7-speed automatic",
+                  "drivetrain": "Rear Wheel Drive",
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "V12",
+                    "ENGINE SPECS / Displacement": "5980 cm3 (365 ci)",
+                    "ENGINE SPECS / Power": "590 KW @ 5900 RPM802.2 HP @ 5900 RPM791 BHP @ 5900 RPM",
+                    "ENGINE SPECS / Torque": "774 lb-ft @ 2000-5600 RPM1050 Nm @ 2000-5600 RPM",
+                    "ENGINE SPECS / Fuel System": "Turbocharged Multipoint Injection",
+                    "ENGINE SPECS / Fuel": "Gasoline",
+                    "TRANSMISSION SPECS / Drive Type": "Rear Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "7-speed automatic",
+                    "BRAKES SPECS / Front": "Ventilated Discs",
+                    "BRAKES SPECS / Rear": "Discs",
+                    "TIRES SPECS / Tire Size": "265/30 R20 // 355/25 R21"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Huayra Roadster (2017)",
+              "yearStart": 2017,
+              "yearEnd": 2019,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "6.0L V12 7AT (764 HP)",
+                  "fuelType": "Gasoline",
+                  "cylinders": 12,
+                  "displacementCc": 5980,
+                  "powerHp": 764,
+                  "torqueNm": 1000,
+                  "transmission": "7-speed automatic",
+                  "drivetrain": "Rear Wheel Drive",
+                  "zeroToHundredKmhS": 3,
+                  "topSpeedKmh": 370,
+                  "fuelEconomyCombinedL100": 20.5,
+                  "lengthMm": 4605,
+                  "widthMm": 2037,
+                  "heightMm": 1168,
+                  "wheelbaseMm": 2794,
+                  "curbWeightKg": 1280,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "V12",
+                    "ENGINE SPECS / Displacement": "5980 cm3 (365 ci)",
+                    "ENGINE SPECS / Power": "561.9 KW @ 5500 RPM764 HP @ 5500 RPM754 BHP @ 5500 RPM",
+                    "ENGINE SPECS / Torque": "738 lb-ft @ 2300-4300 RPM1000 Nm @ 2300-4300 RPM",
+                    "ENGINE SPECS / Fuel System": "Turbocharged Multipoint Injection",
+                    "ENGINE SPECS / Fuel": "Gasoline",
+                    "PERFORMANCE SPECS / Top Speed": "230 mph (370 km/h)",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "3 s",
+                    "TRANSMISSION SPECS / Drive Type": "Rear Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "7-speed automatic",
+                    "BRAKES SPECS / Front": "Ventilated Discs",
+                    "BRAKES SPECS / Rear": "Ventilated Discs",
+                    "TIRES SPECS / Tire Size": "255/35ZR20 // P325/30ZR21",
+                    "DIMENSIONS / Length": "181.3 in (4605 mm)",
+                    "DIMENSIONS / Width": "80.2 in (2037 mm)",
+                    "DIMENSIONS / Height": "46 in (1168 mm)",
+                    "DIMENSIONS / Wheelbase": "110 in (2794 mm)",
+                    "WEIGHT SPECS / Unladen Weight": "2822 lbs (1280 kg)",
+                    "FUEL ECONOMY (NEDC) / City": "10 mpg US (23.5 L/100Km)",
+                    "FUEL ECONOMY (NEDC) / Highway": "14 mpg US (16.8 L/100Km)",
+                    "FUEL ECONOMY (NEDC) / Combined": "11.5 mpg US (20.5 L/100Km)",
+                    "FUEL ECONOMY (NEDC) / CO2 Emissions": "470 g/km"
+                  }
+                }
+              ]
+            }
+          ]
         },
         {
           "name": "Imola",
           "yearStart": 2020,
-          "yearEnd": null
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Imola (2020)",
+              "yearStart": 2020,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "6.0L V12 7AT (827 HP)",
+                  "fuelType": "Gasoline",
+                  "cylinders": 12,
+                  "displacementCc": 5980,
+                  "powerHp": 827,
+                  "torqueNm": 1100,
+                  "transmission": "7-speed automatic",
+                  "drivetrain": "Rear Wheel Drive",
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": 4854,
+                  "widthMm": 2035,
+                  "heightMm": 1270,
+                  "wheelbaseMm": 2794,
+                  "curbWeightKg": 1246,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "V12",
+                    "ENGINE SPECS / Displacement": "5980 cm3 (365 ci)",
+                    "ENGINE SPECS / Power": "608.3 KW @ - RPM827 HP @ - RPM816 BHP @ - RPM",
+                    "ENGINE SPECS / Torque": "811 lb-ft @ - RPM1100 Nm @ - RPM",
+                    "ENGINE SPECS / Fuel System": "Turbocharged Direct Injection",
+                    "ENGINE SPECS / Fuel": "Gasoline",
+                    "TRANSMISSION SPECS / Drive Type": "Rear Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "7-speed automatic",
+                    "BRAKES SPECS / Front": "Ventilated Discs",
+                    "BRAKES SPECS / Rear": "Ventilated Discs",
+                    "DIMENSIONS / Length": "191.1 in (4854 mm)",
+                    "DIMENSIONS / Width": "80.1 in (2035 mm)",
+                    "DIMENSIONS / Height": "50 in (1270 mm)",
+                    "DIMENSIONS / Wheelbase": "110 in (2794 mm)",
+                    "WEIGHT SPECS / Unladen Weight": "2747 lbs (1246 kg)"
+                  }
+                }
+              ]
+            }
+          ]
         },
         {
           "name": "Utopia",
           "yearStart": 2022,
-          "yearEnd": null
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Utopia (2022)",
+              "yearStart": 2022,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "6.0L V12 7AT RWD (864 HP)",
+                  "fuelType": "Gasoline",
+                  "cylinders": 12,
+                  "displacementCc": 5980,
+                  "powerHp": 864,
+                  "torqueNm": 1100,
+                  "transmission": "7-speed transversal AMT (Automated Manual Transmission)",
+                  "drivetrain": "Rear Wheel Drive",
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": 1280,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "V12",
+                    "ENGINE SPECS / Displacement": "5980 cm3 (365 ci)",
+                    "ENGINE SPECS / Power": "635.5 KW @ 6000 RPM864 HP @ 6000 RPM852 BHP @ 6000 RPM",
+                    "ENGINE SPECS / Torque": "811 lb-ft @ 2800-5900 RPM1100 Nm @ 2800-5900 RPM",
+                    "ENGINE SPECS / Fuel System": "Turbocharged Direct Injection",
+                    "ENGINE SPECS / Fuel": "Gasoline",
+                    "TRANSMISSION SPECS / Drive Type": "Rear Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "7-speed transversal AMT (Automated Manual Transmission)",
+                    "BRAKES SPECS / Front": "Ventilated Discs",
+                    "BRAKES SPECS / Rear": "Ventilated Discs",
+                    "TIRES SPECS / Tire Size": "265/35 R21 // 325/30 R22",
+                    "WEIGHT SPECS / Unladen Weight": "2822 lbs (1280 kg)"
+                  }
+                }
+              ]
+            }
+          ]
         },
         {
           "name": "Zonda",
           "yearStart": 2003,
-          "yearEnd": 2006
+          "yearEnd": 2006,
+          "generations": [
+            {
+              "name": "Zonda Roadster (2003)",
+              "yearStart": 2003,
+              "yearEnd": 2006,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "7.3L V12 6MT RWD (555 HP)",
+                  "fuelType": "Gasoline",
+                  "cylinders": 12,
+                  "displacementCc": 7291,
+                  "powerHp": 555,
+                  "torqueNm": 750,
+                  "transmission": "6-manual speed",
+                  "drivetrain": "Rear Wheel Drive",
+                  "zeroToHundredKmhS": 3.7,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": 4394,
+                  "widthMm": 2055,
+                  "heightMm": 1151,
+                  "wheelbaseMm": 2731,
+                  "curbWeightKg": 1280,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "V12",
+                    "ENGINE SPECS / Displacement": "7291 cm3 (445 ci)",
+                    "ENGINE SPECS / Power": "408 KW @ 5900 RPM555 HP @ 5900 RPM547 BHP @ 5900 RPM",
+                    "ENGINE SPECS / Torque": "553 lb-ft @ 4050 RPM750 Nm @ 4050 RPM",
+                    "ENGINE SPECS / Fuel System": "Multipoint Injection",
+                    "ENGINE SPECS / Fuel": "Gasoline",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "3.7 s",
+                    "TRANSMISSION SPECS / Drive Type": "Rear Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "6-manual speed",
+                    "BRAKES SPECS / Front": "Ventilated Discs",
+                    "BRAKES SPECS / Rear": "Ventilated Discs",
+                    "TIRES SPECS / Tire Size": "255/35 R19 (front) - 345/30 R19 (rear)",
+                    "DIMENSIONS / Length": "173 in (4394 mm)",
+                    "DIMENSIONS / Width": "80.9 in (2055 mm)",
+                    "DIMENSIONS / Height": "45.3 in (1151 mm)",
+                    "DIMENSIONS / Wheelbase": "107.5 in (2731 mm)",
+                    "WEIGHT SPECS / Unladen Weight": "2821.9 lbs (1280 kg)"
+                  }
+                }
+              ]
+            }
+          ]
         },
         {
           "name": "Zonda Cinque",
           "yearStart": 2008,
-          "yearEnd": 2010
+          "yearEnd": 2010,
+          "generations": [
+            {
+              "name": "Zonda Cinque (2008)",
+              "yearStart": 2008,
+              "yearEnd": 2009,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "7.3 V12 6AT (678 HP)",
+                  "fuelType": "Gasoline",
+                  "cylinders": 12,
+                  "displacementCc": 7291,
+                  "powerHp": 678,
+                  "torqueNm": 780,
+                  "transmission": "6-speed automatic",
+                  "drivetrain": "Rear Wheel Drive",
+                  "zeroToHundredKmhS": 3.4,
+                  "topSpeedKmh": 349,
+                  "fuelEconomyCombinedL100": 16,
+                  "lengthMm": 3495,
+                  "widthMm": 2055,
+                  "heightMm": 1151,
+                  "wheelbaseMm": 2731,
+                  "curbWeightKg": 1210,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "V12",
+                    "ENGINE SPECS / Displacement": "7291 cm3 (445 ci)",
+                    "ENGINE SPECS / Power": "505 KW @ 6400 RPM678 HP @ 6400 RPM677 BHP @ 6400 RPM",
+                    "ENGINE SPECS / Torque": "575 lb-ft @ 4000 RPM780 Nm @ 4000 RPM",
+                    "ENGINE SPECS / Fuel System": "Multipoint Injection",
+                    "ENGINE SPECS / Fuel": "Gasoline",
+                    "PERFORMANCE SPECS / Top Speed": "217 mph (349 km/h)",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "3.4 s",
+                    "TRANSMISSION SPECS / Drive Type": "Rear Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "6-speed automatic",
+                    "BRAKES SPECS / Front": "Ventilated Discs",
+                    "BRAKES SPECS / Rear": "Ventilated Discs",
+                    "TIRES SPECS / Tire Size": "255/35 R19 || 335/30 R20",
+                    "DIMENSIONS / Length": "137.6 in (3495 mm)",
+                    "DIMENSIONS / Width": "80.9 in (2055 mm)",
+                    "DIMENSIONS / Height": "45.3 in (1151 mm)",
+                    "DIMENSIONS / Front/rear Track": "65.9/65.4 in (1,674/1,661 mm)",
+                    "DIMENSIONS / Wheelbase": "107.5 in (2731 mm)",
+                    "DIMENSIONS / Aerodynamics (Cd)": "0.37",
+                    "WEIGHT SPECS / Unladen Weight": "2668 lbs (1210 kg)",
+                    "WEIGHT SPECS / Gross Weight Limit": "3329 lbs (1510 kg)",
+                    "FUEL ECONOMY (NEDC) / City": "11.8 mpg US (19.9 L/100Km)",
+                    "FUEL ECONOMY (NEDC) / Highway": "23.5 mpg US (10 L/100Km)",
+                    "FUEL ECONOMY (NEDC) / Combined": "14.7 mpg US (16 L/100Km)"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Zonda Cinque Roadster (2009)",
+              "yearStart": 2009,
+              "yearEnd": 2010,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "7.3L V12 6AT RWD (678 HP)",
+                  "fuelType": "Gasoline",
+                  "cylinders": 12,
+                  "displacementCc": 7291,
+                  "powerHp": 678,
+                  "torqueNm": 780,
+                  "transmission": "6-speed automatic",
+                  "drivetrain": "Rear Wheel Drive",
+                  "zeroToHundredKmhS": 3.4,
+                  "topSpeedKmh": 349,
+                  "fuelEconomyCombinedL100": 16,
+                  "lengthMm": 3495,
+                  "widthMm": 2055,
+                  "heightMm": 1151,
+                  "wheelbaseMm": 2731,
+                  "curbWeightKg": 1210,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "V12",
+                    "ENGINE SPECS / Displacement": "7291 cm3 (445 ci)",
+                    "ENGINE SPECS / Power": "505 KW @ 6400 RPM678 HP @ 6400 RPM677 BHP @ 6400 RPM",
+                    "ENGINE SPECS / Torque": "575 lb-ft @ 4000 RPM780 Nm @ 4000 RPM",
+                    "ENGINE SPECS / Fuel System": "Multipoint Injection",
+                    "ENGINE SPECS / Fuel": "Gasoline",
+                    "PERFORMANCE SPECS / Top Speed": "217 mph (349 km/h)",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "3.4 s",
+                    "TRANSMISSION SPECS / Drive Type": "Rear Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "6-speed automatic",
+                    "BRAKES SPECS / Front": "Ventilated Discs",
+                    "BRAKES SPECS / Rear": "Ventilated Discs",
+                    "TIRES SPECS / Tire Size": "255/35 R19 || 335/30 R20",
+                    "DIMENSIONS / Length": "137.6 in (3495 mm)",
+                    "DIMENSIONS / Width": "80.9 in (2055 mm)",
+                    "DIMENSIONS / Height": "45.3 in (1151 mm)",
+                    "DIMENSIONS / Front/rear Track": "65.9/65.4 in (1,674/1,661 mm)",
+                    "DIMENSIONS / Wheelbase": "107.5 in (2731 mm)",
+                    "DIMENSIONS / Aerodynamics (Cd)": "0.37",
+                    "WEIGHT SPECS / Unladen Weight": "2668 lbs (1210 kg)",
+                    "WEIGHT SPECS / Gross Weight Limit": "3329 lbs (1510 kg)",
+                    "FUEL ECONOMY (NEDC) / City": "11.8 mpg US (19.9 L/100Km)",
+                    "FUEL ECONOMY (NEDC) / Highway": "23.5 mpg US (10 L/100Km)",
+                    "FUEL ECONOMY (NEDC) / Combined": "14.7 mpg US (16 L/100Km)"
+                  }
+                }
+              ]
+            }
+          ]
         },
         {
           "name": "Zonda F",
           "yearStart": 2005,
-          "yearEnd": 2010
+          "yearEnd": 2010,
+          "generations": [
+            {
+              "name": "Zonda F (2005)",
+              "yearStart": 2005,
+              "yearEnd": 2010,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "7.3 V12",
+                  "fuelType": "Gasoline",
+                  "cylinders": 12,
+                  "displacementCc": 7291,
+                  "powerHp": 602,
+                  "torqueNm": 760,
+                  "transmission": "Manual, 6 Speed",
+                  "drivetrain": "Rear Wheel Drive",
+                  "zeroToHundredKmhS": 3.6,
+                  "topSpeedKmh": 344,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": 4435,
+                  "widthMm": 2055,
+                  "heightMm": 1140,
+                  "wheelbaseMm": 2731,
+                  "curbWeightKg": 1230,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "V12",
+                    "ENGINE SPECS / Displacement": "7291 cm3 (445 ci)",
+                    "ENGINE SPECS / Power": "443 KW @ 6150 RPM602 HP @ 6150 RPM594 BHP @ 6150 RPM",
+                    "ENGINE SPECS / Torque": "561 lb-ft @ 4000 RPM760 Nm @ 4000 RPM",
+                    "ENGINE SPECS / Fuel System": "Multipoint Injection",
+                    "ENGINE SPECS / Fuel": "Gasoline",
+                    "PERFORMANCE SPECS / Top Speed": "214 mph (344 km/h)",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "3.6 s",
+                    "TRANSMISSION SPECS / Drive Type": "Rear Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "Manual, 6 Speed",
+                    "BRAKES SPECS / Front": "Ventilated Discs",
+                    "BRAKES SPECS / Rear": "Ventilated Discs",
+                    "TIRES SPECS / Tire Size": "255/35 R19 (front) - 335/30 R20 (rear)",
+                    "DIMENSIONS / Length": "174.6 in (4435 mm)",
+                    "DIMENSIONS / Width": "80.9 in (2055 mm)",
+                    "DIMENSIONS / Height": "44.9 in (1140 mm)",
+                    "DIMENSIONS / Wheelbase": "107.5 in (2731 mm)",
+                    "WEIGHT SPECS / Unladen Weight": "2711.7 lbs (1230 kg)"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Zonda F Roadster (2006)",
+              "yearStart": 2006,
+              "yearEnd": 2009,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "7.3L V12 6MT RWD (650 HP)",
+                  "fuelType": "Gasoline",
+                  "cylinders": 12,
+                  "displacementCc": 7291,
+                  "powerHp": 650,
+                  "torqueNm": 780,
+                  "transmission": "6-manual speed",
+                  "drivetrain": "Rear Wheel Drive",
+                  "zeroToHundredKmhS": 3.6,
+                  "topSpeedKmh": 344,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": 4435,
+                  "widthMm": 2055,
+                  "heightMm": 1140,
+                  "wheelbaseMm": 2731,
+                  "curbWeightKg": 1280,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "V12",
+                    "ENGINE SPECS / Displacement": "7291 cm3 (445 ci)",
+                    "ENGINE SPECS / Power": "478 KW @ 6200 RPM650 HP @ 6200 RPM641 BHP @ 6200 RPM",
+                    "ENGINE SPECS / Torque": "576 lb-ft @ 4000 RPM780 Nm @ 4000 RPM",
+                    "ENGINE SPECS / Fuel System": "Multipoint Injection",
+                    "ENGINE SPECS / Fuel": "Gasoline",
+                    "PERFORMANCE SPECS / Top Speed": "214 mph (344 km/h)",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "3.6 s",
+                    "TRANSMISSION SPECS / Drive Type": "Rear Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "6-manual speed",
+                    "BRAKES SPECS / Front": "Ventilated Discs",
+                    "BRAKES SPECS / Rear": "Ventilated Discs",
+                    "TIRES SPECS / Tire Size": "255/35 R19 (front) - 335/30 R20 (rear)",
+                    "DIMENSIONS / Length": "174.6 in (4435 mm)",
+                    "DIMENSIONS / Width": "80.9 in (2055 mm)",
+                    "DIMENSIONS / Height": "44.9 in (1140 mm)",
+                    "DIMENSIONS / Wheelbase": "107.5 in (2731 mm)",
+                    "WEIGHT SPECS / Unladen Weight": "2822 lbs (1280 kg)"
+                  }
+                }
+              ]
+            }
+          ]
         },
         {
           "name": "Zonda S",
           "yearStart": 2002,
-          "yearEnd": 2006
+          "yearEnd": 2006,
+          "generations": [
+            {
+              "name": "Zonda S (2002)",
+              "yearStart": 2002,
+              "yearEnd": 2006,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "7.3L V12 6MT RWD (555 HP)",
+                  "fuelType": "Gasoline",
+                  "cylinders": 12,
+                  "displacementCc": 7291,
+                  "powerHp": 555,
+                  "torqueNm": 750,
+                  "transmission": "6-manual speed",
+                  "drivetrain": "Rear Wheel Drive",
+                  "zeroToHundredKmhS": 3.7,
+                  "topSpeedKmh": 354,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": 4394,
+                  "widthMm": 2055,
+                  "heightMm": 1151,
+                  "wheelbaseMm": 2731,
+                  "curbWeightKg": 1250,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "V12",
+                    "ENGINE SPECS / Displacement": "7291 cm3 (445 ci)",
+                    "ENGINE SPECS / Power": "408 KW @ 5900 RPM555 HP @ 5900 RPM547 BHP @ 5900 RPM",
+                    "ENGINE SPECS / Torque": "553 lb-ft @ 4050 RPM750 Nm @ 4050 RPM",
+                    "ENGINE SPECS / Fuel System": "Multipoint Injection",
+                    "ENGINE SPECS / Fuel": "Gasoline",
+                    "PERFORMANCE SPECS / Top Speed": "220 mph (354 km/h)",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "3.7 s",
+                    "TRANSMISSION SPECS / Drive Type": "Rear Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "6-manual speed",
+                    "BRAKES SPECS / Front": "Ventilated Discs",
+                    "BRAKES SPECS / Rear": "Ventilated Discs",
+                    "TIRES SPECS / Tire Size": "Front: 225/40 R18 - Rear: 345/35 R18",
+                    "DIMENSIONS / Length": "173 in (4394 mm)",
+                    "DIMENSIONS / Width": "80.9 in (2055 mm)",
+                    "DIMENSIONS / Height": "45.3 in (1151 mm)",
+                    "DIMENSIONS / Wheelbase": "107.5 in (2731 mm)",
+                    "WEIGHT SPECS / Unladen Weight": "2755.8 lbs (1250 kg)"
+                  }
+                }
+              ]
+            }
+          ]
         }
       ]
     }
