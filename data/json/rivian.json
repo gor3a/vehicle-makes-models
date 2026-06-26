@@ -7,27 +7,333 @@
         {
           "name": "R1S",
           "yearStart": 2021,
-          "yearEnd": null
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "R1S (2021)",
+              "yearStart": 2021,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "(835 HP)",
+                  "fuelType": "Electric",
+                  "cylinders": null,
+                  "displacementCc": null,
+                  "powerHp": 835,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": "All Wheel Drive",
+                  "zeroToHundredKmhS": 3.1,
+                  "topSpeedKmh": 201,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": 5039,
+                  "widthMm": 1709,
+                  "heightMm": 1821,
+                  "wheelbaseMm": 3076,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "ENGINE SPECS / Total maximum power": "614.1 kw (835 hp, 824 bhp)",
+                    "ENGINE SPECS / Total maximum torque": "908 lb-ft (1231 Nm)",
+                    "ENGINE SPECS / Fuel System": "Electric",
+                    "ENGINE SPECS / Fuel": "Electric",
+                    "PERFORMANCE SPECS / Top speed (electrical)": "125 mph (201 km/h)",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "3.1 s",
+                    "TRANSMISSION SPECS / Drive Type": "All Wheel Drive",
+                    "BRAKES SPECS / Front": "Ventilated Discs",
+                    "BRAKES SPECS / Rear": "Ventilated Discs",
+                    "TIRES SPECS / Tire Size": "275/55R21 116H XL",
+                    "DIMENSIONS / Length": "198.4 in (5039 mm)",
+                    "DIMENSIONS / Width": "67.3 in (1709 mm)",
+                    "DIMENSIONS / Height": "71.7 in (1821 mm)",
+                    "DIMENSIONS / Wheelbase": "121.1 in (3076 mm)",
+                    "DIMENSIONS / Ground Clearance": "8.1 in (206 mm)",
+                    "DIMENSIONS / Cargo Volume": "11.7 cuFT (331 L)",
+                    "POWER SYSTEM SPECS / Range": "320 miles (515.0 km)"
+                  }
+                },
+                {
+                  "label": "105 KWh AWD (408 HP)",
+                  "fuelType": "Electric",
+                  "cylinders": null,
+                  "displacementCc": null,
+                  "powerHp": 408,
+                  "torqueNm": 560,
+                  "transmission": null,
+                  "drivetrain": "All Wheel Drive",
+                  "zeroToHundredKmhS": 5.1,
+                  "topSpeedKmh": 201,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": 5039,
+                  "widthMm": 1709,
+                  "heightMm": 1821,
+                  "wheelbaseMm": 3076,
+                  "curbWeightKg": 2650,
+                  "specs": {
+                    "ENGINE SPECS / Power": "300.1 KW @ - RPM408 HP @ - RPM402 BHP @ - RPM",
+                    "ENGINE SPECS / Torque": "413 lb-ft @ 7000 RPM560 Nm @ 7000 RPM",
+                    "ENGINE SPECS / Fuel System": "Electric",
+                    "ENGINE SPECS / Fuel": "Electric",
+                    "PERFORMANCE SPECS / Top speed (electrical)": "125 mph (201 km/h)",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "5.1 s",
+                    "TRANSMISSION SPECS / Drive Type": "All Wheel Drive",
+                    "DIMENSIONS / Length": "198.4 in (5039 mm)",
+                    "DIMENSIONS / Width": "67.3 in (1709 mm)",
+                    "DIMENSIONS / Height": "71.7 in (1821 mm)",
+                    "DIMENSIONS / Wheelbase": "121.1 in (3076 mm)",
+                    "DIMENSIONS / Ground Clearance": "8.1 in (206 mm)",
+                    "DIMENSIONS / Cargo Volume": "11.7 cuFT (331 L)",
+                    "WEIGHT SPECS / Unladen Weight": "5842 lbs (2650 kg)",
+                    "WEIGHT SPECS / Gross Weight Limit": "7650 lbs (3470 kg)",
+                    "POWER SYSTEM SPECS / Nominal Capacity": "105 kWh",
+                    "POWER SYSTEM SPECS / Range": "240 miles (386.2 km)"
+                  }
+                },
+                {
+                  "label": "135 KWh AWD (764 HP)",
+                  "fuelType": "Electric",
+                  "cylinders": null,
+                  "displacementCc": null,
+                  "powerHp": 764,
+                  "torqueNm": 560,
+                  "transmission": null,
+                  "drivetrain": "All Wheel Drive",
+                  "zeroToHundredKmhS": 3.1,
+                  "topSpeedKmh": 201,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": 5039,
+                  "widthMm": 1709,
+                  "heightMm": 1821,
+                  "wheelbaseMm": 3076,
+                  "curbWeightKg": 2650,
+                  "specs": {
+                    "ENGINE SPECS / Power": "562 KW @ - RPM764 HP @ - RPM754 BHP @ - RPM",
+                    "ENGINE SPECS / Torque": "413 lb-ft @ 1120-14000 RPM560 Nm @ 1120-14000 RPM",
+                    "ENGINE SPECS / Fuel System": "Electric",
+                    "ENGINE SPECS / Fuel": "Electric",
+                    "PERFORMANCE SPECS / Top speed (electrical)": "125 mph (201 km/h)",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "3.1 s",
+                    "TRANSMISSION SPECS / Drive Type": "All Wheel Drive",
+                    "DIMENSIONS / Length": "198.4 in (5039 mm)",
+                    "DIMENSIONS / Width": "67.3 in (1709 mm)",
+                    "DIMENSIONS / Height": "71.7 in (1821 mm)",
+                    "DIMENSIONS / Wheelbase": "121.1 in (3076 mm)",
+                    "DIMENSIONS / Ground Clearance": "8.1 in (206 mm)",
+                    "DIMENSIONS / Cargo Volume": "11.7 cuFT (331 L)",
+                    "WEIGHT SPECS / Unladen Weight": "5842 lbs (2650 kg)",
+                    "WEIGHT SPECS / Gross Weight Limit": "7650 lbs (3470 kg)",
+                    "POWER SYSTEM SPECS / Nominal Capacity": "135 kWh",
+                    "POWER SYSTEM SPECS / Range": "310 miles (498.9 km)"
+                  }
+                },
+                {
+                  "label": "180 KWh AWD (710 HP)",
+                  "fuelType": "Electric",
+                  "cylinders": null,
+                  "displacementCc": null,
+                  "powerHp": 710,
+                  "torqueNm": 560,
+                  "transmission": null,
+                  "drivetrain": "All Wheel Drive",
+                  "zeroToHundredKmhS": 3.3,
+                  "topSpeedKmh": 201,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": 5039,
+                  "widthMm": 1709,
+                  "heightMm": 1821,
+                  "wheelbaseMm": 3076,
+                  "curbWeightKg": 2650,
+                  "specs": {
+                    "ENGINE SPECS / Power": "522 KW @ - RPM710 HP @ - RPM700 BHP @ - RPM",
+                    "ENGINE SPECS / Torque": "413 lb-ft @ 1120-14000 RPM560 Nm @ 1120-14000 RPM",
+                    "ENGINE SPECS / Fuel System": "Electric",
+                    "ENGINE SPECS / Fuel": "Electric",
+                    "PERFORMANCE SPECS / Top speed (electrical)": "125 mph (201 km/h)",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "3.3 s",
+                    "TRANSMISSION SPECS / Drive Type": "All Wheel Drive",
+                    "DIMENSIONS / Length": "198.4 in (5039 mm)",
+                    "DIMENSIONS / Width": "67.3 in (1709 mm)",
+                    "DIMENSIONS / Height": "71.7 in (1821 mm)",
+                    "DIMENSIONS / Wheelbase": "121.1 in (3076 mm)",
+                    "DIMENSIONS / Ground Clearance": "8.1 in (206 mm)",
+                    "DIMENSIONS / Cargo Volume": "11.7 cuFT (331 L)",
+                    "WEIGHT SPECS / Unladen Weight": "5842 lbs (2650 kg)",
+                    "WEIGHT SPECS / Gross Weight Limit": "7650 lbs (3470 kg)",
+                    "POWER SYSTEM SPECS / Nominal Capacity": "180 kWh",
+                    "POWER SYSTEM SPECS / Range": "410 miles (659.8 km)"
+                  }
+                }
+              ]
+            }
+          ]
         },
         {
           "name": "R1T",
           "yearStart": 2021,
-          "yearEnd": null
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "R1T (2021)",
+              "yearStart": 2021,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "105 KWh AWD (408 HP)",
+                  "fuelType": "Electric",
+                  "cylinders": null,
+                  "displacementCc": null,
+                  "powerHp": 408,
+                  "torqueNm": 560,
+                  "transmission": null,
+                  "drivetrain": "All Wheel Drive",
+                  "zeroToHundredKmhS": 5.1,
+                  "topSpeedKmh": 201,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": 5476,
+                  "widthMm": 1709,
+                  "heightMm": 1816,
+                  "wheelbaseMm": 3449,
+                  "curbWeightKg": 2670,
+                  "specs": {
+                    "ENGINE SPECS / Power": "300 KW @ - RPM408 HP @ - RPM402 BHP @ - RPM",
+                    "ENGINE SPECS / Torque": "413 lb-ft @ 7000 RPM560 Nm @ 7000 RPM",
+                    "ENGINE SPECS / Fuel System": "Electric",
+                    "ENGINE SPECS / Fuel": "Electric",
+                    "PERFORMANCE SPECS / Top speed (electrical)": "125 mph (201 km/h)",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "5.1 s",
+                    "TRANSMISSION SPECS / Drive Type": "All Wheel Drive",
+                    "DIMENSIONS / Length": "215.6 in (5476 mm)",
+                    "DIMENSIONS / Width": "67.3 in (1709 mm)",
+                    "DIMENSIONS / Height": "71.5 in (1816 mm)",
+                    "DIMENSIONS / Wheelbase": "135.8 in (3449 mm)",
+                    "DIMENSIONS / Ground Clearance": "7.9 in (201 mm)",
+                    "DIMENSIONS / Cargo Volume": "11.7 cuFT (331 L)",
+                    "WEIGHT SPECS / Unladen Weight": "5886 lbs (2670 kg)",
+                    "WEIGHT SPECS / Gross Weight Limit": "7650 lbs (3470 kg)",
+                    "POWER SYSTEM SPECS / Nominal Capacity": "105 kWh",
+                    "POWER SYSTEM SPECS / Range": "230 miles (370.1 km)"
+                  }
+                },
+                {
+                  "label": "135 KWh AWD (764 HP)",
+                  "fuelType": "Electric",
+                  "cylinders": null,
+                  "displacementCc": null,
+                  "powerHp": 764,
+                  "torqueNm": 560,
+                  "transmission": null,
+                  "drivetrain": "All Wheel Drive",
+                  "zeroToHundredKmhS": 3.1,
+                  "topSpeedKmh": 201,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": 5476,
+                  "widthMm": 1709,
+                  "heightMm": 1816,
+                  "wheelbaseMm": 3449,
+                  "curbWeightKg": 2670,
+                  "specs": {
+                    "ENGINE SPECS / Power": "562 KW @ - RPM764 HP @ - RPM754 BHP @ - RPM",
+                    "ENGINE SPECS / Torque": "413 lb-ft @ 1120-14000 RPM560 Nm @ 1120-14000 RPM",
+                    "ENGINE SPECS / Fuel System": "Electric",
+                    "ENGINE SPECS / Fuel": "Electric",
+                    "PERFORMANCE SPECS / Top speed (electrical)": "125 mph (201 km/h)",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "3.1 s",
+                    "TRANSMISSION SPECS / Drive Type": "All Wheel Drive",
+                    "DIMENSIONS / Length": "215.6 in (5476 mm)",
+                    "DIMENSIONS / Width": "67.3 in (1709 mm)",
+                    "DIMENSIONS / Height": "71.5 in (1816 mm)",
+                    "DIMENSIONS / Wheelbase": "135.8 in (3449 mm)",
+                    "DIMENSIONS / Ground Clearance": "7.9 in (201 mm)",
+                    "DIMENSIONS / Cargo Volume": "11.7 cuFT (331 L)",
+                    "WEIGHT SPECS / Unladen Weight": "5886 lbs (2670 kg)",
+                    "WEIGHT SPECS / Gross Weight Limit": "7650 lbs (3470 kg)",
+                    "POWER SYSTEM SPECS / Nominal Capacity": "135 kWh",
+                    "POWER SYSTEM SPECS / Range": "300 miles (482.8 km)"
+                  }
+                },
+                {
+                  "label": "180 KWh AWD (710 HP)",
+                  "fuelType": "Electric",
+                  "cylinders": null,
+                  "displacementCc": null,
+                  "powerHp": 710,
+                  "torqueNm": 560,
+                  "transmission": null,
+                  "drivetrain": "All Wheel Drive",
+                  "zeroToHundredKmhS": 3.3,
+                  "topSpeedKmh": 201,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": 5476,
+                  "widthMm": 1709,
+                  "heightMm": 1816,
+                  "wheelbaseMm": 3449,
+                  "curbWeightKg": 2670,
+                  "specs": {
+                    "ENGINE SPECS / Power": "522 KW @ - RPM710 HP @ - RPM700 BHP @ - RPM",
+                    "ENGINE SPECS / Torque": "413 lb-ft @ 1120-14000 RPM560 Nm @ 1120-14000 RPM",
+                    "ENGINE SPECS / Fuel System": "Electric",
+                    "ENGINE SPECS / Fuel": "Electric",
+                    "PERFORMANCE SPECS / Top speed (electrical)": "125 mph (201 km/h)",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "3.3 s",
+                    "TRANSMISSION SPECS / Drive Type": "All Wheel Drive",
+                    "DIMENSIONS / Length": "215.6 in (5476 mm)",
+                    "DIMENSIONS / Width": "67.3 in (1709 mm)",
+                    "DIMENSIONS / Height": "71.5 in (1816 mm)",
+                    "DIMENSIONS / Wheelbase": "135.8 in (3449 mm)",
+                    "DIMENSIONS / Ground Clearance": "7.9 in (201 mm)",
+                    "DIMENSIONS / Cargo Volume": "11.7 cuFT (331 L)",
+                    "WEIGHT SPECS / Unladen Weight": "5886 lbs (2670 kg)",
+                    "WEIGHT SPECS / Gross Weight Limit": "7650 lbs (3470 kg)",
+                    "POWER SYSTEM SPECS / Nominal Capacity": "180 kWh",
+                    "POWER SYSTEM SPECS / Range": "400 miles (643.7 km)"
+                  }
+                }
+              ]
+            }
+          ]
         },
         {
           "name": "R2",
           "yearStart": 2024,
-          "yearEnd": null
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "R2 (2024)",
+              "yearStart": 2024,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
         },
         {
           "name": "R3",
           "yearStart": 2024,
-          "yearEnd": null
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "R3 (2024)",
+              "yearStart": 2024,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
         },
         {
           "name": "R3X",
           "yearStart": 2024,
-          "yearEnd": null
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "R3X (2024)",
+              "yearStart": 2024,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
         }
       ]
     }

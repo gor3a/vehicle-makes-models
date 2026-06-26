@@ -7,12 +7,117 @@
         {
           "name": "S7",
           "yearStart": 2000,
-          "yearEnd": 2004
+          "yearEnd": 2004,
+          "generations": [
+            {
+              "name": "S7 (2000)",
+              "yearStart": 2000,
+              "yearEnd": 2004,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "7.0 V8",
+                  "fuelType": "Gasoline",
+                  "cylinders": 8,
+                  "displacementCc": 6997,
+                  "powerHp": 550,
+                  "torqueNm": 712,
+                  "transmission": "Manual, 6 Speed",
+                  "drivetrain": "Rear Wheel Drive",
+                  "zeroToHundredKmhS": 3.9,
+                  "topSpeedKmh": 320,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": 4775,
+                  "widthMm": 1989,
+                  "heightMm": 1041,
+                  "wheelbaseMm": 2700,
+                  "curbWeightKg": 1247,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "V8",
+                    "ENGINE SPECS / Displacement": "6997 cm3 (427 ci)",
+                    "ENGINE SPECS / Power": "404 KW @ 6400 RPM550 HP @ 6400 RPM542 BHP @ 6400 RPM",
+                    "ENGINE SPECS / Torque": "525 lb-ft @ 4000 RPM712 Nm @ 4000 RPM",
+                    "ENGINE SPECS / Fuel System": "Multipoint Injection",
+                    "ENGINE SPECS / Fuel": "Gasoline",
+                    "PERFORMANCE SPECS / Top Speed": "198.8 mph (320 km/h)",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "3.9 s",
+                    "TRANSMISSION SPECS / Drive Type": "Rear Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "Manual, 6 Speed",
+                    "BRAKES SPECS / Front": "Ventilated Discs",
+                    "BRAKES SPECS / Rear": "Ventilated Discs",
+                    "TIRES SPECS / Tire Size": "275/30 ZR19 (front) - 345/30 ZR20 (rear)",
+                    "DIMENSIONS / Length": "188 in (4775 mm)",
+                    "DIMENSIONS / Width": "78.3 in (1989 mm)",
+                    "DIMENSIONS / Height": "41 in (1041 mm)",
+                    "DIMENSIONS / Front/rear Track": "68.8/67.3 in (1,748/1,709 mm)",
+                    "DIMENSIONS / Wheelbase": "106.3 in (2700 mm)",
+                    "DIMENSIONS / Ground Clearance": "3.9 in (99 mm)",
+                    "DIMENSIONS / Cargo Volume": "2.7 cuFT (76 L)",
+                    "WEIGHT SPECS / Unladen Weight": "2750 lbs (1247 kg)",
+                    "FUEL ECONOMY (NEDC) / City": "10 mpg US (23.5 L/100Km)",
+                    "FUEL ECONOMY (NEDC) / Highway": "17 mpg US (13.8 L/100Km)"
+                  }
+                }
+              ]
+            }
+          ]
         },
         {
           "name": "S7TT",
           "yearStart": 2005,
-          "yearEnd": 2006
+          "yearEnd": 2006,
+          "generations": [
+            {
+              "name": "S7TT (2005)",
+              "yearStart": 2005,
+              "yearEnd": 2006,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "7.0L V8 Twin Turbo 6MT (750 HP)",
+                  "fuelType": "Gasoline",
+                  "cylinders": 8,
+                  "displacementCc": 6997,
+                  "powerHp": 750,
+                  "torqueNm": 949,
+                  "transmission": "6-Speed manual",
+                  "drivetrain": "Rear Wheel Drive",
+                  "zeroToHundredKmhS": 2.8,
+                  "topSpeedKmh": 399,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": 4775,
+                  "widthMm": 1989,
+                  "heightMm": 1041,
+                  "wheelbaseMm": 2700,
+                  "curbWeightKg": 1338,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "V8",
+                    "ENGINE SPECS / Displacement": "6997 cm3 (427 ci)",
+                    "ENGINE SPECS / Power": "559 KW @ 6300 RPM750 HP @ 6300 RPM750 BHP @ 6300 RPM",
+                    "ENGINE SPECS / Torque": "700 lb-ft @ 4800 RPM949 Nm @ 4800 RPM",
+                    "ENGINE SPECS / Fuel System": "Multipoint Injection",
+                    "ENGINE SPECS / Fuel": "Gasoline",
+                    "PERFORMANCE SPECS / Top Speed": "248 mph (399 km/h)",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "2.8 s",
+                    "TRANSMISSION SPECS / Drive Type": "Rear Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "6-Speed manual",
+                    "BRAKES SPECS / Front": "Ventilated Discs",
+                    "BRAKES SPECS / Rear": "Ventilated Discs",
+                    "TIRES SPECS / Tire Size": "Front: 275/30 ZR19 - Rear: 345/30 ZR20",
+                    "DIMENSIONS / Length": "188 in (4775 mm)",
+                    "DIMENSIONS / Width": "78.3 in (1989 mm)",
+                    "DIMENSIONS / Height": "41 in (1041 mm)",
+                    "DIMENSIONS / Front/rear Track": "68.8/67.3 in (1,748/1,709 mm)",
+                    "DIMENSIONS / Wheelbase": "106.3 in (2700 mm)",
+                    "DIMENSIONS / Ground Clearance": "4 in (102 mm)",
+                    "DIMENSIONS / Cargo Volume": "2.7 cuFT (76 L)",
+                    "DIMENSIONS / Aerodynamics (Cd)": "0.28",
+                    "WEIGHT SPECS / Unladen Weight": "2950 lbs (1338 kg)"
+                  }
+                }
+              ]
+            }
+          ]
         }
       ]
     }

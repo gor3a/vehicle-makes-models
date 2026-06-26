@@ -7,22 +7,272 @@
         {
           "name": "300 - 350",
           "yearStart": 2005,
-          "yearEnd": 2011
+          "yearEnd": 2011,
+          "generations": [
+            {
+              "name": "300 - 350 (2005)",
+              "yearStart": 2005,
+              "yearEnd": 2011,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "300 5MT AWD (90 HP)",
+                  "fuelType": "Diesel",
+                  "cylinders": 4,
+                  "displacementCc": 1560,
+                  "powerHp": 90,
+                  "torqueNm": 214,
+                  "transmission": "5-Speed manual",
+                  "drivetrain": "All Wheel Drive",
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": 161,
+                  "fuelEconomyCombinedL100": 5.7,
+                  "lengthMm": 3670,
+                  "widthMm": 1628,
+                  "heightMm": 1664,
+                  "wheelbaseMm": 2200,
+                  "curbWeightKg": 1369,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "L4",
+                    "ENGINE SPECS / Displacement": "1560 cm3 (95 ci)",
+                    "ENGINE SPECS / Power": "66 KW @ 4000 RPM90 HP @ 4000 RPM89 BHP @ 4000 RPM",
+                    "ENGINE SPECS / Torque": "158 lb-ft @ 1750 RPM214 Nm @ 1750 RPM",
+                    "ENGINE SPECS / Fuel System": "Common Rail",
+                    "ENGINE SPECS / Fuel": "Diesel",
+                    "ENGINE SPECS / Fuel capacity": "11.1 gallons (42.0 L)",
+                    "PERFORMANCE SPECS / Top Speed": "100 mph (161 km/h)",
+                    "TRANSMISSION SPECS / Drive Type": "All Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "5-Speed manual",
+                    "BRAKES SPECS / Front": "Discs",
+                    "BRAKES SPECS / Rear": "Drums",
+                    "TIRES SPECS / Tire Size": "205/70 R15",
+                    "DIMENSIONS / Length": "144.5 in (3670 mm)",
+                    "DIMENSIONS / Width": "64.1 in (1628 mm)",
+                    "DIMENSIONS / Height": "65.5 in (1664 mm)",
+                    "DIMENSIONS / Front/rear Track": "54.9/55.1 in (1,394/1,400 mm)",
+                    "DIMENSIONS / Wheelbase": "86.6 in (2200 mm)",
+                    "DIMENSIONS / Ground Clearance": "8.2 in (208 mm)",
+                    "WEIGHT SPECS / Unladen Weight": "3018 lbs (1369 kg)",
+                    "FUEL ECONOMY (NEDC) / City": "34.5 mpg US (6.8 L/100Km)",
+                    "FUEL ECONOMY (NEDC) / Highway": "46.1 mpg US (5.1 L/100Km)",
+                    "FUEL ECONOMY (NEDC) / Combined": "41.2 mpg US (5.7 L/100Km)",
+                    "FUEL ECONOMY (NEDC) / CO2 Emissions": "149 g/km"
+                  }
+                },
+                {
+                  "label": "350 5MT AWD (90 HP)",
+                  "fuelType": "Diesel",
+                  "cylinders": 4,
+                  "displacementCc": 1560,
+                  "powerHp": 90,
+                  "torqueNm": 214,
+                  "transmission": "5-Speed manual",
+                  "drivetrain": "All Wheel Drive",
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": 161,
+                  "fuelEconomyCombinedL100": 5.7,
+                  "lengthMm": 4039,
+                  "widthMm": 1633,
+                  "heightMm": 1699,
+                  "wheelbaseMm": 2479,
+                  "curbWeightKg": 1492,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "L4",
+                    "ENGINE SPECS / Displacement": "1560 cm3 (95 ci)",
+                    "ENGINE SPECS / Power": "66 KW @ 4000 RPM90 HP @ 4000 RPM89 BHP @ 4000 RPM",
+                    "ENGINE SPECS / Torque": "158 lb-ft @ 1750 RPM214 Nm @ 1750 RPM",
+                    "ENGINE SPECS / Fuel System": "Common Rail",
+                    "ENGINE SPECS / Fuel": "Diesel",
+                    "ENGINE SPECS / Fuel capacity": "11.1 gallons (42.0 L)",
+                    "PERFORMANCE SPECS / Top Speed": "100 mph (161 km/h)",
+                    "TRANSMISSION SPECS / Drive Type": "All Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "5-Speed manual",
+                    "BRAKES SPECS / Front": "Discs",
+                    "BRAKES SPECS / Rear": "Drums",
+                    "TIRES SPECS / Tire Size": "205/70 R15",
+                    "DIMENSIONS / Length": "159 in (4039 mm)",
+                    "DIMENSIONS / Width": "64.3 in (1633 mm)",
+                    "DIMENSIONS / Height": "66.9 in (1699 mm)",
+                    "DIMENSIONS / Front/rear Track": "54.9/55.1 in (1,394/1,400 mm)",
+                    "DIMENSIONS / Wheelbase": "97.6 in (2479 mm)",
+                    "DIMENSIONS / Ground Clearance": "8.2 in (208 mm)",
+                    "WEIGHT SPECS / Unladen Weight": "3289.3 lbs (1492 kg)",
+                    "FUEL ECONOMY (NEDC) / City": "34.5 mpg US (6.8 L/100Km)",
+                    "FUEL ECONOMY (NEDC) / Highway": "46.1 mpg US (5.1 L/100Km)",
+                    "FUEL ECONOMY (NEDC) / Combined": "41.2 mpg US (5.7 L/100Km)",
+                    "FUEL ECONOMY (NEDC) / CO2 Emissions": "149 g/km"
+                  }
+                }
+              ]
+            }
+          ]
         },
         {
           "name": "PS 10 Pickup",
           "yearStart": 2003,
-          "yearEnd": 2008
+          "yearEnd": 2008,
+          "generations": [
+            {
+              "name": "PS 10 Pickup (2003)",
+              "yearStart": 2003,
+              "yearEnd": 2008,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "2.8L TD 5MT AWD (125 HP)",
+                  "fuelType": "Diesel",
+                  "cylinders": 4,
+                  "displacementCc": 2798,
+                  "powerHp": 125,
+                  "torqueNm": 275,
+                  "transmission": "5-manual speed",
+                  "drivetrain": "All Wheel Drive",
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": 140,
+                  "fuelEconomyCombinedL100": 10.2,
+                  "lengthMm": 4542,
+                  "widthMm": 1750,
+                  "heightMm": 2002,
+                  "wheelbaseMm": 2786,
+                  "curbWeightKg": 1946,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "L4",
+                    "ENGINE SPECS / Displacement": "2798 cm3 (171 ci)",
+                    "ENGINE SPECS / Power": "92 KW @ 3600 RPM125 HP @ 3600 RPM123 BHP @ 3600 RPM",
+                    "ENGINE SPECS / Torque": "203 lb-ft @ 1800 RPM275 Nm @ 1800 RPM",
+                    "ENGINE SPECS / Fuel System": "Direct Injection",
+                    "ENGINE SPECS / Fuel": "Diesel",
+                    "PERFORMANCE SPECS / Top Speed": "87 mph (140 km/h)",
+                    "TRANSMISSION SPECS / Drive Type": "All Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "5-manual speed",
+                    "BRAKES SPECS / Front": "Ventilated Discs",
+                    "BRAKES SPECS / Rear": "Discs",
+                    "TIRES SPECS / Tire Size": "235/85 R16",
+                    "DIMENSIONS / Length": "178.8 in (4542 mm)",
+                    "DIMENSIONS / Width": "68.9 in (1750 mm)",
+                    "DIMENSIONS / Height": "78.8 in (2002 mm)",
+                    "DIMENSIONS / Front/rear Track": "58.5/58.5 in (1,486/1,486 mm)",
+                    "DIMENSIONS / Wheelbase": "109.7 in (2786 mm)",
+                    "DIMENSIONS / Ground Clearance": "7.9 in (201 mm)",
+                    "WEIGHT SPECS / Unladen Weight": "4290 lbs (1946 kg)",
+                    "WEIGHT SPECS / Gross Weight Limit": "5203 lbs (2360 kg)",
+                    "FUEL ECONOMY (NEDC) / Combined": "23 mpg US (10.2 L/100Km)",
+                    "FUEL ECONOMY (NEDC) / CO2 Emissions": "261.1 g/km"
+                  }
+                }
+              ]
+            }
+          ]
         },
         {
           "name": "PS 10 Plus",
           "yearStart": 2002,
-          "yearEnd": 2006
+          "yearEnd": 2006,
+          "generations": [
+            {
+              "name": "PS 10 Plus (2002)",
+              "yearStart": 2002,
+              "yearEnd": 2006,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "2.8L TD 5MT AWD (125 HP)",
+                  "fuelType": "Diesel",
+                  "cylinders": 4,
+                  "displacementCc": 2798,
+                  "powerHp": 125,
+                  "torqueNm": 275,
+                  "transmission": "5-manual speed",
+                  "drivetrain": "All Wheel Drive",
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": 140,
+                  "fuelEconomyCombinedL100": 10.2,
+                  "lengthMm": 4676,
+                  "widthMm": 1750,
+                  "heightMm": 1999,
+                  "wheelbaseMm": 2786,
+                  "curbWeightKg": 2076,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "L4",
+                    "ENGINE SPECS / Displacement": "2798 cm3 (171 ci)",
+                    "ENGINE SPECS / Power": "92 KW @ 3600 RPM125 HP @ 3600 RPM123 BHP @ 3600 RPM",
+                    "ENGINE SPECS / Torque": "203 lb-ft @ 1800 RPM275 Nm @ 1800 RPM",
+                    "ENGINE SPECS / Fuel System": "Common Rail",
+                    "ENGINE SPECS / Fuel": "Diesel",
+                    "PERFORMANCE SPECS / Top Speed": "87 mph (140 km/h)",
+                    "TRANSMISSION SPECS / Drive Type": "All Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "5-manual speed",
+                    "BRAKES SPECS / Front": "Ventilated Discs",
+                    "BRAKES SPECS / Rear": "Discs",
+                    "TIRES SPECS / Tire Size": "235/85 R16",
+                    "DIMENSIONS / Length": "184.1 in (4676 mm)",
+                    "DIMENSIONS / Width": "68.9 in (1750 mm)",
+                    "DIMENSIONS / Height": "78.7 in (1999 mm)",
+                    "DIMENSIONS / Front/rear Track": "58.5/58.5 in (1,486/1,486 mm)",
+                    "DIMENSIONS / Wheelbase": "109.7 in (2786 mm)",
+                    "DIMENSIONS / Ground Clearance": "7.9 in (201 mm)",
+                    "WEIGHT SPECS / Unladen Weight": "4576 lbs (2076 kg)",
+                    "WEIGHT SPECS / Gross Weight Limit": "6776 lbs (3074 kg)",
+                    "FUEL ECONOMY (NEDC) / Combined": "23 mpg US (10.2 L/100Km)"
+                  }
+                }
+              ]
+            }
+          ]
         },
         {
           "name": "PS 10 Shortline",
           "yearStart": 2006,
-          "yearEnd": 2008
+          "yearEnd": 2008,
+          "generations": [
+            {
+              "name": "PS 10 Shortline (2006)",
+              "yearStart": 2006,
+              "yearEnd": 2008,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "2.8L TD 5MT AWD (125 HP)",
+                  "fuelType": "Diesel",
+                  "cylinders": 4,
+                  "displacementCc": 2798,
+                  "powerHp": 125,
+                  "torqueNm": 275,
+                  "transmission": "5-manual speed",
+                  "drivetrain": "All Wheel Drive",
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": 140,
+                  "fuelEconomyCombinedL100": 10.2,
+                  "lengthMm": 4280,
+                  "widthMm": 1750,
+                  "heightMm": 1999,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "L4",
+                    "ENGINE SPECS / Displacement": "2798 cm3 (171 ci)",
+                    "ENGINE SPECS / Power": "92 KW @ 3600 RPM125 HP @ 3600 RPM123 BHP @ 3600 RPM",
+                    "ENGINE SPECS / Torque": "203 lb-ft @ 1800 RPM275 Nm @ 1800 RPM",
+                    "ENGINE SPECS / Fuel System": "Common Rail",
+                    "ENGINE SPECS / Fuel": "Diesel",
+                    "PERFORMANCE SPECS / Top Speed": "87 mph (140 km/h)",
+                    "TRANSMISSION SPECS / Drive Type": "All Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "5-manual speed",
+                    "BRAKES SPECS / Front": "Ventilated Discs",
+                    "BRAKES SPECS / Rear": "Discs",
+                    "TIRES SPECS / Tire Size": "235/85 R16",
+                    "DIMENSIONS / Length": "168.5 in (4280 mm)",
+                    "DIMENSIONS / Width": "68.9 in (1750 mm)",
+                    "DIMENSIONS / Height": "78.7 in (1999 mm)",
+                    "DIMENSIONS / Front/rear Track": "58.5/58.5 in (1,486/1,486 mm)",
+                    "DIMENSIONS / Ground Clearance": "7.9 in (201 mm)",
+                    "FUEL ECONOMY (NEDC) / Combined": "23 mpg US (10.2 L/100Km)",
+                    "FUEL ECONOMY (NEDC) / CO2 Emissions": "261.1 g/km"
+                  }
+                }
+              ]
+            }
+          ]
         }
       ]
     }
