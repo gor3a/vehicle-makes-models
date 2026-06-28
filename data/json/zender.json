@@ -7,32 +7,38 @@
         {
           "name": "Escape 6",
           "yearStart": null,
-          "yearEnd": null
+          "yearEnd": null,
+          "generations": []
         },
         {
           "name": "Fact 4",
           "yearStart": null,
-          "yearEnd": null
+          "yearEnd": null,
+          "generations": []
         },
         {
           "name": "Fact 4 BiTurbo",
           "yearStart": null,
-          "yearEnd": null
+          "yearEnd": null,
+          "generations": []
         },
         {
           "name": "Progetto 5",
           "yearStart": null,
-          "yearEnd": null
+          "yearEnd": null,
+          "generations": []
         },
         {
           "name": "Straight 8",
           "yearStart": null,
-          "yearEnd": null
+          "yearEnd": null,
+          "generations": []
         },
         {
           "name": "Thirty 7",
           "yearStart": null,
-          "yearEnd": null
+          "yearEnd": null,
+          "generations": []
         }
       ]
     }

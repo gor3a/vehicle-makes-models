@@ -7,7 +7,58 @@
         {
           "name": "SU7",
           "yearStart": 2024,
-          "yearEnd": null
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "SU7 (2024)",
+              "yearStart": 2024,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "73.6 KWh RWD (299 HP)",
+                  "fuelType": "Electric",
+                  "cylinders": null,
+                  "displacementCc": null,
+                  "powerHp": 299,
+                  "torqueNm": null,
+                  "transmission": "1-speed automatic",
+                  "drivetrain": "Rear Wheel Drive",
+                  "zeroToHundredKmhS": 5.3,
+                  "topSpeedKmh": 209,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": 4996,
+                  "widthMm": 1963,
+                  "heightMm": 1455,
+                  "wheelbaseMm": 3000,
+                  "curbWeightKg": 1980,
+                  "specs": {
+                    "ENGINE SPECS / Electrical motor power": "219.9 kw (299 hp, 295 bhp)",
+                    "ENGINE SPECS / Electrical motor torque": "295 lb-ft (400 Nm)",
+                    "ENGINE SPECS / Total maximum power": "219.9 kw (299 hp, 295 bhp)",
+                    "ENGINE SPECS / Total maximum torque": "295 lb-ft (400 Nm)",
+                    "ENGINE SPECS / Fuel System": "Electric",
+                    "ENGINE SPECS / Fuel": "Electric",
+                    "PERFORMANCE SPECS / Top speed (electrical)": "130 mph (209 km/h)",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "5.3 s",
+                    "TRANSMISSION SPECS / Drive Type": "Rear Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "1-speed automatic",
+                    "DIMENSIONS / Length": "196.7 in (4996 mm)",
+                    "DIMENSIONS / Width": "77.3 in (1963 mm)",
+                    "DIMENSIONS / Height": "57.3 in (1455 mm)",
+                    "DIMENSIONS / Wheelbase": "118.1 in (3000 mm)",
+                    "DIMENSIONS / Cargo Volume": "18.3 cuFT (518 L)",
+                    "DIMENSIONS / Aerodynamics (Cd)": "0.195",
+                    "WEIGHT SPECS / Unladen Weight": "4365 lbs (1980 kg)",
+                    "POWER SYSTEM SPECS / Power pack": "Li-ion LFP battery (400V type)",
+                    "POWER SYSTEM SPECS / Maximum Capacity": "73.6 kWh",
+                    "POWER SYSTEM SPECS / Range": "435 miles (700.1 km)",
+                    "POWER SYSTEM SPECS / Observations": "DC Charging: CCS, 10-80% in 25 min (V2L 3.5kW // V2V 6.6kW)"
+                  }
+                }
+              ]
+            }
+          ]
         }
       ]
     }
