@@ -1,6 +1,6 @@
 {
   "name": "vehicle-makes-models",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Free, open dataset of car makes, models, and production year ranges (global, with Egypt-market additions). Available as JSON, CSV, and SQLite.",
   "license": "MIT",
   "type": "module",
