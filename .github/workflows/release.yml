@@ -1,0 +1,110 @@
+name: Release on data change
+
+# Cuts a patch release whenever the dataset on main changes (the weekly crawl
+# pushes regenerated data/ via an SSH deploy key, which triggers this workflow).
+# Steps: bump package.json patch, tag, and publish a GitHub Release with the
+# SQLite DB + zipped JSON/CSV attached.
+#
+# No loop: the crawl's data push (deploy key) triggers this; this workflow's own
+# version-bump push uses GITHUB_TOKEN — which does not re-trigger workflows — and
+# touches package.json, which is outside the data/** path filter anyway.
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'data/**'
+  workflow_dispatch:
+
+# Serialize releases; never cancel one mid-publish.
+concurrency:
+  group: release
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 # need full history + tags for the diff-based notes
+
+      - name: Compute next patch version
+        id: ver
+        run: |
+          cur=$(node -p "require('./package.json').version")
+          next=$(node -e "const [a,b,c]=process.argv[1].split('.').map(Number);console.log(\`\${a}.\${b}.\${c+1}\`)" "$cur")
+          echo "current=$cur" >> "$GITHUB_OUTPUT"
+          echo "next=$next" >> "$GITHUB_OUTPUT"
+          echo "Bumping $cur -> $next"
+
+      - name: Build release notes
+        run: |
+          before='${{ github.event.before }}'
+          if [ -z "$before" ] || [ "$before" = "0000000000000000000000000000000000000000" ]; then
+            changed="(full dataset)"
+          else
+            changed=$(git diff --name-only "$before" "${{ github.sha }}" -- 'data/json/*.json' \
+              | sed -E 's#data/json/##; s#\.json$##' | paste -sd ', ' -)
+            [ -z "$changed" ] && changed="(no per-make files changed)"
+          fi
+          totals=$(node -e '
+            const fs = require("fs");
+            const dir = "data/json";
+            let makes = 0, models = 0, gens = 0, engines = 0;
+            for (const f of fs.readdirSync(dir).filter((n) => n.endsWith(".json"))) {
+              const j = JSON.parse(fs.readFileSync(dir + "/" + f, "utf8"));
+              for (const mk of j.makes ?? []) {
+                makes++;
+                for (const mo of mk.models ?? []) {
+                  models++;
+                  for (const g of mo.generations ?? []) { gens++; engines += (g.engines ?? []).length; }
+                }
+              }
+            }
+            console.log(`${makes} makes, ${models} models, ${gens} generations, ${engines} engines`);
+          ')
+          {
+            echo "Automated dataset refresh."
+            echo ""
+            echo "**Totals:** ${totals}"
+            echo ""
+            echo "**Changed makes:** ${changed}"
+            echo ""
+            echo "**Assets:** \`vehicles.sqlite\` (normalized DB incl. engine_specs), \`vehicle-data-json.zip\`, \`vehicle-data-csv.zip\`."
+            echo ""
+            echo "Data licensed under ODbL; code under MIT. See LICENSE-DATA."
+          } > RELEASE_NOTES.md
+          echo "--- notes ---"; cat RELEASE_NOTES.md
+
+      - name: Package assets
+        run: |
+          ( cd data && zip -qr ../vehicle-data-json.zip json && zip -qr ../vehicle-data-csv.zip csv )
+          ls -lh vehicle-data-json.zip vehicle-data-csv.zip data/vehicles.sqlite
+
+      - name: Bump, tag, push, and publish release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          node -e '
+            const fs = require("fs");
+            const p = JSON.parse(fs.readFileSync("package.json", "utf8"));
+            p.version = process.argv[1];
+            fs.writeFileSync("package.json", JSON.stringify(p, null, 2) + "\n");
+          ' "${{ steps.ver.outputs.next }}"
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add package.json
+          git commit -m "chore(release): v${{ steps.ver.outputs.next }} [skip ci]"
+          # A concurrent crawl push is possible; rebase before pushing.
+          git pull --rebase origin main
+          git push origin HEAD:main
+          git tag "v${{ steps.ver.outputs.next }}"
+          git push origin "v${{ steps.ver.outputs.next }}"
+          gh release create "v${{ steps.ver.outputs.next }}" \
+            --title "v${{ steps.ver.outputs.next }} — dataset refresh" \
+            --notes-file RELEASE_NOTES.md \
+            data/vehicles.sqlite vehicle-data-json.zip vehicle-data-csv.zip
