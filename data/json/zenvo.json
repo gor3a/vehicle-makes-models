@@ -7,22 +7,268 @@
         {
           "name": "Aurora",
           "yearStart": 2023,
-          "yearEnd": null
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Aurora (2023)",
+              "yearStart": 2023,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "6.6L V12 7AT RWD (1471 HP)",
+                  "fuelType": "Hybrid Gasoline",
+                  "cylinders": 12,
+                  "displacementCc": null,
+                  "powerHp": 1250,
+                  "torqueNm": null,
+                  "transmission": "Hybridised seven-speed paddle shift gearbox with >150 kW output",
+                  "drivetrain": "Rear Wheel Drive",
+                  "zeroToHundredKmhS": 2.5,
+                  "topSpeedKmh": 365,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": 4836,
+                  "widthMm": 2019,
+                  "heightMm": 1097,
+                  "wheelbaseMm": 2799,
+                  "curbWeightKg": 1300,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "V12",
+                    "ENGINE SPECS / Power": "919.4 KW @ 9800 RPM1250 HP @ 9800 RPM1233 BHP @ 9800 RPM",
+                    "ENGINE SPECS / Electrical motor power": "147.1 kw (200 hp, 197 bhp)",
+                    "ENGINE SPECS / Total maximum power": "1081.9 kw (1471 hp, 1451 bhp)",
+                    "ENGINE SPECS / Total maximum torque": "1032.6 lb-ft (1400 Nm)",
+                    "ENGINE SPECS / Fuel System": "Turbocharged Direct Injection",
+                    "ENGINE SPECS / Fuel": "Hybrid Gasoline",
+                    "PERFORMANCE SPECS / Top Speed": "227 mph (365 km/h)",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "2.5 s",
+                    "TRANSMISSION SPECS / Drive Type": "Rear Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "Hybridised seven-speed paddle shift gearbox with >150 kW output",
+                    "BRAKES SPECS / Front": "Ventilated discs",
+                    "BRAKES SPECS / Rear": "Ventilated discs",
+                    "TIRES SPECS / Tire Size": "265/35 R20 // 325/30 R21",
+                    "DIMENSIONS / Length": "190.4 in (4836 mm)",
+                    "DIMENSIONS / Width": "79.5 in (2019 mm)",
+                    "DIMENSIONS / Height": "43.2 in (1097 mm)",
+                    "DIMENSIONS / Wheelbase": "110.2 in (2799 mm)",
+                    "WEIGHT SPECS / Unladen Weight": "2866 lbs (1300 kg)"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Aurora (2023)",
+              "yearStart": 2023,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "6.6L V12 7AT AWD (1876 HP)",
+                  "fuelType": "Mild Hybrid",
+                  "cylinders": 12,
+                  "displacementCc": null,
+                  "powerHp": 1250,
+                  "torqueNm": null,
+                  "transmission": "7-speed automatic",
+                  "drivetrain": "All Wheel Drive",
+                  "zeroToHundredKmhS": 2.3,
+                  "topSpeedKmh": 451,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": 4818,
+                  "widthMm": 2019,
+                  "heightMm": 1118,
+                  "wheelbaseMm": 2799,
+                  "curbWeightKg": 1450,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "V12",
+                    "ENGINE SPECS / Power": "919.4 KW @ 9800 RPM1250 HP @ 9800 RPM1233 BHP @ 9800 RPM",
+                    "ENGINE SPECS / Electrical motor power": "147.1 kw (200 hp, 197 bhp)",
+                    "ENGINE SPECS / Total maximum power": "1379.1 kw (1875 hp, 1849 bhp)",
+                    "ENGINE SPECS / Total maximum torque": "1253.9 lb-ft (1700 Nm)",
+                    "ENGINE SPECS / Fuel System": "Turbocharged Direct Injection",
+                    "ENGINE SPECS / Fuel": "Mild Hybrid",
+                    "PERFORMANCE SPECS / Top Speed": "280 mph (451 km/h)",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "2.3 s",
+                    "TRANSMISSION SPECS / Drive Type": "All Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "7-speed automatic",
+                    "BRAKES SPECS / Front": "Ventilated Discs",
+                    "BRAKES SPECS / Rear": "Ventilated Discs",
+                    "TIRES SPECS / Tire Size": "265/35 R20 // 325/30 R21",
+                    "DIMENSIONS / Length": "189.7 in (4818 mm)",
+                    "DIMENSIONS / Width": "79.5 in (2019 mm)",
+                    "DIMENSIONS / Height": "44 in (1118 mm)",
+                    "DIMENSIONS / Wheelbase": "110.2 in (2799 mm)",
+                    "WEIGHT SPECS / Unladen Weight": "3197 lbs (1450 kg)"
+                  }
+                }
+              ]
+            }
+          ]
         },
         {
           "name": "ST1",
           "yearStart": 2009,
-          "yearEnd": 2017
+          "yearEnd": 2017,
+          "generations": [
+            {
+              "name": "ST1 (2009)",
+              "yearStart": 2009,
+              "yearEnd": 2017,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "6.8 V8 7AT (1104 HP)",
+                  "fuelType": "Gasoline",
+                  "cylinders": 8,
+                  "displacementCc": 6800,
+                  "powerHp": 1104,
+                  "torqueNm": 1430,
+                  "transmission": "7-speed automatic",
+                  "drivetrain": "Rear Wheel Drive",
+                  "zeroToHundredKmhS": 3,
+                  "topSpeedKmh": 375,
+                  "fuelEconomyCombinedL100": 10,
+                  "lengthMm": 4666,
+                  "widthMm": 2042,
+                  "heightMm": 1199,
+                  "wheelbaseMm": 3056,
+                  "curbWeightKg": 1688,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "V8",
+                    "ENGINE SPECS / Displacement": "6800 cm3 (415 ci)",
+                    "ENGINE SPECS / Power": "812 KW @ 6900 RPM1104 HP @ 6900 RPM1089 BHP @ 6900 RPM",
+                    "ENGINE SPECS / Torque": "1055 lb-ft @ 4500 RPM1430 Nm @ 4500 RPM",
+                    "ENGINE SPECS / Fuel System": "Turbocharged Multipoint Injection",
+                    "ENGINE SPECS / Fuel": "Gasoline",
+                    "PERFORMANCE SPECS / Top Speed": "233 mph (375 km/h)",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "3 s",
+                    "TRANSMISSION SPECS / Drive Type": "Rear Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "7-speed automatic",
+                    "BRAKES SPECS / Front": "Ventilated Discs",
+                    "BRAKES SPECS / Rear": "Ventilated Discs",
+                    "TIRES SPECS / Tire Size": "275/35 R19 || 345/30 R20",
+                    "DIMENSIONS / Length": "183.7 in (4666 mm)",
+                    "DIMENSIONS / Width": "80.4 in (2042 mm)",
+                    "DIMENSIONS / Height": "47.2 in (1199 mm)",
+                    "DIMENSIONS / Wheelbase": "120.3 in (3056 mm)",
+                    "DIMENSIONS / Cargo Volume": "4.6 cuFT (130 L)",
+                    "WEIGHT SPECS / Unladen Weight": "3721 lbs (1688 kg)",
+                    "FUEL ECONOMY (NEDC) / City": "15.7 mpg US (15 L/100Km)",
+                    "FUEL ECONOMY (NEDC) / Highway": "16.8 mpg US (14 L/100Km)",
+                    "FUEL ECONOMY (NEDC) / Combined": "23.5 mpg US (10 L/100Km)"
+                  }
+                }
+              ]
+            }
+          ]
         },
         {
           "name": "TS1",
           "yearStart": 2017,
-          "yearEnd": 2017
+          "yearEnd": 2017,
+          "generations": [
+            {
+              "name": "TS1 (2017)",
+              "yearStart": 2017,
+              "yearEnd": 2017,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "5.8 V8 7AT (1118 HP)",
+                  "fuelType": null,
+                  "cylinders": 8,
+                  "displacementCc": 5800,
+                  "powerHp": 1118,
+                  "torqueNm": 1139,
+                  "transmission": "7-speed automatic",
+                  "drivetrain": "Rear Wheel Drive",
+                  "zeroToHundredKmhS": 2.8,
+                  "topSpeedKmh": 375,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": 4681,
+                  "widthMm": 2154,
+                  "heightMm": 1199,
+                  "wheelbaseMm": 2903,
+                  "curbWeightKg": 1580,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "V8",
+                    "ENGINE SPECS / Displacement": "5800 cm3 (354 ci)",
+                    "ENGINE SPECS / Power": "822.3 KW @ 7100 RPM1118 HP @ 7100 RPM1103 BHP @ 7100 RPM",
+                    "ENGINE SPECS / Torque": "840 lb-ft @ - RPM1139 Nm @ - RPM",
+                    "ENGINE SPECS / Fuel System": "Supercharged Multipoint Injection",
+                    "PERFORMANCE SPECS / Top Speed": "233 mph (375 km/h)",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "2.8 s",
+                    "TRANSMISSION SPECS / Drive Type": "Rear Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "7-speed automatic",
+                    "BRAKES SPECS / Front": "Ventilated Discs",
+                    "BRAKES SPECS / Rear": "Ventilated Discs",
+                    "TIRES SPECS / Tire Size": "265/35 ZR19 || 345/30 ZR20",
+                    "DIMENSIONS / Length": "184.3 in (4681 mm)",
+                    "DIMENSIONS / Width": "84.8 in (2154 mm)",
+                    "DIMENSIONS / Height": "47.2 in (1199 mm)",
+                    "DIMENSIONS / Wheelbase": "114.3 in (2903 mm)",
+                    "DIMENSIONS / Ground Clearance": "6.3 in (160 mm)",
+                    "DIMENSIONS / Cargo Volume": "4.8 cuFT (136 L)",
+                    "WEIGHT SPECS / Unladen Weight": "3483 lbs (1580 kg)"
+                  }
+                }
+              ]
+            }
+          ]
         },
         {
           "name": "TSR-S",
           "yearStart": 2018,
-          "yearEnd": null
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "TSR-S (2018)",
+              "yearStart": 2018,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "5.8L V8 7AT (1177 HP)",
+                  "fuelType": "Gasoline",
+                  "cylinders": 8,
+                  "displacementCc": 5800,
+                  "powerHp": 1193.3,
+                  "torqueNm": 1139,
+                  "transmission": "7-speed automatic",
+                  "drivetrain": "All Wheel Drive",
+                  "zeroToHundredKmhS": 2.8,
+                  "topSpeedKmh": 325,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": 4816,
+                  "widthMm": 2037,
+                  "heightMm": 1199,
+                  "wheelbaseMm": 2906,
+                  "curbWeightKg": 1495,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "V8",
+                    "ENGINE SPECS / Displacement": "5800 cm3 (354 ci)",
+                    "ENGINE SPECS / Power": "877.7 KW @ 7100 RPM1193.3 HP @ 7100 RPM1177 BHP @ 7100 RPM",
+                    "ENGINE SPECS / Torque": "840 lb-ft @ - RPM1139 Nm @ - RPM",
+                    "ENGINE SPECS / Fuel System": "Sequential Fuel Injection",
+                    "ENGINE SPECS / Fuel": "Gasoline",
+                    "PERFORMANCE SPECS / Top Speed": "202 mph (325 km/h)",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "2.8 s",
+                    "TRANSMISSION SPECS / Drive Type": "All Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "7-speed automatic",
+                    "BRAKES SPECS / Front": "Ventilated Discs",
+                    "BRAKES SPECS / Rear": "Discs",
+                    "TIRES SPECS / Tire Size": "245/35-20/325/30-21",
+                    "DIMENSIONS / Length": "189.6 in (4816 mm)",
+                    "DIMENSIONS / Width": "80.2 in (2037 mm)",
+                    "DIMENSIONS / Height": "47.2 in (1199 mm)",
+                    "DIMENSIONS / Wheelbase": "114.4 in (2906 mm)",
+                    "DIMENSIONS / Ground Clearance": "3.7 in (94 mm)",
+                    "WEIGHT SPECS / Unladen Weight": "3296 lbs (1495 kg)"
+                  }
+                }
+              ]
+            }
+          ]
         }
       ]
     }

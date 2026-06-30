@@ -7,12 +7,30 @@
         {
           "name": "MOTORS Terra",
           "yearStart": 2024,
-          "yearEnd": null
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "MOTORS Terra (2024)",
+              "yearStart": 2024,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
         },
         {
           "name": "MOTORS Traveler",
           "yearStart": 2024,
-          "yearEnd": null
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "MOTORS Traveler (2024)",
+              "yearStart": 2024,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
         }
       ]
     }

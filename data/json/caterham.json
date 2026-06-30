@@ -7,42 +7,622 @@
         {
           "name": "Classic",
           "yearStart": 2000,
-          "yearEnd": 2005
+          "yearEnd": 2005,
+          "generations": [
+            {
+              "name": "Classic (2000)",
+              "yearStart": 2000,
+              "yearEnd": 2005,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "1.4 5MT (105 HP)",
+                  "fuelType": "Gasoline",
+                  "cylinders": 4,
+                  "displacementCc": 1400,
+                  "powerHp": 105,
+                  "torqueNm": 129,
+                  "transmission": "5-speed manual",
+                  "drivetrain": "Rear Wheel Drive",
+                  "zeroToHundredKmhS": 6.5,
+                  "topSpeedKmh": 177,
+                  "fuelEconomyCombinedL100": 7,
+                  "lengthMm": 3381,
+                  "widthMm": 1575,
+                  "heightMm": 1115,
+                  "wheelbaseMm": 2225,
+                  "curbWeightKg": 525,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "L4",
+                    "ENGINE SPECS / Displacement": "1400 cm3 (85 ci)",
+                    "ENGINE SPECS / Power": "78 KW @ 6000 RPM105 HP @ 6000 RPM105 BHP @ 6000 RPM",
+                    "ENGINE SPECS / Torque": "95 lb-ft @ 5000 RPM129 Nm @ 5000 RPM",
+                    "ENGINE SPECS / Fuel System": "Multipoint Injection",
+                    "ENGINE SPECS / Fuel": "Gasoline",
+                    "PERFORMANCE SPECS / Top Speed": "110 mph (177 km/h)",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "6.5 s",
+                    "TRANSMISSION SPECS / Drive Type": "Rear Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "5-speed manual",
+                    "BRAKES SPECS / Front": "Ventilated Discs",
+                    "BRAKES SPECS / Rear": "Discs",
+                    "TIRES SPECS / Tire Size": "185/60 R14",
+                    "DIMENSIONS / Length": "133.1 in (3381 mm)",
+                    "DIMENSIONS / Width": "62 in (1575 mm)",
+                    "DIMENSIONS / Height": "43.9 in (1115 mm)",
+                    "DIMENSIONS / Front/rear Track": "50/52.6 in (1,270/1,336 mm)",
+                    "DIMENSIONS / Wheelbase": "87.6 in (2225 mm)",
+                    "DIMENSIONS / Ground Clearance": "5 in (127 mm)",
+                    "DIMENSIONS / Cargo Volume": "2.6 cuFT (74 L)",
+                    "DIMENSIONS / Aerodynamics (Cd)": "0.7",
+                    "WEIGHT SPECS / Unladen Weight": "1157 lbs (525 kg)",
+                    "WEIGHT SPECS / Gross Weight Limit": "1896 lbs (860 kg)",
+                    "FUEL ECONOMY (NEDC) / City": "23.8 mpg US (9.9 L/100Km)",
+                    "FUEL ECONOMY (NEDC) / Highway": "35.1 mpg US (6.7 L/100Km)",
+                    "FUEL ECONOMY (NEDC) / Combined": "33.6 mpg US (7 L/100Km)"
+                  }
+                }
+              ]
+            }
+          ]
         },
         {
           "name": "CSR",
           "yearStart": 2005,
-          "yearEnd": 2024
+          "yearEnd": 2024,
+          "generations": [
+            {
+              "name": "CSR (2005)",
+              "yearStart": 2005,
+              "yearEnd": 2024,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "2.3 5MT (200 HP)",
+                  "fuelType": "Gasoline",
+                  "cylinders": 4,
+                  "displacementCc": 2261,
+                  "powerHp": 203,
+                  "torqueNm": 224,
+                  "transmission": "5-speed manual",
+                  "drivetrain": "Rear Wheel Drive",
+                  "zeroToHundredKmhS": 3.7,
+                  "topSpeedKmh": 225,
+                  "fuelEconomyCombinedL100": 11.5,
+                  "lengthMm": 3302,
+                  "widthMm": 1684,
+                  "heightMm": 1138,
+                  "wheelbaseMm": 2314,
+                  "curbWeightKg": 565,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "L4",
+                    "ENGINE SPECS / Displacement": "2261 cm3 (138 ci)",
+                    "ENGINE SPECS / Power": "149 KW @ 7000 RPM203 HP @ 7000 RPM200 BHP @ 7000 RPM",
+                    "ENGINE SPECS / Torque": "165 lb-ft @ 5750 RPM224 Nm @ 5750 RPM",
+                    "ENGINE SPECS / Fuel System": "Multipoint Injection",
+                    "ENGINE SPECS / Fuel": "Gasoline",
+                    "PERFORMANCE SPECS / Top Speed": "140 mph (225 km/h)",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "3.7 s",
+                    "TRANSMISSION SPECS / Drive Type": "Rear Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "5-speed manual",
+                    "BRAKES SPECS / Front": "Ventilated Discs",
+                    "BRAKES SPECS / Rear": "Ventilated Discs",
+                    "TIRES SPECS / Tire Size": "195/45 R15 || 255/40 R15",
+                    "DIMENSIONS / Length": "130 in (3302 mm)",
+                    "DIMENSIONS / Width": "66.3 in (1684 mm)",
+                    "DIMENSIONS / Height": "44.8 in (1138 mm)",
+                    "DIMENSIONS / Front/rear Track": "59.2/57.6 in (1,504/1,463 mm)",
+                    "DIMENSIONS / Wheelbase": "91.1 in (2314 mm)",
+                    "DIMENSIONS / Ground Clearance": "3.9 in (99 mm)",
+                    "DIMENSIONS / Aerodynamics (Cd)": "0.7",
+                    "WEIGHT SPECS / Unladen Weight": "1246 lbs (565 kg)",
+                    "WEIGHT SPECS / Gross Weight Limit": "1929 lbs (875 kg)",
+                    "FUEL ECONOMY (NEDC) / City": "14.2 mpg US (16.6 L/100Km)",
+                    "FUEL ECONOMY (NEDC) / Highway": "27.7 mpg US (8.5 L/100Km)",
+                    "FUEL ECONOMY (NEDC) / Combined": "20.5 mpg US (11.5 L/100Km)"
+                  }
+                },
+                {
+                  "label": "2.3 6MT (260 HP)",
+                  "fuelType": "Gasoline",
+                  "cylinders": 4,
+                  "displacementCc": 2261,
+                  "powerHp": 264,
+                  "torqueNm": 271,
+                  "transmission": "6-speed manual",
+                  "drivetrain": "Rear Wheel Drive",
+                  "zeroToHundredKmhS": 3.1,
+                  "topSpeedKmh": 249,
+                  "fuelEconomyCombinedL100": 10.2,
+                  "lengthMm": 3302,
+                  "widthMm": 1684,
+                  "heightMm": 1138,
+                  "wheelbaseMm": 2314,
+                  "curbWeightKg": 515,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "L4",
+                    "ENGINE SPECS / Displacement": "2261 cm3 (138 ci)",
+                    "ENGINE SPECS / Power": "194 KW @ 7500 RPM264 HP @ 7500 RPM260 BHP @ 7500 RPM",
+                    "ENGINE SPECS / Torque": "200 lb-ft @ 6200 RPM271 Nm @ 6200 RPM",
+                    "ENGINE SPECS / Fuel System": "Multipoint Injection",
+                    "ENGINE SPECS / Fuel": "Gasoline",
+                    "PERFORMANCE SPECS / Top Speed": "155 mph (249 km/h)",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "3.1 s",
+                    "TRANSMISSION SPECS / Drive Type": "Rear Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "6-speed manual",
+                    "BRAKES SPECS / Front": "Ventilated Discs",
+                    "BRAKES SPECS / Rear": "Ventilated Discs",
+                    "TIRES SPECS / Tire Size": "195/45 R15 || 255/40 R15",
+                    "DIMENSIONS / Length": "130 in (3302 mm)",
+                    "DIMENSIONS / Width": "66.3 in (1684 mm)",
+                    "DIMENSIONS / Height": "44.8 in (1138 mm)",
+                    "DIMENSIONS / Front/rear Track": "59.2/57.6 in (1,504/1,463 mm)",
+                    "DIMENSIONS / Wheelbase": "91.1 in (2314 mm)",
+                    "DIMENSIONS / Ground Clearance": "3.9 in (99 mm)",
+                    "DIMENSIONS / Aerodynamics (Cd)": "0.7",
+                    "WEIGHT SPECS / Unladen Weight": "1135 lbs (515 kg)",
+                    "WEIGHT SPECS / Gross Weight Limit": "1808 lbs (820 kg)",
+                    "FUEL ECONOMY (NEDC) / City": "14.7 mpg US (16 L/100Km)",
+                    "FUEL ECONOMY (NEDC) / Highway": "28.3 mpg US (8.3 L/100Km)",
+                    "FUEL ECONOMY (NEDC) / Combined": "23 mpg US (10.2 L/100Km)"
+                  }
+                }
+              ]
+            }
+          ]
         },
         {
           "name": "Roadsport",
           "yearStart": 2007,
-          "yearEnd": 2009
+          "yearEnd": 2009,
+          "generations": [
+            {
+              "name": "Roadsport (2007)",
+              "yearStart": 2007,
+              "yearEnd": 2009,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "1.6L 5MT RWD (127 HP)",
+                  "fuelType": "Gasoline",
+                  "cylinders": 4,
+                  "displacementCc": 1595,
+                  "powerHp": 126,
+                  "torqueNm": 163,
+                  "transmission": "5-speed manual",
+                  "drivetrain": "Rear Wheel Drive",
+                  "zeroToHundredKmhS": 5.9,
+                  "topSpeedKmh": 180,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": 3381,
+                  "widthMm": 1575,
+                  "heightMm": 1115,
+                  "wheelbaseMm": 2225,
+                  "curbWeightKg": 550,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "L4",
+                    "ENGINE SPECS / Displacement": "1595 cm3 (97 ci)",
+                    "ENGINE SPECS / Power": "93 KW @ 6100 RPM126 HP @ 6100 RPM125 BHP @ 6100 RPM",
+                    "ENGINE SPECS / Torque": "120 lb-ft @ 5350 RPM163 Nm @ 5350 RPM",
+                    "ENGINE SPECS / Fuel System": "Multipoint Injection",
+                    "ENGINE SPECS / Fuel": "Gasoline",
+                    "ENGINE SPECS / Fuel capacity": "23.8 gallons (90.1 L)",
+                    "PERFORMANCE SPECS / Top Speed": "112 mph (180 km/h)",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "5.9 s",
+                    "TRANSMISSION SPECS / Drive Type": "Rear Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "5-speed manual",
+                    "BRAKES SPECS / Front": "Ventilated Discs",
+                    "BRAKES SPECS / Rear": "Discs",
+                    "TIRES SPECS / Tire Size": "185/60 R14",
+                    "DIMENSIONS / Length": "133.1 in (3381 mm)",
+                    "DIMENSIONS / Width": "62 in (1575 mm)",
+                    "DIMENSIONS / Height": "43.9 in (1115 mm)",
+                    "DIMENSIONS / Front/rear Track": "50/52.6 in (1,270/1,336 mm)",
+                    "DIMENSIONS / Wheelbase": "87.6 in (2225 mm)",
+                    "DIMENSIONS / Ground Clearance": "4.3 in (109 mm)",
+                    "DIMENSIONS / Cargo Volume": "2.6 cuFT (74 L)",
+                    "DIMENSIONS / Aerodynamics (Cd)": "0.7",
+                    "WEIGHT SPECS / Unladen Weight": "1213 lbs (550 kg)",
+                    "WEIGHT SPECS / Gross Weight Limit": "1896 lbs (860 kg)"
+                  }
+                },
+                {
+                  "label": "1.6L 5MT RWD (142 HP)",
+                  "fuelType": "Gasoline",
+                  "cylinders": 4,
+                  "displacementCc": 1595,
+                  "powerHp": 141,
+                  "torqueNm": 163,
+                  "transmission": "5-speed manual",
+                  "drivetrain": "Rear Wheel Drive",
+                  "zeroToHundredKmhS": 5,
+                  "topSpeedKmh": 196,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": 3381,
+                  "widthMm": 1575,
+                  "heightMm": 1115,
+                  "wheelbaseMm": 2225,
+                  "curbWeightKg": 550,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "L4",
+                    "ENGINE SPECS / Displacement": "1595 cm3 (97 ci)",
+                    "ENGINE SPECS / Power": "104 KW @ 6900 RPM141 HP @ 6900 RPM139 BHP @ 6900 RPM",
+                    "ENGINE SPECS / Torque": "120 lb-ft @ 5600 RPM163 Nm @ 5600 RPM",
+                    "ENGINE SPECS / Fuel System": "Multipoint Injection",
+                    "ENGINE SPECS / Fuel": "Gasoline",
+                    "ENGINE SPECS / Fuel capacity": "23.8 gallons (90.1 L)",
+                    "PERFORMANCE SPECS / Top Speed": "122 mph (196 km/h)",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "5 s",
+                    "TRANSMISSION SPECS / Drive Type": "Rear Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "5-speed manual",
+                    "BRAKES SPECS / Front": "Ventilated Discs",
+                    "BRAKES SPECS / Rear": "Discs",
+                    "TIRES SPECS / Tire Size": "185/60 R14",
+                    "DIMENSIONS / Length": "133.1 in (3381 mm)",
+                    "DIMENSIONS / Width": "62 in (1575 mm)",
+                    "DIMENSIONS / Height": "43.9 in (1115 mm)",
+                    "DIMENSIONS / Front/rear Track": "50/52.6 in (1,270/1,336 mm)",
+                    "DIMENSIONS / Wheelbase": "87.6 in (2225 mm)",
+                    "DIMENSIONS / Ground Clearance": "4.3 in (109 mm)",
+                    "DIMENSIONS / Cargo Volume": "2.6 cuFT (74 L)",
+                    "DIMENSIONS / Aerodynamics (Cd)": "0.7",
+                    "WEIGHT SPECS / Unladen Weight": "1212.5 lbs (550 kg)",
+                    "WEIGHT SPECS / Gross Weight Limit": "1896 lbs (860 kg)"
+                  }
+                },
+                {
+                  "label": "2.0L 5MT Duratec RWD (177 HP)",
+                  "fuelType": "Gasoline",
+                  "cylinders": 4,
+                  "displacementCc": 1999,
+                  "powerHp": 177,
+                  "torqueNm": 188,
+                  "transmission": "5-speed manual",
+                  "drivetrain": "Rear Wheel Drive",
+                  "zeroToHundredKmhS": 4.8,
+                  "topSpeedKmh": 222,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": 3381,
+                  "widthMm": 1575,
+                  "heightMm": 1115,
+                  "wheelbaseMm": 2225,
+                  "curbWeightKg": 560,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "L4",
+                    "ENGINE SPECS / Displacement": "1999 cm3 (122 ci)",
+                    "ENGINE SPECS / Power": "130 KW @ 7000 RPM177 HP @ 7000 RPM174 BHP @ 7000 RPM",
+                    "ENGINE SPECS / Torque": "139 lb-ft @ 6000 RPM188 Nm @ 6000 RPM",
+                    "ENGINE SPECS / Fuel System": "Multipoint Injection",
+                    "ENGINE SPECS / Fuel": "Gasoline",
+                    "ENGINE SPECS / Fuel capacity": "23.8 gallons (90.1 L)",
+                    "PERFORMANCE SPECS / Top Speed": "138 mph (222 km/h)",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "4.8 s",
+                    "TRANSMISSION SPECS / Drive Type": "Rear Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "5-speed manual",
+                    "BRAKES SPECS / Front": "Ventilated Discs",
+                    "BRAKES SPECS / Rear": "Discs",
+                    "TIRES SPECS / Tire Size": "185/60 R14",
+                    "DIMENSIONS / Length": "133.1 in (3381 mm)",
+                    "DIMENSIONS / Width": "62 in (1575 mm)",
+                    "DIMENSIONS / Height": "43.9 in (1115 mm)",
+                    "DIMENSIONS / Front/rear Track": "50/52.6 in (1,270/1,336 mm)",
+                    "DIMENSIONS / Wheelbase": "87.6 in (2225 mm)",
+                    "DIMENSIONS / Ground Clearance": "4.3 in (109 mm)",
+                    "DIMENSIONS / Cargo Volume": "2.6 cuFT (74 L)",
+                    "DIMENSIONS / Aerodynamics (Cd)": "0.7",
+                    "WEIGHT SPECS / Unladen Weight": "1235 lbs (560 kg)",
+                    "WEIGHT SPECS / Gross Weight Limit": "1918 lbs (870 kg)"
+                  }
+                }
+              ]
+            }
+          ]
         },
         {
           "name": "Seven 160",
           "yearStart": 2013,
-          "yearEnd": null
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Seven 160 (2013)",
+              "yearStart": 2013,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "0.66 (80 HP)",
+                  "fuelType": "Gasoline",
+                  "cylinders": 3,
+                  "displacementCc": 660,
+                  "powerHp": 81,
+                  "torqueNm": 107,
+                  "transmission": "5-speed, manual",
+                  "drivetrain": "Rear Wheel Drive",
+                  "zeroToHundredKmhS": 6.7,
+                  "topSpeedKmh": 161,
+                  "fuelEconomyCombinedL100": 4.9,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": 490,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "l3",
+                    "ENGINE SPECS / Displacement": "660 cm3 (40 ci)",
+                    "ENGINE SPECS / Power": "60 KW @ 7000 RPM81 HP @ 7000 RPM80 BHP @ 7000 RPM",
+                    "ENGINE SPECS / Torque": "79 lb-ft @ 3400 RPM107 Nm @ 3400 RPM",
+                    "ENGINE SPECS / Fuel System": "Direct injection",
+                    "ENGINE SPECS / Fuel": "Gasoline",
+                    "PERFORMANCE SPECS / Top Speed": "100 mph (161 km/h)",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "6.7 s",
+                    "TRANSMISSION SPECS / Drive Type": "Rear Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "5-speed, manual",
+                    "WEIGHT SPECS / Unladen Weight": "1080 lbs (490 kg)",
+                    "FUEL ECONOMY (NEDC) / Combined": "48 mpg US (4.9 L/100Km)",
+                    "FUEL ECONOMY (NEDC) / CO2 Emissions": "114 g/km"
+                  }
+                }
+              ]
+            }
+          ]
         },
         {
           "name": "Seven 620",
           "yearStart": 2013,
-          "yearEnd": null
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Seven 620 (2013)",
+              "yearStart": 2013,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "R 2.0 Duratec (314 HP)",
+                  "fuelType": "Gasoline",
+                  "cylinders": 4,
+                  "displacementCc": 1998,
+                  "powerHp": 314,
+                  "torqueNm": 297,
+                  "transmission": "6-speed manual",
+                  "drivetrain": "Rear Wheel Drive",
+                  "zeroToHundredKmhS": 2.9,
+                  "topSpeedKmh": 249,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": 545,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "4",
+                    "ENGINE SPECS / Displacement": "1998 cm3 (122 ci)",
+                    "ENGINE SPECS / Power": "231 KW @ 7700 RPM314 HP @ 7700 RPM310 BHP @ 7700 RPM",
+                    "ENGINE SPECS / Torque": "219 lb-ft @ 7350 RPM297 Nm @ 7350 RPM",
+                    "ENGINE SPECS / Fuel System": "Direct injection",
+                    "ENGINE SPECS / Fuel": "Gasoline",
+                    "PERFORMANCE SPECS / Top Speed": "155 mph (249 km/h)",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "2.9 s",
+                    "TRANSMISSION SPECS / Drive Type": "Rear Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "6-speed manual",
+                    "BRAKES SPECS / Front": "Ventilated discs",
+                    "BRAKES SPECS / Rear": "Discs",
+                    "WEIGHT SPECS / Unladen Weight": "1202 lbs (545 kg)"
+                  }
+                }
+              ]
+            }
+          ]
         },
         {
           "name": "Superlight",
           "yearStart": 2013,
-          "yearEnd": null
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Superlight (2013)",
+              "yearStart": 2013,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "R400 2.0 Duratec (213 HP)",
+                  "fuelType": "Gasoline",
+                  "cylinders": 4,
+                  "displacementCc": 1998,
+                  "powerHp": 213,
+                  "torqueNm": 203,
+                  "transmission": "6-speed manual",
+                  "drivetrain": "Rear Wheel Drive",
+                  "zeroToHundredKmhS": 3.9,
+                  "topSpeedKmh": 219,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": 515,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "4",
+                    "ENGINE SPECS / Displacement": "1998 cm3 (122 ci)",
+                    "ENGINE SPECS / Power": "157 KW @ 7600 RPM213 HP @ 7600 RPM211 BHP @ 7600 RPM",
+                    "ENGINE SPECS / Torque": "150 lb-ft @ 6300 RPM203 Nm @ 6300 RPM",
+                    "ENGINE SPECS / Fuel System": "Direct injection",
+                    "ENGINE SPECS / Fuel": "Gasoline",
+                    "PERFORMANCE SPECS / Top Speed": "136 mph (219 km/h)",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "3.9 s",
+                    "TRANSMISSION SPECS / Drive Type": "Rear Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "6-speed manual",
+                    "BRAKES SPECS / Front": "Ventilated discs",
+                    "BRAKES SPECS / Rear": "Discs",
+                    "WEIGHT SPECS / Unladen Weight": "1135 lbs (515 kg)"
+                  }
+                },
+                {
+                  "label": "R500 2.0 Duratec (266 HP)",
+                  "fuelType": "Gasoline",
+                  "cylinders": 4,
+                  "displacementCc": 1998,
+                  "powerHp": 267,
+                  "torqueNm": 240,
+                  "transmission": "6-speed manual",
+                  "drivetrain": "Rear Wheel Drive",
+                  "zeroToHundredKmhS": 3,
+                  "topSpeedKmh": 238,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": 530,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "4",
+                    "ENGINE SPECS / Displacement": "1998 cm3 (122 ci)",
+                    "ENGINE SPECS / Power": "196 KW @ 8500 RPM267 HP @ 8500 RPM263 BHP @ 8500 RPM",
+                    "ENGINE SPECS / Torque": "177 lb-ft @ 7200 RPM240 Nm @ 7200 RPM",
+                    "ENGINE SPECS / Fuel System": "Direct injection",
+                    "ENGINE SPECS / Fuel": "Gasoline",
+                    "PERFORMANCE SPECS / Top Speed": "148 mph (238 km/h)",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "3 s",
+                    "TRANSMISSION SPECS / Drive Type": "Rear Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "6-speed manual",
+                    "BRAKES SPECS / Front": "Ventilated discs",
+                    "BRAKES SPECS / Rear": "Discs",
+                    "WEIGHT SPECS / Unladen Weight": "1168 lbs (530 kg)"
+                  }
+                }
+              ]
+            }
+          ]
         },
         {
           "name": "Supersport",
           "yearStart": 2012,
-          "yearEnd": null
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Supersport (2012)",
+              "yearStart": 2012,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "1.6 (142 HP)",
+                  "fuelType": "Gasoline",
+                  "cylinders": 4,
+                  "displacementCc": 1598,
+                  "powerHp": 142,
+                  "torqueNm": 163,
+                  "transmission": "6-speed manual",
+                  "drivetrain": "Rear Wheel Drive",
+                  "zeroToHundredKmhS": 5.1,
+                  "topSpeedKmh": 193,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": 520,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "4",
+                    "ENGINE SPECS / Displacement": "1598 cm3 (98 ci)",
+                    "ENGINE SPECS / Power": "104 KW @ 6900 RPM142 HP @ 6900 RPM139 BHP @ 6900 RPM",
+                    "ENGINE SPECS / Torque": "120 lb-ft @ 5790 RPM163 Nm @ 5790 RPM",
+                    "ENGINE SPECS / Fuel System": "Direct injection",
+                    "ENGINE SPECS / Fuel": "Gasoline",
+                    "PERFORMANCE SPECS / Top Speed": "120 mph (193 km/h)",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "5.1 s",
+                    "TRANSMISSION SPECS / Drive Type": "Rear Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "6-speed manual",
+                    "BRAKES SPECS / Front": "Ventilated discs",
+                    "BRAKES SPECS / Rear": "Discs",
+                    "WEIGHT SPECS / Unladen Weight": "1146 lbs (520 kg)"
+                  }
+                },
+                {
+                  "label": "R 2.0 Duratec (182 HP)",
+                  "fuelType": "Gasoline",
+                  "cylinders": 4,
+                  "displacementCc": 1998,
+                  "powerHp": 182,
+                  "torqueNm": 194,
+                  "transmission": "6-speed manual",
+                  "drivetrain": "Rear Wheel Drive",
+                  "zeroToHundredKmhS": 5,
+                  "topSpeedKmh": 209,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": 535,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "4",
+                    "ENGINE SPECS / Displacement": "1998 cm3 (122 ci)",
+                    "ENGINE SPECS / Power": "134 KW @ 7300 RPM182 HP @ 7300 RPM180 BHP @ 7300 RPM",
+                    "ENGINE SPECS / Torque": "143 lb-ft @ 6100 RPM194 Nm @ 6100 RPM",
+                    "ENGINE SPECS / Fuel System": "Direct injection",
+                    "ENGINE SPECS / Fuel": "Gasoline",
+                    "PERFORMANCE SPECS / Top Speed": "130 mph (209 km/h)",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "5 s",
+                    "TRANSMISSION SPECS / Drive Type": "Rear Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "6-speed manual",
+                    "BRAKES SPECS / Front": "Ventilated discs",
+                    "BRAKES SPECS / Rear": "Discs",
+                    "WEIGHT SPECS / Unladen Weight": "1179 lbs (535 kg)"
+                  }
+                }
+              ]
+            }
+          ]
         },
         {
           "name": "The Super Seven 1600",
           "yearStart": 2020,
-          "yearEnd": null
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "The Super Seven 1600 (2020)",
+              "yearStart": 2020,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "1.6L 5MT (135 HP)",
+                  "fuelType": "Gasoline",
+                  "cylinders": 4,
+                  "displacementCc": null,
+                  "powerHp": 136.9,
+                  "torqueNm": 165,
+                  "transmission": "5-speed automatic",
+                  "drivetrain": "Front Wheel Drive",
+                  "zeroToHundredKmhS": 5.2,
+                  "topSpeedKmh": 196,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": 3180,
+                  "widthMm": 1575,
+                  "heightMm": 1090,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": 565,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "L4",
+                    "ENGINE SPECS / Power": "100.7 KW @ 6800 RPM136.9 HP @ 6800 RPM135 BHP @ 6800 RPM",
+                    "ENGINE SPECS / Torque": "122 lb-ft @ 4100 RPM165 Nm @ 4100 RPM",
+                    "ENGINE SPECS / Fuel": "Gasoline",
+                    "PERFORMANCE SPECS / Top Speed": "122 mph (196 km/h)",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "5.2 s",
+                    "TRANSMISSION SPECS / Drive Type": "Front Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "5-speed automatic",
+                    "BRAKES SPECS / Front": "Ventilated Discs",
+                    "BRAKES SPECS / Rear": "Discs",
+                    "DIMENSIONS / Length": "125.2 in (3180 mm)",
+                    "DIMENSIONS / Width": "62 in (1575 mm)",
+                    "DIMENSIONS / Height": "42.9 in (1090 mm)",
+                    "WEIGHT SPECS / Unladen Weight": "1246 lbs (565 kg)"
+                  }
+                }
+              ]
+            }
+          ]
         }
       ]
     }

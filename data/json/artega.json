@@ -7,12 +7,119 @@
         {
           "name": "GT",
           "yearStart": 2010,
-          "yearEnd": 2012
+          "yearEnd": 2012,
+          "generations": [
+            {
+              "name": "GT (2010)",
+              "yearStart": 2010,
+              "yearEnd": 2012,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "3.6L V6 6AT (300 HP)",
+                  "fuelType": "Gasoline",
+                  "cylinders": 6,
+                  "displacementCc": 3597,
+                  "powerHp": 300,
+                  "torqueNm": 350,
+                  "transmission": "6-speed automatic DSG",
+                  "drivetrain": "Rear Wheel Drive",
+                  "zeroToHundredKmhS": 4.8,
+                  "topSpeedKmh": 270,
+                  "fuelEconomyCombinedL100": 9.6,
+                  "lengthMm": 4016,
+                  "widthMm": 1882,
+                  "heightMm": 1181,
+                  "wheelbaseMm": 2639,
+                  "curbWeightKg": 1285,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "V6",
+                    "ENGINE SPECS / Displacement": "3597 cm3 (220 ci)",
+                    "ENGINE SPECS / Power": "220.6 KW @ 6600 RPM300 HP @ 6600 RPM296 BHP @ 6600 RPM",
+                    "ENGINE SPECS / Torque": "258 lb-ft @ 2500-5000 RPM350 Nm @ 2500-5000 RPM",
+                    "ENGINE SPECS / Fuel System": "Direct injection",
+                    "ENGINE SPECS / Fuel": "Gasoline",
+                    "ENGINE SPECS / Fuel capacity": "18 gallons (68.1 L)",
+                    "PERFORMANCE SPECS / Top Speed": "168 mph (270 km/h)",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "4.8 s",
+                    "TRANSMISSION SPECS / Drive Type": "Rear Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "6-speed automatic DSG",
+                    "BRAKES SPECS / Front": "Ventilated Discs",
+                    "BRAKES SPECS / Rear": "Ventilated Discs",
+                    "TIRES SPECS / Tire Size": "235/35 R19 // 285/30 R19",
+                    "DIMENSIONS / Length": "158.1 in (4016 mm)",
+                    "DIMENSIONS / Width": "74.1 in (1882 mm)",
+                    "DIMENSIONS / Height": "46.5 in (1181 mm)",
+                    "DIMENSIONS / Front/rear Track": "60.4/61.8 in (1,534/1,570 mm)",
+                    "DIMENSIONS / Wheelbase": "103.9 in (2639 mm)",
+                    "DIMENSIONS / Cargo Volume": "10.6 cuFT (300 L)",
+                    "DIMENSIONS / Aerodynamics (Cd)": "0.35",
+                    "WEIGHT SPECS / Unladen Weight": "2833 lbs (1285 kg)",
+                    "WEIGHT SPECS / Gross Weight Limit": "3296 lbs (1495 kg)",
+                    "FUEL ECONOMY (NEDC) / City": "17.2 mpg US (13.7 L/100Km)",
+                    "FUEL ECONOMY (NEDC) / Highway": "32.7 mpg US (7.2 L/100Km)",
+                    "FUEL ECONOMY (NEDC) / Combined": "24.5 mpg US (9.6 L/100Km)",
+                    "FUEL ECONOMY (NEDC) / CO2 Emissions": "223 g/km"
+                  }
+                }
+              ]
+            }
+          ]
         },
         {
           "name": "Scalo",
           "yearStart": 2015,
-          "yearEnd": 2017
+          "yearEnd": 2017,
+          "generations": [
+            {
+              "name": "Scalo (2015)",
+              "yearStart": 2015,
+              "yearEnd": 2017,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "37 KWh (265 HP)",
+                  "fuelType": "Electric",
+                  "cylinders": null,
+                  "displacementCc": null,
+                  "powerHp": 265,
+                  "torqueNm": null,
+                  "transmission": "1-Speed automatic",
+                  "drivetrain": "Front Wheel Drive",
+                  "zeroToHundredKmhS": 3.6,
+                  "topSpeedKmh": 249,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": 4008,
+                  "widthMm": 1880,
+                  "heightMm": 1194,
+                  "wheelbaseMm": 2464,
+                  "curbWeightKg": 1585,
+                  "specs": {
+                    "ENGINE SPECS / Electrical motor power": "195 kw (265 hp, 261 bhp)",
+                    "ENGINE SPECS / Electrical motor torque": "575 lb-ft (780 Nm)",
+                    "ENGINE SPECS / Fuel System": "Electric",
+                    "ENGINE SPECS / Fuel": "Electric",
+                    "PERFORMANCE SPECS / Top speed (electrical)": "155 mph (249 km/h)",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "3.6 s",
+                    "TRANSMISSION SPECS / Drive Type": "Front Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "1-Speed automatic",
+                    "BRAKES SPECS / Front": "Ventilated Discs",
+                    "BRAKES SPECS / Rear": "Ventilated Discs",
+                    "TIRES SPECS / Tire Size": "235/35 R19 ZR // 285/30 R19 ZR",
+                    "DIMENSIONS / Length": "157.8 in (4008 mm)",
+                    "DIMENSIONS / Width": "74 in (1880 mm)",
+                    "DIMENSIONS / Height": "47 in (1194 mm)",
+                    "DIMENSIONS / Wheelbase": "97 in (2464 mm)",
+                    "DIMENSIONS / Cargo Volume": "8.8 cuFT (249 L)",
+                    "WEIGHT SPECS / Unladen Weight": "3494 lbs (1585 kg)",
+                    "POWER SYSTEM SPECS / Power pack": "Lithium-ion",
+                    "POWER SYSTEM SPECS / Nominal Capacity": "37 kWh",
+                    "POWER SYSTEM SPECS / Range": "248.5 miles (399.9 km)"
+                  }
+                }
+              ]
+            }
+          ]
         }
       ]
     }

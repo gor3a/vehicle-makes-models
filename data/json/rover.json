@@ -7,7 +7,108 @@
         {
           "name": "100 Cabrio",
           "yearStart": 1994,
-          "yearEnd": 2000
+          "yearEnd": 2000,
+          "generations": [
+            {
+              "name": "100 Cabrio (1994)",
+              "yearStart": 1994,
+              "yearEnd": 2000,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "111 FWD (60 HP)",
+                  "fuelType": "Gasoline",
+                  "cylinders": null,
+                  "displacementCc": null,
+                  "powerHp": 60,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": "Front Wheel Drive",
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "ENGINE SPECS / Power": "44.1 KW @ - RPM60 HP @ - RPM59 BHP @ - RPM",
+                    "ENGINE SPECS / Fuel": "Gasoline",
+                    "ENGINE SPECS / Fuel capacity": "9.2 gallons (34.8 L)",
+                    "TRANSMISSION SPECS / Drive Type": "Front Wheel Drive"
+                  }
+                },
+                {
+                  "label": "114 1.4L 5MT FWD (75 HP)",
+                  "fuelType": "Gasoline",
+                  "cylinders": 4,
+                  "displacementCc": 1396,
+                  "powerHp": 75,
+                  "torqueNm": 117,
+                  "transmission": "5-speed manual",
+                  "drivetrain": "Front Wheel Drive",
+                  "zeroToHundredKmhS": 12.1,
+                  "topSpeedKmh": 159,
+                  "fuelEconomyCombinedL100": 6.6,
+                  "lengthMm": 3520,
+                  "widthMm": 1549,
+                  "heightMm": 1394,
+                  "wheelbaseMm": 2271,
+                  "curbWeightKg": 890,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "L4",
+                    "ENGINE SPECS / Displacement": "1396 cm3 (85 ci)",
+                    "ENGINE SPECS / Power": "55.2 KW @ 5500 RPM75 HP @ 5500 RPM74 BHP @ 5500 RPM",
+                    "ENGINE SPECS / Torque": "86 lb-ft @ 4000 RPM117 Nm @ 4000 RPM",
+                    "ENGINE SPECS / Fuel System": "Mono-point injection Naturally aspirated engine",
+                    "ENGINE SPECS / Fuel": "Gasoline",
+                    "ENGINE SPECS / Fuel capacity": "9.2 gallons (34.8 L)",
+                    "PERFORMANCE SPECS / Top Speed": "99 mph (159 km/h)",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "12.1 s",
+                    "TRANSMISSION SPECS / Drive Type": "Front Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "5-speed manual",
+                    "BRAKES SPECS / Front": "Discs",
+                    "BRAKES SPECS / Rear": "Drum",
+                    "TIRES SPECS / Tire Size": "185/55 R13",
+                    "DIMENSIONS / Length": "138.6 in (3520 mm)",
+                    "DIMENSIONS / Width": "61 in (1549 mm)",
+                    "DIMENSIONS / Height": "54.9 in (1394 mm)",
+                    "DIMENSIONS / Front/rear Track": "52.8/50.9 in (1,341/1,293 mm)",
+                    "DIMENSIONS / Wheelbase": "89.4 in (2271 mm)",
+                    "DIMENSIONS / Cargo Volume": "7.8 cuFT (221 L)",
+                    "WEIGHT SPECS / Unladen Weight": "1962 lbs (890 kg)",
+                    "WEIGHT SPECS / Gross Weight Limit": "2888 lbs (1310 kg)",
+                    "FUEL ECONOMY (NEDC) / Combined": "35.6 mpg US (6.6 L/100Km)"
+                  }
+                },
+                {
+                  "label": "114 1.4L FWD (102 HP)",
+                  "fuelType": "Gasoline",
+                  "cylinders": null,
+                  "displacementCc": null,
+                  "powerHp": 12,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": "Front Wheel Drive",
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "ENGINE SPECS / Power": "8.8 KW @ - RPM012 HP @ - RPM12 BHP @ - RPM",
+                    "ENGINE SPECS / Fuel": "Gasoline",
+                    "ENGINE SPECS / Fuel capacity": "9.2 gallons (34.8 L)",
+                    "TRANSMISSION SPECS / Drive Type": "Front Wheel Drive"
+                  }
+                }
+              ]
+            }
+          ]
         }
       ]
     }

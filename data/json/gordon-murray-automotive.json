@@ -7,12 +7,112 @@
         {
           "name": "T.33",
           "yearStart": 2022,
-          "yearEnd": null
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "T.33 (2022)",
+              "yearStart": 2022,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "3.9L V12 6MT RWD (600 HP)",
+                  "fuelType": "Gasoline",
+                  "cylinders": 12,
+                  "displacementCc": 3994,
+                  "powerHp": 600,
+                  "torqueNm": 451,
+                  "transmission": "6- H manual speed",
+                  "drivetrain": "Rear Wheel Drive",
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": 4397,
+                  "widthMm": 1849,
+                  "heightMm": 1135,
+                  "wheelbaseMm": 2736,
+                  "curbWeightKg": 1090,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "V12",
+                    "ENGINE SPECS / Displacement": "3994 cm3 (244 ci)",
+                    "ENGINE SPECS / Power": "441.3 KW @ 10.500 RPM600 HP @ 10.500 RPM592 BHP @ 10.500 RPM",
+                    "ENGINE SPECS / Torque": "333 lb-ft @ 9000 RPM451 Nm @ 9000 RPM",
+                    "ENGINE SPECS / Fuel System": "Twin injectors per cylinder",
+                    "ENGINE SPECS / Fuel": "Gasoline",
+                    "ENGINE SPECS / Fuel capacity": "19.8 gallons (75.0 L)",
+                    "TRANSMISSION SPECS / Drive Type": "Rear Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "6- H manual speed",
+                    "BRAKES SPECS / Front": "Ventilated Discs",
+                    "BRAKES SPECS / Rear": "Ventilated Discs",
+                    "TIRES SPECS / Tire Size": "235/35 R19 // 295/30 R20",
+                    "DIMENSIONS / Length": "173.1 in (4397 mm)",
+                    "DIMENSIONS / Width": "72.8 in (1849 mm)",
+                    "DIMENSIONS / Height": "44.7 in (1135 mm)",
+                    "DIMENSIONS / Front/rear Track": "62.6/60.2 in (1,590/1,529 mm)",
+                    "DIMENSIONS / Wheelbase": "107.7 in (2736 mm)",
+                    "DIMENSIONS / Cargo Volume": "9.9 cuFT (280 L)",
+                    "DIMENSIONS / Turning circle": "42.3 ft (12.9 m)",
+                    "WEIGHT SPECS / Unladen Weight": "2403 lbs (1090 kg)"
+                  }
+                }
+              ]
+            }
+          ]
         },
         {
           "name": "T.50",
           "yearStart": 2022,
-          "yearEnd": null
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "T.50 (2022)",
+              "yearStart": 2022,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "3.9L V12 6MT RWD (650 HP)",
+                  "fuelType": "Gasoline",
+                  "cylinders": 12,
+                  "displacementCc": 3994,
+                  "powerHp": 650,
+                  "torqueNm": 467,
+                  "transmission": "6-speed H pattern (manual)",
+                  "drivetrain": "Rear Wheel Drive",
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": 4351,
+                  "widthMm": 1849,
+                  "heightMm": 1163,
+                  "wheelbaseMm": 2700,
+                  "curbWeightKg": 986,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "V12",
+                    "ENGINE SPECS / Displacement": "3994 cm3 (244 ci)",
+                    "ENGINE SPECS / Power": "478.1 KW @ 11500 RPM650 HP @ 11500 RPM641 BHP @ 11500 RPM",
+                    "ENGINE SPECS / Torque": "344 lb-ft @ 9000 RPM467 Nm @ 9000 RPM",
+                    "ENGINE SPECS / Fuel System": "Twin injectors per cylinder",
+                    "ENGINE SPECS / Fuel": "Gasoline",
+                    "ENGINE SPECS / Fuel capacity": "21.1 gallons (79.9 L)",
+                    "TRANSMISSION SPECS / Drive Type": "Rear Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "6-speed H pattern (manual)",
+                    "BRAKES SPECS / Front": "Ventilated Discs",
+                    "BRAKES SPECS / Rear": "Ventilated Discs",
+                    "TIRES SPECS / Tire Size": "235/35 R19 // 295/30 R20",
+                    "DIMENSIONS / Length": "171.3 in (4351 mm)",
+                    "DIMENSIONS / Width": "72.8 in (1849 mm)",
+                    "DIMENSIONS / Height": "45.8 in (1163 mm)",
+                    "DIMENSIONS / Front/rear Track": "62.4/60 in (1,585/1,524 mm)",
+                    "DIMENSIONS / Wheelbase": "106.3 in (2700 mm)",
+                    "DIMENSIONS / Cargo Volume": "8.1 cuFT (229 L)",
+                    "DIMENSIONS / Turning circle": "35.8 ft (10.9 m)",
+                    "WEIGHT SPECS / Unladen Weight": "2174 lbs (986 kg)"
+                  }
+                }
+              ]
+            }
+          ]
         }
       ]
     }

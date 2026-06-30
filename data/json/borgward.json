@@ -7,7 +7,60 @@
         {
           "name": "BX7",
           "yearStart": 2016,
-          "yearEnd": 2021
+          "yearEnd": 2021,
+          "generations": [
+            {
+              "name": "BX7 (2016)",
+              "yearStart": 2016,
+              "yearEnd": 2021,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "2.0L 6AT AWD (224 HP)",
+                  "fuelType": "Gasoline",
+                  "cylinders": 4,
+                  "displacementCc": 1981,
+                  "powerHp": 224,
+                  "torqueNm": 300,
+                  "transmission": "6-speed automatic",
+                  "drivetrain": "All Wheel Drive",
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": 206,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": 4714,
+                  "widthMm": 1910,
+                  "heightMm": 1689,
+                  "wheelbaseMm": 2761,
+                  "curbWeightKg": 1740,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "L4",
+                    "ENGINE SPECS / Displacement": "1981 cm3 (121 ci)",
+                    "ENGINE SPECS / Power": "164.8 KW @ 5500 RPM224 HP @ 5500 RPM221 BHP @ 5500 RPM",
+                    "ENGINE SPECS / Torque": "221 lb-ft @ 1500-4500 RPM300 Nm @ 1500-4500 RPM",
+                    "ENGINE SPECS / Fuel System": "Turbocharged Direct Injection",
+                    "ENGINE SPECS / Fuel": "Gasoline",
+                    "ENGINE SPECS / Fuel capacity": "15.9 gallons (60.2 L)",
+                    "PERFORMANCE SPECS / Top Speed": "128 mph (206 km/h)",
+                    "TRANSMISSION SPECS / Drive Type": "All Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "6-speed automatic",
+                    "BRAKES SPECS / Front": "Ventilated Discs",
+                    "BRAKES SPECS / Rear": "Discs",
+                    "TIRES SPECS / Tire Size": "235/60 R18",
+                    "DIMENSIONS / Length": "185.6 in (4714 mm)",
+                    "DIMENSIONS / Width": "75.2 in (1910 mm)",
+                    "DIMENSIONS / Height": "66.5 in (1689 mm)",
+                    "DIMENSIONS / Front/rear Track": "63.4/63.4 in (1,610/1,610 mm)",
+                    "DIMENSIONS / Wheelbase": "108.7 in (2761 mm)",
+                    "DIMENSIONS / Cargo Volume": "19.2 cuFT (544 L)",
+                    "DIMENSIONS / Aerodynamics (Cd)": "0.37",
+                    "DIMENSIONS / Turning circle (curb to curb)": "38.4 ft (11.7 m)",
+                    "WEIGHT SPECS / Unladen Weight": "3836 lbs (1740 kg)",
+                    "WEIGHT SPECS / Gross Weight Limit": "4855 lbs (2202 kg)"
+                  }
+                }
+              ]
+            }
+          ]
         }
       ]
     }

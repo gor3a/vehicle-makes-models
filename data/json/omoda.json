@@ -7,7 +7,56 @@
         {
           "name": "7",
           "yearStart": 2026,
-          "yearEnd": null
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "7 (2026)",
+              "yearStart": 2026,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "1.5L TGDI 18.5 KWh FWD (204 HP)D",
+                  "fuelType": "Plug-in Hybrid",
+                  "cylinders": 4,
+                  "displacementCc": 1499,
+                  "powerHp": 140,
+                  "torqueNm": null,
+                  "transmission": "1-speed automatic",
+                  "drivetrain": "Front Wheel Drive",
+                  "zeroToHundredKmhS": 8.4,
+                  "topSpeedKmh": 180,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": 4661,
+                  "widthMm": 1875,
+                  "heightMm": 1669,
+                  "wheelbaseMm": 2720,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "L4",
+                    "ENGINE SPECS / Displacement": "1499 cm3 (91 ci)",
+                    "ENGINE SPECS / Power": "103 KW @ - RPM140 HP @ - RPM138 BHP @ - RPM",
+                    "ENGINE SPECS / Electrical motor power": "150 kw (204 hp, 201 bhp)",
+                    "ENGINE SPECS / Electrical motor torque": "269.2 lb-ft (365 Nm)",
+                    "ENGINE SPECS / Fuel": "Plug-in Hybrid",
+                    "ENGINE SPECS / Fuel capacity": "18.5 gallons (70.0 L)",
+                    "PERFORMANCE SPECS / Top Speed": "112 mph (180 km/h)",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "8.4 s",
+                    "TRANSMISSION SPECS / Drive Type": "Front Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "1-speed automatic",
+                    "BRAKES SPECS / Front": "Ventilated discs",
+                    "BRAKES SPECS / Rear": "Ventilated discs",
+                    "DIMENSIONS / Length": "183.5 in (4661 mm)",
+                    "DIMENSIONS / Width": "73.8 in (1875 mm)",
+                    "DIMENSIONS / Height": "65.7 in (1669 mm)",
+                    "DIMENSIONS / Wheelbase": "107.1 in (2720 mm)",
+                    "DIMENSIONS / Cargo Volume": "14.2 cuFT (402 L)",
+                    "POWER SYSTEM SPECS / Power pack": "Lithium iron phosphate"
+                  }
+                }
+              ]
+            }
+          ]
         }
       ]
     }

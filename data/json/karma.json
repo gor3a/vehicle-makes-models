@@ -7,12 +7,110 @@
         {
           "name": "Revero GT",
           "yearStart": 2019,
-          "yearEnd": null
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Revero GT (2019)",
+              "yearStart": 2019,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "2.0L (403 HP)",
+                  "fuelType": "Hybrid",
+                  "cylinders": 4,
+                  "displacementCc": 1998,
+                  "powerHp": 403,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": "Rear Wheel Drive",
+                  "zeroToHundredKmhS": 5.6,
+                  "topSpeedKmh": 201,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": 4999,
+                  "widthMm": 2134,
+                  "heightMm": 1331,
+                  "wheelbaseMm": 3160,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "L4",
+                    "ENGINE SPECS / Displacement": "1998 cm3 (122 ci)",
+                    "ENGINE SPECS / Power": "296.4 KW @ - RPM403 HP @ - RPM397 BHP @ - RPM",
+                    "ENGINE SPECS / Fuel System": "Direct Injection",
+                    "ENGINE SPECS / Fuel": "Hybrid",
+                    "PERFORMANCE SPECS / Top Speed": "125 mph (201 km/h)",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "5.6 s",
+                    "TRANSMISSION SPECS / Drive Type": "Rear Wheel Drive",
+                    "BRAKES SPECS / Front": "Ventilated Discs",
+                    "BRAKES SPECS / Rear": "Ventilated Discs",
+                    "DIMENSIONS / Length": "196.8 in (4999 mm)",
+                    "DIMENSIONS / Width": "84 in (2134 mm)",
+                    "DIMENSIONS / Height": "52.4 in (1331 mm)",
+                    "DIMENSIONS / Wheelbase": "124.4 in (3160 mm)",
+                    "WEIGHT SPECS / Gross Weight Limit": "5509 lbs (2499 kg)",
+                    "POWER SYSTEM SPECS / Power pack": "Lithium-Ion Polymer",
+                    "POWER SYSTEM SPECS / Nominal Capacity": "21.4 kWh",
+                    "POWER SYSTEM SPECS / Charging time (normal)": "10 hours",
+                    "POWER SYSTEM SPECS / Range": "50 miles (80.5 km)"
+                  }
+                }
+              ]
+            }
+          ]
         },
         {
           "name": "Revero GTS",
           "yearStart": 2019,
-          "yearEnd": null
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Revero GTS (2019)",
+              "yearStart": 2019,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "394 KW (536 HP)",
+                  "fuelType": "Electric",
+                  "cylinders": 3,
+                  "displacementCc": 1499,
+                  "powerHp": 536,
+                  "torqueNm": 861,
+                  "transmission": null,
+                  "drivetrain": "All Wheel Drive",
+                  "zeroToHundredKmhS": 4,
+                  "topSpeedKmh": 209,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": 4999,
+                  "widthMm": 2134,
+                  "heightMm": 1331,
+                  "wheelbaseMm": 3160,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "L3",
+                    "ENGINE SPECS / Displacement": "1499 cm3 (91 ci)",
+                    "ENGINE SPECS / Power": "394.2 KW @ - RPM536 HP @ - RPM529 BHP @ - RPM",
+                    "ENGINE SPECS / Torque": "635 lb-ft @ - RPM861 Nm @ - RPM",
+                    "ENGINE SPECS / Fuel System": "Electric",
+                    "ENGINE SPECS / Fuel": "Electric",
+                    "PERFORMANCE SPECS / Top Speed": "130 mph (209 km/h)",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "4 s",
+                    "TRANSMISSION SPECS / Drive Type": "All Wheel Drive",
+                    "BRAKES SPECS / Front": "Ventilated Discs",
+                    "BRAKES SPECS / Rear": "Ventilated Discs",
+                    "TIRES SPECS / Tire Size": "255/35 R22",
+                    "DIMENSIONS / Length": "196.8 in (4999 mm)",
+                    "DIMENSIONS / Width": "84 in (2134 mm)",
+                    "DIMENSIONS / Height": "52.4 in (1331 mm)",
+                    "DIMENSIONS / Wheelbase": "124.4 in (3160 mm)",
+                    "POWER SYSTEM SPECS / Power pack": "Lithium-Ion",
+                    "POWER SYSTEM SPECS / Nominal Capacity": "28 kWh",
+                    "POWER SYSTEM SPECS / Range": "360 miles (579.4 km)"
+                  }
+                }
+              ]
+            }
+          ]
         }
       ]
     }

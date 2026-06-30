@@ -7,7 +7,103 @@
         {
           "name": "Grenadier",
           "yearStart": 2022,
-          "yearEnd": null
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Grenadier (2022)",
+              "yearStart": 2022,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "3.0i Turbo 8AT AWD (286 HP)",
+                  "fuelType": "Gasoline",
+                  "cylinders": 6,
+                  "displacementCc": 2998,
+                  "powerHp": 286,
+                  "torqueNm": 450,
+                  "transmission": "8-speed automatic",
+                  "drivetrain": "All Wheel Drive",
+                  "zeroToHundredKmhS": 8.6,
+                  "topSpeedKmh": 159,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": 4897,
+                  "widthMm": 1930,
+                  "heightMm": 2037,
+                  "wheelbaseMm": 2921,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "L6",
+                    "ENGINE SPECS / Displacement": "2998 cm3 (183 ci)",
+                    "ENGINE SPECS / Power": "210.4 KW @ 4750 RPM286 HP @ 4750 RPM282 BHP @ 4750 RPM",
+                    "ENGINE SPECS / Torque": "332 lb-ft @ 1750-4000 RPM450 Nm @ 1750-4000 RPM",
+                    "ENGINE SPECS / Fuel System": "Turbocharged Direct Injection",
+                    "ENGINE SPECS / Fuel": "Gasoline",
+                    "ENGINE SPECS / Fuel capacity": "23.8 gallons (90.1 L)",
+                    "PERFORMANCE SPECS / Top Speed": "99 mph (159 km/h)",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "8.6 s",
+                    "TRANSMISSION SPECS / Drive Type": "All Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "8-speed automatic",
+                    "BRAKES SPECS / Front": "Ventilated Discs",
+                    "BRAKES SPECS / Rear": "Disc",
+                    "DIMENSIONS / Length": "192.8 in (4897 mm)",
+                    "DIMENSIONS / Width": "76 in (1930 mm)",
+                    "DIMENSIONS / Height": "80.2 in (2037 mm)",
+                    "DIMENSIONS / Front/rear Track": "64.8/64.8 in (1,646/1,646 mm)",
+                    "DIMENSIONS / Wheelbase": "115 in (2921 mm)",
+                    "DIMENSIONS / Ground Clearance": "10.4 in (264 mm)",
+                    "DIMENSIONS / Turning circle": "44.3 ft (13.5 m)",
+                    "WEIGHT SPECS / Unladen Weight": "5875 - 6032 lbs (2665 - 2736 kg)",
+                    "WEIGHT SPECS / Gross Weight Limit": "7716 lbs (3500 kg)"
+                  }
+                },
+                {
+                  "label": "3.0i Turbo 8AT AWD (249 HP)",
+                  "fuelType": "Diesel",
+                  "cylinders": 6,
+                  "displacementCc": 2993,
+                  "powerHp": 249,
+                  "torqueNm": 550,
+                  "transmission": "8-speed automatic",
+                  "drivetrain": "All Wheel Drive",
+                  "zeroToHundredKmhS": 9.9,
+                  "topSpeedKmh": 159,
+                  "fuelEconomyCombinedL100": 10.1,
+                  "lengthMm": 4897,
+                  "widthMm": 1930,
+                  "heightMm": 2037,
+                  "wheelbaseMm": 2921,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "L6",
+                    "ENGINE SPECS / Displacement": "2993 cm3 (183 ci)",
+                    "ENGINE SPECS / Power": "183.1 KW @ 3250-4200 RPM249 HP @ 3250-4200 RPM246 BHP @ 3250-4200 RPM",
+                    "ENGINE SPECS / Torque": "406 lb-ft @ 1250-3000 RPM550 Nm @ 1250-3000 RPM",
+                    "ENGINE SPECS / Fuel System": "Turbocharged Common Rail",
+                    "ENGINE SPECS / Fuel": "Diesel",
+                    "ENGINE SPECS / Fuel capacity": "23.8 gallons (90.1 L)",
+                    "PERFORMANCE SPECS / Top Speed": "99 mph (159 km/h)",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "9.9 s",
+                    "TRANSMISSION SPECS / Drive Type": "All Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "8-speed automatic",
+                    "BRAKES SPECS / Front": "Ventilated Discs",
+                    "BRAKES SPECS / Rear": "Disc",
+                    "DIMENSIONS / Length": "192.8 in (4897 mm)",
+                    "DIMENSIONS / Width": "76 in (1930 mm)",
+                    "DIMENSIONS / Height": "80.2 in (2037 mm)",
+                    "DIMENSIONS / Front/rear Track": "64.8/64.8 in (1,646/1,646 mm)",
+                    "DIMENSIONS / Wheelbase": "115 in (2921 mm)",
+                    "DIMENSIONS / Ground Clearance": "10.4 in (264 mm)",
+                    "DIMENSIONS / Turning circle": "44.3 ft (13.5 m)",
+                    "WEIGHT SPECS / Unladen Weight": "6041 - 6197 lbs (2740 - 2811 kg)",
+                    "WEIGHT SPECS / Gross Weight Limit": "7716 lbs (3500 kg)",
+                    "FUEL ECONOMY (WLTP) / Combined": "23.3 mpg US (10.1 L/100Km)",
+                    "FUEL ECONOMY (WLTP) / CO2 Emissions (Combined)": "263 g/km"
+                  }
+                }
+              ]
+            }
+          ]
         }
       ]
     }

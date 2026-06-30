@@ -7,12 +7,93 @@
         {
           "name": "B95",
           "yearStart": 2023,
-          "yearEnd": null
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "B95 (2023)",
+              "yearStart": 2023,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "120 KWh (1900 HP)",
+                  "fuelType": "Electric",
+                  "cylinders": null,
+                  "displacementCc": null,
+                  "powerHp": 1900,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": "All Wheel Drive",
+                  "zeroToHundredKmhS": 2.1,
+                  "topSpeedKmh": 299,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "ENGINE SPECS / Total maximum power": "1397.4 kw (1900 hp, 1874 bhp)",
+                    "ENGINE SPECS / Fuel System": "Electric",
+                    "ENGINE SPECS / Fuel": "Electric",
+                    "PERFORMANCE SPECS / Top Speed": "186 mph (299 km/h)",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "2.1 s",
+                    "TRANSMISSION SPECS / Drive Type": "All Wheel Drive",
+                    "POWER SYSTEM SPECS / Power pack": "Lithium-Ion",
+                    "POWER SYSTEM SPECS / Nominal Capacity": "120 kWh"
+                  }
+                }
+              ]
+            }
+          ]
         },
         {
           "name": "Battista",
           "yearStart": 2019,
-          "yearEnd": 2025
+          "yearEnd": 2025,
+          "generations": [
+            {
+              "name": "Battista (2019)",
+              "yearStart": 2019,
+              "yearEnd": 2025,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "120 KWh (1904 HP)",
+                  "fuelType": "Electric",
+                  "cylinders": null,
+                  "displacementCc": null,
+                  "powerHp": 1904,
+                  "torqueNm": null,
+                  "transmission": "1-Automatic speed",
+                  "drivetrain": "All Wheel Drive",
+                  "zeroToHundredKmhS": 2,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "ENGINE SPECS / Electrical motor power": "1400.4 kw (1904 hp, 1878 bhp)",
+                    "ENGINE SPECS / Electrical motor torque": "1696.4 lb-ft (2300 Nm)",
+                    "ENGINE SPECS / Total maximum power": "1400.4 kw (1904 hp, 1878 bhp)",
+                    "ENGINE SPECS / Fuel System": "Electric",
+                    "ENGINE SPECS / Fuel": "Electric",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "2 s",
+                    "TRANSMISSION SPECS / Drive Type": "All Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "1-Automatic speed",
+                    "BRAKES SPECS / Front": "Ventilated Discs",
+                    "BRAKES SPECS / Rear": "Ventilated Discs",
+                    "POWER SYSTEM SPECS / Power pack": "Lithium-ion",
+                    "POWER SYSTEM SPECS / Nominal Capacity": "120 kWh",
+                    "POWER SYSTEM SPECS / Range": "279.6 miles (450.0 km)"
+                  }
+                }
+              ]
+            }
+          ]
         }
       ]
     }

@@ -7,27 +7,308 @@
         {
           "name": "Avezzano",
           "yearStart": 2017,
-          "yearEnd": null
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Avezzano (2017)",
+              "yearStart": 2017,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "6.2L V8 6MT RWD (430 HP)",
+                  "fuelType": "Gasoline",
+                  "cylinders": 8,
+                  "displacementCc": 6162,
+                  "powerHp": 430,
+                  "torqueNm": null,
+                  "transmission": "6-Speed manual",
+                  "drivetrain": "Rear Wheel Drive",
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": 4600,
+                  "widthMm": 2014,
+                  "heightMm": 1321,
+                  "wheelbaseMm": 2692,
+                  "curbWeightKg": 1450,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "V8",
+                    "ENGINE SPECS / Displacement": "6162 cm3 (376 ci)",
+                    "ENGINE SPECS / Power": "316.3 KW @ - RPM430 HP @ - RPM424 BHP @ - RPM",
+                    "ENGINE SPECS / Fuel System": "Turbocharge Direct Injection",
+                    "ENGINE SPECS / Fuel": "Gasoline",
+                    "TRANSMISSION SPECS / Drive Type": "Rear Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "6-Speed manual",
+                    "BRAKES SPECS / Front": "Ventilated Discs",
+                    "BRAKES SPECS / Rear": "Discs",
+                    "TIRES SPECS / Tire Size": "265/35-20 // 305/30-20",
+                    "DIMENSIONS / Length": "181.1 in (4600 mm)",
+                    "DIMENSIONS / Width": "79.3 in (2014 mm)",
+                    "DIMENSIONS / Height": "52 in (1321 mm)",
+                    "DIMENSIONS / Front/rear Track": "63.6/64.7 in (1,615/1,643 mm)",
+                    "DIMENSIONS / Wheelbase": "106 in (2692 mm)",
+                    "WEIGHT SPECS / Unladen Weight": "3197 lbs (1450 kg)"
+                  }
+                },
+                {
+                  "label": "6.2L V8 6MT RWD (580 HP)",
+                  "fuelType": "Gasoline",
+                  "cylinders": 8,
+                  "displacementCc": 6162,
+                  "powerHp": 580,
+                  "torqueNm": null,
+                  "transmission": "6-Speed manual",
+                  "drivetrain": "Rear Wheel Drive",
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": 4600,
+                  "widthMm": 2014,
+                  "heightMm": 1321,
+                  "wheelbaseMm": 2692,
+                  "curbWeightKg": 1450,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "V8",
+                    "ENGINE SPECS / Displacement": "6162 cm3 (376 ci)",
+                    "ENGINE SPECS / Power": "426.6 KW @ - RPM580 HP @ - RPM572 BHP @ - RPM",
+                    "ENGINE SPECS / Fuel System": "Turbocharge Direct Injection",
+                    "ENGINE SPECS / Fuel": "Gasoline",
+                    "TRANSMISSION SPECS / Drive Type": "Rear Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "6-Speed manual",
+                    "BRAKES SPECS / Front": "Ventilated Discs",
+                    "BRAKES SPECS / Rear": "Discs",
+                    "TIRES SPECS / Tire Size": "265/35-20 // 305/30-20",
+                    "DIMENSIONS / Length": "181.1 in (4600 mm)",
+                    "DIMENSIONS / Width": "79.3 in (2014 mm)",
+                    "DIMENSIONS / Height": "52 in (1321 mm)",
+                    "DIMENSIONS / Front/rear Track": "63.6/64.7 in (1,615/1,643 mm)",
+                    "DIMENSIONS / Wheelbase": "106 in (2692 mm)",
+                    "WEIGHT SPECS / Unladen Weight": "3197 lbs (1450 kg)"
+                  }
+                }
+              ]
+            }
+          ]
         },
         {
           "name": "Esperante",
           "yearStart": 1999,
-          "yearEnd": 2007
+          "yearEnd": 2007,
+          "generations": [
+            {
+              "name": "Esperante (1999)",
+              "yearStart": 1999,
+              "yearEnd": 2007,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "4.6 V8 5MT (320 HP)",
+                  "fuelType": "Gasoline",
+                  "cylinders": 8,
+                  "displacementCc": 4601,
+                  "powerHp": 320,
+                  "torqueNm": 430,
+                  "transmission": "5-Speed manual",
+                  "drivetrain": "Rear Wheel Drive",
+                  "zeroToHundredKmhS": 5.1,
+                  "topSpeedKmh": 249,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": 4475,
+                  "widthMm": 1857,
+                  "heightMm": 1356,
+                  "wheelbaseMm": 2713,
+                  "curbWeightKg": 1451,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "V8",
+                    "ENGINE SPECS / Displacement": "4601 cm3 (281 ci)",
+                    "ENGINE SPECS / Power": "239 KW @ 6000 RPM320 HP @ 6000 RPM321 BHP @ 6000 RPM",
+                    "ENGINE SPECS / Torque": "317 lb-ft @ 4750 RPM430 Nm @ 4750 RPM",
+                    "ENGINE SPECS / Fuel System": "Sequential Electronic Fuel Injection",
+                    "ENGINE SPECS / Fuel": "Gasoline",
+                    "PERFORMANCE SPECS / Top Speed": "155 mph (249 km/h)",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "5.1 s",
+                    "TRANSMISSION SPECS / Drive Type": "Rear Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "5-Speed manual",
+                    "BRAKES SPECS / Front": "Ventilated Discs",
+                    "BRAKES SPECS / Rear": "Ventilated Discs",
+                    "TIRES SPECS / Tire Size": "P255/45 Z R17",
+                    "DIMENSIONS / Length": "176.2 in (4475 mm)",
+                    "DIMENSIONS / Width": "73.1 in (1857 mm)",
+                    "DIMENSIONS / Height": "53.4 in (1356 mm)",
+                    "DIMENSIONS / Front/rear Track": "60.9/62.2 in (1,547/1,580 mm)",
+                    "DIMENSIONS / Wheelbase": "106.8 in (2713 mm)",
+                    "DIMENSIONS / Ground Clearance": "5 in (127 mm)",
+                    "DIMENSIONS / Cargo Volume": "11.6 cuFT (328 L)",
+                    "WEIGHT SPECS / Unladen Weight": "3199 lbs (1451 kg)",
+                    "FUEL ECONOMY (NEDC) / City": "17 mpg US (13.8 L/100Km)",
+                    "FUEL ECONOMY (NEDC) / Highway": "25 mpg US (9.4 L/100Km)"
+                  }
+                }
+              ]
+            }
+          ]
         },
         {
           "name": "Esperante GT",
           "yearStart": 2000,
-          "yearEnd": 2007
+          "yearEnd": 2007,
+          "generations": [
+            {
+              "name": "Esperante GT (2000)",
+              "yearStart": 2000,
+              "yearEnd": 2007,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "4.6L V8 5MT (305 HP)",
+                  "fuelType": "Gasoline",
+                  "cylinders": 8,
+                  "displacementCc": 4601,
+                  "powerHp": 305,
+                  "torqueNm": 320,
+                  "transmission": "5-Speed manual",
+                  "drivetrain": "Rear Wheel Drive",
+                  "zeroToHundredKmhS": 4.9,
+                  "topSpeedKmh": 249,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": 4478,
+                  "widthMm": 1859,
+                  "heightMm": 1356,
+                  "wheelbaseMm": 2692,
+                  "curbWeightKg": 1200,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "V8",
+                    "ENGINE SPECS / Displacement": "4601 cm3 (281 ci)",
+                    "ENGINE SPECS / Power": "224.3 KW @ 5800 RPM305 HP @ 5800 RPM301 BHP @ 5800 RPM",
+                    "ENGINE SPECS / Torque": "236 lb-ft @ 4200 RPM320 Nm @ 4200 RPM",
+                    "ENGINE SPECS / Fuel System": "Sequential Electronic Fuel Injection",
+                    "ENGINE SPECS / Fuel": "Gasoline",
+                    "PERFORMANCE SPECS / Top Speed": "155 mph (249 km/h)",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "4.9 s",
+                    "TRANSMISSION SPECS / Drive Type": "Rear Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "5-Speed manual",
+                    "BRAKES SPECS / Front": "Ventilated Brake Discs",
+                    "BRAKES SPECS / Rear": "Ventilated Brake Discs",
+                    "TIRES SPECS / Tire Size": "255/45 Z R17",
+                    "DIMENSIONS / Length": "176.3 in (4478 mm)",
+                    "DIMENSIONS / Width": "73.2 in (1859 mm)",
+                    "DIMENSIONS / Height": "53.4 in (1356 mm)",
+                    "DIMENSIONS / Front/rear Track": "60.9/63.2 in (1,547/1,605 mm)",
+                    "DIMENSIONS / Wheelbase": "106 in (2692 mm)",
+                    "DIMENSIONS / Ground Clearance": "5 in (127 mm)",
+                    "DIMENSIONS / Cargo Volume": "11.6 cuFT (328 L)",
+                    "WEIGHT SPECS / Unladen Weight": "2646 lbs (1200 kg)",
+                    "WEIGHT SPECS / Gross Weight Limit": "3199 lbs (1451 kg)",
+                    "FUEL ECONOMY (NEDC) / City": "17 mpg US (13.8 L/100Km)",
+                    "FUEL ECONOMY (NEDC) / Highway": "25 mpg US (9.4 L/100Km)"
+                  }
+                }
+              ]
+            }
+          ]
         },
         {
           "name": "Esperante GTLM",
           "yearStart": 2003,
-          "yearEnd": 2007
+          "yearEnd": 2007,
+          "generations": [
+            {
+              "name": "Esperante GTLM (2003)",
+              "yearStart": 2003,
+              "yearEnd": 2007,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "4.6L V8 5MT (320 HP)",
+                  "fuelType": "Gasoline",
+                  "cylinders": 8,
+                  "displacementCc": 4601,
+                  "powerHp": 320,
+                  "torqueNm": 430,
+                  "transmission": "5-Speed manual",
+                  "drivetrain": "Rear Wheel Drive",
+                  "zeroToHundredKmhS": 4.9,
+                  "topSpeedKmh": 249,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": 4475,
+                  "widthMm": 1857,
+                  "heightMm": 1356,
+                  "wheelbaseMm": 2713,
+                  "curbWeightKg": 1200,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "V8",
+                    "ENGINE SPECS / Displacement": "4601 cm3 (281 ci)",
+                    "ENGINE SPECS / Power": "235.4 KW @ 6000 RPM320 HP @ 6000 RPM316 BHP @ 6000 RPM",
+                    "ENGINE SPECS / Torque": "317 lb-ft @ 4750 RPM430 Nm @ 4750 RPM",
+                    "ENGINE SPECS / Fuel System": "Sequential Electronic Fuel Injection",
+                    "ENGINE SPECS / Fuel": "Gasoline",
+                    "PERFORMANCE SPECS / Top Speed": "155 mph (249 km/h)",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "4.9 s",
+                    "TRANSMISSION SPECS / Drive Type": "Rear Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "5-Speed manual",
+                    "BRAKES SPECS / Front": "Ventilated Brake Discs",
+                    "BRAKES SPECS / Rear": "Ventilated Brake Discs",
+                    "TIRES SPECS / Tire Size": "P255/45 Z R18",
+                    "DIMENSIONS / Length": "176.2 in (4475 mm)",
+                    "DIMENSIONS / Width": "73.1 in (1857 mm)",
+                    "DIMENSIONS / Height": "53.4 in (1356 mm)",
+                    "DIMENSIONS / Front/rear Track": "60.9/63.2 in (1,547/1,605 mm)",
+                    "DIMENSIONS / Wheelbase": "106.8 in (2713 mm)",
+                    "DIMENSIONS / Ground Clearance": "5 in (127 mm)",
+                    "WEIGHT SPECS / Unladen Weight": "2646 lbs (1200 kg)",
+                    "WEIGHT SPECS / Gross Weight Limit": "3197 lbs (1450 kg)"
+                  }
+                }
+              ]
+            }
+          ]
         },
         {
           "name": "Roadster",
           "yearStart": 1992,
-          "yearEnd": 1995
+          "yearEnd": 1995,
+          "generations": [
+            {
+              "name": "Roadster (1992)",
+              "yearStart": 1992,
+              "yearEnd": 1995,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "4.6L V8 5MT (430 HP)",
+                  "fuelType": "Gasoline",
+                  "cylinders": 8,
+                  "displacementCc": 4604,
+                  "powerHp": 430,
+                  "torqueNm": null,
+                  "transmission": "5-Speed manual",
+                  "drivetrain": "Rear Wheel Drive",
+                  "zeroToHundredKmhS": 4.4,
+                  "topSpeedKmh": 225,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "V8",
+                    "ENGINE SPECS / Displacement": "4604 cm3 (281 ci)",
+                    "ENGINE SPECS / Power": "316.3 KW @ - RPM430 HP @ - RPM424 BHP @ - RPM",
+                    "ENGINE SPECS / Fuel System": "Turbocharge Direct Injection",
+                    "ENGINE SPECS / Fuel": "Gasoline",
+                    "PERFORMANCE SPECS / Top Speed": "140 mph (225 km/h)",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "4.4 s",
+                    "TRANSMISSION SPECS / Drive Type": "Rear Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "5-Speed manual",
+                    "BRAKES SPECS / Front": "Ventilated Discs",
+                    "BRAKES SPECS / Rear": "Discs"
+                  }
+                }
+              ]
+            }
+          ]
         }
       ]
     }

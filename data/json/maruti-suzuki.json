@@ -7,47 +7,627 @@
         {
           "name": "800",
           "yearStart": 2000,
-          "yearEnd": 2014
+          "yearEnd": 2014,
+          "generations": [
+            {
+              "name": "800 (2000)",
+              "yearStart": 2000,
+              "yearEnd": 2014,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "0.8L 4MT (50 HP)",
+                  "fuelType": "Gasoline",
+                  "cylinders": 3,
+                  "displacementCc": 796,
+                  "powerHp": 50,
+                  "torqueNm": 58,
+                  "transmission": "4-Speed manual",
+                  "drivetrain": "Front Wheel Drive",
+                  "zeroToHundredKmhS": 22.3,
+                  "topSpeedKmh": 138,
+                  "fuelEconomyCombinedL100": 6.2,
+                  "lengthMm": 3335,
+                  "widthMm": 1440,
+                  "heightMm": 1405,
+                  "wheelbaseMm": 2174,
+                  "curbWeightKg": 650,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "L3",
+                    "ENGINE SPECS / Displacement": "796 cm3 (49 ci)",
+                    "ENGINE SPECS / Power": "37 KW @ 5500 RPM50 HP @ 5500 RPM50 BHP @ 5500 RPM",
+                    "ENGINE SPECS / Torque": "43 lb-ft @ 2500 RPM58 Nm @ 2500 RPM",
+                    "ENGINE SPECS / Fuel System": "Carburetor",
+                    "ENGINE SPECS / Fuel": "Gasoline",
+                    "PERFORMANCE SPECS / Top Speed": "85.7 mph (138 km/h)",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "22.3 s",
+                    "TRANSMISSION SPECS / Drive Type": "Front Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "4-Speed manual",
+                    "BRAKES SPECS / Front": "Discs",
+                    "BRAKES SPECS / Rear": "Drums",
+                    "TIRES SPECS / Tire Size": "145/70 R12",
+                    "DIMENSIONS / Length": "131.3 in (3335 mm)",
+                    "DIMENSIONS / Width": "56.7 in (1440 mm)",
+                    "DIMENSIONS / Height": "55.3 in (1405 mm)",
+                    "DIMENSIONS / Front/rear Track": "57.9/58.3 in (1,471/1,481 mm)",
+                    "DIMENSIONS / Wheelbase": "85.6 in (2174 mm)",
+                    "DIMENSIONS / Ground Clearance": "6.7 in (170 mm)",
+                    "WEIGHT SPECS / Unladen Weight": "1434 lbs (650 kg)",
+                    "WEIGHT SPECS / Gross Weight Limit": "2568.4 lbs (1165 kg)",
+                    "FUEL ECONOMY (NEDC) / Combined": "37.9 mpg US (6.2 L/100Km)"
+                  }
+                }
+              ]
+            }
+          ]
         },
         {
           "name": "Alto",
           "yearStart": 2000,
-          "yearEnd": 2014
+          "yearEnd": 2014,
+          "generations": [
+            {
+              "name": "Alto (2000)",
+              "yearStart": 2000,
+              "yearEnd": 2014,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "0.8L 5MT FWD (47 HP)",
+                  "fuelType": "Gasoline",
+                  "cylinders": 3,
+                  "displacementCc": 796,
+                  "powerHp": 47,
+                  "torqueNm": 62,
+                  "transmission": "5-speed manual",
+                  "drivetrain": "Front Wheel Drive",
+                  "zeroToHundredKmhS": 20,
+                  "topSpeedKmh": 130,
+                  "fuelEconomyCombinedL100": 7.2,
+                  "lengthMm": 3490,
+                  "widthMm": 1476,
+                  "heightMm": 1458,
+                  "wheelbaseMm": 2360,
+                  "curbWeightKg": 720,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "L3",
+                    "ENGINE SPECS / Displacement": "796 cm3 (49 ci)",
+                    "ENGINE SPECS / Power": "34.6 KW @ 6200 RPM47 HP @ 6200 RPM46 BHP @ 6200 RPM",
+                    "ENGINE SPECS / Torque": "46 lb-ft @ 3000 RPM62 Nm @ 3000 RPM",
+                    "ENGINE SPECS / Fuel System": "Multipoint Injection",
+                    "ENGINE SPECS / Fuel": "Gasoline",
+                    "ENGINE SPECS / Fuel capacity": "9.2 gallons (34.8 L)",
+                    "PERFORMANCE SPECS / Top Speed": "80.7 mph (130 km/h)",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "20 s",
+                    "TRANSMISSION SPECS / Drive Type": "Front Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "5-speed manual",
+                    "BRAKES SPECS / Front": "Discs",
+                    "BRAKES SPECS / Rear": "Drums",
+                    "TIRES SPECS / Tire Size": "145/80 R12",
+                    "DIMENSIONS / Length": "137.4 in (3490 mm)",
+                    "DIMENSIONS / Width": "58.1 in (1476 mm)",
+                    "DIMENSIONS / Height": "57.4 in (1458 mm)",
+                    "DIMENSIONS / Front/rear Track": "51/50.8 in (1,295/1,290 mm)",
+                    "DIMENSIONS / Wheelbase": "92.9 in (2360 mm)",
+                    "DIMENSIONS / Ground Clearance": "6.3 in (160 mm)",
+                    "DIMENSIONS / Cargo Volume": "6.2 cuFT (176 L)",
+                    "DIMENSIONS / Aerodynamics (Cd)": "0.32",
+                    "WEIGHT SPECS / Unladen Weight": "1587 lbs (720 kg)",
+                    "WEIGHT SPECS / Gross Weight Limit": "2568 lbs (1165 kg)",
+                    "FUEL ECONOMY (NEDC) / Combined": "32.6 mpg US (7.2 L/100Km)",
+                    "FUEL ECONOMY (NEDC) / CO2 Emissions": "171.4 g/km"
+                  }
+                }
+              ]
+            }
+          ]
         },
         {
           "name": "Baleno",
           "yearStart": 2000,
-          "yearEnd": 2007
+          "yearEnd": 2007,
+          "generations": [
+            {
+              "name": "Baleno (2000)",
+              "yearStart": 2000,
+              "yearEnd": 2007,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "1.6L 5MT (90 HP)",
+                  "fuelType": "Gasoline",
+                  "cylinders": 4,
+                  "displacementCc": 1590,
+                  "powerHp": 91,
+                  "torqueNm": 132,
+                  "transmission": "5-Speed manual",
+                  "drivetrain": "Front Wheel Drive",
+                  "zeroToHundredKmhS": 10.3,
+                  "topSpeedKmh": 175,
+                  "fuelEconomyCombinedL100": 7.9,
+                  "lengthMm": 4224,
+                  "widthMm": 1689,
+                  "heightMm": 1389,
+                  "wheelbaseMm": 2479,
+                  "curbWeightKg": 976,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "L4",
+                    "ENGINE SPECS / Displacement": "1590 cm3 (97 ci)",
+                    "ENGINE SPECS / Power": "67 KW @ 6000 RPM91 HP @ 6000 RPM90 BHP @ 6000 RPM",
+                    "ENGINE SPECS / Torque": "97 lb-ft @ 3000 RPM132 Nm @ 3000 RPM",
+                    "ENGINE SPECS / Fuel System": "Multipoint Injection",
+                    "ENGINE SPECS / Fuel": "Gasoline",
+                    "PERFORMANCE SPECS / Top Speed": "108.7 mph (175 km/h)",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "10.3 s",
+                    "TRANSMISSION SPECS / Drive Type": "Front Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "5-Speed manual",
+                    "BRAKES SPECS / Front": "Discs",
+                    "BRAKES SPECS / Rear": "Drums",
+                    "TIRES SPECS / Tire Size": "165/65 R13",
+                    "DIMENSIONS / Length": "166.3 in (4224 mm)",
+                    "DIMENSIONS / Width": "66.5 in (1689 mm)",
+                    "DIMENSIONS / Height": "54.7 in (1389 mm)",
+                    "DIMENSIONS / Front/rear Track": "56.7/56.5 in (1,440/1,435 mm)",
+                    "DIMENSIONS / Wheelbase": "97.6 in (2479 mm)",
+                    "DIMENSIONS / Ground Clearance": "6.7 in (170 mm)",
+                    "DIMENSIONS / Cargo Volume": "12.2 cuFT (345 L)",
+                    "WEIGHT SPECS / Unladen Weight": "2152 lbs (976 kg)",
+                    "WEIGHT SPECS / Gross Weight Limit": "3328 lbs (1510 kg)",
+                    "FUEL ECONOMY (NEDC) / Combined": "29.7 mpg US (7.9 L/100Km)",
+                    "FUEL ECONOMY (NEDC) / CO2 Emissions": "174 g/km"
+                  }
+                }
+              ]
+            }
+          ]
         },
         {
           "name": "Ciaz",
           "yearStart": 2014,
-          "yearEnd": 2017
+          "yearEnd": 2017,
+          "generations": [
+            {
+              "name": "Ciaz (2014)",
+              "yearStart": 2014,
+              "yearEnd": 2017,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "1.4L 4AT FWD (92 HP)",
+                  "fuelType": "Gasoline",
+                  "cylinders": 4,
+                  "displacementCc": 1398,
+                  "powerHp": 92,
+                  "torqueNm": 130,
+                  "transmission": "4-speed automatic",
+                  "drivetrain": "Front Wheel Drive",
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": 4491,
+                  "widthMm": 1730,
+                  "heightMm": 1486,
+                  "wheelbaseMm": 2649,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "L4",
+                    "ENGINE SPECS / Displacement": "1398 cm3 (85 ci)",
+                    "ENGINE SPECS / Power": "68 KW @ 6000 RPM92 HP @ 6000 RPM91 BHP @ 6000 RPM",
+                    "ENGINE SPECS / Torque": "96 lb-ft @ 4000 RPM130 Nm @ 4000 RPM",
+                    "ENGINE SPECS / Fuel System": "Multipoint Injection",
+                    "ENGINE SPECS / Fuel": "Gasoline",
+                    "ENGINE SPECS / Fuel capacity": "11.4 gallons (43.2 L)",
+                    "TRANSMISSION SPECS / Drive Type": "Front Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "4-speed automatic",
+                    "BRAKES SPECS / Front": "Ventilated Discs",
+                    "BRAKES SPECS / Rear": "Discs",
+                    "TIRES SPECS / Tire Size": "185/65 R15",
+                    "DIMENSIONS / Length": "176.8 in (4491 mm)",
+                    "DIMENSIONS / Width": "68.1 in (1730 mm)",
+                    "DIMENSIONS / Height": "58.5 in (1486 mm)",
+                    "DIMENSIONS / Front/rear Track": "58.9/59.3 in (1,496/1,506 mm)",
+                    "DIMENSIONS / Wheelbase": "104.3 in (2649 mm)",
+                    "DIMENSIONS / Ground Clearance": "6.7 in (170 mm)",
+                    "DIMENSIONS / Cargo Volume": "18 cuFT (510 L)",
+                    "WEIGHT SPECS / Unladen Weight": "2249 - 2293 lbs (1020 - 1040 kg)",
+                    "WEIGHT SPECS / Gross Weight Limit": "3307 lbs (1500 kg)"
+                  }
+                },
+                {
+                  "label": "1.4L 5MT FWD (92 HP)",
+                  "fuelType": "Gasoline",
+                  "cylinders": 4,
+                  "displacementCc": 1398,
+                  "powerHp": 92,
+                  "torqueNm": 130,
+                  "transmission": "5-Speed manual",
+                  "drivetrain": "Front Wheel Drive",
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": 4491,
+                  "widthMm": 1730,
+                  "heightMm": 1486,
+                  "wheelbaseMm": 2649,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "L4",
+                    "ENGINE SPECS / Displacement": "1398 cm3 (85 ci)",
+                    "ENGINE SPECS / Power": "68 KW @ 6000 RPM92 HP @ 6000 RPM91 BHP @ 6000 RPM",
+                    "ENGINE SPECS / Torque": "96 lb-ft @ 4000 RPM130 Nm @ 4000 RPM",
+                    "ENGINE SPECS / Fuel System": "Multipoint Injection",
+                    "ENGINE SPECS / Fuel": "Gasoline",
+                    "ENGINE SPECS / Fuel capacity": "11.4 gallons (43.2 L)",
+                    "TRANSMISSION SPECS / Drive Type": "Front Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "5-Speed manual",
+                    "BRAKES SPECS / Front": "Ventilated Discs",
+                    "BRAKES SPECS / Rear": "Discs",
+                    "TIRES SPECS / Tire Size": "185/65 R15",
+                    "DIMENSIONS / Length": "176.8 in (4491 mm)",
+                    "DIMENSIONS / Width": "68.1 in (1730 mm)",
+                    "DIMENSIONS / Height": "58.5 in (1486 mm)",
+                    "DIMENSIONS / Front/rear Track": "58.9/59.3 in (1,496/1,506 mm)",
+                    "DIMENSIONS / Wheelbase": "104.3 in (2649 mm)",
+                    "DIMENSIONS / Ground Clearance": "6.7 in (170 mm)",
+                    "DIMENSIONS / Cargo Volume": "18 cuFT (510 L)",
+                    "WEIGHT SPECS / Unladen Weight": "2227 - 2271 lbs (1010 - 1030 kg)",
+                    "WEIGHT SPECS / Gross Weight Limit": "3285 lbs (1490 kg)"
+                  }
+                },
+                {
+                  "label": "1.3D 5MT FWD (90 HP)",
+                  "fuelType": "Diesel",
+                  "cylinders": 4,
+                  "displacementCc": 1248,
+                  "powerHp": 90,
+                  "torqueNm": 201,
+                  "transmission": "5-manual speed",
+                  "drivetrain": "Front Wheel Drive",
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": 4491,
+                  "widthMm": 1730,
+                  "heightMm": 1486,
+                  "wheelbaseMm": 2649,
+                  "curbWeightKg": 1105,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "L4",
+                    "ENGINE SPECS / Displacement": "1248 cm3 (76 ci)",
+                    "ENGINE SPECS / Power": "66 KW @ - RPM90 HP @ - RPM89 BHP @ - RPM",
+                    "ENGINE SPECS / Torque": "148 lb-ft @ - RPM201 Nm @ - RPM",
+                    "ENGINE SPECS / Fuel System": "Common Rail",
+                    "ENGINE SPECS / Fuel": "Diesel",
+                    "TRANSMISSION SPECS / Drive Type": "Front Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "5-manual speed",
+                    "DIMENSIONS / Length": "176.8 in (4491 mm)",
+                    "DIMENSIONS / Width": "68.1 in (1730 mm)",
+                    "DIMENSIONS / Height": "58.5 in (1486 mm)",
+                    "DIMENSIONS / Wheelbase": "104.3 in (2649 mm)",
+                    "DIMENSIONS / Ground Clearance": "6.7 in (170 mm)",
+                    "DIMENSIONS / Cargo Volume": "18 cuFT (510 L)",
+                    "WEIGHT SPECS / Unladen Weight": "2436 lbs (1105 kg)"
+                  }
+                }
+              ]
+            }
+          ]
         },
         {
           "name": "Esteem",
           "yearStart": 1995,
-          "yearEnd": 2000
+          "yearEnd": 2000,
+          "generations": [
+            {
+              "name": "Esteem (1995)",
+              "yearStart": 1995,
+              "yearEnd": 2000,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "1.3L 5MT (85 HP)",
+                  "fuelType": "Gasoline",
+                  "cylinders": 4,
+                  "displacementCc": 1298,
+                  "powerHp": 85,
+                  "torqueNm": 100,
+                  "transmission": "5-Speed manual",
+                  "drivetrain": "Front Wheel Drive",
+                  "zeroToHundredKmhS": 12.9,
+                  "topSpeedKmh": 142,
+                  "fuelEconomyCombinedL100": 7.1,
+                  "lengthMm": 4074,
+                  "widthMm": 1575,
+                  "heightMm": 1394,
+                  "wheelbaseMm": 2365,
+                  "curbWeightKg": 826,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "L4",
+                    "ENGINE SPECS / Displacement": "1298 cm3 (79 ci)",
+                    "ENGINE SPECS / Power": "63 KW @ 6000 RPM85 HP @ 6000 RPM84 BHP @ 6000 RPM",
+                    "ENGINE SPECS / Torque": "74 lb-ft @ 4000 RPM100 Nm @ 4000 RPM",
+                    "ENGINE SPECS / Fuel System": "Multipoint Injection",
+                    "ENGINE SPECS / Fuel": "Gasoline",
+                    "PERFORMANCE SPECS / Top Speed": "88 mph (142 km/h)",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "12.9 s",
+                    "TRANSMISSION SPECS / Drive Type": "Front Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "5-Speed manual",
+                    "TIRES SPECS / Tire Size": "155/80 R13",
+                    "DIMENSIONS / Length": "160.4 in (4074 mm)",
+                    "DIMENSIONS / Width": "62 in (1575 mm)",
+                    "DIMENSIONS / Height": "54.9 in (1394 mm)",
+                    "DIMENSIONS / Front/rear Track": "60.6/61.4 in (1,539/1,560 mm)",
+                    "DIMENSIONS / Wheelbase": "93.1 in (2365 mm)",
+                    "DIMENSIONS / Ground Clearance": "7.5 in (191 mm)",
+                    "DIMENSIONS / Aerodynamics (Cd)": "0.32",
+                    "WEIGHT SPECS / Unladen Weight": "1821 lbs (826 kg)",
+                    "FUEL ECONOMY (NEDC) / Combined": "33.1 mpg US (7.1 L/100Km)",
+                    "FUEL ECONOMY (NEDC) / CO2 Emissions": "169 g/km"
+                  }
+                }
+              ]
+            }
+          ]
         },
         {
           "name": "Gipsy",
           "yearStart": 1985,
-          "yearEnd": 2019
+          "yearEnd": 2019,
+          "generations": [
+            {
+              "name": "Gipsy (1985)",
+              "yearStart": 1985,
+              "yearEnd": 2019,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "1.0L 4MT AWD (61 HP)",
+                  "fuelType": "Gasoline",
+                  "cylinders": 4,
+                  "displacementCc": 970,
+                  "powerHp": 61,
+                  "torqueNm": 75,
+                  "transmission": "4-speed manual",
+                  "drivetrain": "All Wheel Drive",
+                  "zeroToHundredKmhS": 29.1,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": 7.2,
+                  "lengthMm": 4011,
+                  "widthMm": 1539,
+                  "heightMm": 1875,
+                  "wheelbaseMm": 2375,
+                  "curbWeightKg": 966,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "L4",
+                    "ENGINE SPECS / Displacement": "970 cm3 (59 ci)",
+                    "ENGINE SPECS / Power": "45 KW @ 5500 RPM61 HP @ 5500 RPM60 BHP @ 5500 RPM",
+                    "ENGINE SPECS / Torque": "55 lb-ft @ 3000 RPM75 Nm @ 3000 RPM",
+                    "ENGINE SPECS / Fuel System": "Multipoint Injection",
+                    "ENGINE SPECS / Fuel": "Gasoline",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "29.1 s",
+                    "TRANSMISSION SPECS / Drive Type": "All Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "4-speed manual",
+                    "BRAKES SPECS / Front": "Discs",
+                    "BRAKES SPECS / Rear": "Drums",
+                    "TIRES SPECS / Tire Size": "F78-15",
+                    "DIMENSIONS / Length": "157.9 in (4011 mm)",
+                    "DIMENSIONS / Width": "60.6 in (1539 mm)",
+                    "DIMENSIONS / Height": "73.8 in (1875 mm)",
+                    "DIMENSIONS / Wheelbase": "93.5 in (2375 mm)",
+                    "WEIGHT SPECS / Unladen Weight": "2130 lbs (966 kg)",
+                    "FUEL ECONOMY (NEDC) / Combined": "32.6 mpg US (7.2 L/100Km)"
+                  }
+                }
+              ]
+            }
+          ]
         },
         {
           "name": "Swift",
           "yearStart": 2006,
-          "yearEnd": 2010
+          "yearEnd": 2010,
+          "generations": [
+            {
+              "name": "Swift (2006)",
+              "yearStart": 2006,
+              "yearEnd": 2010,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "1.3",
+                  "fuelType": "Gasoline",
+                  "cylinders": 4,
+                  "displacementCc": 1298,
+                  "powerHp": 87,
+                  "torqueNm": 113,
+                  "transmission": "Manual, 5 Speed",
+                  "drivetrain": "Front Wheel Drive",
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": 160,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": 3696,
+                  "widthMm": 1689,
+                  "heightMm": 1529,
+                  "wheelbaseMm": 2410,
+                  "curbWeightKg": 980,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "L4",
+                    "ENGINE SPECS / Displacement": "1298 cm3 (79 ci)",
+                    "ENGINE SPECS / Power": "64 KW @ 6000 RPM87 HP @ 6000 RPM86 BHP @ 6000 RPM",
+                    "ENGINE SPECS / Torque": "83 lb-ft @ 4500 RPM113 Nm @ 4500 RPM",
+                    "ENGINE SPECS / Fuel System": "Multipoint Injection",
+                    "ENGINE SPECS / Fuel": "Gasoline",
+                    "PERFORMANCE SPECS / Top Speed": "99.4 mph (160 km/h)",
+                    "TRANSMISSION SPECS / Drive Type": "Front Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "Manual, 5 Speed",
+                    "BRAKES SPECS / Front": "Ventilated Discs",
+                    "BRAKES SPECS / Rear": "Drums",
+                    "TIRES SPECS / Tire Size": "185/70 R14",
+                    "DIMENSIONS / Length": "145.5 in (3696 mm)",
+                    "DIMENSIONS / Width": "66.5 in (1689 mm)",
+                    "DIMENSIONS / Height": "60.2 in (1529 mm)",
+                    "DIMENSIONS / Front/rear Track": "57.9/58.3 in (1,471/1,481 mm)",
+                    "DIMENSIONS / Wheelbase": "94.9 in (2410 mm)",
+                    "DIMENSIONS / Ground Clearance": "6.7 in (170 mm)",
+                    "DIMENSIONS / Aerodynamics (Cd)": "0.35",
+                    "WEIGHT SPECS / Unladen Weight": "2160 lbs (980 kg)",
+                    "WEIGHT SPECS / Gross Weight Limit": "3120 lbs (1415 kg)"
+                  }
+                },
+                {
+                  "label": "1.3 D",
+                  "fuelType": "Diesel",
+                  "cylinders": 4,
+                  "displacementCc": 1248,
+                  "powerHp": 75,
+                  "torqueNm": 190,
+                  "transmission": "Manual, 5 Speed",
+                  "drivetrain": "Front Wheel Drive",
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": 160,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": 3696,
+                  "widthMm": 1689,
+                  "heightMm": 1529,
+                  "wheelbaseMm": 2410,
+                  "curbWeightKg": 980,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "L4",
+                    "ENGINE SPECS / Displacement": "1248 cm3 (76 ci)",
+                    "ENGINE SPECS / Power": "55 KW @ 4000 RPM75 HP @ 4000 RPM74 BHP @ 4000 RPM",
+                    "ENGINE SPECS / Torque": "140 lb-ft @ 2000 RPM190 Nm @ 2000 RPM",
+                    "ENGINE SPECS / Fuel System": "Multipoint Injection",
+                    "ENGINE SPECS / Fuel": "Diesel",
+                    "PERFORMANCE SPECS / Top Speed": "99.4 mph (160 km/h)",
+                    "TRANSMISSION SPECS / Drive Type": "Front Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "Manual, 5 Speed",
+                    "BRAKES SPECS / Front": "Ventilated Discs",
+                    "BRAKES SPECS / Rear": "Drums",
+                    "TIRES SPECS / Tire Size": "185/70 R14",
+                    "DIMENSIONS / Length": "145.5 in (3696 mm)",
+                    "DIMENSIONS / Width": "66.5 in (1689 mm)",
+                    "DIMENSIONS / Height": "60.2 in (1529 mm)",
+                    "DIMENSIONS / Front/rear Track": "57.9/58.2 in (1,471/1,478 mm)",
+                    "DIMENSIONS / Wheelbase": "94.9 in (2410 mm)",
+                    "DIMENSIONS / Ground Clearance": "6.7 in (170 mm)",
+                    "DIMENSIONS / Aerodynamics (Cd)": "0.35",
+                    "WEIGHT SPECS / Unladen Weight": "2160 lbs (980 kg)",
+                    "WEIGHT SPECS / Gross Weight Limit": "3120 lbs (1415 kg)"
+                  }
+                }
+              ]
+            }
+          ]
         },
         {
           "name": "Wagon R",
           "yearStart": 2005,
-          "yearEnd": 2009
+          "yearEnd": 2009,
+          "generations": [
+            {
+              "name": "Wagon R (2005)",
+              "yearStart": 2005,
+              "yearEnd": 2009,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "1.1L 5MT FWD (63 HP)",
+                  "fuelType": "Gasoline",
+                  "cylinders": 4,
+                  "displacementCc": 1061,
+                  "powerHp": 64,
+                  "torqueNm": 84,
+                  "transmission": "5-Speed manual",
+                  "drivetrain": "Front Wheel Drive",
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": 185,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": 3520,
+                  "widthMm": 1491,
+                  "heightMm": 1661,
+                  "wheelbaseMm": 2360,
+                  "curbWeightKg": 825,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "L4",
+                    "ENGINE SPECS / Displacement": "1061 cm3 (65 ci)",
+                    "ENGINE SPECS / Power": "47 KW @ 6200 RPM64 HP @ 6200 RPM63 BHP @ 6200 RPM",
+                    "ENGINE SPECS / Torque": "62 lb-ft @ 3500 RPM84 Nm @ 3500 RPM",
+                    "ENGINE SPECS / Fuel System": "Multipoint Injection",
+                    "ENGINE SPECS / Fuel": "Gasoline",
+                    "PERFORMANCE SPECS / Top Speed": "115 mph (185 km/h)",
+                    "TRANSMISSION SPECS / Drive Type": "Front Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "5-Speed manual",
+                    "BRAKES SPECS / Front": "Discs",
+                    "BRAKES SPECS / Rear": "Drums",
+                    "TIRES SPECS / Tire Size": "155/65 R13",
+                    "DIMENSIONS / Length": "138.6 in (3520 mm)",
+                    "DIMENSIONS / Width": "58.7 in (1491 mm)",
+                    "DIMENSIONS / Height": "65.4 in (1661 mm)",
+                    "DIMENSIONS / Front/rear Track": "51/50.8 in (1,295/1,290 mm)",
+                    "DIMENSIONS / Wheelbase": "92.9 in (2360 mm)",
+                    "DIMENSIONS / Ground Clearance": "6.5 in (165 mm)",
+                    "DIMENSIONS / Cargo Volume": "7.7 cuFT (218 L)",
+                    "DIMENSIONS / Aerodynamics (Cd)": "0.35",
+                    "WEIGHT SPECS / Unladen Weight": "1818.8 lbs (825 kg)",
+                    "WEIGHT SPECS / Gross Weight Limit": "2755.8 lbs (1250 kg)"
+                  }
+                }
+              ]
+            }
+          ]
         },
         {
           "name": "Zen",
           "yearStart": 2006,
-          "yearEnd": 2009
+          "yearEnd": 2009,
+          "generations": [
+            {
+              "name": "Zen (2006)",
+              "yearStart": 2006,
+              "yearEnd": 2009,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "1.1L 5MT FWD (64 HP)",
+                  "fuelType": "Gasoline",
+                  "cylinders": 4,
+                  "displacementCc": 1061,
+                  "powerHp": 64,
+                  "torqueNm": 84,
+                  "transmission": "5-manual speed",
+                  "drivetrain": "Front Wheel Drive",
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": 3495,
+                  "widthMm": 1476,
+                  "heightMm": 1595,
+                  "wheelbaseMm": 2360,
+                  "curbWeightKg": 855,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "L4",
+                    "ENGINE SPECS / Displacement": "1061 cm3 (65 ci)",
+                    "ENGINE SPECS / Power": "47 KW @ 6200 RPM64 HP @ 6200 RPM63 BHP @ 6200 RPM",
+                    "ENGINE SPECS / Torque": "62 lb-ft @ 3500 RPM84 Nm @ 3500 RPM",
+                    "ENGINE SPECS / Fuel System": "Multipoint Injection",
+                    "ENGINE SPECS / Fuel": "Gasoline",
+                    "TRANSMISSION SPECS / Drive Type": "Front Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "5-manual speed",
+                    "BRAKES SPECS / Front": "Ventilated Discs",
+                    "BRAKES SPECS / Rear": "Drums",
+                    "TIRES SPECS / Tire Size": "145/70 R 13",
+                    "DIMENSIONS / Length": "137.6 in (3495 mm)",
+                    "DIMENSIONS / Width": "58.1 in (1476 mm)",
+                    "DIMENSIONS / Height": "62.8 in (1595 mm)",
+                    "DIMENSIONS / Front/rear Track": "50.9/50.8 in (1,293/1,290 mm)",
+                    "DIMENSIONS / Wheelbase": "92.9 in (2360 mm)",
+                    "DIMENSIONS / Ground Clearance": "6.5 in (165 mm)",
+                    "WEIGHT SPECS / Unladen Weight": "1884.9 lbs (855 kg)"
+                  }
+                }
+              ]
+            }
+          ]
         }
       ]
     }

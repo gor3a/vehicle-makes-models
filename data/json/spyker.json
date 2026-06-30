@@ -7,27 +7,315 @@
         {
           "name": "C12 LaTurbie",
           "yearStart": 2006,
-          "yearEnd": 2006
+          "yearEnd": 2006,
+          "generations": [
+            {
+              "name": "C12 LaTurbie (2006)",
+              "yearStart": 2006,
+              "yearEnd": 2006,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "6.0L W12 6MT (507 HP)",
+                  "fuelType": "Gasoline",
+                  "cylinders": 12,
+                  "displacementCc": 5998,
+                  "powerHp": 506.9,
+                  "torqueNm": 600,
+                  "transmission": "6-speed manual",
+                  "drivetrain": "Rear Wheel Drive",
+                  "zeroToHundredKmhS": 3.9,
+                  "topSpeedKmh": 325,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": 4496,
+                  "widthMm": 2019,
+                  "heightMm": 1229,
+                  "wheelbaseMm": 2581,
+                  "curbWeightKg": 1525,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "W12",
+                    "ENGINE SPECS / Displacement": "5998 cm3 (366 ci)",
+                    "ENGINE SPECS / Power": "372.9 KW @ - RPM506.9 HP @ - RPM500 BHP @ - RPM",
+                    "ENGINE SPECS / Torque": "443 lb-ft @ - RPM600 Nm @ - RPM",
+                    "ENGINE SPECS / Fuel System": "Multipoint Injection",
+                    "ENGINE SPECS / Fuel": "Gasoline",
+                    "PERFORMANCE SPECS / Top Speed": "202 mph (325 km/h)",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "3.9 s",
+                    "TRANSMISSION SPECS / Drive Type": "Rear Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "6-speed manual",
+                    "BRAKES SPECS / Front": "Ventilated Discs",
+                    "BRAKES SPECS / Rear": "Ventilated Discs",
+                    "DIMENSIONS / Length": "177 in (4496 mm)",
+                    "DIMENSIONS / Width": "79.5 in (2019 mm)",
+                    "DIMENSIONS / Height": "48.4 in (1229 mm)",
+                    "DIMENSIONS / Front/rear Track": "61.8 / 68.9 in (1,570/1,750 mm)",
+                    "DIMENSIONS / Wheelbase": "101.6 in (2581 mm)",
+                    "DIMENSIONS / Ground Clearance": "4 in (102 mm)",
+                    "DIMENSIONS / Aerodynamics (Cd)": "0.3",
+                    "WEIGHT SPECS / Unladen Weight": "3362 lbs (1525 kg)"
+                  }
+                }
+              ]
+            }
+          ]
         },
         {
           "name": "C8",
           "yearStart": 2000,
-          "yearEnd": 2009
+          "yearEnd": 2009,
+          "generations": [
+            {
+              "name": "C8 Spyder (2000)",
+              "yearStart": 2000,
+              "yearEnd": 2009,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "4.2L V8 6MT (400 HP)",
+                  "fuelType": "Gasoline",
+                  "cylinders": 8,
+                  "displacementCc": 4172,
+                  "powerHp": 400,
+                  "torqueNm": 480,
+                  "transmission": "6-Speed manual",
+                  "drivetrain": "Rear Wheel Drive",
+                  "zeroToHundredKmhS": 4.5,
+                  "topSpeedKmh": 301,
+                  "fuelEconomyCombinedL100": 13.8,
+                  "lengthMm": 4186,
+                  "widthMm": 1880,
+                  "heightMm": 1080,
+                  "wheelbaseMm": 2576,
+                  "curbWeightKg": 1250,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "V8",
+                    "ENGINE SPECS / Displacement": "4172 cm3 (255 ci)",
+                    "ENGINE SPECS / Power": "294.2 KW @ 7500 RPM400 HP @ 7500 RPM395 BHP @ 7500 RPM",
+                    "ENGINE SPECS / Torque": "354 lb-ft @ 4000 RPM480 Nm @ 4000 RPM",
+                    "ENGINE SPECS / Fuel System": "Multipoint Injection",
+                    "ENGINE SPECS / Fuel": "Gasoline",
+                    "PERFORMANCE SPECS / Top Speed": "187 mph (301 km/h)",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "4.5 s",
+                    "TRANSMISSION SPECS / Drive Type": "Rear Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "6-Speed manual",
+                    "BRAKES SPECS / Front": "Ventilated Discs",
+                    "BRAKES SPECS / Rear": "Ventilated Discs",
+                    "TIRES SPECS / Tire Size": "225/40Z R18 // 225/35Z R18",
+                    "DIMENSIONS / Length": "164.8 in (4186 mm)",
+                    "DIMENSIONS / Width": "74 in (1880 mm)",
+                    "DIMENSIONS / Height": "42.5 in (1080 mm)",
+                    "DIMENSIONS / Front/rear Track": "55.1/62.2 in (1,400/1,580 mm)",
+                    "DIMENSIONS / Wheelbase": "101.4 in (2576 mm)",
+                    "DIMENSIONS / Ground Clearance": "5.8 in (147 mm)",
+                    "WEIGHT SPECS / Unladen Weight": "2756 lbs (1250 kg)",
+                    "FUEL ECONOMY (NEDC) / City": "14 mpg US (16.8 L/100Km)",
+                    "FUEL ECONOMY (NEDC) / Highway": "19 mpg US (12.4 L/100Km)",
+                    "FUEL ECONOMY (NEDC) / Combined": "17 mpg US (13.8 L/100Km)"
+                  }
+                },
+                {
+                  "label": "4.2L V8 T 6MT (525 HP)",
+                  "fuelType": "Gasoline",
+                  "cylinders": 8,
+                  "displacementCc": 4172,
+                  "powerHp": 525,
+                  "torqueNm": 560,
+                  "transmission": "6-Speed manual",
+                  "drivetrain": "Rear Wheel Drive",
+                  "zeroToHundredKmhS": 4,
+                  "topSpeedKmh": 322,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": 4186,
+                  "widthMm": 1880,
+                  "heightMm": 1080,
+                  "wheelbaseMm": 2576,
+                  "curbWeightKg": 1292,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "V8",
+                    "ENGINE SPECS / Displacement": "4172 cm3 (255 ci)",
+                    "ENGINE SPECS / Power": "385 KW @ 5700-6400 RPM525 HP @ 5700-6400 RPM516 BHP @ 5700-6400 RPM",
+                    "ENGINE SPECS / Torque": "413 lb-ft @ 1950-5600 RPM560 Nm @ 1950-5600 RPM",
+                    "ENGINE SPECS / Fuel System": "Multipoint Injection",
+                    "ENGINE SPECS / Fuel": "Gasoline",
+                    "PERFORMANCE SPECS / Top Speed": "200 mph (322 km/h)",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "4 s",
+                    "TRANSMISSION SPECS / Drive Type": "Rear Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "6-Speed manual",
+                    "BRAKES SPECS / Front": "Ventilated Discs",
+                    "BRAKES SPECS / Rear": "Ventilated Discs",
+                    "TIRES SPECS / Tire Size": "235/35 R19 (front) - 265/30 R19 (rear)",
+                    "DIMENSIONS / Length": "164.8 in (4186 mm)",
+                    "DIMENSIONS / Width": "74 in (1880 mm)",
+                    "DIMENSIONS / Height": "42.5 in (1080 mm)",
+                    "DIMENSIONS / Front/rear Track": "55.1/62.2 in (1,400/1,580 mm)",
+                    "DIMENSIONS / Wheelbase": "101.4 in (2576 mm)",
+                    "DIMENSIONS / Ground Clearance": "5.8 in (147 mm)",
+                    "WEIGHT SPECS / Unladen Weight": "2849 lbs (1292 kg)"
+                  }
+                }
+              ]
+            }
+          ]
         },
         {
           "name": "C8 Double 12 S",
           "yearStart": 2002,
-          "yearEnd": 2007
+          "yearEnd": 2007,
+          "generations": [
+            {
+              "name": "C8 Double 12 S (2002)",
+              "yearStart": 2002,
+              "yearEnd": 2007,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "4.2 V8",
+                  "fuelType": "Gasoline",
+                  "cylinders": 8,
+                  "displacementCc": 4172,
+                  "powerHp": null,
+                  "torqueNm": 480,
+                  "transmission": "Manual, 6 Speed",
+                  "drivetrain": "Rear Wheel Drive",
+                  "zeroToHundredKmhS": 4,
+                  "topSpeedKmh": 320,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": 4585,
+                  "widthMm": 1920,
+                  "heightMm": 1255,
+                  "wheelbaseMm": 2675,
+                  "curbWeightKg": 1350,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "V8",
+                    "ENGINE SPECS / Displacement": "4172 cm3 (255 ci)",
+                    "ENGINE SPECS / Torque": "354 lb-ft @ 7500 RPM480 Nm @ 7500 RPM",
+                    "ENGINE SPECS / Fuel System": "Mutltipoint Injection",
+                    "ENGINE SPECS / Fuel": "Gasoline",
+                    "PERFORMANCE SPECS / Top Speed": "199 mph (320 km/h)",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "4 s",
+                    "TRANSMISSION SPECS / Drive Type": "Rear Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "Manual, 6 Speed",
+                    "BRAKES SPECS / Front": "Ventilated Discs",
+                    "BRAKES SPECS / Rear": "Ventilated Discs",
+                    "TIRES SPECS / Tire Size": "225/40Z R18 (front) - 335/35Z R18 (rear)",
+                    "DIMENSIONS / Length": "180.5 in (4585 mm)",
+                    "DIMENSIONS / Width": "75.6 in (1920 mm)",
+                    "DIMENSIONS / Height": "49.4 in (1255 mm)",
+                    "DIMENSIONS / Front/rear Track": "57.9/66.1 in (1,471/1,679 mm)",
+                    "DIMENSIONS / Wheelbase": "105.3 in (2675 mm)",
+                    "WEIGHT SPECS / Unladen Weight": "2976 lbs (1350 kg)"
+                  }
+                }
+              ]
+            }
+          ]
         },
         {
           "name": "C8 Laviolette",
           "yearStart": 2001,
-          "yearEnd": 2009
+          "yearEnd": 2009,
+          "generations": [
+            {
+              "name": "C8 Laviolette (2001)",
+              "yearStart": 2001,
+              "yearEnd": 2009,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "4.2 V8",
+                  "fuelType": "Gasoline",
+                  "cylinders": 8,
+                  "displacementCc": 4172,
+                  "powerHp": null,
+                  "torqueNm": 480,
+                  "transmission": "Manual, 6 Speed",
+                  "drivetrain": "Rear Wheel Drive",
+                  "zeroToHundredKmhS": 4.5,
+                  "topSpeedKmh": 301,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": 4186,
+                  "widthMm": 1880,
+                  "heightMm": 1245,
+                  "wheelbaseMm": 2576,
+                  "curbWeightKg": 1275,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "V8",
+                    "ENGINE SPECS / Displacement": "4172 cm3 (255 ci)",
+                    "ENGINE SPECS / Torque": "354 lb-ft @ 7500 RPM480 Nm @ 7500 RPM",
+                    "ENGINE SPECS / Fuel System": "Multipoint Injection",
+                    "ENGINE SPECS / Fuel": "Gasoline",
+                    "PERFORMANCE SPECS / Top Speed": "187 mph (301 km/h)",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "4.5 s",
+                    "TRANSMISSION SPECS / Drive Type": "Rear Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "Manual, 6 Speed",
+                    "BRAKES SPECS / Front": "Ventilated Discs",
+                    "BRAKES SPECS / Rear": "Ventilated Discs",
+                    "TIRES SPECS / Tire Size": "225/40Z R18 Front / 225/35Z R18 Rear",
+                    "DIMENSIONS / Length": "164.8 in (4186 mm)",
+                    "DIMENSIONS / Width": "74 in (1880 mm)",
+                    "DIMENSIONS / Height": "49 in (1245 mm)",
+                    "DIMENSIONS / Front/rear Track": "55.1/62.2 in (1,400/1,580 mm)",
+                    "DIMENSIONS / Wheelbase": "101.4 in (2576 mm)",
+                    "WEIGHT SPECS / Unladen Weight": "2811 lbs (1275 kg)"
+                  }
+                }
+              ]
+            }
+          ]
         },
         {
           "name": "C8 Preliator",
           "yearStart": 2016,
-          "yearEnd": 2016
+          "yearEnd": 2016,
+          "generations": [
+            {
+              "name": "C8 Preliator (2016)",
+              "yearStart": 2016,
+              "yearEnd": 2016,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "4.2L V8 6MT RWD (525 HP)",
+                  "fuelType": "Gasoline",
+                  "cylinders": 8,
+                  "displacementCc": 4172,
+                  "powerHp": 525,
+                  "torqueNm": 600,
+                  "transmission": "6-speed manual",
+                  "drivetrain": "Rear Wheel Drive",
+                  "zeroToHundredKmhS": 3.7,
+                  "topSpeedKmh": 322,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": 4628,
+                  "widthMm": 1953,
+                  "heightMm": 1201,
+                  "wheelbaseMm": 2725,
+                  "curbWeightKg": 1390,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "V8",
+                    "ENGINE SPECS / Displacement": "4172 cm3 (255 ci)",
+                    "ENGINE SPECS / Power": "386.1 KW @ 6800 RPM525 HP @ 6800 RPM518 BHP @ 6800 RPM",
+                    "ENGINE SPECS / Torque": "443 lb-ft @ 3500 RPM600 Nm @ 3500 RPM",
+                    "ENGINE SPECS / Fuel System": "Supercharged Multipoint Injection",
+                    "ENGINE SPECS / Fuel": "Gasoline",
+                    "PERFORMANCE SPECS / Top Speed": "200 mph (322 km/h)",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "3.7 s",
+                    "TRANSMISSION SPECS / Drive Type": "Rear Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "6-speed manual",
+                    "BRAKES SPECS / Front": "Ventilated Discs 350mm",
+                    "BRAKES SPECS / Rear": "Ventilated Discs 332mm",
+                    "TIRES SPECS / Tire Size": "235 / 35 ZR19 || 295 / 30 ZR19",
+                    "DIMENSIONS / Length": "182.2 in (4628 mm)",
+                    "DIMENSIONS / Width": "76.9 in (1953 mm)",
+                    "DIMENSIONS / Height": "47.3 in (1201 mm)",
+                    "DIMENSIONS / Wheelbase": "107.3 in (2725 mm)",
+                    "DIMENSIONS / Cargo Volume": "4.2 cuFT (119 L)",
+                    "WEIGHT SPECS / Unladen Weight": "3064 lbs (1390 kg)"
+                  }
+                }
+              ]
+            }
+          ]
         }
       ]
     }

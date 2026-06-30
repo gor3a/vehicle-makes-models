@@ -191,13 +191,7 @@ audi,Audi,TT,1998,
 audi,Audi,TT RS,2009,2023
 audi,Audi,V8,1988,1994
 aurus,Aurus,Senat,2018,
-baic,BAIC,BJ40,2013,
-baic,BAIC,BJ80,2016,
-baic,BAIC,D20,2015,
 baic,BAIC,MOTOR BJ60,2023,
-baic,BAIC,X25,2016,
-baic,BAIC,X35,2017,
-baic,BAIC,X55,2019,
 bentley,Bentley,Arnage,1999,2009
 bentley,Bentley,Azure,1995,2011
 bentley,Bentley,Batur,2024,
@@ -339,33 +333,9 @@ buick,Buick,Skylark,1953,1997
 buick,Buick,Terraza,2005,2007
 buick,Buick,Verano,2012,2017
 byd,BYD,ATTO 2,2025,
-byd,BYD,Atto 3,2022,
 byd,BYD,ATTO 3,2022,
-byd,BYD,Destroyer 05,2022,
-byd,BYD,Dolphin,2021,
 byd,BYD,DOLPHIN,2025,
-byd,BYD,e6,2009,2021
-byd,BYD,F0,2008,2016
-byd,BYD,F3,2005,2022
-byd,BYD,F6,2007,2011
-byd,BYD,Frigate 07,2022,
-byd,BYD,G3,2009,2014
-byd,BYD,G6,2011,2015
-byd,BYD,Han,2020,
-byd,BYD,L3,2010,2015
-byd,BYD,Qin,2012,
-byd,BYD,Qin Plus,2021,
-byd,BYD,S6,2010,2015
-byd,BYD,Seagull,2023,
-byd,BYD,Seal,2022,
-byd,BYD,Sealion,2023,
 byd,BYD,Sealion 7,2024,
-byd,BYD,Shark,2024,
-byd,BYD,Song,2016,
-byd,BYD,Song Plus,2020,
-byd,BYD,Tang,2015,
-byd,BYD,Yuan,2016,
-byd,BYD,Yuan Plus,2022,
 cadillac,Cadillac,Allante,1987,1993
 cadillac,Cadillac,ATS,2012,2019
 cadillac,Cadillac,ATS-V,2015,2019
@@ -425,25 +395,8 @@ changan,Changan,Hunter,2019,
 changan,Changan,UNI-K,2021,
 changan,Changan,UNI-T,2020,
 changan,Changan,UNI-V,2022,
-chery,Chery,A1,2007,2013
-chery,Chery,A3,2008,2016
-chery,Chery,A5,2006,2010
-chery,Chery,Arrizo 3,2014,
-chery,Chery,Arrizo 5,2016,
-chery,Chery,Arrizo 6,2018,
-chery,Chery,Arrizo 8,2022,
-chery,Chery,Eastar,2003,2012
-chery,Chery,Fora,2006,2010
-chery,Chery,QQ,2003,2019
-chery,Chery,Tiggo 2,2017,
-chery,Chery,Tiggo 3,2014,
-chery,Chery,Tiggo 4,2017,
-chery,Chery,Tiggo 5,2013,
-chery,Chery,Tiggo 7,2016,
 chery,Chery,TIGGO 7,2024,
-chery,Chery,Tiggo 8,2018,
 chery,Chery,TIGGO 8,2022,
-chery,Chery,Tiggo 9,2023,
 chery,Chery,TIGGO 9,2025,
 chevrolet,Chevrolet,Agile,2009,2016
 chevrolet,Chevrolet,Astro,1994,2005
@@ -940,28 +893,12 @@ gac,GAC,GS8,2016,
 gaz,GAZ,Gazelle,1994,
 gaz,GAZ,Sobol,1998,
 gaz,GAZ,Volga,1956,2010
-geely,Geely,Atlas,2016,
-geely,Geely,Azkarra,2018,
-geely,Geely,Binrui,2018,
-geely,Geely,Binyue,2018,
 geely,Geely,CK,2005,2016
-geely,Geely,Coolray,2018,
-geely,Geely,Emgrand,2009,
-geely,Geely,Emgrand 7,2016,
 geely,Geely,Emgrand EC7,2009,2014
 geely,Geely,Galaxy,2023,
 geely,Geely,Galaxy M9,2025,
-geely,Geely,Geometry A,2019,
-geely,Geely,Geometry C,2020,
-geely,Geely,GX3,2014,
 geely,Geely,LC,2009,2017
 geely,Geely,MK,2006,2014
-geely,Geely,Monjaro,2021,
-geely,Geely,Okavango,2020,
-geely,Geely,Panda,2008,
-geely,Geely,Preface,2020,
-geely,Geely,Starray,2023,
-geely,Geely,Tugella,2019,
 genesis,Genesis,G70,2017,
 genesis,Genesis,G70 Shooting Brake,2021,
 genesis,Genesis,G80,2016,
@@ -1298,28 +1235,15 @@ koenigsegg,Koenigsegg,One:1,2014,2015
 koenigsegg,Koenigsegg,Regera,2015,2022
 koenigsegg,Koenigsegg,Sadairs Spear,2025,
 ktm,KTM,X-Bow,2008,
-lada,Lada,110,1995,2014
+lada,Lada,110,1998,2008
 lada,Lada,111,1998,2008
 lada,Lada,112,1999,2008
-lada,Lada,2101,1970,1988
-lada,Lada,2102,1971,1985
-lada,Lada,2103,1972,1984
-lada,Lada,2104,1984,2012
-lada,Lada,2105,1979,2010
-lada,Lada,2106,1976,2006
-lada,Lada,2107,1982,2012
-lada,Lada,Granta,2011,
-lada,Lada,Kalina,2004,2018
-lada,Lada,Largus,2012,
-lada,Lada,Niva,1977,
-lada,Lada,Niva Legend,2020,
+lada,Lada,Kalina,2006,2013
+lada,Lada,Niva,1976,2021
 lada,Lada,Nova,1981,1994
 lada,Lada,Nova Combi,1985,1998
-lada,Lada,Priora,2007,2018
-lada,Lada,Riva,1980,2012
-lada,Lada,Samara,1984,2013
-lada,Lada,Vesta,2015,
-lada,Lada,XRAY,2015,2022
+lada,Lada,Priora,2008,2018
+lada,Lada,Samara,1984,2004
 lamborghini,Lamborghini,350 GTS,,
 lamborghini,Lamborghini,Aventador,2011,
 lamborghini,Lamborghini,Centenario,2016,2017
