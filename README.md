@@ -5,10 +5,11 @@ global coverage with extra Egypt-market nameplates (e.g. Speranza, El Nasr) that
 most datasets miss. Shipped as **JSON**, **CSV**, and **SQLite** so you can use it
 from anything.
 
-> **Dataset status:** The full tier-3 schema (generations + engines + raw specs) is
-> currently populated for Toyota. Coverage for all makes is being added progressively
-> — the tier-1 make/model/year data (164 makes, 2,697 models) remains available on
-> `main` while the tier-3 crawl is in progress.
+> **Dataset status:** Fully populated. The tier-3 schema (generations + engines + raw
+> specs) covers all crawled makes — **164 makes, 2,621 models, 7,169 generations, and
+> 30,390 engine variants**. The data is regenerated on a weekly schedule and published as
+> [versioned releases](https://github.com/gor3a/vehicle-makes-models/releases) with
+> downloadable JSON, CSV, and SQLite on each release.
 
 ## What's inside
 
