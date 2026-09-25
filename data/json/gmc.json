@@ -1388,6 +1388,204 @@
           ]
         },
         {
+          "name": "CANYON AT4",
+          "yearStart": 2022,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "CANYON AT4 (2022)",
+              "yearStart": 2022,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "2.7L Turbo 8AT Hydra-Matic 4WD (314 HP)",
+                  "fuelType": "Gasoline",
+                  "cylinders": 4,
+                  "displacementCc": null,
+                  "powerHp": 314.3,
+                  "torqueNm": 583,
+                  "transmission": "8-speed automatic",
+                  "drivetrain": "All Wheel Drive",
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": 5415,
+                  "widthMm": 2144,
+                  "heightMm": 2027,
+                  "wheelbaseMm": 3338,
+                  "curbWeightKg": 2118,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "L4",
+                    "ENGINE SPECS / Power": "231.2 KW @ 5600 RPM314.3 HP @ 5600 RPM310 BHP @ 5600 RPM",
+                    "ENGINE SPECS / Torque": "430 lb-ft @ 3000 RPM583 Nm @ 3000 RPM",
+                    "ENGINE SPECS / Fuel System": "Turbocharged Direct Injection",
+                    "ENGINE SPECS / Fuel": "Gasoline",
+                    "TRANSMISSION SPECS / Drive Type": "All Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "8-speed automatic",
+                    "BRAKES SPECS / Front": "Disc",
+                    "BRAKES SPECS / Rear": "Disc",
+                    "TIRES SPECS / Tire Size": "P265/65 R18",
+                    "DIMENSIONS / Length": "213.2 in (5415 mm)",
+                    "DIMENSIONS / Width": "84.4 in (2144 mm)",
+                    "DIMENSIONS / Height": "79.8 in (2027 mm)",
+                    "DIMENSIONS / Front/rear Track": "66.1/66.1 in (1,679/1,679 mm)",
+                    "DIMENSIONS / Wheelbase": "131.4 in (3338 mm)",
+                    "DIMENSIONS / Ground Clearance": "9.6 in (244 mm)",
+                    "WEIGHT SPECS / Unladen Weight": "4669 lbs (2118 kg)",
+                    "WEIGHT SPECS / Gross Weight Limit": "6250 lbs (2835 kg)"
+                  }
+                },
+                {
+                  "label": "2.7L Turbo 8AT Hydra-Matic RWD (314 HP)",
+                  "fuelType": "Gasoline",
+                  "cylinders": 4,
+                  "displacementCc": null,
+                  "powerHp": 314,
+                  "torqueNm": 583,
+                  "transmission": "8-speed automatic",
+                  "drivetrain": "Rear Wheel Drive",
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": 5415,
+                  "widthMm": 2144,
+                  "heightMm": 2027,
+                  "wheelbaseMm": 3338,
+                  "curbWeightKg": 2009,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "L4",
+                    "ENGINE SPECS / Power": "231.2 KW @ 5600 RPM314 HP @ 5600 RPM310 BHP @ 5600 RPM",
+                    "ENGINE SPECS / Torque": "430 lb-ft @ 3000 RPM583 Nm @ 3000 RPM",
+                    "ENGINE SPECS / Fuel System": "Turbocharged Direct Injection",
+                    "ENGINE SPECS / Fuel": "Gasoline",
+                    "TRANSMISSION SPECS / Drive Type": "Rear Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "8-speed automatic",
+                    "BRAKES SPECS / Front": "Disc",
+                    "BRAKES SPECS / Rear": "Disc",
+                    "TIRES SPECS / Tire Size": "P265/65 R18",
+                    "DIMENSIONS / Length": "213.2 in (5415 mm)",
+                    "DIMENSIONS / Width": "84.4 in (2144 mm)",
+                    "DIMENSIONS / Height": "79.8 in (2027 mm)",
+                    "DIMENSIONS / Front/rear Track": "66.1/66.1 in (1,679/1,679 mm)",
+                    "DIMENSIONS / Wheelbase": "131.4 in (3338 mm)",
+                    "DIMENSIONS / Ground Clearance": "9.6 in (244 mm)",
+                    "WEIGHT SPECS / Unladen Weight": "4429 lbs (2009 kg)",
+                    "WEIGHT SPECS / Gross Weight Limit": "6100 lbs (2767 kg)"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "CANYON AT4X",
+          "yearStart": 2022,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "CANYON AT4X (2022)",
+              "yearStart": 2022,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "2.7L Turbo 8AT Hydra-Matic 4WD (314 HP)",
+                  "fuelType": "Gasoline",
+                  "cylinders": 4,
+                  "displacementCc": null,
+                  "powerHp": 314,
+                  "torqueNm": 583,
+                  "transmission": "8-speed automatic",
+                  "drivetrain": "All Wheel Drive",
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": 5415,
+                  "widthMm": 2144,
+                  "heightMm": 2073,
+                  "wheelbaseMm": 3259,
+                  "curbWeightKg": 2254,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "L4",
+                    "ENGINE SPECS / Power": "231.2 KW @ 5600 RPM314 HP @ 5600 RPM310 BHP @ 5600 RPM",
+                    "ENGINE SPECS / Torque": "430 lb-ft @ 3000 RPM583 Nm @ 3000 RPM",
+                    "ENGINE SPECS / Fuel System": "Turbocharged Direct Injection",
+                    "ENGINE SPECS / Fuel": "Gasoline",
+                    "TRANSMISSION SPECS / Drive Type": "All Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "8-speed automatic",
+                    "BRAKES SPECS / Front": "Disc",
+                    "BRAKES SPECS / Rear": "Disc",
+                    "TIRES SPECS / Tire Size": "LT285/70 R17",
+                    "DIMENSIONS / Length": "213.2 in (5415 mm)",
+                    "DIMENSIONS / Width": "84.4 in (2144 mm)",
+                    "DIMENSIONS / Height": "81.6 in (2073 mm)",
+                    "DIMENSIONS / Front/rear Track": "66.3/66.3 in (1,684/1,684 mm)",
+                    "DIMENSIONS / Wheelbase": "128.3 in (3259 mm)",
+                    "DIMENSIONS / Ground Clearance": "10.7 in (272 mm)",
+                    "WEIGHT SPECS / Unladen Weight": "4969 lbs (2254 kg)",
+                    "WEIGHT SPECS / Gross Weight Limit": "6290 lbs (2853 kg)"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "CANYON DENALI",
+          "yearStart": 2022,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "CANYON DENALI (2022)",
+              "yearStart": 2022,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "2.7L Turbo 8AT Hydra-Matic 4WD (314 HP)",
+                  "fuelType": "Gasoline",
+                  "cylinders": 4,
+                  "displacementCc": null,
+                  "powerHp": 314.3,
+                  "torqueNm": 583,
+                  "transmission": "8-speed automatic",
+                  "drivetrain": "All Wheel Drive",
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": 5415,
+                  "widthMm": 2144,
+                  "heightMm": 2042,
+                  "wheelbaseMm": 3338,
+                  "curbWeightKg": 2204,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "L4",
+                    "ENGINE SPECS / Power": "231.2 KW @ 5600 RPM314.3 HP @ 5600 RPM310 BHP @ 5600 RPM",
+                    "ENGINE SPECS / Torque": "430 lb-ft @ 3000 RPM583 Nm @ 3000 RPM",
+                    "ENGINE SPECS / Fuel System": "Turbocharged Direct Injection",
+                    "ENGINE SPECS / Fuel": "Gasoline",
+                    "ENGINE SPECS / Fuel capacity": "21.4 gallons (81.0 L)",
+                    "TRANSMISSION SPECS / Drive Type": "All Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "8-speed automatic",
+                    "BRAKES SPECS / Front": "Disc",
+                    "BRAKES SPECS / Rear": "Disc",
+                    "TIRES SPECS / Tire Size": "P275/60 R20",
+                    "DIMENSIONS / Length": "213.2 in (5415 mm)",
+                    "DIMENSIONS / Width": "84.4 in (2144 mm)",
+                    "DIMENSIONS / Height": "80.4 in (2042 mm)",
+                    "DIMENSIONS / Front/rear Track": "66/65.9 in (1,676/1,674 mm)",
+                    "DIMENSIONS / Wheelbase": "131.4 in (3338 mm)",
+                    "DIMENSIONS / Ground Clearance": "10.5 in (267 mm)",
+                    "WEIGHT SPECS / Unladen Weight": "4859 lbs (2204 kg)",
+                    "WEIGHT SPECS / Gross Weight Limit": "6250 lbs (2835 kg)"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
           "name": "Canyon Regular Cab",
           "yearStart": 2004,
           "yearEnd": 2013,
@@ -3063,14 +3261,35 @@
           ]
         },
         {
-          "name": "Sierra",
+          "name": "Sierra 1500",
           "yearStart": 2007,
           "yearEnd": null,
           "generations": [
             {
-              "name": "Sierra (2023)",
-              "yearStart": 2023,
+              "name": "Sierra 1500 (2026)",
+              "yearStart": 2026,
               "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            },
+            {
+              "name": "Sierra 1500 (2026)",
+              "yearStart": 2026,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            },
+            {
+              "name": "Sierra 1500 (2026)",
+              "yearStart": 2026,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            },
+            {
+              "name": "Sierra 1500 (2023)",
+              "yearStart": 2023,
+              "yearEnd": 2026,
               "bodyType": null,
               "engines": [
                 {
@@ -3231,9 +3450,9 @@
               ]
             },
             {
-              "name": "Sierra (2022)",
+              "name": "Sierra 1500 (2022)",
               "yearStart": 2022,
-              "yearEnd": null,
+              "yearEnd": 2026,
               "bodyType": null,
               "engines": [
                 {
@@ -3391,9 +3610,9 @@
               ]
             },
             {
-              "name": "Sierra (2022)",
+              "name": "Sierra 1500 (2022)",
               "yearStart": 2022,
-              "yearEnd": null,
+              "yearEnd": 2026,
               "bodyType": null,
               "engines": [
                 {
@@ -3436,7 +3655,7 @@
               ]
             },
             {
-              "name": "Sierra (2022)",
+              "name": "Sierra 1500 (2022)",
               "yearStart": 2022,
               "yearEnd": null,
               "bodyType": null,
@@ -3474,7 +3693,7 @@
               ]
             },
             {
-              "name": "Sierra (2018)",
+              "name": "Sierra 1500 (2018)",
               "yearStart": 2018,
               "yearEnd": 2022,
               "bodyType": null,
@@ -3597,7 +3816,7 @@
               ]
             },
             {
-              "name": "Sierra (2018)",
+              "name": "Sierra 1500 (2018)",
               "yearStart": 2018,
               "yearEnd": 2021,
               "bodyType": null,
@@ -3841,7 +4060,7 @@
               ]
             },
             {
-              "name": "Sierra (2013)",
+              "name": "Sierra 1500 (2013)",
               "yearStart": 2013,
               "yearEnd": 2018,
               "bodyType": null,
@@ -4013,7 +4232,7 @@
               ]
             },
             {
-              "name": "Sierra (2013)",
+              "name": "Sierra 1500 (2013)",
               "yearStart": 2013,
               "yearEnd": 2018,
               "bodyType": null,
@@ -4181,7 +4400,7 @@
               ]
             },
             {
-              "name": "Sierra (2013)",
+              "name": "Sierra 1500 (2013)",
               "yearStart": 2013,
               "yearEnd": 2018,
               "bodyType": null,
@@ -4441,7 +4660,7 @@
               ]
             },
             {
-              "name": "Sierra (2008)",
+              "name": "Sierra 1500 (2008)",
               "yearStart": 2008,
               "yearEnd": 2013,
               "bodyType": null,
@@ -4629,7 +4848,7 @@
               ]
             },
             {
-              "name": "Sierra (2008)",
+              "name": "Sierra 1500 (2008)",
               "yearStart": 2008,
               "yearEnd": 2013,
               "bodyType": null,
@@ -4904,7 +5123,7 @@
               ]
             },
             {
-              "name": "Sierra (2007)",
+              "name": "Sierra 1500 (2007)",
               "yearStart": 2007,
               "yearEnd": 2013,
               "bodyType": null,

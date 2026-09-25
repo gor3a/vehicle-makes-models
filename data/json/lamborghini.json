@@ -3539,6 +3539,43 @@
           "yearEnd": null,
           "generations": [
             {
+              "name": "Revuelto (2026)",
+              "yearStart": 2026,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "6.5L V12 8AT 4WD (1065 HP)",
+                  "fuelType": "Hybrid Gasoline",
+                  "cylinders": 12,
+                  "displacementCc": 6498,
+                  "powerHp": 1065,
+                  "torqueNm": null,
+                  "transmission": "8-automatic speed",
+                  "drivetrain": "All Wheel Drive",
+                  "zeroToHundredKmhS": 2.4,
+                  "topSpeedKmh": 344,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "V12",
+                    "ENGINE SPECS / Displacement": "6498 cm3 (397 ci)",
+                    "ENGINE SPECS / Total maximum power": "783.3 kw (1065 hp, 1050 bhp)",
+                    "ENGINE SPECS / Total maximum torque": "1051 lb-ft (1425 Nm)",
+                    "ENGINE SPECS / Fuel": "Hybrid Gasoline",
+                    "PERFORMANCE SPECS / Top Speed": "214 mph (344 km/h)",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "2.4 s",
+                    "TRANSMISSION SPECS / Drive Type": "All Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "8-automatic speed"
+                  }
+                }
+              ]
+            },
+            {
               "name": "Revuelto (2023)",
               "yearStart": 2023,
               "yearEnd": null,

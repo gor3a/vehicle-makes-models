@@ -9465,7 +9465,54 @@
               "yearStart": 2026,
               "yearEnd": null,
               "bodyType": null,
-              "engines": []
+              "engines": [
+                {
+                  "label": "52 KWh",
+                  "fuelType": "Electric",
+                  "cylinders": null,
+                  "displacementCc": null,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "ENGINE SPECS / Fuel System": "Electric",
+                    "ENGINE SPECS / Fuel": "Electric",
+                    "POWER SYSTEM SPECS / Maximum Capacity": "52 kWh"
+                  }
+                },
+                {
+                  "label": "75 KWh",
+                  "fuelType": "Electric",
+                  "cylinders": null,
+                  "displacementCc": null,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "ENGINE SPECS / Fuel System": "Electric",
+                    "ENGINE SPECS / Fuel": "Electric",
+                    "POWER SYSTEM SPECS / Maximum Capacity": "75 kWh"
+                  }
+                }
+              ]
             }
           ]
         },
@@ -31902,7 +31949,75 @@
               "yearStart": 2026,
               "yearEnd": null,
               "bodyType": null,
-              "engines": []
+              "engines": [
+                {
+                  "label": "2.5L CVT FWD (181 HP)",
+                  "fuelType": "Gasoline",
+                  "cylinders": 4,
+                  "displacementCc": null,
+                  "powerHp": 181,
+                  "torqueNm": 244,
+                  "transmission": "CVT",
+                  "drivetrain": "Front Wheel Drive",
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": 4681,
+                  "widthMm": 2065,
+                  "heightMm": 1725,
+                  "wheelbaseMm": 2705,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "L4",
+                    "ENGINE SPECS / Power": "133.1 KW @ 6000 RPM181 HP @ 6000 RPM178 BHP @ 6000 RPM",
+                    "ENGINE SPECS / Torque": "180 lb-ft @ 3600 RPM244 Nm @ 3600 RPM",
+                    "ENGINE SPECS / Fuel System": "Turbocharged Direct Injection",
+                    "ENGINE SPECS / Fuel": "Gasoline",
+                    "ENGINE SPECS / Fuel capacity": "14.5 gallons (54.9 L)",
+                    "TRANSMISSION SPECS / Drive Type": "Front Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "CVT",
+                    "DIMENSIONS / Length": "184.3 in (4681 mm)",
+                    "DIMENSIONS / Width": "81.3 in (2065 mm)",
+                    "DIMENSIONS / Height": "67.9 in (1725 mm)",
+                    "DIMENSIONS / Wheelbase": "106.5 in (2705 mm)",
+                    "DIMENSIONS / Ground Clearance": "8.1 in (206 mm)"
+                  }
+                },
+                {
+                  "label": "1.5L e-Power AWD (204 HP)",
+                  "fuelType": "Hybrid Gasoline",
+                  "cylinders": 3,
+                  "displacementCc": null,
+                  "powerHp": 204,
+                  "torqueNm": null,
+                  "transmission": "CVT",
+                  "drivetrain": "All Wheel Drive",
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": 4681,
+                  "widthMm": 2065,
+                  "heightMm": 1725,
+                  "wheelbaseMm": 2705,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "L3",
+                    "ENGINE SPECS / Total maximum power": "150 kw (204 hp, 201 bhp)",
+                    "ENGINE SPECS / Total maximum torque": "387.2 lb-ft (525 Nm)",
+                    "ENGINE SPECS / Fuel System": "Turbocharged Direct Injection",
+                    "ENGINE SPECS / Fuel": "Hybrid Gasoline",
+                    "ENGINE SPECS / Fuel capacity": "14.5 gallons (54.9 L)",
+                    "TRANSMISSION SPECS / Drive Type": "All Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "CVT",
+                    "DIMENSIONS / Length": "184.3 in (4681 mm)",
+                    "DIMENSIONS / Width": "81.3 in (2065 mm)",
+                    "DIMENSIONS / Height": "67.9 in (1725 mm)",
+                    "DIMENSIONS / Wheelbase": "106.5 in (2705 mm)",
+                    "DIMENSIONS / Ground Clearance": "8.1 in (206 mm)",
+                    "POWER SYSTEM SPECS / Power pack": "Lithium-ion (Li-Ion)"
+                  }
+                }
+              ]
             },
             {
               "name": "X-Trail (2022)",

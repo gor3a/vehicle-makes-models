@@ -7832,7 +7832,49 @@
               "yearStart": 2026,
               "yearEnd": null,
               "bodyType": null,
-              "engines": []
+              "engines": [
+                {
+                  "label": "2.0L VC-Turbo 9AT AWD (268 HP)",
+                  "fuelType": "Gasoline",
+                  "cylinders": 4,
+                  "displacementCc": 1997,
+                  "powerHp": 268,
+                  "torqueNm": 388,
+                  "transmission": "9-automatic speed",
+                  "drivetrain": "All Wheel Drive",
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": 5052,
+                  "widthMm": 2184,
+                  "heightMm": 1770,
+                  "wheelbaseMm": 2901,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "L4",
+                    "ENGINE SPECS / Displacement": "1997 cm3 (122 ci)",
+                    "ENGINE SPECS / Power": "197.1 KW @ 5600 RPM268 HP @ 5600 RPM264 BHP @ 5600 RPM",
+                    "ENGINE SPECS / Torque": "286 lb-ft @ 4400 RPM388 Nm @ 4400 RPM",
+                    "ENGINE SPECS / Fuel System": "Turbocharged Direct Injection",
+                    "ENGINE SPECS / Fuel": "Gasoline",
+                    "TRANSMISSION SPECS / Drive Type": "All Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "9-automatic speed",
+                    "BRAKES SPECS / Front": "Ventilated discs, 350x30 mm",
+                    "BRAKES SPECS / Rear": "Ventilated discs, 330x16 mmVentilated discs, 330x16 mm",
+                    "TIRES SPECS / Tire Size": "255/50 R20; 265/45 R21",
+                    "DIMENSIONS / Length": "198.9 in (5052 mm)",
+                    "DIMENSIONS / Width": "86 in (2184 mm)",
+                    "DIMENSIONS / Height": "69.7 in (1770 mm)",
+                    "DIMENSIONS / Front/rear Track": "66.9/66.9 in (1,699/1,699 mm)",
+                    "DIMENSIONS / Wheelbase": "114.2 in (2901 mm)",
+                    "DIMENSIONS / Ground Clearance": "5.9 in (150 mm)",
+                    "DIMENSIONS / Cargo Volume": "35.8 cuFT (1014 L)",
+                    "DIMENSIONS / Turning circle": "38.7 ft (11.8 m)",
+                    "WEIGHT SPECS / Unladen Weight": "4663 - 4716 lbs (2115 - 2139 kg)",
+                    "WEIGHT SPECS / Gross Weight Limit": "6063 lbs (2750 kg)"
+                  }
+                }
+              ]
             }
           ]
         },

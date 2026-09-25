@@ -17097,7 +17097,7 @@
         },
         {
           "name": "Civic CRX",
-          "yearStart": 1988,
+          "yearStart": 1983,
           "yearEnd": 1993,
           "generations": [
             {
@@ -17229,6 +17229,92 @@
                     "WEIGHT SPECS / Gross Weight Limit": "3240.8 lbs (1470 kg)",
                     "FUEL ECONOMY (NEDC) / Combined": "32.2 mpg US (7.3 L/100Km)",
                     "FUEL ECONOMY (NEDC) / CO2 Emissions": "174 g/km"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Civic CRX (1983)",
+              "yearStart": 1983,
+              "yearEnd": 1987,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "1.3L (71 HP)",
+                  "fuelType": "Gasoline",
+                  "cylinders": null,
+                  "displacementCc": null,
+                  "powerHp": 72,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": 3675,
+                  "widthMm": 1626,
+                  "heightMm": 1290,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "ENGINE SPECS / Power": "52.9 KW @ - RPM72 HP @ - RPM71 BHP @ - RPM",
+                    "ENGINE SPECS / Fuel System": "Direct injection Naturally aspirated",
+                    "ENGINE SPECS / Fuel": "Gasoline",
+                    "DIMENSIONS / Length": "144.7 in (3675 mm)",
+                    "DIMENSIONS / Width": "64 in (1626 mm)",
+                    "DIMENSIONS / Height": "50.8 in (1290 mm)"
+                  }
+                },
+                {
+                  "label": "1.5i (AF) (101 HP)",
+                  "fuelType": "Gasoline",
+                  "cylinders": null,
+                  "displacementCc": null,
+                  "powerHp": 102.4,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": 3675,
+                  "widthMm": 1626,
+                  "heightMm": 1290,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "ENGINE SPECS / Power": "75.3 KW @ - RPM102.4 HP @ - RPM101 BHP @ - RPM",
+                    "ENGINE SPECS / Fuel System": "Direct injection Naturally aspirated",
+                    "ENGINE SPECS / Fuel": "Gasoline",
+                    "DIMENSIONS / Length": "144.7 in (3675 mm)",
+                    "DIMENSIONS / Width": "64 in (1626 mm)",
+                    "DIMENSIONS / Height": "50.8 in (1290 mm)"
+                  }
+                },
+                {
+                  "label": "1.6i (AS) (125 HP)",
+                  "fuelType": "Gasoline",
+                  "cylinders": null,
+                  "displacementCc": null,
+                  "powerHp": 126.7,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": 3675,
+                  "widthMm": 1626,
+                  "heightMm": 1290,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "ENGINE SPECS / Power": "93.2 KW @ - RPM126.7 HP @ - RPM125 BHP @ - RPM",
+                    "ENGINE SPECS / Fuel System": "Direct injection Naturally aspirated",
+                    "ENGINE SPECS / Fuel": "Gasoline",
+                    "DIMENSIONS / Length": "144.7 in (3675 mm)",
+                    "DIMENSIONS / Width": "64 in (1626 mm)",
+                    "DIMENSIONS / Height": "50.8 in (1290 mm)"
                   }
                 }
               ]
@@ -29315,6 +29401,49 @@
                     "FUEL ECONOMY (NEDC) / Highway": "33.6 mpg US (7 L/100Km)",
                     "FUEL ECONOMY (NEDC) / Combined": "27.4 mpg US (8.6 L/100Km)",
                     "FUEL ECONOMY (NEDC) / CO2 Emissions": "205 g/km"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Super-N",
+          "yearStart": 2026,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Super-N (2026)",
+              "yearStart": 2026,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "29.6 kWh",
+                  "fuelType": "Electric",
+                  "cylinders": null,
+                  "displacementCc": null,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": "1-speed automatic",
+                  "drivetrain": "Front Wheel Drive",
+                  "zeroToHundredKmhS": 10,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "ENGINE SPECS / Fuel System": "Electric",
+                    "ENGINE SPECS / Fuel": "Electric",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "10 s",
+                    "TRANSMISSION SPECS / Drive Type": "Front Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "1-speed automatic",
+                    "POWER SYSTEM SPECS / Power pack": "Lithium-ion (Li-Ion)",
+                    "POWER SYSTEM SPECS / Maximum Capacity": "29.6 kWh",
+                    "POWER SYSTEM SPECS / Range": "128 miles (206.0 km)"
                   }
                 }
               ]

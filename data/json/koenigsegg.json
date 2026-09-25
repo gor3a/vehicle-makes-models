@@ -324,6 +324,20 @@
           ]
         },
         {
+          "name": "CCGT",
+          "yearStart": 2026,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "CCGT (2026)",
+              "yearStart": 2026,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
           "name": "CCR",
           "yearStart": 2004,
           "yearEnd": 2006,
@@ -737,7 +751,47 @@
               "yearStart": 2025,
               "yearEnd": null,
               "bodyType": null,
-              "engines": []
+              "engines": [
+                {
+                  "label": "5.0L V8 9AT RWD (1300/1625 HP)",
+                  "fuelType": "Gasoline",
+                  "cylinders": 8,
+                  "displacementCc": null,
+                  "powerHp": 1300,
+                  "torqueNm": 1000,
+                  "transmission": "9-automatic speed LST",
+                  "drivetrain": "Rear Wheel Drive",
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": 4689,
+                  "widthMm": 2029,
+                  "heightMm": 1209,
+                  "wheelbaseMm": 2700,
+                  "curbWeightKg": 1320,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "V8",
+                    "ENGINE SPECS / Power": "956.1 KW @ 7800 RPM1300 HP @ 7800 RPM1282 BHP @ 7800 RPM",
+                    "ENGINE SPECS / Torque": "738 lb-ft @ 2700-6170 RPM1000 Nm @ 2700-6170 RPM",
+                    "ENGINE SPECS / Fuel System": "Multi-port manifold injection",
+                    "ENGINE SPECS / Fuel": "Gasoline",
+                    "ENGINE SPECS / Fuel capacity": "19 gallons (71.9 L)",
+                    "TRANSMISSION SPECS / Drive Type": "Rear Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "9-automatic speed LST",
+                    "BRAKES SPECS / Front": "Ventilated discs, 410x38 mm",
+                    "BRAKES SPECS / Rear": "Ventilated discs, 395x32 mm",
+                    "TIRES SPECS / Tire Size": "275/35 R20 // 335/30 R21",
+                    "DIMENSIONS / Length": "184.6 in (4689 mm)",
+                    "DIMENSIONS / Width": "79.9 in (2029 mm)",
+                    "DIMENSIONS / Height": "47.6 in (1209 mm)",
+                    "DIMENSIONS / Wheelbase": "106.3 in (2700 mm)",
+                    "DIMENSIONS / Ground Clearance": "2.8 in (71 mm)",
+                    "DIMENSIONS / Cargo Volume": "1.8 cuFT (51 L)",
+                    "DIMENSIONS / Turning circle": "36.1 ft (11.0 m)",
+                    "WEIGHT SPECS / Unladen Weight": "2910 lbs (1320 kg)"
+                  }
+                }
+              ]
             }
           ]
         }

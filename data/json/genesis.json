@@ -2624,6 +2624,51 @@
               "engines": []
             }
           ]
+        },
+        {
+          "name": "GV90",
+          "yearStart": 2026,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "GV90 (2026)",
+              "yearStart": 2026,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "123.5 KWh",
+                  "fuelType": "Electric",
+                  "cylinders": null,
+                  "displacementCc": null,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": 5286,
+                  "widthMm": 2029,
+                  "heightMm": 1816,
+                  "wheelbaseMm": 3246,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "ENGINE SPECS / Fuel System": "Electric",
+                    "ENGINE SPECS / Fuel": "Electric",
+                    "BRAKES SPECS / Front": "Ventilated Discs",
+                    "BRAKES SPECS / Rear": "Ventilated Discs",
+                    "DIMENSIONS / Length": "208.1 in (5286 mm)",
+                    "DIMENSIONS / Width": "79.9 in (2029 mm)",
+                    "DIMENSIONS / Height": "71.5 in (1816 mm)",
+                    "DIMENSIONS / Wheelbase": "127.8 in (3246 mm)",
+                    "POWER SYSTEM SPECS / Maximum Capacity": "123.5 kWh",
+                    "POWER SYSTEM SPECS / Range": "310.7 miles (500.0 km)"
+                  }
+                }
+              ]
+            }
+          ]
         }
       ]
     }

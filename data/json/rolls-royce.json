@@ -810,7 +810,38 @@
               "yearStart": 2023,
               "yearEnd": null,
               "bodyType": null,
-              "engines": []
+              "engines": [
+                {
+                  "label": "6.75L V12 AWD (593 HP)",
+                  "fuelType": "Gasoline",
+                  "cylinders": 12,
+                  "displacementCc": null,
+                  "powerHp": 593,
+                  "torqueNm": 840,
+                  "transmission": null,
+                  "drivetrain": "All Wheel Drive",
+                  "zeroToHundredKmhS": 5,
+                  "topSpeedKmh": 254,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "V12",
+                    "ENGINE SPECS / Power": "436.2 KW @ - RPM593 HP @ - RPM585 BHP @ - RPM",
+                    "ENGINE SPECS / Torque": "620 lb-ft @ - RPM840 Nm @ - RPM",
+                    "ENGINE SPECS / Fuel System": "Turbocharged Direct inection",
+                    "ENGINE SPECS / Fuel": "Gasoline",
+                    "PERFORMANCE SPECS / Top Speed": "158 mph (254 km/h)",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "5 s",
+                    "TRANSMISSION SPECS / Drive Type": "All Wheel Drive",
+                    "BRAKES SPECS / Front": "Ventilated Discs",
+                    "BRAKES SPECS / Rear": "Ventilated Discs"
+                  }
+                }
+              ]
             }
           ]
         },
@@ -2071,7 +2102,39 @@
               "yearStart": 2025,
               "yearEnd": null,
               "bodyType": null,
-              "engines": []
+              "engines": [
+                {
+                  "label": "Dual Motor 120 KWh AWD (650 HP)",
+                  "fuelType": "Electric",
+                  "cylinders": null,
+                  "displacementCc": null,
+                  "powerHp": 650,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": "All Wheel Drive",
+                  "zeroToHundredKmhS": 4.4,
+                  "topSpeedKmh": 249,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "ENGINE SPECS / Total maximum power": "478.1 kw (650 hp, 641 bhp)",
+                    "ENGINE SPECS / Total maximum torque": "664 lb-ft (900 Nm)",
+                    "ENGINE SPECS / Fuel System": "Electric",
+                    "ENGINE SPECS / Fuel": "Electric",
+                    "PERFORMANCE SPECS / Top speed (electrical)": "155 mph (249 km/h)",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "4.4 s",
+                    "TRANSMISSION SPECS / Drive Type": "All Wheel Drive",
+                    "BRAKES SPECS / Front": "Ventilated discs",
+                    "BRAKES SPECS / Rear": "Ventilated discs",
+                    "POWER SYSTEM SPECS / Maximum Capacity": "120 kWh",
+                    "POWER SYSTEM SPECS / Range": "306 miles (492.5 km)"
+                  }
+                }
+              ]
             },
             {
               "name": "Spectre (2022)",

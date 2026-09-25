@@ -125,9 +125,10 @@ audi,Audi,80 S2,1993,1995
 audi,Audi,80/ 90,1984,1995
 audi,Audi,80/ 90 Avant,1991,1995
 audi,Audi,90,1987,1991
-audi,Audi,A1,2010,
+audi,Audi,A1,2010,2026
 audi,Audi,A1 Quattro,2012,2013
 audi,Audi,A2,1999,2005
+audi,Audi,A2 e-tron,2026,
 audi,Audi,A3,1996,
 audi,Audi,A3 allstreet,2024,
 audi,Audi,A4,1994,2025
@@ -137,10 +138,11 @@ audi,Audi,A4 DTM Edition,2005,2007
 audi,Audi,A5,2007,
 audi,Audi,A5 Avant,2024,
 audi,Audi,A6,1994,
+audi,Audi,A6 allroad,2012,
+audi,Audi,A6 Allroad SUV,2000,2011
 audi,Audi,A6 Avant,1994,
 audi,Audi,A7,2010,2025
 audi,Audi,A8,1994,
-audi,Audi,Allroad,2000,
 audi,Audi,Cabriolet,1991,2000
 audi,Audi,Coupe,1981,1996
 audi,Audi,Coupe S2,1990,1996
@@ -157,6 +159,7 @@ audi,Audi,Q6,2024,
 audi,Audi,Q7,2006,
 audi,Audi,Q8,2018,
 audi,Audi,Q8 e-tron,2022,
+audi,Audi,Q9,2026,
 audi,Audi,Quattro,1980,1991
 audi,Audi,R8,2007,
 audi,Audi,R8 GT,2010,2024
@@ -187,7 +190,8 @@ audi,Audi,SQ6,2024,
 audi,Audi,SQ7,2016,
 audi,Audi,SQ8,2019,
 audi,Audi,SQ8 e-tron,2023,
-audi,Audi,TT,1998,
+audi,Audi,SQ9,2026,
+audi,Audi,TT,1998,2023
 audi,Audi,TT RS,2009,2023
 audi,Audi,V8,1988,1994
 aurus,Aurus,Senat,2018,
@@ -197,13 +201,13 @@ bentley,Bentley,Azure,1995,2011
 bentley,Bentley,Batur,2024,
 bentley,Bentley,Bentayga,2015,
 bentley,Bentley,Bentayga Speed,2019,
-bentley,Bentley,Brooklands,1992,2011
+bentley,Bentley,Brooklands,2007,2011
 bentley,Bentley,Continental,1952,2013
 bentley,Bentley,Continental Flying Spur,2005,2013
 bentley,Bentley,Continental GT,2011,
 bentley,Bentley,Continental GTC,2006,
 bentley,Bentley,Flying Spur,2014,
-bentley,Bentley,Mulliner,2020,
+bentley,Bentley,Mulliner,2020,2023
 bentley,Bentley,Mulsanne,2009,2020
 bentley,Bentley,State Limousine,,
 bentley,Bentley,T1,1965,1976
@@ -246,6 +250,7 @@ bmw,BMW,iX M,2022,2025
 bmw,BMW,iX1,2022,
 bmw,BMW,iX2,2023,
 bmw,BMW,iX3,2020,
+bmw,BMW,iX5,2026,
 bmw,BMW,M1,1978,1981
 bmw,BMW,M2,2015,
 bmw,BMW,M2 CS,2019,
@@ -297,6 +302,7 @@ bugatti,Bugatti,Bolide,2022,
 bugatti,Bugatti,Brouillard,2025,
 bugatti,Bugatti,Centodieci,2019,2022
 bugatti,Bugatti,Chiron,2016,
+bugatti,Bugatti,Destrier,2026,
 bugatti,Bugatti,Divo,2018,2021
 bugatti,Bugatti,EB 110,1991,1995
 bugatti,Bugatti,La Voiture Noire,2019,2019
@@ -336,6 +342,7 @@ byd,BYD,ATTO 2,2025,
 byd,BYD,ATTO 3,2022,
 byd,BYD,DOLPHIN,2025,
 byd,BYD,Sealion 7,2024,
+byd,BYD,Shark,2026,
 cadillac,Cadillac,Allante,1987,1993
 cadillac,Cadillac,ATS,2012,2019
 cadillac,Cadillac,ATS-V,2015,2019
@@ -435,7 +442,8 @@ chevrolet,Chevrolet,Onix,2012,2019
 chevrolet,Chevrolet,Orlando,2010,2018
 chevrolet,Chevrolet,Prisma,2013,2016
 chevrolet,Chevrolet,S-10,1997,2004
-chevrolet,Chevrolet,Silverado,2008,
+chevrolet,Chevrolet,Silverado,2013,
+chevrolet,Chevrolet,Silverado 1500,2008,
 chevrolet,Chevrolet,Silverado 2500HD,2007,
 chevrolet,Chevrolet,Silverado 3500HD,2008,2013
 chevrolet,Chevrolet,Silverado Hybrid,2008,2013
@@ -683,6 +691,7 @@ ferrari,Ferrari,612 Scaglietti,2004,2011
 ferrari,Ferrari,812,2017,2024
 ferrari,Ferrari,Amalfi,2025,
 ferrari,Ferrari,California T,2014,2017
+ferrari,Ferrari,CZ26,2026,
 ferrari,Ferrari,Daytona,2021,
 ferrari,Ferrari,Dino,1968,1980
 ferrari,Ferrari,F12 Berlinetta,2012,2015
@@ -906,8 +915,12 @@ genesis,Genesis,G90,2016,
 genesis,Genesis,GV60,2022,
 genesis,Genesis,GV70,2020,
 genesis,Genesis,GV80,2023,
+genesis,Genesis,GV90,2026,
 gmc,GMC,Acadia,2007,2023
 gmc,GMC,Canyon,2004,2021
+gmc,GMC,CANYON AT4,2022,
+gmc,GMC,CANYON AT4X,2022,
+gmc,GMC,CANYON DENALI,2022,
 gmc,GMC,Canyon Regular Cab,2004,2013
 gmc,GMC,Envoy,2001,2009
 gmc,GMC,Envoy XL,2001,2006
@@ -917,7 +930,7 @@ gmc,GMC,Hummer EV SUV,2023,
 gmc,GMC,Jimmy,1997,2001
 gmc,GMC,Safari,1994,2005
 gmc,GMC,Savana,1995,
-gmc,GMC,Sierra,2007,
+gmc,GMC,Sierra 1500,2007,
 gmc,GMC,Sierra 2500HD,2008,2022
 gmc,GMC,Sierra 3500HD,2008,2019
 gmc,GMC,Terrain,2009,
@@ -983,7 +996,7 @@ honda,Honda,Avancier,1999,2003
 honda,Honda,Beat,1991,1996
 honda,Honda,Civic,1972,
 honda,Honda,Civic Aero Deck,1998,2001
-honda,Honda,Civic CRX,1988,1993
+honda,Honda,Civic CRX,1983,1993
 honda,Honda,Civic Shuttle,1987,1993
 honda,Honda,Civic Si Sedan US,2024,
 honda,Honda,Civic Tourer,2013,2017
@@ -1021,6 +1034,7 @@ honda,Honda,S800,1966,1970
 honda,Honda,S800C,1966,1970
 honda,Honda,Shuttle,1995,2001
 honda,Honda,Stream,2000,2009
+honda,Honda,Super-N,2026,
 honda,Honda,That's,2002,2007
 honda,Honda,ZR-V,2023,
 hongqi,Hongqi,E-HS9,2020,
@@ -1175,6 +1189,7 @@ karma,Karma,Revero GT,2019,
 karma,Karma,Revero GTS,2019,
 kgm,KGM,Actyon,2024,
 kgm,KGM,Korando,2023,
+kgm,KGM,Musso,2025,
 kgm,KGM,Rexton,2023,
 kgm,KGM,Tivoli,2023,
 kgm,KGM,Torres,2023,
@@ -1197,10 +1212,11 @@ kia,Kia,Forte 5 Door,2010,2018
 kia,Kia,Forte Koup,2009,2016
 kia,Kia,Joice,1999,2003
 kia,Kia,K4,2024,
+kia,Kia,K4 Sportswagon,2026,
 kia,Kia,K5,2019,
 kia,Kia,K7 / Cadenza,2013,2019
 kia,Kia,K9,2012,2021
-kia,Kia,Niro,2016,2021
+kia,Kia,Niro,2016,
 kia,Kia,Opirus / Amanti,2003,2010
 kia,Kia,Optima / Magentis,2001,
 kia,Kia,Optima Sportswagon,2016,2019
@@ -1226,6 +1242,7 @@ kia,Kia,Venga,2009,2019
 kia,Kia,XCeed,2019,
 koenigsegg,Koenigsegg,Agera,2010,2016
 koenigsegg,Koenigsegg,CC8S,2002,2005
+koenigsegg,Koenigsegg,CCGT,2026,
 koenigsegg,Koenigsegg,CCR,2004,2006
 koenigsegg,Koenigsegg,CCX,2006,2010
 koenigsegg,Koenigsegg,CCXR,2007,2010
@@ -1308,7 +1325,7 @@ land-rover,Land Rover,Range Rover PHEV,2013,2022
 land-rover,Land Rover,Range Rover Sport,2005,
 land-rover,Land Rover,Range Rover Sport PHEV,2017,2022
 land-rover,Land Rover,Range Rover Sport SVR,2015,2022
-land-rover,Land Rover,Range Rover Velar,2017,
+land-rover,Land Rover,Range Rover Velar,2017,2023
 leapmotor,Leapmotor,C01,2022,
 leapmotor,Leapmotor,C10,2024,
 leapmotor,Leapmotor,C11,2021,
@@ -1478,10 +1495,12 @@ mclaren,McLaren,MP4-12C,2011,2015
 mclaren,McLaren,P1,2013,2015
 mclaren,McLaren,Senna,2018,2020
 mclaren,McLaren,Speedtail,2018,
+mclaren,McLaren,W1,2026,
 mercedes-amg,Mercedes-AMG,A-Class,2015,2023
 mercedes-amg,Mercedes-AMG,C-Class,2015,
 mercedes-amg,Mercedes-AMG,C-CLASS,2015,
 mercedes-amg,Mercedes-AMG,C-CLASS T-MODELL,2018,2021
+mercedes-amg,Mercedes-AMG,CLA 45 Shooting Brake,2026,
 mercedes-amg,Mercedes-AMG,CLA Shooting brake,2015,
 mercedes-amg,Mercedes-AMG,CLA-Class,2016,
 mercedes-amg,Mercedes-AMG,CLE,2023,
@@ -1634,9 +1653,9 @@ mitsubishi,Mitsubishi,Attrage,2013,2024
 mitsubishi,Mitsubishi,Carisma,1995,2004
 mitsubishi,Mitsubishi,Colt,1988,
 mitsubishi,Mitsubishi,Colt CZC,2006,2012
-mitsubishi,Mitsubishi,Eclipse,1989,2012
+mitsubishi,Mitsubishi,Eclipse,1989,
 mitsubishi,Mitsubishi,Eclipse Cross,2017,
-mitsubishi,Mitsubishi,Endeavor,2002,2011
+mitsubishi,Mitsubishi,Endeavor,2002,2007
 mitsubishi,Mitsubishi,Galant,1988,2012
 mitsubishi,Mitsubishi,Galant Station,1997,2001
 mitsubishi,Mitsubishi,Grandis,2005,2011
@@ -1644,7 +1663,7 @@ mitsubishi,Mitsubishi,i-MiEV,2009,2021
 mitsubishi,Mitsubishi,L 200,1995,2019
 mitsubishi,Mitsubishi,L300,1986,1994
 mitsubishi,Mitsubishi,Lancer,1988,2017
-mitsubishi,Mitsubishi,Lancer Combi,1989,2006
+mitsubishi,Mitsubishi,Lancer Combi,1988,2006
 mitsubishi,Mitsubishi,Lancer Evolution,1992,2016
 mitsubishi,Mitsubishi,Mirage,2012,2024
 mitsubishi,Mitsubishi,Mirage G4,2013,2019
@@ -1663,6 +1682,7 @@ morgan,Morgan,Aero,2012,2016
 morgan,Morgan,Aero 8,2001,2018
 morgan,Morgan,Aero SuperSports,2009,2016
 morgan,Morgan,AeroMax,2005,2011
+morgan,Morgan,Midsummer,2026,
 morgan,Morgan,Plus 4,2005,
 morgan,Morgan,Plus 8,2012,2018
 morgan,Morgan,Plus Six,2019,
@@ -1919,6 +1939,7 @@ porsche,Porsche,911 GT2,1995,2009
 porsche,Porsche,911 GT2 RS,2010,2019
 porsche,Porsche,911 GT3,1999,
 porsche,Porsche,911 GT3 RS,2004,2019
+porsche,Porsche,911 GT3 S-C,2026,
 porsche,Porsche,911 R,2016,2019
 porsche,Porsche,911 Sport Classic,2010,2012
 porsche,Porsche,911 Targa,1967,1997
@@ -1953,6 +1974,7 @@ porsche,Porsche,Cayenne S Hybrid,2010,2014
 porsche,Porsche,Cayenne S TransSyberia,2009,2011
 porsche,Porsche,Cayenne Turbo,2002,2023
 porsche,Porsche,Cayenne Turbo E-Hybrid,2023,
+porsche,Porsche,Cayenne Turbo Electric,2026,
 porsche,Porsche,Cayenne Turbo S,2006,2017
 porsche,Porsche,Cayenne Turbo S E-Hybrid,2019,2023
 porsche,Porsche,Cayman,2006,2016
@@ -2061,6 +2083,7 @@ renault,Renault,Logan,2014,2022
 renault,Renault,Megane,1996,
 renault,Renault,Megane E-Tech,2021,
 renault,Renault,Modus,2005,2012
+renault,Renault,Niagara,2026,
 renault,Renault,Pulse,2011,2017
 renault,Renault,Rafale,2023,
 renault,Renault,Safrane,1992,2000
@@ -2205,6 +2228,7 @@ skoda,Škoda,SKODA Octavia Combi 4x4,2009,2020
 skoda,Škoda,SKODA Octavia Combi RS,2002,
 skoda,Škoda,SKODA Octavia RS,2001,
 skoda,Škoda,SKODA Octavia Scout,2006,
+skoda,Škoda,SKODA Peaq,2026,
 skoda,Škoda,SKODA Rapid,2011,2021
 skoda,Škoda,SKODA Rapid Spaceback,2013,2019
 skoda,Škoda,SKODA Roomster,2006,2015
@@ -2478,6 +2502,7 @@ volkswagen,Volkswagen,Golf R Variant,2015,
 volkswagen,Volkswagen,Golf Sportsvan,2014,2020
 volkswagen,Volkswagen,Golf Variant,1993,
 volkswagen,Volkswagen,ID. Buzz,2023,
+volkswagen,Volkswagen,ID. California Cruise,,
 volkswagen,Volkswagen,ID.3,2020,
 volkswagen,Volkswagen,ID.3 GTX,2024,
 volkswagen,Volkswagen,ID.4,2020,
@@ -2487,6 +2512,7 @@ volkswagen,Volkswagen,ID.7,2023,
 volkswagen,Volkswagen,ID.7 GTX,2024,
 volkswagen,Volkswagen,ID.7 GTX Tourer,2024,
 volkswagen,Volkswagen,ID.7 Tourer,2024,
+volkswagen,Volkswagen,ID.Cross,2026,
 volkswagen,Volkswagen,ID.Polo GTI,2026,
 volkswagen,Volkswagen,Jetta / Vento / Bora,1992,
 volkswagen,Volkswagen,Jetta GLI,2021,
@@ -2549,10 +2575,12 @@ volvo,Volvo,960,1990,1997
 volvo,Volvo,C30,2006,2013
 volvo,Volvo,C40,2021,
 volvo,Volvo,C70,1996,2013
+volvo,Volvo,EC40,2026,
 volvo,Volvo,EM90,2023,
 volvo,Volvo,ES90,2025,
 volvo,Volvo,EX30,2023,
 volvo,Volvo,EX30 Cross Country,2025,
+volvo,Volvo,EX40,2026,
 volvo,Volvo,EX60,2026,
 volvo,Volvo,EX60 Cross Country,2026,
 volvo,Volvo,EX90,2022,

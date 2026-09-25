@@ -66,7 +66,38 @@
               "yearStart": 2025,
               "yearEnd": null,
               "bodyType": null,
-              "engines": []
+              "engines": [
+                {
+                  "label": "8.0L W16 7AT AWD (1600 HP)",
+                  "fuelType": "Gasoline",
+                  "cylinders": 16,
+                  "displacementCc": 7993,
+                  "powerHp": 1600,
+                  "torqueNm": 1600,
+                  "transmission": "7-automatic speed DCT",
+                  "drivetrain": "All Wheel Drive",
+                  "zeroToHundredKmhS": 2.5,
+                  "topSpeedKmh": 380,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "W16",
+                    "ENGINE SPECS / Displacement": "7993 cm3 (488 ci)",
+                    "ENGINE SPECS / Power": "1176.8 KW @ 6700 RPM1600 HP @ 6700 RPM1578 BHP @ 6700 RPM",
+                    "ENGINE SPECS / Torque": "1180 lb-ft @ 2000-6000 RPM1600 Nm @ 2000-6000 RPM",
+                    "ENGINE SPECS / Fuel System": "Turbocharged Direct Injection",
+                    "ENGINE SPECS / Fuel": "Gasoline",
+                    "PERFORMANCE SPECS / Top Speed": "236 mph (380 km/h)",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "2.5 s",
+                    "TRANSMISSION SPECS / Drive Type": "All Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "7-automatic speed DCT"
+                  }
+                }
+              ]
             }
           ]
         },
@@ -325,6 +356,20 @@
                   }
                 }
               ]
+            }
+          ]
+        },
+        {
+          "name": "Destrier",
+          "yearStart": 2026,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Destrier (2026)",
+              "yearStart": 2026,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
             }
           ]
         },

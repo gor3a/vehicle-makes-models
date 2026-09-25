@@ -1424,7 +1424,41 @@
               "yearStart": 2023,
               "yearEnd": null,
               "bodyType": null,
-              "engines": []
+              "engines": [
+                {
+                  "label": "Dual Motor 102 KWh AWD (612 HP)",
+                  "fuelType": "Electric",
+                  "cylinders": null,
+                  "displacementCc": null,
+                  "powerHp": 612,
+                  "torqueNm": null,
+                  "transmission": "1-automatic speed",
+                  "drivetrain": "All Wheel Drive",
+                  "zeroToHundredKmhS": 4.15,
+                  "topSpeedKmh": 249,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "ENGINE SPECS / Total maximum power": "450.1 kw (612 hp, 604 bhp)",
+                    "ENGINE SPECS / Total maximum torque": "523.7 lb-ft (710 Nm)",
+                    "ENGINE SPECS / Fuel System": "Electric",
+                    "ENGINE SPECS / Fuel": "Electric",
+                    "PERFORMANCE SPECS / Top speed (electrical)": "155 mph (249 km/h)",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "4.15 s",
+                    "TRANSMISSION SPECS / Drive Type": "All Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "1-automatic speed",
+                    "BRAKES SPECS / Front": "Ventilated discs",
+                    "BRAKES SPECS / Rear": "Ventilated discs",
+                    "POWER SYSTEM SPECS / Power pack": "Ternary lithium ion battery",
+                    "POWER SYSTEM SPECS / Maximum Capacity": "102 kWh",
+                    "POWER SYSTEM SPECS / Range": "335.5 miles (539.9 km)"
+                  }
+                }
+              ]
             }
           ]
         },

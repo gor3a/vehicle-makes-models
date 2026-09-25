@@ -4977,7 +4977,7 @@
               "bodyType": null,
               "engines": [
                 {
-                  "label": "1.4L 4MT (62 HP)",
+                  "label": "1.4L 4MT FWD (62 HP)",
                   "fuelType": "Gasoline",
                   "cylinders": 4,
                   "displacementCc": 1360,
@@ -5000,7 +5000,7 @@
                     "ENGINE SPECS / Torque": "78 lb-ft @ 2600 RPM106 Nm @ 2600 RPM",
                     "ENGINE SPECS / Fuel System": "Carburetor",
                     "ENGINE SPECS / Fuel": "Gasoline",
-                    "ENGINE SPECS / Fuel capacity": "1.3 gallons (4.9 L)",
+                    "ENGINE SPECS / Fuel capacity": "13.7 gallons (51.9 L)",
                     "PERFORMANCE SPECS / Top Speed": "96.3 mph (155 km/h)",
                     "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "15.6 s",
                     "TRANSMISSION SPECS / Drive Type": "Front Wheel Drive",
@@ -5022,7 +5022,7 @@
                   }
                 },
                 {
-                  "label": "1.4L 5MT (72 HP)",
+                  "label": "1.4L 5MT FWD (72 HP)",
                   "fuelType": "Gasoline",
                   "cylinders": 4,
                   "displacementCc": 1360,
@@ -5067,7 +5067,7 @@
                   }
                 },
                 {
-                  "label": "1.6L 4AT (94 HP)",
+                  "label": "1.6L 4AT FWD (94 HP)",
                   "fuelType": "Gasoline",
                   "cylinders": 4,
                   "displacementCc": 1580,
@@ -5112,7 +5112,7 @@
                   }
                 },
                 {
-                  "label": "1.6L 5MT (94 HP)",
+                  "label": "1.6L 5MT FWD (94 HP)",
                   "fuelType": "Gasoline",
                   "cylinders": 4,
                   "displacementCc": 1580,
@@ -5157,7 +5157,7 @@
                   }
                 },
                 {
-                  "label": "1.9L 5MT (105 HP)",
+                  "label": "1.9L 5MT FWD (105 HP)",
                   "fuelType": "Gasoline",
                   "cylinders": 4,
                   "displacementCc": 1905,
@@ -5180,7 +5180,7 @@
                     "ENGINE SPECS / Torque": "117 lb-ft @ 3000 RPM158 Nm @ 3000 RPM",
                     "ENGINE SPECS / Fuel System": "Carburetor",
                     "ENGINE SPECS / Fuel": "Gasoline",
-                    "ENGINE SPECS / Fuel capacity": "1.3 gallons (4.9 L)",
+                    "ENGINE SPECS / Fuel capacity": "13.7 gallons (51.9 L)",
                     "PERFORMANCE SPECS / Top Speed": "115 mph (185 km/h)",
                     "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "10 s",
                     "TRANSMISSION SPECS / Drive Type": "Front Wheel Drive",
@@ -5202,7 +5202,7 @@
                   }
                 },
                 {
-                  "label": "1.9L 5MT (126 HP)",
+                  "label": "1.9L 5MT FWD (126 HP)",
                   "fuelType": "Gasoline",
                   "cylinders": 4,
                   "displacementCc": 1905,
@@ -5247,7 +5247,7 @@
                   }
                 },
                 {
-                  "label": "1.9L D 4AT (65 HP)",
+                  "label": "1.9L D 4AT FWD (65 HP)",
                   "fuelType": "Diesel",
                   "cylinders": 4,
                   "displacementCc": 1905,
@@ -5292,7 +5292,7 @@
                   }
                 },
                 {
-                  "label": "1.9L D 5MT (65 HP)",
+                  "label": "1.9L D 5MT FWD (65 HP)",
                   "fuelType": "Diesel",
                   "cylinders": 4,
                   "displacementCc": 1905,

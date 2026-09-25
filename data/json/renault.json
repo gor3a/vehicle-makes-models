@@ -10548,7 +10548,92 @@
               "yearStart": 2025,
               "yearEnd": null,
               "bodyType": null,
-              "engines": []
+              "engines": [
+                {
+                  "label": "1.3L TCe 6AT FWD (156 HP)",
+                  "fuelType": "Gasoline",
+                  "cylinders": 4,
+                  "displacementCc": 1333,
+                  "powerHp": 156,
+                  "torqueNm": 270,
+                  "transmission": "6-automatic speed DCT",
+                  "drivetrain": "Front Wheel Drive",
+                  "zeroToHundredKmhS": 9.8,
+                  "topSpeedKmh": 180,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": 4557,
+                  "widthMm": 1842,
+                  "heightMm": 1651,
+                  "wheelbaseMm": 2703,
+                  "curbWeightKg": 1438,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "L4",
+                    "ENGINE SPECS / Displacement": "1333 cm3 (81 ci)",
+                    "ENGINE SPECS / Power": "114.7 KW @ 5000 RPM156 HP @ 5000 RPM154 BHP @ 5000 RPM",
+                    "ENGINE SPECS / Torque": "199 lb-ft @ 2000-2500 RPM270 Nm @ 2000-2500 RPM",
+                    "ENGINE SPECS / Fuel System": "Turbocharged Direct Injection",
+                    "ENGINE SPECS / Fuel": "Gasoline",
+                    "ENGINE SPECS / Fuel capacity": "13.2 gallons (50.0 L)",
+                    "PERFORMANCE SPECS / Top Speed": "112 mph (180 km/h)",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "9.8 s",
+                    "TRANSMISSION SPECS / Drive Type": "Front Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "6-automatic speed DCT",
+                    "TIRES SPECS / Tire Size": "225/55 R18 98H; 205/55 R19 99V",
+                    "DIMENSIONS / Length": "179.4 in (4557 mm)",
+                    "DIMENSIONS / Width": "72.5 in (1842 mm)",
+                    "DIMENSIONS / Height": "65 in (1651 mm)",
+                    "DIMENSIONS / Front/rear Track": "61.4/61.3 in (1,560/1,557 mm)",
+                    "DIMENSIONS / Wheelbase": "106.4 in (2703 mm)",
+                    "DIMENSIONS / Ground Clearance": "8.4 in (213 mm)",
+                    "DIMENSIONS / Cargo Volume": "20.7 cuFT (586 L)",
+                    "WEIGHT SPECS / Unladen Weight": "3170 lbs (1438 kg)",
+                    "WEIGHT SPECS / Gross Weight Limit": "4158 lbs (1886 kg)",
+                    "FUEL ECONOMY (NEDC) / City": "21 mpg US (11.2 L/100Km)",
+                    "FUEL ECONOMY (NEDC) / Highway": "17.3 mpg US (13.6 L/100Km)"
+                  }
+                },
+                {
+                  "label": "1.3L TCe FlexFuel 6AT FWD (156/163 HP)",
+                  "fuelType": "Gasoline",
+                  "cylinders": 4,
+                  "displacementCc": 1333,
+                  "powerHp": 156,
+                  "torqueNm": 270,
+                  "transmission": "6-automatic speed DCT",
+                  "drivetrain": "Front Wheel Drive",
+                  "zeroToHundredKmhS": 9.5,
+                  "topSpeedKmh": 180,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": 4557,
+                  "widthMm": 1842,
+                  "heightMm": 1651,
+                  "wheelbaseMm": 2703,
+                  "curbWeightKg": 1438,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "L4",
+                    "ENGINE SPECS / Displacement": "1333 cm3 (81 ci)",
+                    "ENGINE SPECS / Power": "114.7 KW @ 5250 RPM156 HP @ 5250 RPM154 BHP @ 5250 RPM",
+                    "ENGINE SPECS / Torque": "199 lb-ft @ 1750-2000 RPM270 Nm @ 1750-2000 RPM",
+                    "ENGINE SPECS / Fuel System": "Turbocharged Direct Injection",
+                    "ENGINE SPECS / Fuel": "Gasoline",
+                    "ENGINE SPECS / Fuel capacity": "13.2 gallons (50.0 L)",
+                    "PERFORMANCE SPECS / Top Speed": "112 mph (180 km/h)",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "9.5 s",
+                    "TRANSMISSION SPECS / Drive Type": "Front Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "6-automatic speed DCT",
+                    "TIRES SPECS / Tire Size": "225/55 R18 98H; 205/55 R19 99V",
+                    "DIMENSIONS / Length": "179.4 in (4557 mm)",
+                    "DIMENSIONS / Width": "72.5 in (1842 mm)",
+                    "DIMENSIONS / Height": "65 in (1651 mm)",
+                    "DIMENSIONS / Front/rear Track": "61.4/61.3 in (1,560/1,557 mm)",
+                    "DIMENSIONS / Wheelbase": "106.4 in (2703 mm)",
+                    "DIMENSIONS / Ground Clearance": "8.4 in (213 mm)",
+                    "DIMENSIONS / Cargo Volume": "20.7 cuFT (586 L)",
+                    "WEIGHT SPECS / Unladen Weight": "3170 lbs (1438 kg)",
+                    "WEIGHT SPECS / Gross Weight Limit": "4158 lbs (1886 kg)"
+                  }
+                }
+              ]
             }
           ]
         },
@@ -13707,7 +13792,7 @@
                     "ENGINE SPECS / Torque": "147 lb-ft @ 1900 RPM199 Nm @ 1900 RPM",
                     "ENGINE SPECS / Fuel System": "Turbocharged Common Rail",
                     "ENGINE SPECS / Fuel": "Diesel",
-                    "ENGINE SPECS / Fuel capacity": "1.3 gallons (4.9 L)",
+                    "ENGINE SPECS / Fuel capacity": "14.5 gallons (54.9 L)",
                     "PERFORMANCE SPECS / Top Speed": "108 mph (174 km/h)",
                     "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "12.7 s",
                     "TRANSMISSION SPECS / Drive Type": "Front Wheel Drive",
@@ -28094,7 +28179,7 @@
                     "ENGINE SPECS / Torque": "109 lb-ft @ 3750 RPM148 Nm @ 3750 RPM",
                     "ENGINE SPECS / Fuel System": "Multipoint Injection",
                     "ENGINE SPECS / Fuel": "Gasoline",
-                    "ENGINE SPECS / Fuel capacity": "13.2 gallons (50.0 L)",
+                    "ENGINE SPECS / Fuel capacity": "15.9 gallons (60.2 L)",
                     "PERFORMANCE SPECS / Top Speed": "95.1 mph (153 km/h)",
                     "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "13.1 s",
                     "TRANSMISSION SPECS / Drive Type": "All Wheel Drive",
@@ -28141,7 +28226,7 @@
                     "ENGINE SPECS / Torque": "133 lb-ft @ 2000 RPM180 Nm @ 2000 RPM",
                     "ENGINE SPECS / Fuel System": "Common Rail",
                     "ENGINE SPECS / Fuel": "Diesel",
-                    "ENGINE SPECS / Fuel capacity": "13.2 gallons (50.0 L)",
+                    "ENGINE SPECS / Fuel capacity": "15.9 gallons (60.2 L)",
                     "PERFORMANCE SPECS / Top Speed": "88.2 mph (142 km/h)",
                     "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "16.2 s",
                     "TRANSMISSION SPECS / Drive Type": "All Wheel Drive",
@@ -50790,9 +50875,59 @@
           "yearEnd": null,
           "generations": [
             {
+              "name": "Megane E-Tech (2026)",
+              "yearStart": 2026,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "67 KWh FWD (220 HP)",
+                  "fuelType": "Electric",
+                  "cylinders": null,
+                  "displacementCc": null,
+                  "powerHp": 220,
+                  "torqueNm": null,
+                  "transmission": "1-speed automatic",
+                  "drivetrain": "Front Wheel Drive",
+                  "zeroToHundredKmhS": 7.6,
+                  "topSpeedKmh": 159,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": 4201,
+                  "widthMm": 1783,
+                  "heightMm": 1521,
+                  "wheelbaseMm": 2685,
+                  "curbWeightKg": 1772,
+                  "specs": {
+                    "ENGINE SPECS / Electrical motor power": "161.8 kw (220 hp, 217 bhp)",
+                    "ENGINE SPECS / Electrical motor torque": "221.3 lb-ft (300 Nm)",
+                    "ENGINE SPECS / Total maximum power": "161.8 kw (220 hp, 217 bhp)",
+                    "ENGINE SPECS / Total maximum torque": "221.3 lb-ft (300 Nm)",
+                    "ENGINE SPECS / Fuel System": "Electric",
+                    "ENGINE SPECS / Fuel": "Electric",
+                    "PERFORMANCE SPECS / Top speed (electrical)": "99 mph (159 km/h)",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "7.6 s",
+                    "TRANSMISSION SPECS / Drive Type": "Front Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "1-speed automatic",
+                    "BRAKES SPECS / Front": "Ventilated discs",
+                    "BRAKES SPECS / Rear": "Discs",
+                    "DIMENSIONS / Length": "165.4 in (4201 mm)",
+                    "DIMENSIONS / Width": "70.2 in (1783 mm)",
+                    "DIMENSIONS / Height": "59.9 in (1521 mm)",
+                    "DIMENSIONS / Wheelbase": "105.7 in (2685 mm)",
+                    "DIMENSIONS / Ground Clearance": "4.9 in (124 mm)",
+                    "DIMENSIONS / Cargo Volume": "15.5 cuFT (439 L)",
+                    "WEIGHT SPECS / Unladen Weight": "3907 lbs (1772 kg)",
+                    "POWER SYSTEM SPECS / Power pack": "Lithium-ion (Li-Ion)",
+                    "POWER SYSTEM SPECS / Nominal Capacity": "67 kWh",
+                    "POWER SYSTEM SPECS / Range": "310.7 miles (500.0 km)"
+                  }
+                }
+              ]
+            },
+            {
               "name": "Megane E-Tech (2021)",
               "yearStart": 2021,
-              "yearEnd": null,
+              "yearEnd": 2026,
               "bodyType": null,
               "engines": [
                 {
@@ -51588,6 +51723,53 @@
                     "FUEL ECONOMY (NEDC) / Highway": "57.4 mpg US (4.1 L/100Km)",
                     "FUEL ECONOMY (NEDC) / Combined": "52.3 mpg US (4.5 L/100Km)",
                     "FUEL ECONOMY (NEDC) / CO2 Emissions": "119 g/km"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Niagara",
+          "yearStart": 2026,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Niagara (2026)",
+              "yearStart": 2026,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "1.3L TCe 6MT AWD (156 HP Petrol / 160 HP Ethanol)",
+                  "fuelType": "Gasoline",
+                  "cylinders": 4,
+                  "displacementCc": null,
+                  "powerHp": 156,
+                  "torqueNm": 270,
+                  "transmission": "6-speed manual",
+                  "drivetrain": "All Wheel Drive",
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": 4943,
+                  "widthMm": 1834,
+                  "heightMm": 1707,
+                  "wheelbaseMm": 2957,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "L4",
+                    "ENGINE SPECS / Power": "114.7 KW @ - RPM156 HP @ - RPM154 BHP @ - RPM",
+                    "ENGINE SPECS / Torque": "199 lb-ft @ - RPM270 Nm @ - RPM",
+                    "ENGINE SPECS / Fuel": "Gasoline",
+                    "TRANSMISSION SPECS / Drive Type": "All Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "6-speed manual",
+                    "DIMENSIONS / Length": "194.6 in (4943 mm)",
+                    "DIMENSIONS / Width": "72.2 in (1834 mm)",
+                    "DIMENSIONS / Height": "67.2 in (1707 mm)",
+                    "DIMENSIONS / Front/rear Track": "61.4/61.3 in (1,560/1,557 mm)",
+                    "DIMENSIONS / Wheelbase": "116.4 in (2957 mm)",
+                    "DIMENSIONS / Ground Clearance": "8.8 in (224 mm)"
                   }
                 }
               ]

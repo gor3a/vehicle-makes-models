@@ -4321,8 +4321,46 @@
         {
           "name": "Eclipse",
           "yearStart": 1989,
-          "yearEnd": 2012,
+          "yearEnd": null,
           "generations": [
+            {
+              "name": "Eclipse Sportback (2026)",
+              "yearStart": 2026,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "75 KWh FWD",
+                  "fuelType": "Electric",
+                  "cylinders": null,
+                  "displacementCc": null,
+                  "powerHp": 174,
+                  "torqueNm": null,
+                  "transmission": "1-automatic speed",
+                  "drivetrain": "Front Wheel Drive",
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "ENGINE SPECS / Total maximum power": "128 kw (174 hp, 172 bhp)",
+                    "ENGINE SPECS / Fuel System": "Electric",
+                    "ENGINE SPECS / Fuel": "Electric",
+                    "TRANSMISSION SPECS / Drive Type": "Front Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "1-automatic speed",
+                    "BRAKES SPECS / Front": "Ventilated discs",
+                    "BRAKES SPECS / Rear": "Disc",
+                    "POWER SYSTEM SPECS / Power pack": "Lithium-ion (Li-Ion)",
+                    "POWER SYSTEM SPECS / Maximum Capacity": "75 kWh",
+                    "POWER SYSTEM SPECS / Range": "300 miles (482.8 km)"
+                  }
+                }
+              ]
+            },
             {
               "name": "Eclipse (2009)",
               "yearStart": 2009,
@@ -5635,60 +5673,8 @@
         {
           "name": "Endeavor",
           "yearStart": 2002,
-          "yearEnd": 2011,
+          "yearEnd": 2007,
           "generations": [
-            {
-              "name": "Endeavor (2008)",
-              "yearStart": 2008,
-              "yearEnd": 2011,
-              "bodyType": null,
-              "engines": [
-                {
-                  "label": "3.8L SOHC 4AT AWD (225 HP)",
-                  "fuelType": "Gasoline",
-                  "cylinders": 6,
-                  "displacementCc": 3800,
-                  "powerHp": 225,
-                  "torqueNm": 346,
-                  "transmission": "4-speed automatic",
-                  "drivetrain": "All Wheel Drive",
-                  "zeroToHundredKmhS": null,
-                  "topSpeedKmh": null,
-                  "fuelEconomyCombinedL100": 11.8,
-                  "lengthMm": 4846,
-                  "widthMm": 1869,
-                  "heightMm": 1768,
-                  "wheelbaseMm": 2751,
-                  "curbWeightKg": 1770,
-                  "specs": {
-                    "ENGINE SPECS / Cylinders": "V6",
-                    "ENGINE SPECS / Displacement": "3800 cm3 (232 ci)",
-                    "ENGINE SPECS / Power": "165 KW @ 5000 RPM225 HP @ 5000 RPM221 BHP @ 5000 RPM",
-                    "ENGINE SPECS / Torque": "255 lb-ft @ 2750 RPM346 Nm @ 2750 RPM",
-                    "ENGINE SPECS / Fuel System": "Multipoint Injection",
-                    "ENGINE SPECS / Fuel": "Gasoline",
-                    "TRANSMISSION SPECS / Drive Type": "All Wheel Drive",
-                    "TRANSMISSION SPECS / Gearbox": "4-speed automatic",
-                    "BRAKES SPECS / Front": "Ventilated Discs",
-                    "BRAKES SPECS / Rear": "Ventilated Discs",
-                    "TIRES SPECS / Tire Size": "P235/65 R17",
-                    "DIMENSIONS / Length": "190.8 in (4846 mm)",
-                    "DIMENSIONS / Width": "73.6 in (1869 mm)",
-                    "DIMENSIONS / Height": "69.6 in (1768 mm)",
-                    "DIMENSIONS / Front/rear Track": "63/63 in (1,600/1,600 mm)",
-                    "DIMENSIONS / Wheelbase": "108.3 in (2751 mm)",
-                    "DIMENSIONS / Ground Clearance": "8.3 in (211 mm)",
-                    "DIMENSIONS / Cargo Volume": "40.7 cuFT (1152 L)",
-                    "DIMENSIONS / Aerodynamics (Cd)": "0.33",
-                    "WEIGHT SPECS / Unladen Weight": "3902 lbs (1770 kg)",
-                    "WEIGHT SPECS / Gross Weight Limit": "4894 lbs (2220 kg)",
-                    "FUEL ECONOMY (NEDC) / City": "15 mpg US (15.7 L/100Km)",
-                    "FUEL ECONOMY (NEDC) / Highway": "22 mpg US (10.7 L/100Km)",
-                    "FUEL ECONOMY (NEDC) / Combined": "20 mpg US (11.8 L/100Km)"
-                  }
-                }
-              ]
-            },
             {
               "name": "Endeavor (2002)",
               "yearStart": 2002,
@@ -10285,8 +10271,8 @@
               ]
             },
             {
-              "name": "Lancer (1994)",
-              "yearStart": 1994,
+              "name": "Lancer (1992)",
+              "yearStart": 1992,
               "yearEnd": 1996,
               "bodyType": null,
               "engines": [
@@ -11204,7 +11190,7 @@
         },
         {
           "name": "Lancer Combi",
-          "yearStart": 1989,
+          "yearStart": 1988,
           "yearEnd": 2006,
           "generations": [
             {
@@ -11447,8 +11433,8 @@
               ]
             },
             {
-              "name": "Lancer Combi (1989)",
-              "yearStart": 1989,
+              "name": "Lancer Combi (1988)",
+              "yearStart": 1988,
               "yearEnd": 1992,
               "bodyType": null,
               "engines": [
@@ -14117,8 +14103,8 @@
               ]
             },
             {
-              "name": "Pajero 3 Doors (2000)",
-              "yearStart": 2000,
+              "name": "Pajero 3 Doors (1999)",
+              "yearStart": 1999,
               "yearEnd": 2003,
               "bodyType": null,
               "engines": [
@@ -14831,106 +14817,8 @@
               ]
             },
             {
-              "name": "Pajero 5 Doors (2003)",
-              "yearStart": 2003,
-              "yearEnd": 2006,
-              "bodyType": null,
-              "engines": [
-                {
-                  "label": "3.5 V6 GDI",
-                  "fuelType": "Gasoline",
-                  "cylinders": 6,
-                  "displacementCc": 3497,
-                  "powerHp": 202,
-                  "torqueNm": 318,
-                  "transmission": "Automatic, 5 Speed",
-                  "drivetrain": "All Wheel Drive",
-                  "zeroToHundredKmhS": 12.5,
-                  "topSpeedKmh": 185,
-                  "fuelEconomyCombinedL100": 13.8,
-                  "lengthMm": 4829,
-                  "widthMm": 1900,
-                  "heightMm": 1859,
-                  "wheelbaseMm": 2779,
-                  "curbWeightKg": 2110,
-                  "specs": {
-                    "ENGINE SPECS / Cylinders": "V6",
-                    "ENGINE SPECS / Displacement": "3497 cm3 (213 ci)",
-                    "ENGINE SPECS / Power": "149 KW @ 5000 RPM202 HP @ 5000 RPM200 BHP @ 5000 RPM",
-                    "ENGINE SPECS / Torque": "235 lb-ft @ 4000 RPM318 Nm @ 4000 RPM",
-                    "ENGINE SPECS / Fuel System": "Direct Injection",
-                    "ENGINE SPECS / Fuel": "Gasoline",
-                    "PERFORMANCE SPECS / Top Speed": "114.9 mph (185 km/h)",
-                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "12.5 s",
-                    "TRANSMISSION SPECS / Drive Type": "All Wheel Drive",
-                    "TRANSMISSION SPECS / Gearbox": "Automatic, 5 Speed",
-                    "BRAKES SPECS / Front": "Ventilated Discs",
-                    "BRAKES SPECS / Rear": "Ventilated Discs",
-                    "TIRES SPECS / Tire Size": "265/70R16",
-                    "DIMENSIONS / Length": "190.1 in (4829 mm)",
-                    "DIMENSIONS / Width": "74.8 in (1900 mm)",
-                    "DIMENSIONS / Height": "73.2 in (1859 mm)",
-                    "DIMENSIONS / Front/rear Track": "61.4/61.4 in (1,560/1,560 mm)",
-                    "DIMENSIONS / Wheelbase": "109.4 in (2779 mm)",
-                    "DIMENSIONS / Ground Clearance": "8.5 in (216 mm)",
-                    "WEIGHT SPECS / Unladen Weight": "4651.7 lbs (2110 kg)",
-                    "WEIGHT SPECS / Gross Weight Limit": "6084.7 lbs (2760 kg)",
-                    "FUEL ECONOMY (NEDC) / City": "12.5 mpg US (18.8 L/100Km)",
-                    "FUEL ECONOMY (NEDC) / Highway": "21.6 mpg US (10.9 L/100Km)",
-                    "FUEL ECONOMY (NEDC) / Combined": "17 mpg US (13.8 L/100Km)",
-                    "FUEL ECONOMY (NEDC) / CO2 Emissions": "331 g/km"
-                  }
-                },
-                {
-                  "label": "3.2 DI-D",
-                  "fuelType": "Diesel",
-                  "cylinders": 4,
-                  "displacementCc": 3200,
-                  "powerHp": 160,
-                  "torqueNm": 373,
-                  "transmission": "Manual, 5 Speed",
-                  "drivetrain": "All Wheel Drive",
-                  "zeroToHundredKmhS": 12,
-                  "topSpeedKmh": 170,
-                  "fuelEconomyCombinedL100": 9.1,
-                  "lengthMm": 4829,
-                  "widthMm": 1900,
-                  "heightMm": 1859,
-                  "wheelbaseMm": 2779,
-                  "curbWeightKg": 2140,
-                  "specs": {
-                    "ENGINE SPECS / Cylinders": "L4",
-                    "ENGINE SPECS / Displacement": "3200 cm3 (195 ci)",
-                    "ENGINE SPECS / Power": "118 KW @ 3800 RPM160 HP @ 3800 RPM158 BHP @ 3800 RPM",
-                    "ENGINE SPECS / Torque": "275 lb-ft @ 2000 RPM373 Nm @ 2000 RPM",
-                    "ENGINE SPECS / Fuel System": "Common Rail",
-                    "ENGINE SPECS / Fuel": "Diesel",
-                    "PERFORMANCE SPECS / Top Speed": "105.6 mph (170 km/h)",
-                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "12 s",
-                    "TRANSMISSION SPECS / Drive Type": "All Wheel Drive",
-                    "TRANSMISSION SPECS / Gearbox": "Manual, 5 Speed",
-                    "BRAKES SPECS / Front": "Ventilated Discs",
-                    "BRAKES SPECS / Rear": "Ventilated Discs",
-                    "TIRES SPECS / Tire Size": "265/70R16",
-                    "DIMENSIONS / Length": "190.1 in (4829 mm)",
-                    "DIMENSIONS / Width": "74.8 in (1900 mm)",
-                    "DIMENSIONS / Height": "73.2 in (1859 mm)",
-                    "DIMENSIONS / Front/rear Track": "61.4/61.4 in (1,560/1,560 mm)",
-                    "DIMENSIONS / Wheelbase": "109.4 in (2779 mm)",
-                    "DIMENSIONS / Ground Clearance": "8.5 in (216 mm)",
-                    "WEIGHT SPECS / Unladen Weight": "4717.9 lbs (2140 kg)",
-                    "WEIGHT SPECS / Gross Weight Limit": "6195 lbs (2810 kg)",
-                    "FUEL ECONOMY (NEDC) / City": "20.3 mpg US (11.6 L/100Km)",
-                    "FUEL ECONOMY (NEDC) / Highway": "30.9 mpg US (7.6 L/100Km)",
-                    "FUEL ECONOMY (NEDC) / Combined": "25.8 mpg US (9.1 L/100Km)",
-                    "FUEL ECONOMY (NEDC) / CO2 Emissions": "240 g/km"
-                  }
-                }
-              ]
-            },
-            {
-              "name": "Pajero 5 Doors (2000)",
-              "yearStart": 2000,
+              "name": "Pajero 5 Doors (1999)",
+              "yearStart": 1999,
               "yearEnd": 2003,
               "bodyType": null,
               "engines": [

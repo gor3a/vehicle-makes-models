@@ -651,6 +651,20 @@
           ]
         },
         {
+          "name": "Midsummer",
+          "yearStart": 2026,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Midsummer Coupe (2026)",
+              "yearStart": 2026,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
           "name": "Plus 4",
           "yearStart": 2005,
           "yearEnd": null,

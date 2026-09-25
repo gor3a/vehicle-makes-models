@@ -1570,6 +1570,66 @@
               ]
             }
           ]
+        },
+        {
+          "name": "W1",
+          "yearStart": 2026,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "W1 (2026)",
+              "yearStart": 2026,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "4.0L V8 PHEV 8AT RWD (1275 HP)",
+                  "fuelType": "Plug-in Hybrid",
+                  "cylinders": 8,
+                  "displacementCc": 3988,
+                  "powerHp": 1275,
+                  "torqueNm": null,
+                  "transmission": "8-automatic speed DCT",
+                  "drivetrain": "Rear Wheel Drive",
+                  "zeroToHundredKmhS": 2.7,
+                  "topSpeedKmh": 349,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": 4636,
+                  "widthMm": 2075,
+                  "heightMm": 1181,
+                  "wheelbaseMm": 2680,
+                  "curbWeightKg": 1399,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "V8",
+                    "ENGINE SPECS / Displacement": "3988 cm3 (243 ci)",
+                    "ENGINE SPECS / Electrical motor power": "255.2 kw (347 hp, 342 bhp)",
+                    "ENGINE SPECS / Electrical motor torque": "324.5 lb-ft (440 Nm)",
+                    "ENGINE SPECS / Total maximum power": "937.8 kw (1275 hp, 1258 bhp)",
+                    "ENGINE SPECS / Total maximum torque": "988.3 lb-ft (1340 Nm)",
+                    "ENGINE SPECS / Fuel System": "Direct injection and Multi-port manifold injection",
+                    "ENGINE SPECS / Fuel": "Plug-in Hybrid",
+                    "ENGINE SPECS / Fuel capacity": "16.4 gallons (62.1 L)",
+                    "PERFORMANCE SPECS / Top Speed": "217 mph (349 km/h)",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "2.7 s",
+                    "TRANSMISSION SPECS / Drive Type": "Rear Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "8-automatic speed DCT",
+                    "BRAKES SPECS / Front": "Ventilated discs, 390 mm",
+                    "BRAKES SPECS / Rear": "Ventilated discs, 390 mm",
+                    "TIRES SPECS / Tire Size": "265/35 R19 // 335/30 R20",
+                    "DIMENSIONS / Length": "182.5 in (4636 mm)",
+                    "DIMENSIONS / Width": "81.7 in (2075 mm)",
+                    "DIMENSIONS / Height": "46.5 in (1181 mm)",
+                    "DIMENSIONS / Front/rear Track": "66/63.9 in (1,676/1,623 mm)",
+                    "DIMENSIONS / Wheelbase": "105.5 in (2680 mm)",
+                    "DIMENSIONS / Cargo Volume": "3.1 cuFT (88 L)",
+                    "WEIGHT SPECS / Unladen Weight": "3084 lbs (1399 kg)",
+                    "POWER SYSTEM SPECS / Maximum Capacity": "1.38 kWh",
+                    "POWER SYSTEM SPECS / Range": "1.2 miles (1.9 km)"
+                  }
+                }
+              ]
+            }
+          ]
         }
       ]
     }

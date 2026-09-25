@@ -2535,9 +2535,42 @@
           "yearEnd": null,
           "generations": [
             {
+              "name": "Atlas Cross Sport (2026)",
+              "yearStart": 2026,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "2.0L TSI 4MOTIN 8AT (286 HP)",
+                  "fuelType": "Gasoline",
+                  "cylinders": 4,
+                  "displacementCc": null,
+                  "powerHp": 285.9,
+                  "torqueNm": 350,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "L4",
+                    "ENGINE SPECS / Power": "210.3 KW @ - RPM285.9 HP @ - RPM282 BHP @ - RPM",
+                    "ENGINE SPECS / Torque": "258 lb-ft @ - RPM350 Nm @ - RPM",
+                    "ENGINE SPECS / Fuel System": "Turbocharged Direct Injection",
+                    "ENGINE SPECS / Fuel": "Gasoline"
+                  }
+                }
+              ]
+            },
+            {
               "name": "Atlas Cross Sport (2023)",
               "yearStart": 2023,
-              "yearEnd": null,
+              "yearEnd": 2026,
               "bodyType": null,
               "engines": [
                 {
@@ -7334,7 +7367,7 @@
                     "ENGINE SPECS / Torque": "93 lb-ft @ 3300 RPM126 Nm @ 3300 RPM",
                     "ENGINE SPECS / Fuel System": "Multipoint Injection",
                     "ENGINE SPECS / Fuel": "Gasoline",
-                    "ENGINE SPECS / Fuel capacity": "1.3 gallons (4.9 L)",
+                    "ENGINE SPECS / Fuel capacity": "14.5 gallons (54.9 L)",
                     "PERFORMANCE SPECS / Top Speed": "100 mph (161 km/h)",
                     "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "15.6 s",
                     "TRANSMISSION SPECS / Drive Type": "Front Wheel Drive",
@@ -7382,7 +7415,7 @@
                     "ENGINE SPECS / Torque": "109 lb-ft @ 3800 RPM148 Nm @ 3800 RPM",
                     "ENGINE SPECS / Fuel System": "Multipoint Injection",
                     "ENGINE SPECS / Fuel": "Gasoline",
-                    "ENGINE SPECS / Fuel capacity": "1.3 gallons (4.9 L)",
+                    "ENGINE SPECS / Fuel capacity": "14.5 gallons (54.9 L)",
                     "PERFORMANCE SPECS / Top Speed": "111.2 mph (179 km/h)",
                     "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "12.3 s",
                     "TRANSMISSION SPECS / Drive Type": "Front Wheel Drive",
@@ -23431,7 +23464,7 @@
                     "ENGINE SPECS / Torque": "184 lb-ft @ 1500-2500 RPM249 Nm @ 1500-2500 RPM",
                     "ENGINE SPECS / Fuel System": "Turbocharged common rail",
                     "ENGINE SPECS / Fuel": "Diesel",
-                    "ENGINE SPECS / Fuel capacity": "1.3 gallons (4.9 L)",
+                    "ENGINE SPECS / Fuel capacity": "14.5 gallons (54.9 L)",
                     "PERFORMANCE SPECS / Top Speed": "117 mph (188 km/h)",
                     "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "12.1 s",
                     "TRANSMISSION SPECS / Drive Type": "Front Wheel Drive",
@@ -24392,7 +24425,60 @@
               "yearStart": 2024,
               "yearEnd": null,
               "bodyType": null,
-              "engines": []
+              "engines": [
+                {
+                  "label": "1.5L TSI PHEV 6AT FWD (272 HP)",
+                  "fuelType": "Plug-in Hybrid",
+                  "cylinders": 4,
+                  "displacementCc": 1498,
+                  "powerHp": 177,
+                  "torqueNm": 250,
+                  "transmission": "6-automatic speed DSG",
+                  "drivetrain": "Front Wheel Drive",
+                  "zeroToHundredKmhS": 6.6,
+                  "topSpeedKmh": 230,
+                  "fuelEconomyCombinedL100": 0.4,
+                  "lengthMm": 4290,
+                  "widthMm": 1788,
+                  "heightMm": 1478,
+                  "wheelbaseMm": 2629,
+                  "curbWeightKg": 1595,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "L4",
+                    "ENGINE SPECS / Displacement": "1498 cm3 (91 ci)",
+                    "ENGINE SPECS / Power": "130.2 KW @ - RPM177 HP @ - RPM175 BHP @ - RPM",
+                    "ENGINE SPECS / Torque": "184 lb-ft @ 1500-4000 RPM250 Nm @ 1500-4000 RPM",
+                    "ENGINE SPECS / Electrical motor power": "85.3 kw (116 hp, 114 bhp)",
+                    "ENGINE SPECS / Total maximum power": "200.1 kw (272 hp, 268 bhp)",
+                    "ENGINE SPECS / Total maximum torque": "295 lb-ft (400 Nm)",
+                    "ENGINE SPECS / Fuel System": "Turbocharged Direct Injection",
+                    "ENGINE SPECS / Fuel": "Plug-in Hybrid",
+                    "ENGINE SPECS / Fuel capacity": "10.6 gallons (40.1 L)",
+                    "PERFORMANCE SPECS / Top Speed": "143 mph (230 km/h)",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "6.6 s",
+                    "TRANSMISSION SPECS / Drive Type": "Front Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "6-automatic speed DSG",
+                    "BRAKES SPECS / Front": "Ventilated discs",
+                    "TIRES SPECS / Tire Size": "225/45 R17; 225/45 R18",
+                    "DIMENSIONS / Length": "168.9 in (4290 mm)",
+                    "DIMENSIONS / Width": "70.4 in (1788 mm)",
+                    "DIMENSIONS / Height": "58.2 in (1478 mm)",
+                    "DIMENSIONS / Front/rear Track": "60.4/59.4 in (1,534/1,509 mm)",
+                    "DIMENSIONS / Wheelbase": "103.5 in (2629 mm)",
+                    "DIMENSIONS / Cargo Volume": "9.6 cuFT (272 L)",
+                    "DIMENSIONS / Turning circle": "36.4 ft (11.1 m)",
+                    "WEIGHT SPECS / Unladen Weight": "3516 lbs (1595 kg)",
+                    "WEIGHT SPECS / Gross Weight Limit": "4630 lbs (2100 kg)",
+                    "POWER SYSTEM SPECS / Power pack": "Lithium nickel manganese cobalt oxides (Li-NMC)",
+                    "POWER SYSTEM SPECS / Nominal Capacity": "19.7 kWh",
+                    "POWER SYSTEM SPECS / Maximum Capacity": "25.7 kWh",
+                    "POWER SYSTEM SPECS / Range": "81.4 miles (131.0 km)",
+                    "POWER SYSTEM SPECS / Observations": "Average Energy consumption WLTP: 15.9-16.2 kWh/100 km (25.59 - 26.07 kWh/100 miles)",
+                    "FUEL ECONOMY (WLTP) / Combined": "588 mpg US (0.4 L/100Km)",
+                    "FUEL ECONOMY (WLTP) / CO2 Emissions (Combined)": "8 g/km"
+                  }
+                }
+              ]
             },
             {
               "name": "Golf GTI / GTD / GTE (2024)",
@@ -34945,6 +35031,12 @@
           ]
         },
         {
+          "name": "ID. California Cruise",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": []
+        },
+        {
           "name": "ID.3",
           "yearStart": 2020,
           "yearEnd": null,
@@ -36093,6 +36185,105 @@
           ]
         },
         {
+          "name": "ID.Cross",
+          "yearStart": 2026,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "ID.Cross (2026)",
+              "yearStart": 2026,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "37 KWh FWD (116 HP)",
+                  "fuelType": "Electric",
+                  "cylinders": null,
+                  "displacementCc": null,
+                  "powerHp": 116,
+                  "torqueNm": null,
+                  "transmission": "1-speed automatic",
+                  "drivetrain": "Front Wheel Drive",
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "ENGINE SPECS / Total maximum power": "85 kw (116 hp, 114 bhp)",
+                    "ENGINE SPECS / Fuel System": "Electric",
+                    "ENGINE SPECS / Fuel": "Electric",
+                    "TRANSMISSION SPECS / Drive Type": "Front Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "1-speed automatic",
+                    "BRAKES SPECS / Front": "Ventilated Discs",
+                    "BRAKES SPECS / Rear": "Disc",
+                    "POWER SYSTEM SPECS / Maximum Capacity": "37 kWh"
+                  }
+                },
+                {
+                  "label": "37 KWh FWD (135 HP)",
+                  "fuelType": "Electric",
+                  "cylinders": null,
+                  "displacementCc": null,
+                  "powerHp": 135,
+                  "torqueNm": null,
+                  "transmission": "1-speed automatic",
+                  "drivetrain": "Front Wheel Drive",
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "ENGINE SPECS / Total maximum power": "99 kw (135 hp, 133 bhp)",
+                    "ENGINE SPECS / Fuel System": "Electric",
+                    "ENGINE SPECS / Fuel": "Electric",
+                    "TRANSMISSION SPECS / Drive Type": "Front Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "1-speed automatic",
+                    "BRAKES SPECS / Front": "Ventilated Discs",
+                    "BRAKES SPECS / Rear": "Disc",
+                    "POWER SYSTEM SPECS / Maximum Capacity": "37 kWh"
+                  }
+                },
+                {
+                  "label": "52 KWh FWD (211 HP)",
+                  "fuelType": "Electric",
+                  "cylinders": null,
+                  "displacementCc": null,
+                  "powerHp": 211,
+                  "torqueNm": null,
+                  "transmission": "1-speed automatic",
+                  "drivetrain": "Front Wheel Drive",
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "ENGINE SPECS / Total maximum power": "155 kw (211 hp, 208 bhp)",
+                    "ENGINE SPECS / Fuel System": "Electric",
+                    "ENGINE SPECS / Fuel": "Electric",
+                    "TRANSMISSION SPECS / Drive Type": "Front Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "1-speed automatic",
+                    "BRAKES SPECS / Front": "Ventilated Discs",
+                    "BRAKES SPECS / Rear": "Disc",
+                    "POWER SYSTEM SPECS / Maximum Capacity": "52 kWh"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
           "name": "ID.Polo GTI",
           "yearStart": 2026,
           "yearEnd": null,
@@ -37031,6 +37222,7 @@
                     "ENGINE SPECS / Torque": "177 lb-ft @ 1500-4500 RPM240 Nm @ 1500-4500 RPM",
                     "ENGINE SPECS / Fuel System": "Turbocharged common rail",
                     "ENGINE SPECS / Fuel": "Gasoline",
+                    "ENGINE SPECS / Fuel capacity": "14.5 gallons (54.9 L)",
                     "PERFORMANCE SPECS / Top Speed": "137 mph (220 km/h)",
                     "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "8.3 s",
                     "TRANSMISSION SPECS / Drive Type": "Front Wheel Drive",
@@ -37078,7 +37270,7 @@
                     "ENGINE SPECS / Torque": "125 lb-ft @ 4000 RPM169 Nm @ 4000 RPM",
                     "ENGINE SPECS / Fuel System": "Multipoint injection",
                     "ENGINE SPECS / Fuel": "Gasoline",
-                    "ENGINE SPECS / Fuel capacity": "1.3 gallons (4.9 L)",
+                    "ENGINE SPECS / Fuel capacity": "14.5 gallons (54.9 L)",
                     "PERFORMANCE SPECS / Top Speed": "121 mph (195 km/h)",
                     "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "10.6 s",
                     "TRANSMISSION SPECS / Drive Type": "Front Wheel Drive",
@@ -37126,7 +37318,7 @@
                     "ENGINE SPECS / Torque": "125 lb-ft @ 4000 RPM169 Nm @ 4000 RPM",
                     "ENGINE SPECS / Fuel System": "Multipoint injection",
                     "ENGINE SPECS / Fuel": "Gasoline",
-                    "ENGINE SPECS / Fuel capacity": "1.3 gallons (4.9 L)",
+                    "ENGINE SPECS / Fuel capacity": "14.5 gallons (54.9 L)",
                     "PERFORMANCE SPECS / Top Speed": "121 mph (195 km/h)",
                     "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "11.7 s",
                     "TRANSMISSION SPECS / Drive Type": "Front Wheel Drive",
@@ -37174,7 +37366,7 @@
                     "ENGINE SPECS / Torque": "206 lb-ft @ 1700-5000 RPM279 Nm @ 1700-5000 RPM",
                     "ENGINE SPECS / Fuel System": "Turbocharged direct injection",
                     "ENGINE SPECS / Fuel": "Gasoline",
-                    "ENGINE SPECS / Fuel capacity": "1.3 gallons (4.9 L)",
+                    "ENGINE SPECS / Fuel capacity": "14.5 gallons (54.9 L)",
                     "PERFORMANCE SPECS / Top Speed": "146.6 mph (236 km/h)",
                     "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "7.5 s",
                     "TRANSMISSION SPECS / Drive Type": "Front Wheel Drive",

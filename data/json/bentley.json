@@ -1089,7 +1089,7 @@
         },
         {
           "name": "Brooklands",
-          "yearStart": 1992,
+          "yearStart": 2007,
           "yearEnd": 2011,
           "generations": [
             {
@@ -1139,55 +1139,6 @@
                     "FUEL ECONOMY (NEDC) / Highway": "16.6 mpg US (14.2 L/100Km)",
                     "FUEL ECONOMY (NEDC) / Combined": "12.6 mpg US (18.7 L/100Km)",
                     "FUEL ECONOMY (NEDC) / CO2 Emissions": "465 g/km"
-                  }
-                }
-              ]
-            },
-            {
-              "name": "Brooklands (1992)",
-              "yearStart": 1992,
-              "yearEnd": 1997,
-              "bodyType": null,
-              "engines": [
-                {
-                  "label": "6.75L V8 4AT RWD (224 HP)",
-                  "fuelType": "Gasoline",
-                  "cylinders": 8,
-                  "displacementCc": 6750,
-                  "powerHp": 224,
-                  "torqueNm": 450,
-                  "transmission": "4-speed automatic",
-                  "drivetrain": "Rear Wheel Drive",
-                  "zeroToHundredKmhS": 9.7,
-                  "topSpeedKmh": 206,
-                  "fuelEconomyCombinedL100": 17.2,
-                  "lengthMm": 5268,
-                  "widthMm": 2007,
-                  "heightMm": 1486,
-                  "wheelbaseMm": 3061,
-                  "curbWeightKg": 2385,
-                  "specs": {
-                    "ENGINE SPECS / Cylinders": "V8",
-                    "ENGINE SPECS / Displacement": "6750 cm3 (412 ci)",
-                    "ENGINE SPECS / Power": "164.8 KW @ 4200 RPM224 HP @ 4200 RPM221 BHP @ 4200 RPM",
-                    "ENGINE SPECS / Torque": "332 lb-ft @ 1500 RPM450 Nm @ 1500 RPM",
-                    "ENGINE SPECS / Fuel System": "Electronic Injection",
-                    "ENGINE SPECS / Fuel": "Gasoline",
-                    "PERFORMANCE SPECS / Top Speed": "128 mph (206 km/h)",
-                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "9.7 s",
-                    "TRANSMISSION SPECS / Drive Type": "Rear Wheel Drive",
-                    "TRANSMISSION SPECS / Gearbox": "4-speed automatic",
-                    "BRAKES SPECS / Front": "Ventilated Discs",
-                    "BRAKES SPECS / Rear": "Discs",
-                    "TIRES SPECS / Tire Size": "235/70 VR15",
-                    "DIMENSIONS / Length": "207.4 in (5268 mm)",
-                    "DIMENSIONS / Width": "79 in (2007 mm)",
-                    "DIMENSIONS / Height": "58.5 in (1486 mm)",
-                    "DIMENSIONS / Front/rear Track": "61/61 in (1,549/1,549 mm)",
-                    "DIMENSIONS / Wheelbase": "120.5 in (3061 mm)",
-                    "WEIGHT SPECS / Unladen Weight": "5258 lbs (2385 kg)",
-                    "FUEL ECONOMY (NEDC) / Combined": "13.7 mpg US (17.2 L/100Km)",
-                    "FUEL ECONOMY (NEDC) / CO2 Emissions": "408 g/km"
                   }
                 }
               ]
@@ -3855,115 +3806,6 @@
               ]
             },
             {
-              "name": "Flying Spur (2019)",
-              "yearStart": 2019,
-              "yearEnd": 2024,
-              "bodyType": null,
-              "engines": [
-                {
-                  "label": "6.0L W12 TSI 8AT (635 HP)",
-                  "fuelType": "Gasoline",
-                  "cylinders": 12,
-                  "displacementCc": 5950,
-                  "powerHp": 635,
-                  "torqueNm": 900,
-                  "transmission": "8-speed automatic",
-                  "drivetrain": "All Wheel Drive",
-                  "zeroToHundredKmhS": null,
-                  "topSpeedKmh": 333,
-                  "fuelEconomyCombinedL100": 19.1,
-                  "lengthMm": 5316,
-                  "widthMm": 1979,
-                  "heightMm": 1483,
-                  "wheelbaseMm": 3193,
-                  "curbWeightKg": 2437,
-                  "specs": {
-                    "ENGINE SPECS / Cylinders": "W12",
-                    "ENGINE SPECS / Displacement": "5950 cm3 (363 ci)",
-                    "ENGINE SPECS / Power": "467 KW @ 6000 RPM635 HP @ 6000 RPM626 BHP @ 6000 RPM",
-                    "ENGINE SPECS / Torque": "664 lb-ft @ 1650-4500 RPM900 Nm @ 1650-4500 RPM",
-                    "ENGINE SPECS / Fuel System": "Turbocharged Direct Injection",
-                    "ENGINE SPECS / Fuel": "Gasoline",
-                    "ENGINE SPECS / Fuel capacity": "23.8 gallons (90.1 L)",
-                    "PERFORMANCE SPECS / Top Speed": "207 mph (333 km/h)",
-                    "TRANSMISSION SPECS / Drive Type": "All Wheel Drive",
-                    "TRANSMISSION SPECS / Gearbox": "8-speed automatic",
-                    "BRAKES SPECS / Front": "Ventilated Discs",
-                    "BRAKES SPECS / Rear": "Ventilated Discs",
-                    "TIRES SPECS / Tire Size": "265/40 ZR21 // 305/35 ZR21",
-                    "DIMENSIONS / Length": "209.3 in (5316 mm)",
-                    "DIMENSIONS / Width": "77.9 in (1979 mm)",
-                    "DIMENSIONS / Height": "58.4 in (1483 mm)",
-                    "DIMENSIONS / Front/rear Track": "64.7/64.6 in (1,643/1,641 mm)",
-                    "DIMENSIONS / Wheelbase": "125.7 in (3193 mm)",
-                    "DIMENSIONS / Cargo Volume": "14.8 cuFT (419 L)",
-                    "DIMENSIONS / Aerodynamics (Cd)": "0.29",
-                    "DIMENSIONS / Aerodynamics (frontal area)": "2.44 m2",
-                    "DIMENSIONS / Turning circle": "36.3 ft (11.1 m)",
-                    "DIMENSIONS / Turning circle (curb to curb)": "36.3 ft (11.1 m)",
-                    "WEIGHT SPECS / Unladen Weight": "5373 lbs (2437 kg)",
-                    "WEIGHT SPECS / Gross Weight Limit": "6614 lbs (3000 kg)",
-                    "FUEL ECONOMY (WLTP) / High": "18.5 mpg US (12.7 L/100Km)",
-                    "FUEL ECONOMY (WLTP) / Extra high": "18.2 mpg US (12.9 L/100Km)",
-                    "FUEL ECONOMY (WLTP) / Combined": "12.3 mpg US (19.1 L/100Km)",
-                    "FUEL ECONOMY (WLTP) / CO2 Emissions (Combined)": "337 g/km"
-                  }
-                },
-                {
-                  "label": "2.9L V6 (543 HP)",
-                  "fuelType": "Hybrid Gasoline",
-                  "cylinders": 6,
-                  "displacementCc": null,
-                  "powerHp": 416,
-                  "torqueNm": 550,
-                  "transmission": "8-speed automatic",
-                  "drivetrain": "All Wheel Drive",
-                  "zeroToHundredKmhS": 4.1,
-                  "topSpeedKmh": 285,
-                  "fuelEconomyCombinedL100": 19.1,
-                  "lengthMm": 5316,
-                  "widthMm": 1979,
-                  "heightMm": 1483,
-                  "wheelbaseMm": 3193,
-                  "curbWeightKg": null,
-                  "specs": {
-                    "ENGINE SPECS / Cylinders": "V6",
-                    "ENGINE SPECS / Power": "306 KW @ - RPM416 HP @ - RPM410 BHP @ - RPM",
-                    "ENGINE SPECS / Torque": "406 lb-ft @ 5650 RPM550 Nm @ 5650 RPM",
-                    "ENGINE SPECS / Electrical motor power": "100 kw (136 hp, 134 bhp)",
-                    "ENGINE SPECS / Electrical motor torque": "295 lb-ft (400 Nm)",
-                    "ENGINE SPECS / Total maximum power": "399.4 kw (543 hp, 536 bhp)",
-                    "ENGINE SPECS / Total maximum torque": "553.2 lb-ft (750 Nm)",
-                    "ENGINE SPECS / Fuel System": "Turbocharged Direct Injection",
-                    "ENGINE SPECS / Fuel": "Hybrid Gasoline",
-                    "PERFORMANCE SPECS / Top speed (electrical)": "177 mph (285 km/h)",
-                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "4.1 s",
-                    "TRANSMISSION SPECS / Drive Type": "All Wheel Drive",
-                    "TRANSMISSION SPECS / Gearbox": "8-speed automatic",
-                    "BRAKES SPECS / Front": "Ventilated Discs",
-                    "BRAKES SPECS / Rear": "Ventilated Discs",
-                    "TIRES SPECS / Tire Size": "265/40 ZR21 // 305/35 ZR21",
-                    "DIMENSIONS / Length": "209.3 in (5316 mm)",
-                    "DIMENSIONS / Width": "77.9 in (1979 mm)",
-                    "DIMENSIONS / Height": "58.4 in (1483 mm)",
-                    "DIMENSIONS / Front/rear Track": "64.7/64.6 in (1,643/1,641 mm)",
-                    "DIMENSIONS / Wheelbase": "125.7 in (3193 mm)",
-                    "DIMENSIONS / Cargo Volume": "14.8 cuFT (419 L)",
-                    "DIMENSIONS / Aerodynamics (Cd)": "0.29",
-                    "DIMENSIONS / Aerodynamics (frontal area)": "2.44 m2",
-                    "DIMENSIONS / Turning circle": "36.3 ft (11.1 m)",
-                    "DIMENSIONS / Turning circle (curb to curb)": "36.3 ft (11.1 m)",
-                    "POWER SYSTEM SPECS / Power pack": "Lithium-Ion",
-                    "POWER SYSTEM SPECS / Nominal Capacity": "14.1 kWh",
-                    "FUEL ECONOMY (WLTP) / High": "18.5 mpg US (12.7 L/100Km)",
-                    "FUEL ECONOMY (WLTP) / Extra high": "18.2 mpg US (12.9 L/100Km)",
-                    "FUEL ECONOMY (WLTP) / Combined": "12.3 mpg US (19.1 L/100Km)",
-                    "FUEL ECONOMY (WLTP) / CO2 Emissions (Combined)": "337 g/km"
-                  }
-                }
-              ]
-            },
-            {
               "name": "Flying Spur (2014)",
               "yearStart": 2014,
               "yearEnd": 2019,
@@ -4164,12 +4006,12 @@
         {
           "name": "Mulliner",
           "yearStart": 2020,
-          "yearEnd": null,
+          "yearEnd": 2023,
           "generations": [
             {
               "name": "Mulliner (2022)",
               "yearStart": 2022,
-              "yearEnd": null,
+              "yearEnd": 2023,
               "bodyType": null,
               "engines": [
                 {
@@ -4205,7 +4047,7 @@
             {
               "name": "Mulliner (2020)",
               "yearStart": 2020,
-              "yearEnd": null,
+              "yearEnd": 2021,
               "bodyType": null,
               "engines": [
                 {

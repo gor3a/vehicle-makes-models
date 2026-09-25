@@ -158,7 +158,46 @@
               "yearStart": 2023,
               "yearEnd": null,
               "bodyType": null,
-              "engines": []
+              "engines": [
+                {
+                  "label": "1.5L PHEV 3AT FWD (163 HP)",
+                  "fuelType": "Plug-in Hybrid",
+                  "cylinders": 4,
+                  "displacementCc": null,
+                  "powerHp": 163,
+                  "torqueNm": null,
+                  "transmission": "3-automatic speed",
+                  "drivetrain": "Front Wheel Drive",
+                  "zeroToHundredKmhS": 6.5,
+                  "topSpeedKmh": 235,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": 4783,
+                  "widthMm": 1875,
+                  "heightMm": 1488,
+                  "wheelbaseMm": 2751,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "L4",
+                    "ENGINE SPECS / Total maximum power": "119.9 kw (163 hp, 161 bhp)",
+                    "ENGINE SPECS / Total maximum torque": "188.1 lb-ft (255 Nm)",
+                    "ENGINE SPECS / Fuel System": "Turbocharged Direct Injection",
+                    "ENGINE SPECS / Fuel": "Plug-in Hybrid",
+                    "PERFORMANCE SPECS / Top Speed": "146 mph (235 km/h)",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "6.5 s",
+                    "TRANSMISSION SPECS / Drive Type": "Front Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "3-automatic speed",
+                    "BRAKES SPECS / Front": "Ventilated discs",
+                    "BRAKES SPECS / Rear": "Disc",
+                    "DIMENSIONS / Length": "188.3 in (4783 mm)",
+                    "DIMENSIONS / Width": "73.8 in (1875 mm)",
+                    "DIMENSIONS / Height": "58.6 in (1488 mm)",
+                    "DIMENSIONS / Wheelbase": "108.3 in (2751 mm)",
+                    "POWER SYSTEM SPECS / Power pack": "Lithium-ion (Li-Ion)",
+                    "POWER SYSTEM SPECS / Maximum Capacity": "9.1 kWh",
+                    "POWER SYSTEM SPECS / Range": "37.3 miles (60.0 km)"
+                  }
+                }
+              ]
             }
           ]
         },

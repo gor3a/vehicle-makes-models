@@ -9957,9 +9957,60 @@
           "yearEnd": null,
           "generations": [
             {
+              "name": "Spring (2026)",
+              "yearStart": 2026,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "27.5 kWh FWD (82 HP)",
+                  "fuelType": "Electric",
+                  "cylinders": null,
+                  "displacementCc": null,
+                  "powerHp": 82,
+                  "torqueNm": null,
+                  "transmission": "1-automatic speed",
+                  "drivetrain": "Front Wheel Drive",
+                  "zeroToHundredKmhS": 12.1,
+                  "topSpeedKmh": 130,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": 3856,
+                  "widthMm": 1722,
+                  "heightMm": 1519,
+                  "wheelbaseMm": 2492,
+                  "curbWeightKg": 1212,
+                  "specs": {
+                    "ENGINE SPECS / Electrical motor power": "60.3 kw (82 hp, 81 bhp)",
+                    "ENGINE SPECS / Electrical motor torque": "129.1 lb-ft (175 Nm)",
+                    "ENGINE SPECS / Total maximum power": "60.3 kw (82 hp, 81 bhp)",
+                    "ENGINE SPECS / Total maximum torque": "129.1 lb-ft (175 Nm)",
+                    "ENGINE SPECS / Fuel System": "Electric",
+                    "ENGINE SPECS / Fuel": "Electric",
+                    "PERFORMANCE SPECS / Top speed (electrical)": "81 mph (130 km/h)",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "12.1 s",
+                    "TRANSMISSION SPECS / Drive Type": "Front Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "1-automatic speed",
+                    "DIMENSIONS / Length": "151.8 in (3856 mm)",
+                    "DIMENSIONS / Width": "67.8 in (1722 mm)",
+                    "DIMENSIONS / Height": "59.8 in (1519 mm)",
+                    "DIMENSIONS / Front/rear Track": "59/58.7 in (1,499/1,491 mm)",
+                    "DIMENSIONS / Wheelbase": "98.1 in (2492 mm)",
+                    "DIMENSIONS / Ground Clearance": "4.6 in (117 mm)",
+                    "DIMENSIONS / Cargo Volume": "11.9 cuFT (337 L)",
+                    "DIMENSIONS / Turning circle": "32.5 ft (9.9 m)",
+                    "WEIGHT SPECS / Unladen Weight": "2672 lbs (1212 kg)",
+                    "POWER SYSTEM SPECS / Power pack": "Lithium iron phosphate",
+                    "POWER SYSTEM SPECS / Maximum Capacity": "27.5 kWh kWh",
+                    "POWER SYSTEM SPECS / Range": "155.3 miles (249.9 km)",
+                    "POWER SYSTEM SPECS / Observations": "Average Energy consumption WLTP: 12.7 kWh/100 km (20.44 kWh/100 miles)"
+                  }
+                }
+              ]
+            },
+            {
               "name": "Spring (2024)",
               "yearStart": 2024,
-              "yearEnd": null,
+              "yearEnd": 2026,
               "bodyType": null,
               "engines": [
                 {
@@ -10161,7 +10212,36 @@
               "yearStart": 2026,
               "yearEnd": null,
               "bodyType": null,
-              "engines": []
+              "engines": [
+                {
+                  "label": "1.2L MHEV 6AT FWD",
+                  "fuelType": "Mild Hybrid",
+                  "cylinders": 3,
+                  "displacementCc": null,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": "6-automatic speed",
+                  "drivetrain": "Front Wheel Drive",
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": 4620,
+                  "widthMm": null,
+                  "heightMm": 1529,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "L3",
+                    "ENGINE SPECS / Fuel System": "Turbocharged Direct Injection",
+                    "ENGINE SPECS / Fuel": "Mild Hybrid",
+                    "TRANSMISSION SPECS / Drive Type": "Front Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "6-automatic speed",
+                    "DIMENSIONS / Length": "181.9 in (4620 mm)",
+                    "DIMENSIONS / Height": "60.2 in (1529 mm)",
+                    "DIMENSIONS / Aerodynamics (Cd)": "0.29"
+                  }
+                }
+              ]
             }
           ]
         },

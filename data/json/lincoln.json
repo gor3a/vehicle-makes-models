@@ -3650,7 +3650,7 @@
               "bodyType": null,
               "engines": [
                 {
-                  "label": "2.0L AWD 6AT (240 HP)",
+                  "label": "2.0L 6AT AWD (240 HP)",
                   "fuelType": "Gasoline",
                   "cylinders": 4,
                   "displacementCc": 1999,
@@ -3673,7 +3673,7 @@
                     "ENGINE SPECS / Torque": "270 lb-ft @ 3000 RPM366 Nm @ 3000 RPM",
                     "ENGINE SPECS / Fuel System": "Turbocharged Direct Injection",
                     "ENGINE SPECS / Fuel": "Gasoline",
-                    "ENGINE SPECS / Fuel capacity": "18 gallons (68.1 L)",
+                    "ENGINE SPECS / Fuel capacity": "17.5 gallons (66.2 L)",
                     "TRANSMISSION SPECS / Drive Type": "All Wheel Drive",
                     "TRANSMISSION SPECS / Gearbox": "6-speed automatic",
                     "BRAKES SPECS / Front": "Ventilated Discs",
@@ -3693,7 +3693,7 @@
                   }
                 },
                 {
-                  "label": "2.0L FWD 6AT (240 HP)",
+                  "label": "2.0L 6AT FWD (240 HP)",
                   "fuelType": "Gasoline",
                   "cylinders": 4,
                   "displacementCc": 1999,
@@ -3716,7 +3716,7 @@
                     "ENGINE SPECS / Torque": "270 lb-ft @ 3000 RPM366 Nm @ 3000 RPM",
                     "ENGINE SPECS / Fuel System": "Turbocharged Direct Injection",
                     "ENGINE SPECS / Fuel": "Gasoline",
-                    "ENGINE SPECS / Fuel capacity": "18 gallons (68.1 L)",
+                    "ENGINE SPECS / Fuel capacity": "16.5 gallons (62.5 L)",
                     "TRANSMISSION SPECS / Drive Type": "Front Wheel Drive",
                     "TRANSMISSION SPECS / Gearbox": "6-speed automatic",
                     "BRAKES SPECS / Front": "Ventilated Discs",
@@ -3736,7 +3736,7 @@
                   }
                 },
                 {
-                  "label": "3.7L V6 AWD 6AT (300 HP)",
+                  "label": "3.7L V6 6AT AWD (300 HP)",
                   "fuelType": "Gasoline",
                   "cylinders": 6,
                   "displacementCc": 3726,
@@ -3759,7 +3759,7 @@
                     "ENGINE SPECS / Torque": "277 lb-ft @ 4000 RPM376 Nm @ 4000 RPM",
                     "ENGINE SPECS / Fuel System": "Multipoint Injection",
                     "ENGINE SPECS / Fuel": "Gasoline",
-                    "ENGINE SPECS / Fuel capacity": "18 gallons (68.1 L)",
+                    "ENGINE SPECS / Fuel capacity": "17.5 gallons (66.2 L)",
                     "TRANSMISSION SPECS / Drive Type": "All Wheel Drive",
                     "TRANSMISSION SPECS / Gearbox": "6-speed automatic",
                     "BRAKES SPECS / Front": "Ventilated Discs",
@@ -3779,7 +3779,7 @@
                   }
                 },
                 {
-                  "label": "3.7L V6 FWD 6AT (300 HP)",
+                  "label": "3.7L V6 6AT FWD (300 HP)",
                   "fuelType": "Gasoline",
                   "cylinders": 6,
                   "displacementCc": 3726,
@@ -3802,7 +3802,7 @@
                     "ENGINE SPECS / Torque": "277 lb-ft @ 4000 RPM376 Nm @ 4000 RPM",
                     "ENGINE SPECS / Fuel System": "Multipoint Injection",
                     "ENGINE SPECS / Fuel": "Gasoline",
-                    "ENGINE SPECS / Fuel capacity": "18 gallons (68.1 L)",
+                    "ENGINE SPECS / Fuel capacity": "17.5 gallons (66.2 L)",
                     "TRANSMISSION SPECS / Drive Type": "Front Wheel Drive",
                     "TRANSMISSION SPECS / Gearbox": "6-speed automatic",
                     "BRAKES SPECS / Front": "Ventilated Discs",
@@ -3822,7 +3822,7 @@
                   }
                 },
                 {
-                  "label": "2.0L FWD CVT (141 HP)",
+                  "label": "2.0L CVT FWD (141 HP)",
                   "fuelType": "Hybrid",
                   "cylinders": 4,
                   "displacementCc": 1999,
@@ -5887,7 +5887,7 @@
                     "ENGINE SPECS / Torque": "265 lb-ft @ 3000 RPM359 Nm @ 3000 RPM",
                     "ENGINE SPECS / Fuel System": "Electronic Injection",
                     "ENGINE SPECS / Fuel": "Gasoline",
-                    "ENGINE SPECS / Fuel capacity": "1.8 gallons (6.8 L)",
+                    "ENGINE SPECS / Fuel capacity": "20.1 gallons (76.1 L)",
                     "PERFORMANCE SPECS / Top Speed": "112 mph (180 km/h)",
                     "TRANSMISSION SPECS / Drive Type": "Rear Wheel Drive",
                     "TRANSMISSION SPECS / Gearbox": "4-speed automatic",

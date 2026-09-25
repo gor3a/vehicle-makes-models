@@ -1107,6 +1107,63 @@
           ]
         },
         {
+          "name": "CLA 45 Shooting Brake",
+          "yearStart": 2026,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "CLA 45 Shooting Brake (2026)",
+              "yearStart": 2026,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "94 kWh 4MATIC+ (680 HP)",
+                  "fuelType": "Electric",
+                  "cylinders": null,
+                  "displacementCc": null,
+                  "powerHp": 680,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": "All Wheel Drive",
+                  "zeroToHundredKmhS": 3,
+                  "topSpeedKmh": 249,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": 4742,
+                  "widthMm": 1859,
+                  "heightMm": 1471,
+                  "wheelbaseMm": 2789,
+                  "curbWeightKg": 2295,
+                  "specs": {
+                    "ENGINE SPECS / Electrical motor power": "264.8 kw (360 hp, 355 bhp)",
+                    "ENGINE SPECS / Total maximum power": "500.1 kw (680 hp, 671 bhp)",
+                    "ENGINE SPECS / Total maximum torque": "1297.4 lb-ft (1759 Nm)",
+                    "ENGINE SPECS / Fuel System": "Electric",
+                    "ENGINE SPECS / Fuel": "Electric",
+                    "PERFORMANCE SPECS / Top speed (electrical)": "155 mph (249 km/h)",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "3 s",
+                    "TRANSMISSION SPECS / Drive Type": "All Wheel Drive",
+                    "BRAKES SPECS / Front": "Ventilated discs, 390x36 mm",
+                    "BRAKES SPECS / Rear": "Ventilated discs, 350x22 mm",
+                    "TIRES SPECS / Tire Size": "245/40 ZR19 // 265/40 ZR19",
+                    "DIMENSIONS / Length": "186.7 in (4742 mm)",
+                    "DIMENSIONS / Width": "73.2 in (1859 mm)",
+                    "DIMENSIONS / Height": "57.9 in (1471 mm)",
+                    "DIMENSIONS / Wheelbase": "109.8 in (2789 mm)",
+                    "DIMENSIONS / Cargo Volume": "15.9 cuFT (450 L)",
+                    "DIMENSIONS / Aerodynamics (Cd)": "0.26",
+                    "WEIGHT SPECS / Unladen Weight": "5060 lbs (2295 kg)",
+                    "POWER SYSTEM SPECS / Power pack": "Lithium-ion (Li-Ion)",
+                    "POWER SYSTEM SPECS / Nominal Capacity": "94 kWh",
+                    "POWER SYSTEM SPECS / Range": "397.7 miles (640.0 km)",
+                    "POWER SYSTEM SPECS / Observations": "Average Energy consumption WLTP: 17.4-19.6 kWh/100 km (28 - 31.54 kWh/100 miles)"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
           "name": "CLA Shooting brake",
           "yearStart": 2015,
           "yearEnd": null,
@@ -1382,6 +1439,13 @@
           "yearStart": 2016,
           "yearEnd": null,
           "generations": [
+            {
+              "name": "CLA-Class (2026)",
+              "yearStart": 2026,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            },
             {
               "name": "CLA-Class (2023)",
               "yearStart": 2023,
@@ -1846,6 +1910,56 @@
           "yearStart": 2016,
           "yearEnd": null,
           "generations": [
+            {
+              "name": "E-Class Estate (2024)",
+              "yearStart": 2024,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "3.0L 4MATIC+ 9AT AWD (585 HP)",
+                  "fuelType": "Hybrid Gasoline",
+                  "cylinders": 6,
+                  "displacementCc": 2999,
+                  "powerHp": 449,
+                  "torqueNm": 560,
+                  "transmission": "9-speed automatic AMG Speepshift",
+                  "drivetrain": "All Wheel Drive",
+                  "zeroToHundredKmhS": 4.1,
+                  "topSpeedKmh": 249,
+                  "fuelEconomyCombinedL100": 9.5,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "L6",
+                    "ENGINE SPECS / Displacement": "2999 cm3 (183 ci)",
+                    "ENGINE SPECS / Power": "330.2 KW @ 5800-6100 RPM449 HP @ 5800-6100 RPM443 BHP @ 5800-6100 RPM",
+                    "ENGINE SPECS / Torque": "413 lb-ft @ 2200-5000 RPM560 Nm @ 2200-5000 RPM",
+                    "ENGINE SPECS / Electrical motor power": "88.3 kw (120 hp, 118 bhp)",
+                    "ENGINE SPECS / Electrical motor torque": "354 lb-ft (480 Nm)",
+                    "ENGINE SPECS / Total maximum power": "430.3 kw (585 hp, 577 bhp)",
+                    "ENGINE SPECS / Total maximum torque": "553.2 lb-ft (750 Nm)",
+                    "ENGINE SPECS / Fuel System": "Turbocharged Direct Injection",
+                    "ENGINE SPECS / Fuel": "Hybrid Gasoline",
+                    "PERFORMANCE SPECS / Top Speed": "155 mph (249 km/h)",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "4.1 s",
+                    "TRANSMISSION SPECS / Drive Type": "All Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "9-speed automatic AMG Speepshift",
+                    "BRAKES SPECS / Front": "Ventilated Discs",
+                    "BRAKES SPECS / Rear": "Ventilated Discs",
+                    "POWER SYSTEM SPECS / Power pack": "Lithium-Ion",
+                    "POWER SYSTEM SPECS / Nominal Capacity": "21.22 kWh",
+                    "POWER SYSTEM SPECS / Maximum Capacity": "28.6 kWh",
+                    "POWER SYSTEM SPECS / Range": "55.9 miles (90.0 km)",
+                    "FUEL ECONOMY (WLTP) / Combined": "24.8 mpg US (9.5 L/100Km)",
+                    "FUEL ECONOMY (WLTP) / CO2 Emissions (Combined)": "24 g/km"
+                  }
+                }
+              ]
+            },
             {
               "name": "E-Class (2024)",
               "yearStart": 2024,
@@ -2474,7 +2588,54 @@
               "yearStart": 2016,
               "yearEnd": 2018,
               "bodyType": null,
-              "engines": []
+              "engines": [
+                {
+                  "label": "3.0L V6 4MATIC 9AT AWD (401 HP)",
+                  "fuelType": "Gasoline",
+                  "cylinders": 6,
+                  "displacementCc": 2996,
+                  "powerHp": 401,
+                  "torqueNm": 520,
+                  "transmission": "8-automatic speed G-TRONIC",
+                  "drivetrain": "All Wheel Drive",
+                  "zeroToHundredKmhS": 4.7,
+                  "topSpeedKmh": 249,
+                  "fuelEconomyCombinedL100": 8.6,
+                  "lengthMm": 4933,
+                  "widthMm": 1852,
+                  "heightMm": 1476,
+                  "wheelbaseMm": 2939,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "V6",
+                    "ENGINE SPECS / Displacement": "2996 cm3 (183 ci)",
+                    "ENGINE SPECS / Power": "294.9 KW @ 6100 RPM401 HP @ 6100 RPM395 BHP @ 6100 RPM",
+                    "ENGINE SPECS / Torque": "384 lb-ft @ 2500-5000 RPM520 Nm @ 2500-5000 RPM",
+                    "ENGINE SPECS / Fuel System": "Turbocharged Direct Injection",
+                    "ENGINE SPECS / Fuel": "Gasoline",
+                    "ENGINE SPECS / Fuel capacity": "17.4 gallons (65.9 L)",
+                    "PERFORMANCE SPECS / Top Speed": "155 mph (249 km/h)",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "4.7 s",
+                    "TRANSMISSION SPECS / Drive Type": "All Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "8-automatic speed G-TRONIC",
+                    "BRAKES SPECS / Front": "Ventilated discs",
+                    "BRAKES SPECS / Rear": "Ventilated discs",
+                    "TIRES SPECS / Tire Size": "245/40 ZR19; 275/35 ZR19",
+                    "DIMENSIONS / Length": "194.2 in (4933 mm)",
+                    "DIMENSIONS / Width": "72.9 in (1852 mm)",
+                    "DIMENSIONS / Height": "58.1 in (1476 mm)",
+                    "DIMENSIONS / Front/rear Track": "63/63.3 in (1,600/1,608 mm)",
+                    "DIMENSIONS / Wheelbase": "115.7 in (2939 mm)",
+                    "DIMENSIONS / Cargo Volume": "22.6 cuFT (640 L)",
+                    "DIMENSIONS / Turning circle": "41 ft (12.5 m)",
+                    "WEIGHT SPECS / Unladen Weight": "4090 - 5523 lbs (1855 - 2505 kg)",
+                    "FUEL ECONOMY (NEDC) / City": "21.2 mpg US (11.1 L/100Km)",
+                    "FUEL ECONOMY (NEDC) / Highway": "33.1 mpg US (7.1 L/100Km)",
+                    "FUEL ECONOMY (NEDC) / Combined": "27.4 mpg US (8.6 L/100Km)",
+                    "FUEL ECONOMY (NEDC) / CO2 Emissions": "197 g/km"
+                  }
+                }
+              ]
             },
             {
               "name": "E-Class (2016)",
@@ -2625,56 +2786,6 @@
                     "FUEL ECONOMY (NEDC) / Highway": "30.9 mpg US (7.6 L/100Km)",
                     "FUEL ECONOMY (NEDC) / Combined": "25.8 mpg US (9.1 L/100Km)",
                     "FUEL ECONOMY (NEDC) / CO2 Emissions": "207 g/km"
-                  }
-                }
-              ]
-            },
-            {
-              "name": "E-Class Estate (2024)",
-              "yearStart": 2024,
-              "yearEnd": null,
-              "bodyType": null,
-              "engines": [
-                {
-                  "label": "3.0L 4MATIC+ 9AT AWD (585 HP)",
-                  "fuelType": "Hybrid Gasoline",
-                  "cylinders": 6,
-                  "displacementCc": 2999,
-                  "powerHp": 449,
-                  "torqueNm": 560,
-                  "transmission": "9-speed automatic AMG Speepshift",
-                  "drivetrain": "All Wheel Drive",
-                  "zeroToHundredKmhS": 4.1,
-                  "topSpeedKmh": 249,
-                  "fuelEconomyCombinedL100": 9.5,
-                  "lengthMm": null,
-                  "widthMm": null,
-                  "heightMm": null,
-                  "wheelbaseMm": null,
-                  "curbWeightKg": null,
-                  "specs": {
-                    "ENGINE SPECS / Cylinders": "L6",
-                    "ENGINE SPECS / Displacement": "2999 cm3 (183 ci)",
-                    "ENGINE SPECS / Power": "330.2 KW @ 5800-6100 RPM449 HP @ 5800-6100 RPM443 BHP @ 5800-6100 RPM",
-                    "ENGINE SPECS / Torque": "413 lb-ft @ 2200-5000 RPM560 Nm @ 2200-5000 RPM",
-                    "ENGINE SPECS / Electrical motor power": "88.3 kw (120 hp, 118 bhp)",
-                    "ENGINE SPECS / Electrical motor torque": "354 lb-ft (480 Nm)",
-                    "ENGINE SPECS / Total maximum power": "430.3 kw (585 hp, 577 bhp)",
-                    "ENGINE SPECS / Total maximum torque": "553.2 lb-ft (750 Nm)",
-                    "ENGINE SPECS / Fuel System": "Turbocharged Direct Injection",
-                    "ENGINE SPECS / Fuel": "Hybrid Gasoline",
-                    "PERFORMANCE SPECS / Top Speed": "155 mph (249 km/h)",
-                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "4.1 s",
-                    "TRANSMISSION SPECS / Drive Type": "All Wheel Drive",
-                    "TRANSMISSION SPECS / Gearbox": "9-speed automatic AMG Speepshift",
-                    "BRAKES SPECS / Front": "Ventilated Discs",
-                    "BRAKES SPECS / Rear": "Ventilated Discs",
-                    "POWER SYSTEM SPECS / Power pack": "Lithium-Ion",
-                    "POWER SYSTEM SPECS / Nominal Capacity": "21.22 kWh",
-                    "POWER SYSTEM SPECS / Maximum Capacity": "28.6 kWh",
-                    "POWER SYSTEM SPECS / Range": "55.9 miles (90.0 km)",
-                    "FUEL ECONOMY (WLTP) / Combined": "24.8 mpg US (9.5 L/100Km)",
-                    "FUEL ECONOMY (WLTP) / CO2 Emissions (Combined)": "24 g/km"
                   }
                 }
               ]
@@ -4558,6 +4669,48 @@
           "yearEnd": null,
           "generations": [
             {
+              "name": "GLE  Coupe (2026)",
+              "yearStart": 2026,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "4.0L V8 4MATIC MHEV EQ Boost 9AT AWD (612 HP)",
+                  "fuelType": "Mild Hybrid",
+                  "cylinders": 8,
+                  "displacementCc": 3982,
+                  "powerHp": 612,
+                  "torqueNm": 850,
+                  "transmission": "9-speed automatic AMG Speepshift",
+                  "drivetrain": "All Wheel Drive",
+                  "zeroToHundredKmhS": 3.9,
+                  "topSpeedKmh": 280,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "V8",
+                    "ENGINE SPECS / Displacement": "3982 cm3 (243 ci)",
+                    "ENGINE SPECS / Power": "450.1 KW @ 5750-6500 RPM612 HP @ 5750-6500 RPM604 BHP @ 5750-6500 RPM",
+                    "ENGINE SPECS / Torque": "627 lb-ft @ 2500-4500 RPM850 Nm @ 2500-4500 RPM",
+                    "ENGINE SPECS / Electrical motor power": "16.9 kw (23 hp, 23 bhp)",
+                    "ENGINE SPECS / Electrical motor torque": "151.2 lb-ft (205 Nm)",
+                    "ENGINE SPECS / Fuel System": "Turbocharged Direct Injection",
+                    "ENGINE SPECS / Fuel": "Mild Hybrid",
+                    "PERFORMANCE SPECS / Top Speed": "174 mph (280 km/h)",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "3.9 s",
+                    "TRANSMISSION SPECS / Drive Type": "All Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "9-speed automatic AMG Speepshift",
+                    "BRAKES SPECS / Front": "Ventilated discs",
+                    "BRAKES SPECS / Rear": "Ventilated discs"
+                  }
+                }
+              ]
+            },
+            {
               "name": "GLE  Coupe (2023)",
               "yearStart": 2023,
               "yearEnd": null,
@@ -5301,6 +5454,61 @@
           "yearStart": 2016,
           "yearEnd": null,
           "generations": [
+            {
+              "name": "GLS- Class (2026)",
+              "yearStart": 2026,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "4.0L V8 4MATIC MHEV EQ Boost 9AT AWD (612 HP)",
+                  "fuelType": "Mild Hybrid",
+                  "cylinders": 8,
+                  "displacementCc": 3982,
+                  "powerHp": 612,
+                  "torqueNm": 850,
+                  "transmission": "9-speed automatic AMG Speepshift",
+                  "drivetrain": "All Wheel Drive",
+                  "zeroToHundredKmhS": 4.2,
+                  "topSpeedKmh": 249,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": 5232,
+                  "widthMm": 2029,
+                  "heightMm": 1836,
+                  "wheelbaseMm": 3134,
+                  "curbWeightKg": 2625,
+                  "specs": {
+                    "ENGINE SPECS / Cylinders": "V8",
+                    "ENGINE SPECS / Displacement": "3982 cm3 (243 ci)",
+                    "ENGINE SPECS / Power": "450.1 KW @ 5750-6500 RPM612 HP @ 5750-6500 RPM604 BHP @ 5750-6500 RPM",
+                    "ENGINE SPECS / Torque": "627 lb-ft @ 2500-4500 RPM850 Nm @ 2500-4500 RPM",
+                    "ENGINE SPECS / Electrical motor power": "16.2 kw (22 hp, 22 bhp)",
+                    "ENGINE SPECS / Electrical motor torque": "14.8 lb-ft (20 Nm)",
+                    "ENGINE SPECS / Fuel System": "Turbocharged Direct Injection",
+                    "ENGINE SPECS / Fuel": "Mild Hybrid",
+                    "ENGINE SPECS / Fuel capacity": "23.8 gallons (90.1 L)",
+                    "PERFORMANCE SPECS / Top Speed": "155 mph (249 km/h)",
+                    "PERFORMANCE SPECS / Acceleration 0-62 Mph (0-100 kph)": "4.2 s",
+                    "TRANSMISSION SPECS / Drive Type": "All Wheel Drive",
+                    "TRANSMISSION SPECS / Gearbox": "9-speed automatic AMG Speepshift",
+                    "BRAKES SPECS / Front": "Ventilated discs",
+                    "BRAKES SPECS / Rear": "Ventilated discs",
+                    "TIRES SPECS / Tire Size": "275/45 R21 // 315/40 R21",
+                    "DIMENSIONS / Length": "206 in (5232 mm)",
+                    "DIMENSIONS / Width": "79.9 in (2029 mm)",
+                    "DIMENSIONS / Height": "72.3 in (1836 mm)",
+                    "DIMENSIONS / Front/rear Track": "67.1/6.8 in (1,704/173 mm)",
+                    "DIMENSIONS / Wheelbase": "123.4 in (3134 mm)",
+                    "DIMENSIONS / Ground Clearance": "9.8 in (249 mm)",
+                    "DIMENSIONS / Cargo Volume": "1.2 cuFT (34 L)",
+                    "DIMENSIONS / Turning circle": "43 ft (13.1 m)",
+                    "WEIGHT SPECS / Unladen Weight": "5787 lbs (2625 kg)",
+                    "WEIGHT SPECS / Gross Weight Limit": "7485 lbs (3395 kg)",
+                    "POWER SYSTEM SPECS / Power pack": "Lithium-ion (Li-Ion)"
+                  }
+                }
+              ]
+            },
             {
               "name": "GLS- Class (2023)",
               "yearStart": 2023,
