@@ -1,0 +1,5629 @@
+{
+  "group": "alpina",
+  "makes": [
+    {
+      "name": "Alpina",
+      "models": [
+        {
+          "name": "B10",
+          "yearStart": 1990,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "B10",
+              "yearStart": 1990,
+              "yearEnd": null,
+              "bodyType": "sedan",
+              "engines": [
+                {
+                  "label": "3.3L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 3300,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "20000616",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "3.4L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 3430,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19920604",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "4.6L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 4619,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "3",
+                    "rdw/lastRegistration": "19980701",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "4.8L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 4837,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "20020814",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "B10 (E39)",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "B10 (E39)",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "B10 3,3",
+          "yearStart": 1999,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "B10 3,3",
+              "yearStart": 1999,
+              "yearEnd": null,
+              "bodyType": "sedan",
+              "engines": [
+                {
+                  "label": "3.3L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 3300,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "20010726",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "B10 3.2",
+          "yearStart": 1998,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "B10 3.2",
+              "yearStart": 1998,
+              "yearEnd": null,
+              "bodyType": "Niet geregistreerd",
+              "engines": [
+                {
+                  "label": "3.2L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 3152,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19980305",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "B10 Bi-Turbo",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "B10 Bi-Turbo",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "B10 V8",
+          "yearStart": 1997,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "B10 V8",
+              "yearStart": 1997,
+              "yearEnd": null,
+              "bodyType": "stationwagen",
+              "engines": [
+                {
+                  "label": "4.6L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 4610,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "20000301",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "4.6L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 4619,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "5",
+                    "rdw/lastRegistration": "20020114",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "B10 V8 TOURING",
+          "yearStart": 1999,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "B10 V8 TOURING",
+              "yearStart": 1999,
+              "yearEnd": null,
+              "bodyType": "stationwagen",
+              "engines": [
+                {
+                  "label": "4.6L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 4619,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "7",
+                    "rdw/lastRegistration": "20000929",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "B12",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "B12",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "B3",
+          "yearStart": 1999,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "B3",
+              "yearStart": 1999,
+              "yearEnd": null,
+              "bodyType": "sedan",
+              "engines": [
+                {
+                  "label": "3.3L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 3300,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "20041217",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "3.3L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 3346,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "20020930",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "3.0L 340 kW Petrol",
+                  "fuelType": "Petrol",
+                  "cylinders": null,
+                  "displacementCc": 2993,
+                  "powerHp": 462.4,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "1",
+                    "eea/lastYear": "2022",
+                    "eea/source": "eea"
+                  }
+                },
+                {
+                  "label": "3.0L 364 kW Petrol",
+                  "fuelType": "Petrol",
+                  "cylinders": null,
+                  "displacementCc": 2993,
+                  "powerHp": 495,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "2",
+                    "eea/lastYear": "2022",
+                    "eea/source": "eea"
+                  }
+                },
+                {
+                  "label": "3.0L 301 kW Petrol",
+                  "fuelType": "Petrol",
+                  "cylinders": null,
+                  "displacementCc": 2979,
+                  "powerHp": 409.4,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "18",
+                    "eea/lastYear": "2016",
+                    "eea/source": "eea"
+                  }
+                },
+                {
+                  "label": "3.0L 324 kW Petrol",
+                  "fuelType": "Petrol",
+                  "cylinders": null,
+                  "displacementCc": 2979,
+                  "powerHp": 440.6,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "12",
+                    "eea/lastYear": "2019",
+                    "eea/source": "eea"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "B3 (E30)",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "B3 (E30)",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "B3 (F30)",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "B3 (F30)",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "B3 3,3",
+          "yearStart": 1999,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "B3 3,3",
+              "yearStart": 1999,
+              "yearEnd": null,
+              "bodyType": "sedan",
+              "engines": [
+                {
+                  "label": "3.3L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 3300,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19991203",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "B3 3,4",
+          "yearStart": 2003,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "B3 3,4",
+              "yearStart": 2003,
+              "yearEnd": null,
+              "bodyType": "sedan",
+              "engines": [
+                {
+                  "label": "3.4L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 3400,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "20041209",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "3.3L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 3346,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "20050225",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "B3 3.0",
+          "yearStart": 1994,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "B3 3.0",
+              "yearStart": 1994,
+              "yearEnd": null,
+              "bodyType": "stationwagen",
+              "engines": [
+                {
+                  "label": "3.0L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 2997,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19960123",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "B3 3.3",
+          "yearStart": 1999,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "B3 3.3",
+              "yearStart": 1999,
+              "yearEnd": null,
+              "bodyType": "sedan",
+              "engines": [
+                {
+                  "label": "3.3L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 3300,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "2",
+                    "rdw/lastRegistration": "20001012",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "3.3L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 3290,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "20020101",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "B3 3.3 TOURING ALL",
+          "yearStart": 2002,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "B3 3.3 TOURING ALL",
+              "yearStart": 2002,
+              "yearEnd": null,
+              "bodyType": "stationwagen",
+              "engines": [
+                {
+                  "label": "3.3L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 3300,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "3",
+                    "rdw/lastRegistration": "20030805",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "B3 BITURBO",
+          "yearStart": 2007,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "B3 BITURBO",
+              "yearStart": 2007,
+              "yearEnd": null,
+              "bodyType": "coupe",
+              "engines": [
+                {
+                  "label": "3.0L 301 kW Petrol",
+                  "fuelType": "Petrol",
+                  "cylinders": null,
+                  "displacementCc": 2979,
+                  "powerHp": 409.4,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "2",
+                    "eea/lastYear": "2014",
+                    "eea/source": "eea"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "B3 BITURBO ALLRAD",
+          "yearStart": 2013,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "B3 BITURBO ALLRAD",
+              "yearStart": 2013,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "3.0L 301 kW Petrol",
+                  "fuelType": "Petrol",
+                  "cylinders": null,
+                  "displacementCc": 2979,
+                  "powerHp": 409.4,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "12",
+                    "eea/lastYear": "2018",
+                    "eea/source": "eea"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "B3 BITURBO TOURING",
+          "yearStart": 2010,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "B3 BITURBO TOURING",
+              "yearStart": 2010,
+              "yearEnd": null,
+              "bodyType": "stationwagen",
+              "engines": [
+                {
+                  "label": "3.0L 301 kW Petrol",
+                  "fuelType": "Petrol",
+                  "cylinders": null,
+                  "displacementCc": 2979,
+                  "powerHp": 409.4,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "2",
+                    "eea/lastYear": "2013",
+                    "eea/source": "eea"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "B3 BITURBO TOURING ALLRAD",
+          "yearStart": 2015,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "B3 BITURBO TOURING ALLRAD",
+              "yearStart": 2015,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "3.0L 301 kW Petrol",
+                  "fuelType": "Petrol",
+                  "cylinders": null,
+                  "displacementCc": 2979,
+                  "powerHp": 409.4,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "2",
+                    "eea/lastYear": "2015",
+                    "eea/source": "eea"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "B3 GT TOURING",
+          "yearStart": 2025,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "B3 GT TOURING",
+              "yearStart": 2025,
+              "yearEnd": null,
+              "bodyType": "stationwagen",
+              "engines": [
+                {
+                  "label": "3.0L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 2993,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "13",
+                    "rdw/lastRegistration": "20260714",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "B3 GT3",
+          "yearStart": 2013,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "B3 GT3",
+              "yearStart": 2013,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "3.0L 300 kW Petrol",
+                  "fuelType": "Petrol",
+                  "cylinders": null,
+                  "displacementCc": 2979,
+                  "powerHp": 408,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "6",
+                    "eea/lastYear": "2015",
+                    "eea/source": "eea"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "B3 Limousine",
+          "yearStart": 2020,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "B3 Limousine",
+              "yearStart": 2020,
+              "yearEnd": null,
+              "bodyType": "sedan",
+              "engines": [
+                {
+                  "label": "3.0L 340 kW Petrol",
+                  "fuelType": "Petrol",
+                  "cylinders": null,
+                  "displacementCc": 2993,
+                  "powerHp": 462.4,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "139",
+                    "eea/lastYear": "2022",
+                    "eea/source": "eea"
+                  }
+                },
+                {
+                  "label": "3.0L 364 kW Petrol",
+                  "fuelType": "Petrol",
+                  "cylinders": null,
+                  "displacementCc": 2993,
+                  "powerHp": 495,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "5",
+                    "eea/lastYear": "2022",
+                    "eea/source": "eea"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "B3 S",
+          "yearStart": 2010,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "B3 S",
+              "yearStart": 2010,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "3.0L 294 kW Petrol",
+                  "fuelType": "Petrol",
+                  "cylinders": null,
+                  "displacementCc": 2979,
+                  "powerHp": 399.8,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "6",
+                    "eea/lastYear": "2011",
+                    "eea/source": "eea"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "B3 S  BITURBO CABRIO",
+          "yearStart": 2010,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "B3 S  BITURBO CABRIO",
+              "yearStart": 2010,
+              "yearEnd": null,
+              "bodyType": "cabriolet",
+              "engines": [
+                {
+                  "label": "3.0L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 2979,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "4",
+                    "rdw/lastRegistration": "20110719",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "B3 S BITURBO",
+          "yearStart": 2010,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "B3 S BITURBO",
+              "yearStart": 2010,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "3.0L 294 kW Petrol",
+                  "fuelType": "Petrol",
+                  "cylinders": null,
+                  "displacementCc": 2979,
+                  "powerHp": 399.8,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "6",
+                    "eea/lastYear": "2013",
+                    "eea/source": "eea"
+                  }
+                },
+                {
+                  "label": "3.0L 324 kW Petrol",
+                  "fuelType": "Petrol",
+                  "cylinders": null,
+                  "displacementCc": 2979,
+                  "powerHp": 440.6,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "154",
+                    "eea/lastYear": "2019",
+                    "eea/source": "eea"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "B3 S BITURBO ALLRAD",
+          "yearStart": 2011,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "B3 S BITURBO ALLRAD",
+              "yearStart": 2011,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "3.0L 301 kW Petrol",
+                  "fuelType": "Petrol",
+                  "cylinders": null,
+                  "displacementCc": 2979,
+                  "powerHp": 409.4,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "2",
+                    "eea/lastYear": "2013",
+                    "eea/source": "eea"
+                  }
+                },
+                {
+                  "label": "3.0L 324 kW Petrol",
+                  "fuelType": "Petrol",
+                  "cylinders": null,
+                  "displacementCc": 2979,
+                  "powerHp": 440.6,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "2",
+                    "eea/lastYear": "2019",
+                    "eea/source": "eea"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "B3 S BITURBO TOURIN",
+          "yearStart": 2014,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "B3 S BITURBO TOURIN",
+              "yearStart": 2014,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "3.0L 301 kW Petrol",
+                  "fuelType": "Petrol",
+                  "cylinders": null,
+                  "displacementCc": 2979,
+                  "powerHp": 409.4,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "2",
+                    "eea/lastYear": "2014",
+                    "eea/source": "eea"
+                  }
+                },
+                {
+                  "label": "3.0L 324 kW Petrol",
+                  "fuelType": "Petrol",
+                  "cylinders": null,
+                  "displacementCc": 2979,
+                  "powerHp": 440.6,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "2",
+                    "eea/lastYear": "2018",
+                    "eea/source": "eea"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "B3 S BITURBO TOURING",
+          "yearStart": 2010,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "B3 S BITURBO TOURING",
+              "yearStart": 2010,
+              "yearEnd": null,
+              "bodyType": "stationwagen",
+              "engines": [
+                {
+                  "label": "3.0L 324 kW Petrol",
+                  "fuelType": "Petrol",
+                  "cylinders": null,
+                  "displacementCc": 2979,
+                  "powerHp": 440.6,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "6",
+                    "eea/lastYear": "2019",
+                    "eea/source": "eea"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "B3 S BITURBO TOURING ALLRAD",
+          "yearStart": 2011,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "B3 S BITURBO TOURING ALLRAD",
+              "yearStart": 2011,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "3.0L 294 kW Petrol",
+                  "fuelType": "Petrol",
+                  "cylinders": null,
+                  "displacementCc": 2979,
+                  "powerHp": 399.8,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "2",
+                    "eea/lastYear": "2011",
+                    "eea/source": "eea"
+                  }
+                },
+                {
+                  "label": "3.0L 324 kW Petrol",
+                  "fuelType": "Petrol",
+                  "cylinders": null,
+                  "displacementCc": 2979,
+                  "powerHp": 440.6,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "64",
+                    "eea/lastYear": "2020",
+                    "eea/source": "eea"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "B3 TOURING",
+          "yearStart": 2001,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "B3 TOURING",
+              "yearStart": 2001,
+              "yearEnd": null,
+              "bodyType": "stationwagen",
+              "engines": [
+                {
+                  "label": "3.3L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 3346,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "20010213",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "3.0L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 2979,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "20090324",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "3.3L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 3300,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "20030227",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "3.0L 340 kW Petrol",
+                  "fuelType": "Petrol",
+                  "cylinders": null,
+                  "displacementCc": 2993,
+                  "powerHp": 462.4,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "536",
+                    "eea/lastYear": "2022",
+                    "eea/source": "eea"
+                  }
+                },
+                {
+                  "label": "3.0L 364 kW Petrol",
+                  "fuelType": "Petrol",
+                  "cylinders": null,
+                  "displacementCc": 2993,
+                  "powerHp": 495,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "12",
+                    "eea/lastYear": "2022",
+                    "eea/source": "eea"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "B4",
+          "yearStart": 2014,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "B4",
+              "yearStart": 2014,
+              "yearEnd": null,
+              "bodyType": "sedan",
+              "engines": [
+                {
+                  "label": "3.0L 364 kW Petrol",
+                  "fuelType": "Petrol",
+                  "cylinders": null,
+                  "displacementCc": 2993,
+                  "powerHp": 495,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "1",
+                    "eea/lastYear": "2022",
+                    "eea/source": "eea"
+                  }
+                },
+                {
+                  "label": "3.0L 301 kW Petrol",
+                  "fuelType": "Petrol",
+                  "cylinders": null,
+                  "displacementCc": 2979,
+                  "powerHp": 409.4,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "8",
+                    "eea/lastYear": "2017",
+                    "eea/source": "eea"
+                  }
+                },
+                {
+                  "label": "3.0L 324 kW Petrol",
+                  "fuelType": "Petrol",
+                  "cylinders": null,
+                  "displacementCc": 2979,
+                  "powerHp": 440.6,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "14",
+                    "eea/lastYear": "2019",
+                    "eea/source": "eea"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "B4 BITURBO",
+          "yearStart": 2014,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "B4 BITURBO",
+              "yearStart": 2014,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "3.0L 301 kW Petrol",
+                  "fuelType": "Petrol",
+                  "cylinders": null,
+                  "displacementCc": 2979,
+                  "powerHp": 409.4,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "80",
+                    "eea/lastYear": "2017",
+                    "eea/source": "eea"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "B4 BITURBO CABRIO",
+          "yearStart": 2014,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "B4 BITURBO CABRIO",
+              "yearStart": 2014,
+              "yearEnd": null,
+              "bodyType": "cabriolet",
+              "engines": [
+                {
+                  "label": "3.0L 324 kW Petrol",
+                  "fuelType": "Petrol",
+                  "cylinders": null,
+                  "displacementCc": 2979,
+                  "powerHp": 440.6,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "2",
+                    "eea/lastYear": "2017",
+                    "eea/source": "eea"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "B4 BITURBO COUPE",
+          "yearStart": 2014,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "B4 BITURBO COUPE",
+              "yearStart": 2014,
+              "yearEnd": null,
+              "bodyType": "coupe",
+              "engines": [
+                {
+                  "label": "3.0L 301 kW Petrol",
+                  "fuelType": "Petrol",
+                  "cylinders": null,
+                  "displacementCc": 2979,
+                  "powerHp": 409.4,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "2",
+                    "eea/lastYear": "2015",
+                    "eea/source": "eea"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "B4 BITURBO COUPE AL",
+          "yearStart": 2015,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "B4 BITURBO COUPE AL",
+              "yearStart": 2015,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "3.0L 301 kW Petrol",
+                  "fuelType": "Petrol",
+                  "cylinders": null,
+                  "displacementCc": 2979,
+                  "powerHp": 409.4,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "4",
+                    "eea/lastYear": "2016",
+                    "eea/source": "eea"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "B4 BITURBO COUPE ALLRAD",
+          "yearStart": 2015,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "B4 BITURBO COUPE ALLRAD",
+              "yearStart": 2015,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "3.0L 301 kW Petrol",
+                  "fuelType": "Petrol",
+                  "cylinders": null,
+                  "displacementCc": 2979,
+                  "powerHp": 409.4,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "14",
+                    "eea/lastYear": "2017",
+                    "eea/source": "eea"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "B4 GRAN COUP?",
+          "yearStart": 2022,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "B4 GRAN COUP?",
+              "yearStart": 2022,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "3.0L 364 kW Petrol",
+                  "fuelType": "Petrol",
+                  "cylinders": null,
+                  "displacementCc": 2993,
+                  "powerHp": 495,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "1",
+                    "eea/lastYear": "2022",
+                    "eea/source": "eea"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "B4 GRAN COUPE",
+          "yearStart": 2021,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "B4 GRAN COUPE",
+              "yearStart": 2021,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "3.0L 340 kW Petrol",
+                  "fuelType": "Petrol",
+                  "cylinders": null,
+                  "displacementCc": 2993,
+                  "powerHp": 462.4,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "6",
+                    "eea/lastYear": "2021",
+                    "eea/source": "eea"
+                  }
+                },
+                {
+                  "label": "3.0L 364 kW Petrol",
+                  "fuelType": "Petrol",
+                  "cylinders": null,
+                  "displacementCc": 2993,
+                  "powerHp": 495,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "1",
+                    "eea/lastYear": "2022",
+                    "eea/source": "eea"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "B4 S BITURBO",
+          "yearStart": 2017,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "B4 S BITURBO",
+              "yearStart": 2017,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "3.0L 324 kW Petrol",
+                  "fuelType": "Petrol",
+                  "cylinders": null,
+                  "displacementCc": 2979,
+                  "powerHp": 440.6,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "202",
+                    "eea/lastYear": "2019",
+                    "eea/source": "eea"
+                  }
+                },
+                {
+                  "label": "3.0L 332 kW Petrol",
+                  "fuelType": "Petrol",
+                  "cylinders": null,
+                  "displacementCc": 2979,
+                  "powerHp": 451.5,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "4",
+                    "eea/lastYear": "2021",
+                    "eea/source": "eea"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "B4 S BITURBO CABRIO",
+          "yearStart": 2018,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "B4 S BITURBO CABRIO",
+              "yearStart": 2018,
+              "yearEnd": null,
+              "bodyType": "cabriolet",
+              "engines": [
+                {
+                  "label": "3.0L 324 kW Petrol",
+                  "fuelType": "Petrol",
+                  "cylinders": null,
+                  "displacementCc": 2979,
+                  "powerHp": 440.6,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "12",
+                    "eea/lastYear": "2019",
+                    "eea/source": "eea"
+                  }
+                },
+                {
+                  "label": "3.0L 332 kW Petrol",
+                  "fuelType": "Petrol",
+                  "cylinders": null,
+                  "displacementCc": 2979,
+                  "powerHp": 451.5,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "44",
+                    "eea/lastYear": "2020",
+                    "eea/source": "eea"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "B4 S BITURBO COUPE",
+          "yearStart": 2019,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "B4 S BITURBO COUPE",
+              "yearStart": 2019,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "3.0L 324 kW Petrol",
+                  "fuelType": "Petrol",
+                  "cylinders": null,
+                  "displacementCc": 2979,
+                  "powerHp": 440.6,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "2",
+                    "eea/lastYear": "2019",
+                    "eea/source": "eea"
+                  }
+                },
+                {
+                  "label": "3.0L 332 kW Petrol",
+                  "fuelType": "Petrol",
+                  "cylinders": null,
+                  "displacementCc": 2979,
+                  "powerHp": 451.5,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "8",
+                    "eea/lastYear": "2019",
+                    "eea/source": "eea"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "B4 S BITURBO COUPE ALLRA",
+          "yearStart": 2018,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "B4 S BITURBO COUPE ALLRA",
+              "yearStart": 2018,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "3.0L 324 kW Petrol",
+                  "fuelType": "Petrol",
+                  "cylinders": null,
+                  "displacementCc": 2979,
+                  "powerHp": 440.6,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "2",
+                    "eea/lastYear": "2018",
+                    "eea/source": "eea"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "B4 S BITURBO COUPÉ ALLRA",
+          "yearStart": 2020,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "B4 S BITURBO COUPÉ ALLRA",
+              "yearStart": 2020,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "3.0L 332 kW Petrol",
+                  "fuelType": "Petrol",
+                  "cylinders": null,
+                  "displacementCc": 2979,
+                  "powerHp": 451.5,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "4",
+                    "eea/lastYear": "2020",
+                    "eea/source": "eea"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "B4 S BITURBO COUPE ALLRAD",
+          "yearStart": 2017,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "B4 S BITURBO COUPE ALLRAD",
+              "yearStart": 2017,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "3.0L 324 kW Petrol",
+                  "fuelType": "Petrol",
+                  "cylinders": null,
+                  "displacementCc": 2979,
+                  "powerHp": 440.6,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "1",
+                    "eea/lastYear": "2018",
+                    "eea/source": "eea"
+                  }
+                },
+                {
+                  "label": "3.0L 332 kW Petrol",
+                  "fuelType": "Petrol",
+                  "cylinders": null,
+                  "displacementCc": 2979,
+                  "powerHp": 451.5,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "68",
+                    "eea/lastYear": "2020",
+                    "eea/source": "eea"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "B5",
+          "yearStart": 2005,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "B5",
+              "yearStart": 2005,
+              "yearEnd": null,
+              "bodyType": "hatchback",
+              "engines": [
+                {
+                  "label": "4.4L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 4398,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "20050826",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "4.4L 373 kW Petrol",
+                  "fuelType": "Petrol",
+                  "cylinders": null,
+                  "displacementCc": 4395,
+                  "powerHp": 507.3,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "2",
+                    "eea/lastYear": "2011",
+                    "eea/source": "eea"
+                  }
+                },
+                {
+                  "label": "4.4L 447 kW Petrol",
+                  "fuelType": "Petrol",
+                  "cylinders": null,
+                  "displacementCc": 4395,
+                  "powerHp": 607.9,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "2",
+                    "eea/lastYear": "2017",
+                    "eea/source": "eea"
+                  }
+                },
+                {
+                  "label": "4.4L 457 kW Petrol",
+                  "fuelType": "Petrol",
+                  "cylinders": null,
+                  "displacementCc": 4395,
+                  "powerHp": 621.5,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "1",
+                    "eea/lastYear": "2022",
+                    "eea/source": "eea"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "B5 (E60)",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "B5 (E60)",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "B5 ALLRAD",
+          "yearStart": 2021,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "B5 ALLRAD",
+              "yearStart": 2021,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "4.4L 457 kW Petrol",
+                  "fuelType": "Petrol",
+                  "cylinders": null,
+                  "displacementCc": 4395,
+                  "powerHp": 621.5,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "5",
+                    "eea/lastYear": "2022",
+                    "eea/source": "eea"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "B5 BITURBO",
+          "yearStart": 2010,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "B5 BITURBO",
+              "yearStart": 2010,
+              "yearEnd": null,
+              "bodyType": "stationwagen",
+              "engines": [
+                {
+                  "label": "4.4L 373 kW Petrol",
+                  "fuelType": "Petrol",
+                  "cylinders": null,
+                  "displacementCc": 4395,
+                  "powerHp": 507.3,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "2",
+                    "eea/lastYear": "2011",
+                    "eea/source": "eea"
+                  }
+                },
+                {
+                  "label": "4.4L 397 kW Petrol",
+                  "fuelType": "Petrol",
+                  "cylinders": null,
+                  "displacementCc": 4395,
+                  "powerHp": 539.9,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "32",
+                    "eea/lastYear": "2015",
+                    "eea/source": "eea"
+                  }
+                },
+                {
+                  "label": "4.4L 441 kW Petrol",
+                  "fuelType": "Petrol",
+                  "cylinders": null,
+                  "displacementCc": 4395,
+                  "powerHp": 599.8,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "26",
+                    "eea/lastYear": "2017",
+                    "eea/source": "eea"
+                  }
+                },
+                {
+                  "label": "4.4L 447 kW Petrol",
+                  "fuelType": "Petrol",
+                  "cylinders": null,
+                  "displacementCc": 4395,
+                  "powerHp": 607.9,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "602",
+                    "eea/lastYear": "2021",
+                    "eea/source": "eea"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "B5 BITURBO AL",
+          "yearStart": 2019,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "B5 BITURBO AL",
+              "yearStart": 2019,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "4.4L 447 kW Petrol",
+                  "fuelType": "Petrol",
+                  "cylinders": null,
+                  "displacementCc": 4395,
+                  "powerHp": 607.9,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "2",
+                    "eea/lastYear": "2019",
+                    "eea/source": "eea"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "B5 BITURBO ALLRAD",
+          "yearStart": 2017,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "B5 BITURBO ALLRAD",
+              "yearStart": 2017,
+              "yearEnd": null,
+              "bodyType": "sedan",
+              "engines": [
+                {
+                  "label": "4.4L 447 kW Petrol",
+                  "fuelType": "Petrol",
+                  "cylinders": null,
+                  "displacementCc": 4395,
+                  "powerHp": 607.9,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "2",
+                    "eea/lastYear": "2018",
+                    "eea/source": "eea"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "B5 BITURBO ALLRAD (M3)",
+          "yearStart": 2020,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "B5 BITURBO ALLRAD (M3)",
+              "yearStart": 2020,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "4.4L 447 kW Petrol",
+                  "fuelType": "Petrol",
+                  "cylinders": null,
+                  "displacementCc": 4395,
+                  "powerHp": 607.9,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "6",
+                    "eea/lastYear": "2020",
+                    "eea/source": "eea"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "B5 BITURBO ALLRAD M3",
+          "yearStart": 2019,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "B5 BITURBO ALLRAD M3",
+              "yearStart": 2019,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "4.4L 447 kW Petrol",
+                  "fuelType": "Petrol",
+                  "cylinders": null,
+                  "displacementCc": 4395,
+                  "powerHp": 607.9,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "80",
+                    "eea/lastYear": "2019",
+                    "eea/source": "eea"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "B5 BITURBO TO",
+          "yearStart": 2011,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "B5 BITURBO TO",
+              "yearStart": 2011,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "4.4L 441 kW Petrol",
+                  "fuelType": "Petrol",
+                  "cylinders": null,
+                  "displacementCc": 4395,
+                  "powerHp": 599.8,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "2",
+                    "eea/lastYear": "2015",
+                    "eea/source": "eea"
+                  }
+                },
+                {
+                  "label": "4.4L 447 kW Petrol",
+                  "fuelType": "Petrol",
+                  "cylinders": null,
+                  "displacementCc": 4395,
+                  "powerHp": 607.9,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "6",
+                    "eea/lastYear": "2019",
+                    "eea/source": "eea"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "B5 BITURBO Touring Allrad",
+          "yearStart": 2018,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "B5 BITURBO Touring Allrad",
+              "yearStart": 2018,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "4.4L 447 kW Petrol",
+                  "fuelType": "Petrol",
+                  "cylinders": null,
+                  "displacementCc": 4395,
+                  "powerHp": 607.9,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "74",
+                    "eea/lastYear": "2020",
+                    "eea/source": "eea"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "B5 BITURBO TOURING ALLRAD (M3)",
+          "yearStart": 2020,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "B5 BITURBO TOURING ALLRAD (M3)",
+              "yearStart": 2020,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "4.4L 447 kW Petrol",
+                  "fuelType": "Petrol",
+                  "cylinders": null,
+                  "displacementCc": 4395,
+                  "powerHp": 607.9,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "30",
+                    "eea/lastYear": "2020",
+                    "eea/source": "eea"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "B5 BITURBO TOURING ALLRAD M3",
+          "yearStart": 2019,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "B5 BITURBO TOURING ALLRAD M3",
+              "yearStart": 2019,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "4.4L 447 kW Petrol",
+                  "fuelType": "Petrol",
+                  "cylinders": null,
+                  "displacementCc": 4395,
+                  "powerHp": 607.9,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "218",
+                    "eea/lastYear": "2019",
+                    "eea/source": "eea"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "B5 TOURING",
+          "yearStart": 2006,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "B5 TOURING",
+              "yearStart": 2006,
+              "yearEnd": null,
+              "bodyType": "stationwagen",
+              "engines": [
+                {
+                  "label": "4.4L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 4398,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "4",
+                    "rdw/lastRegistration": "20070706",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "4.4L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 4400,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "20060831",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "B5 TOURING AL",
+          "yearStart": 2021,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "B5 TOURING AL",
+              "yearStart": 2021,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "4.4L 457 kW Petrol",
+                  "fuelType": "Petrol",
+                  "cylinders": null,
+                  "displacementCc": 4395,
+                  "powerHp": 621.5,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "2",
+                    "eea/lastYear": "2021",
+                    "eea/source": "eea"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "B5 TOURING ALLRAD",
+          "yearStart": 2020,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "B5 TOURING ALLRAD",
+              "yearStart": 2020,
+              "yearEnd": null,
+              "bodyType": "stationwagen",
+              "engines": [
+                {
+                  "label": "4.4L 457 kW Petrol",
+                  "fuelType": "Petrol",
+                  "cylinders": null,
+                  "displacementCc": 4395,
+                  "powerHp": 621.5,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "2",
+                    "eea/lastYear": "2021",
+                    "eea/source": "eea"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "B5S",
+          "yearStart": 2007,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "B5S",
+              "yearStart": 2007,
+              "yearEnd": null,
+              "bodyType": "sedan",
+              "engines": [
+                {
+                  "label": "4.4L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 4398,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "6",
+                    "rdw/lastRegistration": "20081223",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "B6",
+          "yearStart": 2015,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "B6",
+              "yearStart": 2015,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "4.4L 441 kW Petrol",
+                  "fuelType": "Petrol",
+                  "cylinders": null,
+                  "displacementCc": 4395,
+                  "powerHp": 599.8,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "8",
+                    "eea/lastYear": "2018",
+                    "eea/source": "eea"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "B6 (F06)",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "B6 (F06)",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "B6 2.8",
+          "yearStart": 1979,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "B6 2.8",
+              "yearStart": 1979,
+              "yearEnd": null,
+              "bodyType": "Niet geregistreerd",
+              "engines": [
+                {
+                  "label": "2.8L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 2769,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19810311",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "B6 BITURBO",
+          "yearStart": 2012,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "B6 BITURBO",
+              "yearStart": 2012,
+              "yearEnd": null,
+              "bodyType": "cabriolet",
+              "engines": [
+                {
+                  "label": "4.4L 397 kW Petrol",
+                  "fuelType": "Petrol",
+                  "cylinders": null,
+                  "displacementCc": 4395,
+                  "powerHp": 539.9,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "30",
+                    "eea/lastYear": "2015",
+                    "eea/source": "eea"
+                  }
+                },
+                {
+                  "label": "4.4L 441 kW Petrol",
+                  "fuelType": "Petrol",
+                  "cylinders": null,
+                  "displacementCc": 4395,
+                  "powerHp": 599.8,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "46",
+                    "eea/lastYear": "2018",
+                    "eea/source": "eea"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "B6 BITURBO GRAN COUPE ALLRAD",
+          "yearStart": 2014,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "B6 BITURBO GRAN COUPE ALLRAD",
+              "yearStart": 2014,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "4.4L 397 kW Petrol",
+                  "fuelType": "Petrol",
+                  "cylinders": null,
+                  "displacementCc": 4395,
+                  "powerHp": 539.9,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "4",
+                    "eea/lastYear": "2015",
+                    "eea/source": "eea"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "B7",
+          "yearStart": 2006,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "B7",
+              "yearStart": 2006,
+              "yearEnd": null,
+              "bodyType": "sedan",
+              "engines": [
+                {
+                  "label": "4.4L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 4398,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "3",
+                    "rdw/lastRegistration": "20070712",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "4.4L 447 kW Petrol",
+                  "fuelType": "Petrol",
+                  "cylinders": null,
+                  "displacementCc": 4395,
+                  "powerHp": 607.9,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "6",
+                    "eea/lastYear": "2017",
+                    "eea/source": "eea"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "B7 BITURBO",
+          "yearStart": 2010,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "B7 BITURBO",
+              "yearStart": 2010,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "4.4L 397 kW Petrol",
+                  "fuelType": "Petrol",
+                  "cylinders": null,
+                  "displacementCc": 4395,
+                  "powerHp": 539.9,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "18",
+                    "eea/lastYear": "2015",
+                    "eea/source": "eea"
+                  }
+                },
+                {
+                  "label": "4.4L 447 kW Petrol",
+                  "fuelType": "Petrol",
+                  "cylinders": null,
+                  "displacementCc": 4395,
+                  "powerHp": 607.9,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "52",
+                    "eea/lastYear": "2020",
+                    "eea/source": "eea"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "B7 BITURBO ALL",
+          "yearStart": 2016,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "B7 BITURBO ALL",
+              "yearStart": 2016,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "4.4L 447 kW Petrol",
+                  "fuelType": "Petrol",
+                  "cylinders": null,
+                  "displacementCc": 4395,
+                  "powerHp": 607.9,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "4",
+                    "eea/lastYear": "2016",
+                    "eea/source": "eea"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "B7 BITURBO ALLRAD",
+          "yearStart": 2011,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "B7 BITURBO ALLRAD",
+              "yearStart": 2011,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "4.4L 447 kW Petrol",
+                  "fuelType": "Petrol",
+                  "cylinders": null,
+                  "displacementCc": 4395,
+                  "powerHp": 607.9,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "2",
+                    "eea/lastYear": "2017",
+                    "eea/source": "eea"
+                  }
+                },
+                {
+                  "label": "4.4L 373 kW Petrol",
+                  "fuelType": "Petrol",
+                  "cylinders": null,
+                  "displacementCc": 4395,
+                  "powerHp": 507.3,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "2",
+                    "eea/lastYear": "2011",
+                    "eea/source": "eea"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "B8",
+          "yearStart": 2021,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "B8",
+              "yearStart": 2021,
+              "yearEnd": null,
+              "bodyType": "sedan",
+              "engines": [
+                {
+                  "label": "4.4L 457 kW Petrol",
+                  "fuelType": "Petrol",
+                  "cylinders": null,
+                  "displacementCc": 4395,
+                  "powerHp": 621.5,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "57",
+                    "eea/lastYear": "2022",
+                    "eea/source": "eea"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "BMWALPINAB3GT3",
+          "yearStart": 2012,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "BMWALPINAB3GT3",
+              "yearStart": 2012,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "3.0L 300 kW Petrol",
+                  "fuelType": "Petrol",
+                  "cylinders": null,
+                  "displacementCc": 2979,
+                  "powerHp": 408,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "1",
+                    "eea/lastYear": "2012",
+                    "eea/source": "eea"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "BMWALPINAB3SBITURBO",
+          "yearStart": 2011,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "BMWALPINAB3SBITURBO",
+              "yearStart": 2011,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "3.0L 294 kW Petrol",
+                  "fuelType": "Petrol",
+                  "cylinders": null,
+                  "displacementCc": 2979,
+                  "powerHp": 399.8,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "52",
+                    "eea/lastYear": "2012",
+                    "eea/source": "eea"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "BMWALPINAB5BITURBO",
+          "yearStart": 2011,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "BMWALPINAB5BITURBO",
+              "yearStart": 2011,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "4.4L 373 kW Petrol",
+                  "fuelType": "Petrol",
+                  "cylinders": null,
+                  "displacementCc": 4395,
+                  "powerHp": 507.3,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "10",
+                    "eea/lastYear": "2012",
+                    "eea/source": "eea"
+                  }
+                },
+                {
+                  "label": "4.4L 397 kW Petrol",
+                  "fuelType": "Petrol",
+                  "cylinders": null,
+                  "displacementCc": 4395,
+                  "powerHp": 539.9,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "4",
+                    "eea/lastYear": "2012",
+                    "eea/source": "eea"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "BMWALPINAB6BITURBO",
+          "yearStart": 2012,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "BMWALPINAB6BITURBO",
+              "yearStart": 2012,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "4.4L 397 kW Petrol",
+                  "fuelType": "Petrol",
+                  "cylinders": null,
+                  "displacementCc": 4395,
+                  "powerHp": 539.9,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "4",
+                    "eea/lastYear": "2012",
+                    "eea/source": "eea"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "BMWALPINAB7BITURBO",
+          "yearStart": 2011,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "BMWALPINAB7BITURBO",
+              "yearStart": 2011,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "4.4L 373 kW Petrol",
+                  "fuelType": "Petrol",
+                  "cylinders": null,
+                  "displacementCc": 4395,
+                  "powerHp": 507.3,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "18",
+                    "eea/lastYear": "2012",
+                    "eea/source": "eea"
+                  }
+                },
+                {
+                  "label": "4.4L 397 kW Petrol",
+                  "fuelType": "Petrol",
+                  "cylinders": null,
+                  "displacementCc": 4395,
+                  "powerHp": 539.9,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "3",
+                    "eea/lastYear": "2012",
+                    "eea/source": "eea"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "BMWALPINAD3BITURBO",
+          "yearStart": 2011,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "BMWALPINAD3BITURBO",
+              "yearStart": 2011,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "2.0L 155 kW Diesel",
+                  "fuelType": "Diesel",
+                  "cylinders": null,
+                  "displacementCc": 1995,
+                  "powerHp": 210.8,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "2",
+                    "eea/lastYear": "2011",
+                    "eea/source": "eea"
+                  }
+                },
+                {
+                  "label": "2.0L 157 kW Diesel",
+                  "fuelType": "Diesel",
+                  "cylinders": null,
+                  "displacementCc": 1995,
+                  "powerHp": 213.5,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "43",
+                    "eea/lastYear": "2012",
+                    "eea/source": "eea"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "BMWALPINAD5BITURBO",
+          "yearStart": 2012,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "BMWALPINAD5BITURBO",
+              "yearStart": 2012,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "3.0L 257 kW Diesel",
+                  "fuelType": "Diesel",
+                  "cylinders": null,
+                  "displacementCc": 2993,
+                  "powerHp": 349.5,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "4",
+                    "eea/lastYear": "2012",
+                    "eea/source": "eea"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "D3",
+          "yearStart": 2006,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "D3",
+              "yearStart": 2006,
+              "yearEnd": null,
+              "bodyType": "hatchback",
+              "engines": [
+                {
+                  "label": "2.0L 155 kW Diesel",
+                  "fuelType": "Diesel",
+                  "cylinders": null,
+                  "displacementCc": 1995,
+                  "powerHp": 210.8,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "2",
+                    "eea/lastYear": "2011",
+                    "eea/source": "eea"
+                  }
+                },
+                {
+                  "label": "2.0L 157 kW Diesel",
+                  "fuelType": "Diesel",
+                  "cylinders": null,
+                  "displacementCc": 1995,
+                  "powerHp": 213.5,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "2",
+                    "eea/lastYear": "2011",
+                    "eea/source": "eea"
+                  }
+                },
+                {
+                  "label": "3.0L 261 kW Diesel",
+                  "fuelType": "Diesel",
+                  "cylinders": null,
+                  "displacementCc": 2993,
+                  "powerHp": 355,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "2",
+                    "eea/lastYear": "2021",
+                    "eea/source": "eea"
+                  }
+                },
+                {
+                  "label": "3.0L 257 kW Diesel",
+                  "fuelType": "Diesel",
+                  "cylinders": null,
+                  "displacementCc": 2993,
+                  "powerHp": 349.5,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "32",
+                    "eea/lastYear": "2019",
+                    "eea/source": "eea"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "D3 (F31)",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "D3 (F31)",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "D3 BITTURBO",
+          "yearStart": 2019,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "D3 BITTURBO",
+              "yearStart": 2019,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "4.4L 447 kW Petrol",
+                  "fuelType": "Petrol",
+                  "cylinders": null,
+                  "displacementCc": 4395,
+                  "powerHp": 607.9,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "2",
+                    "eea/lastYear": "2019",
+                    "eea/source": "eea"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "D3 BITURBO",
+          "yearStart": 2009,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "D3 BITURBO",
+              "yearStart": 2009,
+              "yearEnd": null,
+              "bodyType": "sedan",
+              "engines": [
+                {
+                  "label": "2.0L 157 kW Diesel",
+                  "fuelType": "Diesel",
+                  "cylinders": null,
+                  "displacementCc": 1995,
+                  "powerHp": 213.5,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "18",
+                    "eea/lastYear": "2013",
+                    "eea/source": "eea"
+                  }
+                },
+                {
+                  "label": "3.0L 257 kW Diesel",
+                  "fuelType": "Diesel",
+                  "cylinders": null,
+                  "displacementCc": 2993,
+                  "powerHp": 349.5,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "234",
+                    "eea/lastYear": "2019",
+                    "eea/source": "eea"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "D3 BITURBO TO",
+          "yearStart": 2016,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "D3 BITURBO TO",
+              "yearStart": 2016,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "3.0L 257 kW Diesel",
+                  "fuelType": "Diesel",
+                  "cylinders": null,
+                  "displacementCc": 2993,
+                  "powerHp": 349.5,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "2",
+                    "eea/lastYear": "2016",
+                    "eea/source": "eea"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "D3 BITURBO TOURING",
+          "yearStart": 2010,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "D3 BITURBO TOURING",
+              "yearStart": 2010,
+              "yearEnd": null,
+              "bodyType": "stationwagen",
+              "engines": [
+                {
+                  "label": "3.0L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 2993,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "2",
+                    "rdw/lastRegistration": "20160628",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "2.0L 157 kW Diesel",
+                  "fuelType": "Diesel",
+                  "cylinders": null,
+                  "displacementCc": 1995,
+                  "powerHp": 213.5,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "2",
+                    "eea/lastYear": "2011",
+                    "eea/source": "eea"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "D3 BITURBO TOURING ALLRAD",
+          "yearStart": 2015,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "D3 BITURBO TOURING ALLRAD",
+              "yearStart": 2015,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "3.0L 257 kW Diesel",
+                  "fuelType": "Diesel",
+                  "cylinders": null,
+                  "displacementCc": 2993,
+                  "powerHp": 349.5,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "10",
+                    "eea/lastYear": "2019",
+                    "eea/source": "eea"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "D3 S",
+          "yearStart": 2021,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "D3 S",
+              "yearStart": 2021,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "3.0L 261 kW Diesel",
+                  "fuelType": "Diesel",
+                  "cylinders": null,
+                  "displacementCc": 2993,
+                  "powerHp": 355,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "2",
+                    "eea/lastYear": "2022",
+                    "eea/source": "eea"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "D3 S LIMOUSINE",
+          "yearStart": 2020,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "D3 S LIMOUSINE",
+              "yearStart": 2020,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "3.0L 261 kW Diesel",
+                  "fuelType": "Diesel",
+                  "cylinders": null,
+                  "displacementCc": 2993,
+                  "powerHp": 355,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "74",
+                    "eea/lastYear": "2022",
+                    "eea/source": "eea"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "D3 S TOURING",
+          "yearStart": 2020,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "D3 S TOURING",
+              "yearStart": 2020,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "3.0L 261 kW Diesel",
+                  "fuelType": "Diesel",
+                  "cylinders": null,
+                  "displacementCc": 2993,
+                  "powerHp": 355,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "382",
+                    "eea/lastYear": "2022",
+                    "eea/source": "eea"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "D3 TOURING",
+          "yearStart": 2014,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "D3 TOURING",
+              "yearStart": 2014,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "3.0L 261 kW Diesel",
+                  "fuelType": "Diesel",
+                  "cylinders": null,
+                  "displacementCc": 2993,
+                  "powerHp": 355,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "4",
+                    "eea/lastYear": "2021",
+                    "eea/source": "eea"
+                  }
+                },
+                {
+                  "label": "3.0L 257 kW Diesel",
+                  "fuelType": "Diesel",
+                  "cylinders": null,
+                  "displacementCc": 2993,
+                  "powerHp": 349.5,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "2",
+                    "eea/lastYear": "2014",
+                    "eea/source": "eea"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "D4",
+          "yearStart": 2015,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "D4",
+              "yearStart": 2015,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "3.0L 257 kW Diesel",
+                  "fuelType": "Diesel",
+                  "cylinders": null,
+                  "displacementCc": 2993,
+                  "powerHp": 349.5,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "22",
+                    "eea/lastYear": "2018",
+                    "eea/source": "eea"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "D4 BITURBO",
+          "yearStart": 2014,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "D4 BITURBO",
+              "yearStart": 2014,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "3.0L 257 kW Diesel",
+                  "fuelType": "Diesel",
+                  "cylinders": null,
+                  "displacementCc": 2993,
+                  "powerHp": 349.5,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "98",
+                    "eea/lastYear": "2019",
+                    "eea/source": "eea"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "D4 BITURBO COUPE",
+          "yearStart": 2015,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "D4 BITURBO COUPE",
+              "yearStart": 2015,
+              "yearEnd": null,
+              "bodyType": "coupe",
+              "engines": [
+                {
+                  "label": "3.0L 257 kW Diesel",
+                  "fuelType": "Diesel",
+                  "cylinders": null,
+                  "displacementCc": 2993,
+                  "powerHp": 349.5,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "6",
+                    "eea/lastYear": "2019",
+                    "eea/source": "eea"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "D4 S",
+          "yearStart": 2022,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "D4 S",
+              "yearStart": 2022,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "3.0L 261 kW Diesel",
+                  "fuelType": "Diesel",
+                  "cylinders": null,
+                  "displacementCc": 2993,
+                  "powerHp": 355,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "3",
+                    "eea/lastYear": "2022",
+                    "eea/source": "eea"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "D4 S GRAN COUPE",
+          "yearStart": 2021,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "D4 S GRAN COUPE",
+              "yearStart": 2021,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "3.0L 261 kW Diesel",
+                  "fuelType": "Diesel",
+                  "cylinders": null,
+                  "displacementCc": 2993,
+                  "powerHp": 355,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "9",
+                    "eea/lastYear": "2022",
+                    "eea/source": "eea"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "D5",
+          "yearStart": 2012,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "D5",
+              "yearStart": 2012,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "3.0L 285 kW Diesel",
+                  "fuelType": "Diesel",
+                  "cylinders": null,
+                  "displacementCc": 2993,
+                  "powerHp": 387.6,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "4",
+                    "eea/lastYear": "2020",
+                    "eea/source": "eea"
+                  }
+                },
+                {
+                  "label": "3.0L 300 kW Diesel",
+                  "fuelType": "Diesel",
+                  "cylinders": null,
+                  "displacementCc": 2993,
+                  "powerHp": 408,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "2",
+                    "eea/lastYear": "2022",
+                    "eea/source": "eea"
+                  }
+                },
+                {
+                  "label": "3.0L 257 kW Diesel",
+                  "fuelType": "Diesel",
+                  "cylinders": null,
+                  "displacementCc": 2993,
+                  "powerHp": 349.5,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "10",
+                    "eea/lastYear": "2017",
+                    "eea/source": "eea"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "D5 BITURBO",
+          "yearStart": 2011,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "D5 BITURBO",
+              "yearStart": 2011,
+              "yearEnd": null,
+              "bodyType": "stationwagen",
+              "engines": [
+                {
+                  "label": "3.0L 257 kW Diesel",
+                  "fuelType": "Diesel",
+                  "cylinders": null,
+                  "displacementCc": 2993,
+                  "powerHp": 349.5,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "54",
+                    "eea/lastYear": "2017",
+                    "eea/source": "eea"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "D5 BITURBO TO",
+          "yearStart": 2015,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "D5 BITURBO TO",
+              "yearStart": 2015,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "3.0L 257 kW Diesel",
+                  "fuelType": "Diesel",
+                  "cylinders": null,
+                  "displacementCc": 2993,
+                  "powerHp": 349.5,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "2",
+                    "eea/lastYear": "2015",
+                    "eea/source": "eea"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "D5 BITURBO TOURING",
+          "yearStart": 2012,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "D5 BITURBO TOURING",
+              "yearStart": 2012,
+              "yearEnd": null,
+              "bodyType": "stationwagen",
+              "engines": [
+                {
+                  "label": "3.0L 257 kW Diesel",
+                  "fuelType": "Diesel",
+                  "cylinders": null,
+                  "displacementCc": 2993,
+                  "powerHp": 349.5,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "4",
+                    "eea/lastYear": "2015",
+                    "eea/source": "eea"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "D5 S",
+          "yearStart": 2017,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "D5 S",
+              "yearStart": 2017,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "3.0L 240 kW Diesel",
+                  "fuelType": "Diesel",
+                  "cylinders": null,
+                  "displacementCc": 2993,
+                  "powerHp": 326.4,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "2",
+                    "eea/lastYear": "2020",
+                    "eea/source": "eea"
+                  }
+                },
+                {
+                  "label": "3.0L 255 kW Diesel",
+                  "fuelType": "Diesel",
+                  "cylinders": null,
+                  "displacementCc": 2993,
+                  "powerHp": 346.8,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "2",
+                    "eea/lastYear": "2020",
+                    "eea/source": "eea"
+                  }
+                },
+                {
+                  "label": "3.0L 285 kW Diesel",
+                  "fuelType": "Diesel",
+                  "cylinders": null,
+                  "displacementCc": 2993,
+                  "powerHp": 387.6,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "258",
+                    "eea/lastYear": "2021",
+                    "eea/source": "eea"
+                  }
+                },
+                {
+                  "label": "3.0L 300 kW Diesel",
+                  "fuelType": "Diesel",
+                  "cylinders": null,
+                  "displacementCc": 2993,
+                  "powerHp": 408,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "342",
+                    "eea/lastYear": "2022",
+                    "eea/source": "eea"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "D5 S ALLRAD",
+          "yearStart": 2019,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "D5 S ALLRAD",
+              "yearStart": 2019,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "3.0L 285 kW Diesel",
+                  "fuelType": "Diesel",
+                  "cylinders": null,
+                  "displacementCc": 2993,
+                  "powerHp": 387.6,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "38",
+                    "eea/lastYear": "2020",
+                    "eea/source": "eea"
+                  }
+                },
+                {
+                  "label": "3.0L 300 kW Diesel",
+                  "fuelType": "Diesel",
+                  "cylinders": null,
+                  "displacementCc": 2993,
+                  "powerHp": 408,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "7",
+                    "eea/lastYear": "2022",
+                    "eea/source": "eea"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "D5 S TOU.ALLR",
+          "yearStart": 2021,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "D5 S TOU.ALLR",
+              "yearStart": 2021,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "3.0L 300 kW Diesel",
+                  "fuelType": "Diesel",
+                  "cylinders": null,
+                  "displacementCc": 2993,
+                  "powerHp": 408,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "2",
+                    "eea/lastYear": "2021",
+                    "eea/source": "eea"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "D5 S TOU.ALLR.",
+          "yearStart": 2022,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "D5 S TOU.ALLR.",
+              "yearStart": 2022,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "3.0L 300 kW Diesel",
+                  "fuelType": "Diesel",
+                  "cylinders": null,
+                  "displacementCc": 2993,
+                  "powerHp": 408,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "1",
+                    "eea/lastYear": "2022",
+                    "eea/source": "eea"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "D5 S TOUR",
+          "yearStart": 2022,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "D5 S TOUR",
+              "yearStart": 2022,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "3.0L 300 kW Diesel",
+                  "fuelType": "Diesel",
+                  "cylinders": null,
+                  "displacementCc": 2993,
+                  "powerHp": 408,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "1",
+                    "eea/lastYear": "2022",
+                    "eea/source": "eea"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "D5 S TOURING",
+          "yearStart": 2018,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "D5 S TOURING",
+              "yearStart": 2018,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "3.0L 285 kW Diesel",
+                  "fuelType": "Diesel",
+                  "cylinders": null,
+                  "displacementCc": 2993,
+                  "powerHp": 387.6,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "4",
+                    "eea/lastYear": "2018",
+                    "eea/source": "eea"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "D5 S TOURING ALLRAD",
+          "yearStart": 2018,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "D5 S TOURING ALLRAD",
+              "yearStart": 2018,
+              "yearEnd": null,
+              "bodyType": "stationwagen",
+              "engines": [
+                {
+                  "label": "3.0L 285 kW Diesel",
+                  "fuelType": "Diesel",
+                  "cylinders": null,
+                  "displacementCc": 2993,
+                  "powerHp": 387.6,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "110",
+                    "eea/lastYear": "2021",
+                    "eea/source": "eea"
+                  }
+                },
+                {
+                  "label": "3.0L 300 kW Diesel",
+                  "fuelType": "Diesel",
+                  "cylinders": null,
+                  "displacementCc": 2993,
+                  "powerHp": 408,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "5",
+                    "eea/lastYear": "2022",
+                    "eea/source": "eea"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "ROADSTER S",
+          "yearStart": 2004,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "ROADSTER S",
+              "yearStart": 2004,
+              "yearEnd": null,
+              "bodyType": "cabriolet",
+              "engines": [
+                {
+                  "label": "3.3L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 3346,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "3",
+                    "rdw/lastRegistration": "20050217",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "ROADSTER V8",
+          "yearStart": 2002,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "ROADSTER V8",
+              "yearStart": 2002,
+              "yearEnd": null,
+              "bodyType": "cabriolet",
+              "engines": [
+                {
+                  "label": "4.8L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 4837,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "2",
+                    "rdw/lastRegistration": "20030402",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "unknown",
+          "yearStart": 2012,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "unknown",
+              "yearStart": 2012,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "2.0L Petrol",
+                  "fuelType": "Petrol",
+                  "cylinders": null,
+                  "displacementCc": 1979,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "2",
+                    "eea/lastYear": "2016",
+                    "eea/source": "eea"
+                  }
+                },
+                {
+                  "label": "2.0L Diesel",
+                  "fuelType": "Diesel",
+                  "cylinders": null,
+                  "displacementCc": 1994,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "2",
+                    "eea/lastYear": "2012",
+                    "eea/source": "eea"
+                  }
+                },
+                {
+                  "label": "2.0L Diesel",
+                  "fuelType": "Diesel",
+                  "cylinders": null,
+                  "displacementCc": 1995,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "32",
+                    "eea/lastYear": "2012",
+                    "eea/source": "eea"
+                  }
+                },
+                {
+                  "label": "3.0L Petrol",
+                  "fuelType": "Petrol",
+                  "cylinders": null,
+                  "displacementCc": 2979,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "12",
+                    "eea/lastYear": "2013",
+                    "eea/source": "eea"
+                  }
+                },
+                {
+                  "label": "3.0L Diesel",
+                  "fuelType": "Diesel",
+                  "cylinders": null,
+                  "displacementCc": 2993,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "66",
+                    "eea/lastYear": "2014",
+                    "eea/source": "eea"
+                  }
+                },
+                {
+                  "label": "4.4L Petrol",
+                  "fuelType": "Petrol",
+                  "cylinders": null,
+                  "displacementCc": 4395,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "6",
+                    "eea/lastYear": "2013",
+                    "eea/source": "eea"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "XB7",
+          "yearStart": 2020,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "XB7",
+              "yearStart": 2020,
+              "yearEnd": null,
+              "bodyType": "stationwagen",
+              "engines": [
+                {
+                  "label": "4.4L 457 kW Petrol",
+                  "fuelType": "Petrol",
+                  "cylinders": null,
+                  "displacementCc": 4395,
+                  "powerHp": 621.5,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "162",
+                    "eea/lastYear": "2022",
+                    "eea/source": "eea"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "XD3",
+          "yearStart": 2014,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "XD3",
+              "yearStart": 2014,
+              "yearEnd": null,
+              "bodyType": "stationwagen",
+              "engines": [
+                {
+                  "label": "3.0L 245 kW Diesel",
+                  "fuelType": "Diesel",
+                  "cylinders": null,
+                  "displacementCc": 2993,
+                  "powerHp": 333.2,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "2",
+                    "eea/lastYear": "2020",
+                    "eea/source": "eea"
+                  }
+                },
+                {
+                  "label": "3.0L 261 kW Diesel",
+                  "fuelType": "Diesel",
+                  "cylinders": null,
+                  "displacementCc": 2993,
+                  "powerHp": 355,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "2",
+                    "eea/lastYear": "2021",
+                    "eea/source": "eea"
+                  }
+                },
+                {
+                  "label": "3.0L 285 kW Diesel",
+                  "fuelType": "Diesel",
+                  "cylinders": null,
+                  "displacementCc": 2993,
+                  "powerHp": 387.6,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "706",
+                    "eea/lastYear": "2021",
+                    "eea/source": "eea"
+                  }
+                },
+                {
+                  "label": "3.0L 290 kW Diesel",
+                  "fuelType": "Diesel",
+                  "cylinders": null,
+                  "displacementCc": 2993,
+                  "powerHp": 394.4,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "183",
+                    "eea/lastYear": "2022",
+                    "eea/source": "eea"
+                  }
+                },
+                {
+                  "label": "3.0L 257 kW Diesel",
+                  "fuelType": "Diesel",
+                  "cylinders": null,
+                  "displacementCc": 2993,
+                  "powerHp": 349.5,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "20",
+                    "eea/lastYear": "2017",
+                    "eea/source": "eea"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "XD3 (F25)",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "XD3 (F25)",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "XD3 BITURBO",
+          "yearStart": 2013,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "XD3 BITURBO",
+              "yearStart": 2013,
+              "yearEnd": null,
+              "bodyType": "stationwagen",
+              "engines": [
+                {
+                  "label": "3.0L 257 kW Diesel",
+                  "fuelType": "Diesel",
+                  "cylinders": null,
+                  "displacementCc": 2993,
+                  "powerHp": 349.5,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "106",
+                    "eea/lastYear": "2019",
+                    "eea/source": "eea"
+                  }
+                },
+                {
+                  "label": "3.0L 257 kW Petrol",
+                  "fuelType": "Petrol",
+                  "cylinders": null,
+                  "displacementCc": 2993,
+                  "powerHp": 349.5,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "2",
+                    "eea/lastYear": "2014",
+                    "eea/source": "eea"
+                  }
+                },
+                {
+                  "label": "4.4L 447 kW Petrol",
+                  "fuelType": "Petrol",
+                  "cylinders": null,
+                  "displacementCc": 4395,
+                  "powerHp": 607.9,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "12",
+                    "eea/lastYear": "2019",
+                    "eea/source": "eea"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "XD4",
+          "yearStart": 2019,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "XD4",
+              "yearStart": 2019,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "3.0L 285 kW Diesel",
+                  "fuelType": "Diesel",
+                  "cylinders": null,
+                  "displacementCc": 2993,
+                  "powerHp": 387.6,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "360",
+                    "eea/lastYear": "2021",
+                    "eea/source": "eea"
+                  }
+                },
+                {
+                  "label": "3.0L 290 kW Diesel",
+                  "fuelType": "Diesel",
+                  "cylinders": null,
+                  "displacementCc": 2993,
+                  "powerHp": 394.4,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "56",
+                    "eea/lastYear": "2022",
+                    "eea/source": "eea"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

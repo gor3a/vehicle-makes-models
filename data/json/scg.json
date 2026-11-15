@@ -1,0 +1,28 @@
+{
+  "group": "scg",
+  "makes": [
+    {
+      "name": "SCG",
+      "models": [
+        {
+          "name": "003",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": []
+        },
+        {
+          "name": "004",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": []
+        },
+        {
+          "name": "Boot",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": []
+        }
+      ]
+    }
+  ]
+}

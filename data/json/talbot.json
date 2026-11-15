@@ -1,0 +1,788 @@
+{
+  "group": "talbot",
+  "makes": [
+    {
+      "name": "Talbot",
+      "models": [
+        {
+          "name": "10/23 HP",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "10/23 HP",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "1100 FOURGONNETTE",
+          "yearStart": 1981,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "1100 FOURGONNETTE",
+              "yearStart": 1981,
+              "yearEnd": null,
+              "bodyType": "Niet geregistreerd",
+              "engines": [
+                {
+                  "label": "1.3L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 1299,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19820519",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "1510",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "1510",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "8/18HP",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "8/18HP",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "Chrysler 180",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Chrysler 180",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "Chrysler Sunbeam",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Chrysler Sunbeam",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "Express",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Express",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "HORIZON",
+          "yearStart": 1981,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "HORIZON",
+              "yearStart": 1981,
+              "yearEnd": null,
+              "bodyType": "sedan",
+              "engines": [
+                {
+                  "label": "1.4L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 1400,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19850719",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "1.4L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 1442,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19850729",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "1.1L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 1100,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19810904",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "1.4L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 1424,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "2",
+                    "rdw/lastRegistration": "19850828",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "1.5L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 1500,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19840322",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "HORIZON 1.1 LS",
+          "yearStart": 1981,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "HORIZON 1.1 LS",
+              "yearStart": 1981,
+              "yearEnd": null,
+              "bodyType": "Niet geregistreerd",
+              "engines": [
+                {
+                  "label": "1.1L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 1118,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "2",
+                    "rdw/lastRegistration": "19831004",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "HORIZON 1.3 LS",
+          "yearStart": 1984,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "HORIZON 1.3 LS",
+              "yearStart": 1984,
+              "yearEnd": null,
+              "bodyType": "Niet geregistreerd",
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "HORIZON 1.5 GL",
+          "yearStart": 1982,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "HORIZON 1.5 GL",
+              "yearStart": 1982,
+              "yearEnd": null,
+              "bodyType": "Niet geregistreerd",
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "Matra Rancho",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Matra Rancho",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "SAMBA",
+          "yearStart": 1983,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "SAMBA",
+              "yearStart": 1983,
+              "yearEnd": null,
+              "bodyType": "cabriolet",
+              "engines": [
+                {
+                  "label": "1.4L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 1400,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19830329",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "1.0L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 954,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "6",
+                    "rdw/lastRegistration": "19851205",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "1.4L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 1351,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19831206",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "SAMBA CABRIOLET",
+          "yearStart": 1982,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "SAMBA CABRIOLET",
+              "yearStart": 1982,
+              "yearEnd": null,
+              "bodyType": "cabriolet",
+              "engines": [
+                {
+                  "label": "1.4L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 1351,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19821108",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "1.4L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 1360,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "37",
+                    "rdw/lastRegistration": "19860617",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "SAMBA GL",
+          "yearStart": 1982,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "SAMBA GL",
+              "yearStart": 1982,
+              "yearEnd": null,
+              "bodyType": "Niet geregistreerd",
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "SAMBA LS",
+          "yearStart": 1982,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "SAMBA LS",
+              "yearStart": 1982,
+              "yearEnd": null,
+              "bodyType": "cabriolet",
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "SAMBA RALLYE",
+          "yearStart": 1984,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "SAMBA RALLYE",
+              "yearStart": 1984,
+              "yearEnd": null,
+              "bodyType": "hatchback",
+              "engines": [
+                {
+                  "label": "1.2L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 1219,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "7",
+                    "rdw/lastRegistration": "19841112",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "SIMCA 1100 FOURGONNETTE",
+          "yearStart": 1979,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "SIMCA 1100 FOURGONNETTE",
+              "yearStart": 1979,
+              "yearEnd": null,
+              "bodyType": "gesloten opbouw",
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "Simca 1100 Simca 1200",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Simca 1100 Simca 1200",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "SIMCA SUNBEAM 1.6 TI",
+          "yearStart": 1980,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "SIMCA SUNBEAM 1.6 TI",
+              "yearStart": 1980,
+              "yearEnd": null,
+              "bodyType": "Niet geregistreerd",
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "SIMCA SUNBEAM LOTUS",
+          "yearStart": 1979,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "SIMCA SUNBEAM LOTUS",
+              "yearStart": 1979,
+              "yearEnd": null,
+              "bodyType": "Niet geregistreerd",
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "Solara",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Solara",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "SOLARA 1.6 GLS",
+          "yearStart": 1981,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "SOLARA 1.6 GLS",
+              "yearStart": 1981,
+              "yearEnd": null,
+              "bodyType": "Niet geregistreerd",
+              "engines": [
+                {
+                  "label": "1.6L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 1592,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "3",
+                    "rdw/lastRegistration": "19850226",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "SOLARA 1.6 LS",
+          "yearStart": 1980,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "SOLARA 1.6 LS",
+              "yearStart": 1980,
+              "yearEnd": null,
+              "bodyType": "Niet geregistreerd",
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "SOLARA 1.6 SX",
+          "yearStart": 1980,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "SOLARA 1.6 SX",
+              "yearStart": 1980,
+              "yearEnd": null,
+              "bodyType": "sedan",
+              "engines": [
+                {
+                  "label": "1.6L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 1577,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19820406",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "1.6L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 1592,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19810630",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Tagora",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Tagora",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "TAGORA 2.2 GLS",
+          "yearStart": 1981,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "TAGORA 2.2 GLS",
+              "yearStart": 1981,
+              "yearEnd": null,
+              "bodyType": "sedan",
+              "engines": [
+                {
+                  "label": "2.2L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 2155,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "6",
+                    "rdw/lastRegistration": "19830506",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

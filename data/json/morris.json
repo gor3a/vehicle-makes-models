@@ -1,0 +1,2825 @@
+{
+  "group": "morris",
+  "makes": [
+    {
+      "name": "Morris",
+      "models": [
+        {
+          "name": "1/4 TON VAN",
+          "yearStart": 1966,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "1/4 TON VAN",
+              "yearStart": 1966,
+              "yearEnd": null,
+              "bodyType": "gesloten opbouw",
+              "engines": [
+                {
+                  "label": "1.1L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 1098,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "2",
+                    "rdw/lastRegistration": "19700331",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "10/4",
+          "yearStart": 1933,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "10/4",
+              "yearStart": 1933,
+              "yearEnd": null,
+              "bodyType": "Niet geregistreerd",
+              "engines": [
+                {
+                  "label": "1.1L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 1140,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19470630",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "1.3L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 1293,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19330630",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "1.1L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 1100,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19330421",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "1000 TRAVELLER",
+          "yearStart": 1968,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "1000 TRAVELLER",
+              "yearStart": 1968,
+              "yearEnd": null,
+              "bodyType": "stationwagen",
+              "engines": [
+                {
+                  "label": "1.1L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 1100,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19680630",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "1100",
+          "yearStart": 1952,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "1100",
+              "yearStart": 1952,
+              "yearEnd": null,
+              "bodyType": "Niet geregistreerd",
+              "engines": [
+                {
+                  "label": "1.1L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 1098,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "2",
+                    "rdw/lastRegistration": "19680306",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "1300",
+          "yearStart": 1968,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "1300",
+              "yearStart": 1968,
+              "yearEnd": null,
+              "bodyType": "Niet geregistreerd",
+              "engines": [
+                {
+                  "label": "1.3L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 1275,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "2",
+                    "rdw/lastRegistration": "19711013",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "1.3L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 1300,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19700929",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "1300 GT",
+          "yearStart": 1970,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "1300 GT",
+              "yearStart": 1970,
+              "yearEnd": null,
+              "bodyType": "Niet geregistreerd",
+              "engines": [
+                {
+                  "label": "1.3L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 1275,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19701020",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "250 JU",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "250 JU",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "8",
+          "yearStart": 1934,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "8",
+              "yearStart": 1934,
+              "yearEnd": null,
+              "bodyType": "sedan",
+              "engines": [
+                {
+                  "label": "0.9L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 885,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19390630",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "0.9L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 918,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19360630",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "0.9L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 900,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19390915",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "850",
+          "yearStart": 1960,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "850",
+              "yearStart": 1960,
+              "yearEnd": null,
+              "bodyType": "gesloten opbouw",
+              "engines": [
+                {
+                  "label": "0.8L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 848,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19690502",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Austin Metro",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Austin Metro",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "Big Six",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Big Six",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "Commercial J-type",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Commercial J-type",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "Commercial J4",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Commercial J4",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "Commercial PV Van",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Commercial PV Van",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "COOPER",
+          "yearStart": 1966,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "COOPER",
+              "yearStart": 1966,
+              "yearEnd": null,
+              "bodyType": "sedan",
+              "engines": [
+                {
+                  "label": "1.0L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 998,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19680202",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Cowley",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Cowley",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "EIGHT",
+          "yearStart": 1932,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "EIGHT",
+              "yearStart": 1932,
+              "yearEnd": null,
+              "bodyType": "sedan",
+              "engines": [
+                {
+                  "label": "0.9L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 918,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "2",
+                    "rdw/lastRegistration": "19480607",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "0.9L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 900,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19530630",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Eighteen",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Eighteen",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "Fifteen",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Fifteen",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "Fourteen",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Fourteen",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "Isis",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Isis",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "Ital",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Ital",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "J2",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "J2",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "LD Van",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "LD Van",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "M 8",
+          "yearStart": 1930,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "M 8",
+              "yearStart": 1930,
+              "yearEnd": null,
+              "bodyType": "Niet geregistreerd",
+              "engines": [
+                {
+                  "label": "0.6L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 570,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19350913",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "M8",
+          "yearStart": 1935,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "M8",
+              "yearStart": 1935,
+              "yearEnd": null,
+              "bodyType": "Niet geregistreerd",
+              "engines": [
+                {
+                  "label": "0.9L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 918,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19360915",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Major",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Major",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "Major 6",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Major 6",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "Marina",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Marina",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "MINI",
+          "yearStart": 1961,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "MINI",
+              "yearStart": 1961,
+              "yearEnd": null,
+              "bodyType": "Niet geregistreerd",
+              "engines": [
+                {
+                  "label": "0.8L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 848,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19650209",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "1.0L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 998,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19630319",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "MINI 1000",
+          "yearStart": 1968,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "MINI 1000",
+              "yearStart": 1968,
+              "yearEnd": null,
+              "bodyType": "sedan",
+              "engines": [
+                {
+                  "label": "1.0L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 998,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "2",
+                    "rdw/lastRegistration": "19710610",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "1.6L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 1595,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19730105",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "1.0L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 990,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19680903",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "MINI 850",
+          "yearStart": 1965,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "MINI 850",
+              "yearStart": 1965,
+              "yearEnd": null,
+              "bodyType": "hatchback",
+              "engines": [
+                {
+                  "label": "0.8L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 848,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19661003",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "1.3L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 1298,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19710216",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "MINI CLUBMAN",
+          "yearStart": 1970,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "MINI CLUBMAN",
+              "yearStart": 1970,
+              "yearEnd": null,
+              "bodyType": "Niet geregistreerd",
+              "engines": [
+                {
+                  "label": "1.0L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 998,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19720328",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "MINI COOPER",
+          "yearStart": 1962,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "MINI COOPER",
+              "yearStart": 1962,
+              "yearEnd": null,
+              "bodyType": "Niet geregistreerd",
+              "engines": [
+                {
+                  "label": "1.0L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 998,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19690702",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "1.3L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 1275,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "2",
+                    "rdw/lastRegistration": "19680925",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "MINI COOPER S",
+          "yearStart": 1963,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "MINI COOPER S",
+              "yearStart": 1963,
+              "yearEnd": null,
+              "bodyType": "hatchback",
+              "engines": [
+                {
+                  "label": "1.3L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 1275,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "2",
+                    "rdw/lastRegistration": "19670712",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "1.1L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 1071,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "2",
+                    "rdw/lastRegistration": "19630919",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "MINI MOKE",
+          "yearStart": 1965,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "MINI MOKE",
+              "yearStart": 1965,
+              "yearEnd": null,
+              "bodyType": "cabriolet",
+              "engines": [
+                {
+                  "label": "1.0L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 998,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19650225",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "0.8L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 848,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "5",
+                    "rdw/lastRegistration": "19680712",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "1.0L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 1000,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19660324",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "1.1L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 1098,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19670630",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "MINOR",
+          "yearStart": 1928,
+          "yearEnd": 1934,
+          "generations": [
+            {
+              "name": "MINOR",
+              "yearStart": 1928,
+              "yearEnd": 1934,
+              "bodyType": "cabriolet",
+              "engines": [
+                {
+                  "label": "0.9L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 948,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "2",
+                    "rdw/lastRegistration": "19570802",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "0.9L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 918,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "4",
+                    "rdw/lastRegistration": "19550318",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "0.9L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 947,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19560814",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "1.0L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 1000,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19510715",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "1.1L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 1098,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19700616",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "0.8L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 850,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19571015",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "1.1L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 1100,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19550413",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "1.0L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 998,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19530703",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "0.8L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 847,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "2",
+                    "rdw/lastRegistration": "19331121",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "1.0L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 980,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19520911",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "0.8L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 798,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19340630",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "1.3L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 1275,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19610101",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "0.8L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 803,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19520630",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "0.8L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 800,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "2",
+                    "rdw/lastRegistration": "19551209",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "0.8L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 845,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19320630",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "MINOR 1000",
+          "yearStart": 1951,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "MINOR 1000",
+              "yearStart": 1951,
+              "yearEnd": null,
+              "bodyType": "sedan",
+              "engines": [
+                {
+                  "label": "0.9L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 948,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "9",
+                    "rdw/lastRegistration": "19620501",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "1.1L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 1098,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19670821",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "1.0L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 984,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19570630",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "0.9L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 947,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19581231",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "0.9L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 945,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19580821",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "1.3L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 1300,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19680619",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "1.0L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 1000,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19590228",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "1.6L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 1597,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19680621",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "MINOR 1000 COMB.",
+          "yearStart": 1958,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "MINOR 1000 COMB.",
+              "yearStart": 1958,
+              "yearEnd": null,
+              "bodyType": "stationwagen",
+              "engines": [
+                {
+                  "label": "0.9L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 948,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19580625",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "1.1L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 1098,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19710827",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "MINOR 1000 CONVERTIBLE",
+          "yearStart": 1961,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "MINOR 1000 CONVERTIBLE",
+              "yearStart": 1961,
+              "yearEnd": null,
+              "bodyType": "cabriolet",
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "MINOR 1000 ESTATE",
+          "yearStart": 1958,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "MINOR 1000 ESTATE",
+              "yearStart": 1958,
+              "yearEnd": null,
+              "bodyType": "Niet geregistreerd",
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "MINOR 1000 SALOON",
+          "yearStart": 1958,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "MINOR 1000 SALOON",
+              "yearStart": 1958,
+              "yearEnd": null,
+              "bodyType": "Niet geregistreerd",
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "MINOR 1000 TOURER",
+          "yearStart": 1956,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "MINOR 1000 TOURER",
+              "yearStart": 1956,
+              "yearEnd": null,
+              "bodyType": "cabriolet",
+              "engines": [
+                {
+                  "label": "0.9L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 948,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19670630",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "1.1L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 1098,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19630608",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "MINOR 1000 TRAVELLER",
+          "yearStart": 1957,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "MINOR 1000 TRAVELLER",
+              "yearStart": 1957,
+              "yearEnd": null,
+              "bodyType": "stationwagen",
+              "engines": [
+                {
+                  "label": "1.1L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 1098,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19680630",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "0.9L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 948,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19590630",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "MINOR SALOON",
+          "yearStart": 1931,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "MINOR SALOON",
+              "yearStart": 1931,
+              "yearEnd": null,
+              "bodyType": "stationwagen",
+              "engines": [
+                {
+                  "label": "0.9L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 885,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19311125",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "0.9L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 947,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19500630",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "MINOR TOURER",
+          "yearStart": 1932,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "MINOR TOURER",
+              "yearStart": 1932,
+              "yearEnd": null,
+              "bodyType": "sedan",
+              "engines": [
+                {
+                  "label": "0.9L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 947,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19700320",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "0.9L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 948,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19640210",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "0.9L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 918,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19510630",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "1.1L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 1098,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "3",
+                    "rdw/lastRegistration": "19690101",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "0.8L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 847,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19330630",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "MINOR TRAVELLER",
+          "yearStart": 1955,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "MINOR TRAVELLER",
+              "yearStart": 1955,
+              "yearEnd": null,
+              "bodyType": "hatchback",
+              "engines": [
+                {
+                  "label": "1.1L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 1089,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19570423",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "1.1L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 1098,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "10",
+                    "rdw/lastRegistration": "19710701",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "MINOR VAN",
+          "yearStart": 1960,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "MINOR VAN",
+              "yearStart": 1960,
+              "yearEnd": null,
+              "bodyType": "gesloten opbouw",
+              "engines": [
+                {
+                  "label": "1.1L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 1098,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19690703",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "OXFORD",
+          "yearStart": 1928,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "OXFORD",
+              "yearStart": 1928,
+              "yearEnd": null,
+              "bodyType": "sedan",
+              "engines": [
+                {
+                  "label": "1.5L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 1477,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "2",
+                    "rdw/lastRegistration": "19540630",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "1.5L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 1489,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "2",
+                    "rdw/lastRegistration": "19590204",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "1.9L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 1939,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19310430",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Oxford bullnose",
+          "yearStart": 1913,
+          "yearEnd": 1926,
+          "generations": [
+            {
+              "name": "Oxford bullnose",
+              "yearStart": 1913,
+              "yearEnd": 1926,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "Oxford Empire models",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Oxford Empire models",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "Oxford Farina",
+          "yearStart": 1959,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Oxford Farina",
+              "yearStart": 1959,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "Oxford flatnose",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Oxford flatnose",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "Oxford series II",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Oxford series II",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "Oxford series III",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Oxford series III",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "OXFORD SERIES VI",
+          "yearStart": 1953,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "OXFORD SERIES VI",
+              "yearStart": 1953,
+              "yearEnd": null,
+              "bodyType": "sedan",
+              "engines": [
+                {
+                  "label": "1.6L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 1622,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "2",
+                    "rdw/lastRegistration": "19680201",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Oxford Six",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Oxford Six",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "SALOON",
+          "yearStart": 1935,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "SALOON",
+              "yearStart": 1935,
+              "yearEnd": null,
+              "bodyType": "coupe",
+              "engines": [
+                {
+                  "label": "1.1L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 1098,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19660301",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "0.9L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 918,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19350630",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Six",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Six",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "Six MS",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Six MS",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "Sixteen",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Sixteen",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "TEN",
+          "yearStart": 1932,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "TEN",
+              "yearStart": 1932,
+              "yearEnd": null,
+              "bodyType": "sedan",
+              "engines": [
+                {
+                  "label": "1.3L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 1292,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19320915",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "1.1L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 1140,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19480630",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "TRAVELLER",
+          "yearStart": 1956,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "TRAVELLER",
+              "yearStart": 1956,
+              "yearEnd": null,
+              "bodyType": "stationwagen",
+              "engines": [
+                {
+                  "label": "1.1L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 1098,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19670425",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Twelve",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Twelve",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

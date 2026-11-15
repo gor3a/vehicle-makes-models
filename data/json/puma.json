@@ -1,0 +1,38 @@
+{
+  "group": "puma",
+  "makes": [
+    {
+      "name": "Puma",
+      "models": [
+        {
+          "name": "GTB",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "GTB",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "GTE 1600 S",
+          "yearStart": 1972,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "GTE 1600 S",
+              "yearStart": 1972,
+              "yearEnd": null,
+              "bodyType": "Niet geregistreerd",
+              "engines": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

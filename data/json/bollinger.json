@@ -1,0 +1,22 @@
+{
+  "group": "bollinger",
+  "makes": [
+    {
+      "name": "Bollinger",
+      "models": [
+        {
+          "name": "B1",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": []
+        },
+        {
+          "name": "B2",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": []
+        }
+      ]
+    }
+  ]
+}

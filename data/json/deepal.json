@@ -1,0 +1,118 @@
+{
+  "group": "deepal",
+  "makes": [
+    {
+      "name": "Deepal",
+      "models": [
+        {
+          "name": "G318",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "G318",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "S05",
+          "yearStart": 2026,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "S05",
+              "yearStart": 2026,
+              "yearEnd": null,
+              "bodyType": "stationwagen",
+              "engines": [
+                {
+                  "label": "1.5L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 1497,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "64",
+                    "rdw/lastRegistration": "20261114",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "S07",
+          "yearStart": 2026,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "S07",
+              "yearStart": 2026,
+              "yearEnd": null,
+              "bodyType": "stationwagen",
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "S09",
+          "yearStart": 2025,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "S09",
+              "yearStart": 2025,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "S7",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "S7",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "SL03",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "SL03",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "group": "geometry",
+  "makes": [
+    {
+      "name": "Geometry",
+      "models": [
+        {
+          "name": "A",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": []
+        },
+        {
+          "name": "E",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": []
+        },
+        {
+          "name": "M6",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": []
+        }
+      ]
+    }
+  ]
+}

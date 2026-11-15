@@ -1,0 +1,16 @@
+{
+  "group": "lister",
+  "makes": [
+    {
+      "name": "Lister",
+      "models": [
+        {
+          "name": "Storm",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": []
+        }
+      ]
+    }
+  ]
+}

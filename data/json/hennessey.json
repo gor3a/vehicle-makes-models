@@ -1,0 +1,34 @@
+{
+  "group": "hennessey",
+  "makes": [
+    {
+      "name": "Hennessey",
+      "models": [
+        {
+          "name": "Venom F5",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": []
+        },
+        {
+          "name": "Venom F5 Revolution",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": []
+        },
+        {
+          "name": "Venom GT",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": []
+        },
+        {
+          "name": "Viper Venom 1000 Twin Turbo",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": []
+        }
+      ]
+    }
+  ]
+}
