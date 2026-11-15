@@ -188,9 +188,5 @@ and open a pull request — the regenerated CSV/SQLite should be included in the
 
 Make/model/generation/engine facts were compiled and normalized from publicly available
 information on autoevolution.com; Egypt-market additions (Speranza, El Nasr) are
-original curation. Brands autoevolution lacks (Alpina, Aixam, Ligier, Maxus, Tatra, Morris,
-Austin and others) come from open data — RDW (NL registry), the EEA CO2-cars monitoring
-dataset (CC BY 4.0), Wikidata and fueleconomy.gov — so their years are approximate (derived
-from registrations) and most have one generation per model. Per-brand sources are listed in
-[`data/open-data-sources.json`](data/open-data-sources.json). See [LICENSE-DATA](LICENSE-DATA) for full attribution requirements,
+original curation. See [LICENSE-DATA](LICENSE-DATA) for full attribution requirements,
 share-alike obligations, and details.
