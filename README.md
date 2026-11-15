@@ -1,6 +1,6 @@
 # vehicle-makes-models
 
-![Free & open dataset of car makes, models, generations, and engine specs — 164 makes, 2,621 models, 7,169 generations, 30,390 engines. JSON, CSV, SQLite. ODbL.](docs/announcement-card.png)
+![Free & open dataset of car makes, models, generations, and engine specs — 216 makes, 3,640 models, 8,102 generations, 31,520 engines. JSON, CSV, SQLite. ODbL.](docs/announcement-card.png)
 
 A free, open dataset of car **makes**, **models**, **generations**, and **engine specs** —
 global coverage with extra Egypt-market nameplates (e.g. Speranza, El Nasr) that
