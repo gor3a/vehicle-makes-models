@@ -1,0 +1,2635 @@
+{
+  "group": "polaris",
+  "makes": [
+    {
+      "name": "Polaris",
+      "models": [
+        {
+          "name": "D BAT 400 4X4",
+          "yearStart": 1990,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "D BAT 400 4X4",
+              "yearStart": 1990,
+              "yearEnd": null,
+              "bodyType": "Niet geregistreerd",
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "GENERAL",
+          "yearStart": 2019,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "GENERAL",
+              "yearStart": 2019,
+              "yearEnd": null,
+              "bodyType": "Niet geregistreerd",
+              "engines": [
+                {
+                  "label": "1.0L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 999,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "6",
+                    "rdw/lastRegistration": "20201208",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "HAWKEYE",
+          "yearStart": 2002,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "HAWKEYE",
+              "yearStart": 2002,
+              "yearEnd": null,
+              "bodyType": "Niet geregistreerd",
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "HAWKEYE 300 E",
+          "yearStart": 2005,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "HAWKEYE 300 E",
+              "yearStart": 2005,
+              "yearEnd": null,
+              "bodyType": "Niet geregistreerd",
+              "engines": [
+                {
+                  "label": "0.3L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 299,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "2",
+                    "rdw/lastRegistration": "20070716",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "0.3L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 298,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "22",
+                    "rdw/lastRegistration": "20080725",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "MAGNUM",
+          "yearStart": 2001,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "MAGNUM",
+              "yearStart": 2001,
+              "yearEnd": null,
+              "bodyType": "Niet geregistreerd",
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "OUTLAW",
+          "yearStart": 2006,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "OUTLAW",
+              "yearStart": 2006,
+              "yearEnd": null,
+              "bodyType": "Niet geregistreerd",
+              "engines": [
+                {
+                  "label": "0.5L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 510,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "10",
+                    "rdw/lastRegistration": "20110422",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "0.5L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 499,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "8",
+                    "rdw/lastRegistration": "20100326",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "OUTLAW 525",
+          "yearStart": 2007,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "OUTLAW 525",
+              "yearStart": 2007,
+              "yearEnd": null,
+              "bodyType": "Niet geregistreerd",
+              "engines": [
+                {
+                  "label": "0.5L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 510,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "4",
+                    "rdw/lastRegistration": "20100112",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "0.5L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 499,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "20080701",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "OUTLAW 525 S",
+          "yearStart": 2008,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "OUTLAW 525 S",
+              "yearStart": 2008,
+              "yearEnd": null,
+              "bodyType": "Niet geregistreerd",
+              "engines": [
+                {
+                  "label": "0.5L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 510,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "5",
+                    "rdw/lastRegistration": "20091104",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "PHOENIX",
+          "yearStart": 2002,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "PHOENIX",
+              "yearStart": 2002,
+              "yearEnd": null,
+              "bodyType": "Niet geregistreerd",
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "PHOENIX 200 QUAD",
+          "yearStart": 2005,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "PHOENIX 200 QUAD",
+              "yearStart": 2005,
+              "yearEnd": null,
+              "bodyType": "Niet geregistreerd",
+              "engines": [
+                {
+                  "label": "0.2L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 196,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "114",
+                    "rdw/lastRegistration": "20171229",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "PHOENIX 200E",
+          "yearStart": 2008,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "PHOENIX 200E",
+              "yearStart": 2008,
+              "yearEnd": null,
+              "bodyType": "Niet geregistreerd",
+              "engines": [
+                {
+                  "label": "0.2L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 196,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "7",
+                    "rdw/lastRegistration": "20100617",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "PREDATOR 500",
+          "yearStart": 2004,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "PREDATOR 500",
+              "yearStart": 2004,
+              "yearEnd": null,
+              "bodyType": "Niet geregistreerd",
+              "engines": [
+                {
+                  "label": "0.5L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 499,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "5",
+                    "rdw/lastRegistration": "20070125",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "PREDATOR 500E",
+          "yearStart": 2005,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "PREDATOR 500E",
+              "yearStart": 2005,
+              "yearEnd": null,
+              "bodyType": "Niet geregistreerd",
+              "engines": [
+                {
+                  "label": "0.5L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 499,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "7",
+                    "rdw/lastRegistration": "20060919",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "RANGER",
+          "yearStart": 2003,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "RANGER",
+              "yearStart": 2003,
+              "yearEnd": null,
+              "bodyType": "Niet geregistreerd",
+              "engines": [
+                {
+                  "label": "0.9L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 904,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "20111018",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "0.9L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 900,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "20120228",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "RANGER 1000",
+          "yearStart": 2009,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "RANGER 1000",
+              "yearStart": 2009,
+              "yearEnd": null,
+              "bodyType": "Niet geregistreerd",
+              "engines": [
+                {
+                  "label": "1.0L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 999,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "6",
+                    "rdw/lastRegistration": "20260616",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "RANGER 400",
+          "yearStart": 2009,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "RANGER 400",
+              "yearStart": 2009,
+              "yearEnd": null,
+              "bodyType": "Niet geregistreerd",
+              "engines": [
+                {
+                  "label": "0.5L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 455,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "3",
+                    "rdw/lastRegistration": "20160224",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "RANGER 500",
+          "yearStart": 2026,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "RANGER 500",
+              "yearStart": 2026,
+              "yearEnd": null,
+              "bodyType": "Niet geregistreerd",
+              "engines": [
+                {
+                  "label": "0.6L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 567,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "9",
+                    "rdw/lastRegistration": "20261015",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "RANGER 500 4X4",
+          "yearStart": 2002,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "RANGER 500 4X4",
+              "yearStart": 2002,
+              "yearEnd": null,
+              "bodyType": "Niet geregistreerd",
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "RANGER 570",
+          "yearStart": 2015,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "RANGER 570",
+              "yearStart": 2015,
+              "yearEnd": null,
+              "bodyType": "Niet geregistreerd",
+              "engines": [
+                {
+                  "label": "0.6L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 567,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "14",
+                    "rdw/lastRegistration": "20250716",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "RANGER 570 MS E",
+          "yearStart": 2018,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "RANGER 570 MS E",
+              "yearStart": 2018,
+              "yearEnd": null,
+              "bodyType": "Niet geregistreerd",
+              "engines": [
+                {
+                  "label": "0.6L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 567,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "12",
+                    "rdw/lastRegistration": "20250607",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "RANGER 900",
+          "yearStart": 2008,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "RANGER 900",
+              "yearStart": 2008,
+              "yearEnd": null,
+              "bodyType": "Niet geregistreerd",
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "RANGER CREW 1000",
+          "yearStart": 2017,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "RANGER CREW 1000",
+              "yearStart": 2017,
+              "yearEnd": null,
+              "bodyType": "Niet geregistreerd",
+              "engines": [
+                {
+                  "label": "1.0L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 999,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "19",
+                    "rdw/lastRegistration": "20261006",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "1.0L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 1028,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "20170630",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "RANGER DIESEL",
+          "yearStart": 2020,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "RANGER DIESEL",
+              "yearStart": 2020,
+              "yearEnd": null,
+              "bodyType": "Niet geregistreerd",
+              "engines": [
+                {
+                  "label": "0.9L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 898,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "271",
+                    "rdw/lastRegistration": "20261028",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "RANGER DIESEL 1000",
+          "yearStart": 2014,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "RANGER DIESEL 1000",
+              "yearStart": 2014,
+              "yearEnd": null,
+              "bodyType": "Niet geregistreerd",
+              "engines": [
+                {
+                  "label": "1.0L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 1028,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "2",
+                    "rdw/lastRegistration": "20150630",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "RANGER EV",
+          "yearStart": 2002,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "RANGER EV",
+              "yearStart": 2002,
+              "yearEnd": null,
+              "bodyType": "Niet geregistreerd",
+              "engines": [
+                {
+                  "label": "1.0L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 1028,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "20150701",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "RANGER EV E",
+          "yearStart": 2019,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "RANGER EV E",
+              "yearStart": 2019,
+              "yearEnd": null,
+              "bodyType": "Niet geregistreerd",
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "RANGER EV KINETIC",
+          "yearStart": 2023,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "RANGER EV KINETIC",
+              "yearStart": 2023,
+              "yearEnd": null,
+              "bodyType": "Niet geregistreerd",
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "RANGER RZR",
+          "yearStart": 2008,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "RANGER RZR",
+              "yearStart": 2008,
+              "yearEnd": null,
+              "bodyType": "Niet geregistreerd",
+              "engines": [
+                {
+                  "label": "1.0L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 999,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "2",
+                    "rdw/lastRegistration": "20160226",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "0.9L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 875,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "26",
+                    "rdw/lastRegistration": "20170309",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "0.8L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 760,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "32",
+                    "rdw/lastRegistration": "20130701",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "RANGER RZR 900 S",
+          "yearStart": 2016,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "RANGER RZR 900 S",
+              "yearStart": 2016,
+              "yearEnd": null,
+              "bodyType": "Niet geregistreerd",
+              "engines": [
+                {
+                  "label": "0.9L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 875,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "6",
+                    "rdw/lastRegistration": "20181107",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "RANGER RZR PRO XP",
+          "yearStart": 2020,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "RANGER RZR PRO XP",
+              "yearStart": 2020,
+              "yearEnd": null,
+              "bodyType": "Niet geregistreerd",
+              "engines": [
+                {
+                  "label": "0.9L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 925,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "23",
+                    "rdw/lastRegistration": "20240620",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "RANGER RZR S 1000",
+          "yearStart": 2019,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "RANGER RZR S 1000",
+              "yearStart": 2019,
+              "yearEnd": null,
+              "bodyType": "Niet geregistreerd",
+              "engines": [
+                {
+                  "label": "1.0L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 999,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "5",
+                    "rdw/lastRegistration": "20250722",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "RANGER RZR TURBO R",
+          "yearStart": 2022,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "RANGER RZR TURBO R",
+              "yearStart": 2022,
+              "yearEnd": null,
+              "bodyType": "Niet geregistreerd",
+              "engines": [
+                {
+                  "label": "0.9L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 925,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "7",
+                    "rdw/lastRegistration": "20240311",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "RANGER RZR XP 1000",
+          "yearStart": 2014,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "RANGER RZR XP 1000",
+              "yearStart": 2014,
+              "yearEnd": null,
+              "bodyType": "Niet geregistreerd",
+              "engines": [
+                {
+                  "label": "1.0L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 999,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "28",
+                    "rdw/lastRegistration": "20190425",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "0.9L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 925,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "10",
+                    "rdw/lastRegistration": "20170923",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "RANGER RZR XP 1000 TURBO",
+          "yearStart": 2014,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "RANGER RZR XP 1000 TURBO",
+              "yearStart": 2014,
+              "yearEnd": null,
+              "bodyType": "Niet geregistreerd",
+              "engines": [
+                {
+                  "label": "0.9L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 925,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "36",
+                    "rdw/lastRegistration": "20241223",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "RANGER SP 570",
+          "yearStart": 2025,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "RANGER SP 570",
+              "yearStart": 2025,
+              "yearEnd": null,
+              "bodyType": "Niet geregistreerd",
+              "engines": [
+                {
+                  "label": "0.6L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 567,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "7",
+                    "rdw/lastRegistration": "20261021",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "RANGER XP",
+          "yearStart": 2009,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "RANGER XP",
+              "yearStart": 2009,
+              "yearEnd": null,
+              "bodyType": "Niet geregistreerd",
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "RANGER XP 1000",
+          "yearStart": 2018,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "RANGER XP 1000",
+              "yearStart": 2018,
+              "yearEnd": null,
+              "bodyType": "Niet geregistreerd",
+              "engines": [
+                {
+                  "label": "1.0L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 999,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "24",
+                    "rdw/lastRegistration": "20260303",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "RAZOR 570",
+          "yearStart": 2018,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "RAZOR 570",
+              "yearStart": 2018,
+              "yearEnd": null,
+              "bodyType": "Niet geregistreerd",
+              "engines": [
+                {
+                  "label": "0.6L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 567,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "6",
+                    "rdw/lastRegistration": "20200220",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "RZR",
+          "yearStart": 2015,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "RZR",
+              "yearStart": 2015,
+              "yearEnd": null,
+              "bodyType": "Niet geregistreerd",
+              "engines": [
+                {
+                  "label": "1.0L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 999,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "20200101",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "RZR 570 E",
+          "yearStart": 2012,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "RZR 570 E",
+              "yearStart": 2012,
+              "yearEnd": null,
+              "bodyType": "Niet geregistreerd",
+              "engines": [
+                {
+                  "label": "0.6L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 567,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "8",
+                    "rdw/lastRegistration": "20161007",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "RZR XP",
+          "yearStart": 2014,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "RZR XP",
+              "yearStart": 2014,
+              "yearEnd": null,
+              "bodyType": "Niet geregistreerd",
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "SAWTOOTH",
+          "yearStart": 2004,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "SAWTOOTH",
+              "yearStart": 2004,
+              "yearEnd": null,
+              "bodyType": "Niet geregistreerd",
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "SAWTOOTH 200 QUAD",
+          "yearStart": 2006,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "SAWTOOTH 200 QUAD",
+              "yearStart": 2006,
+              "yearEnd": null,
+              "bodyType": "Niet geregistreerd",
+              "engines": [
+                {
+                  "label": "0.2L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 196,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "16",
+                    "rdw/lastRegistration": "20130513",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "SCRAMBLER 1000",
+          "yearStart": 2015,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "SCRAMBLER 1000",
+              "yearStart": 2015,
+              "yearEnd": null,
+              "bodyType": "Niet geregistreerd",
+              "engines": [
+                {
+                  "label": "1.0L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 952,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "55",
+                    "rdw/lastRegistration": "20251126",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "SCRAMBLER 1000 S",
+          "yearStart": 2020,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "SCRAMBLER 1000 S",
+              "yearStart": 2020,
+              "yearEnd": null,
+              "bodyType": "Niet geregistreerd",
+              "engines": [
+                {
+                  "label": "1.0L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 952,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "46",
+                    "rdw/lastRegistration": "20260619",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "SCRAMBLER 500 E",
+          "yearStart": 2008,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "SCRAMBLER 500 E",
+              "yearStart": 2008,
+              "yearEnd": null,
+              "bodyType": "Niet geregistreerd",
+              "engines": [
+                {
+                  "label": "0.5L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 498,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "8",
+                    "rdw/lastRegistration": "20111103",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "SCRAMBLER XP 1000 S",
+          "yearStart": 2022,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "SCRAMBLER XP 1000 S",
+              "yearStart": 2022,
+              "yearEnd": null,
+              "bodyType": "Niet geregistreerd",
+              "engines": [
+                {
+                  "label": "1.0L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 952,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "6",
+                    "rdw/lastRegistration": "20260903",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "SCRAMBLER XP 850 H.O",
+          "yearStart": 2013,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "SCRAMBLER XP 850 H.O",
+              "yearStart": 2013,
+              "yearEnd": null,
+              "bodyType": "Niet geregistreerd",
+              "engines": [
+                {
+                  "label": "0.8L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 850,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "11",
+                    "rdw/lastRegistration": "20140310",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "SCRAMBLER XP1000 ESP",
+          "yearStart": 2014,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "SCRAMBLER XP1000 ESP",
+              "yearStart": 2014,
+              "yearEnd": null,
+              "bodyType": "Niet geregistreerd",
+              "engines": [
+                {
+                  "label": "1.0L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 952,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "5",
+                    "rdw/lastRegistration": "20160209",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "0.9L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 920,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "20140715",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Slingshot",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Slingshot",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "SPORT 400",
+          "yearStart": 1997,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "SPORT 400",
+              "yearStart": 1997,
+              "yearEnd": null,
+              "bodyType": "Niet geregistreerd",
+              "engines": [
+                {
+                  "label": "0.4L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 378,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "3",
+                    "rdw/lastRegistration": "20010824",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "0.4L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 379,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19980127",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "SPORTSMAN",
+          "yearStart": 1998,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "SPORTSMAN",
+              "yearStart": 1998,
+              "yearEnd": null,
+              "bodyType": "Niet geregistreerd",
+              "engines": [
+                {
+                  "label": "0.8L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 850,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "2",
+                    "rdw/lastRegistration": "20160630",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "SPORTSMAN  1000 S",
+          "yearStart": 2020,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "SPORTSMAN  1000 S",
+              "yearStart": 2020,
+              "yearEnd": null,
+              "bodyType": "Niet geregistreerd",
+              "engines": [
+                {
+                  "label": "1.0L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 952,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "4",
+                    "rdw/lastRegistration": "20210306",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "SPORTSMAN 1000",
+          "yearStart": 2012,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "SPORTSMAN 1000",
+              "yearStart": 2012,
+              "yearEnd": null,
+              "bodyType": "Niet geregistreerd",
+              "engines": [
+                {
+                  "label": "1.0L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 952,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "39",
+                    "rdw/lastRegistration": "20260216",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "SPORTSMAN 500",
+          "yearStart": 1994,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "SPORTSMAN 500",
+              "yearStart": 1994,
+              "yearEnd": null,
+              "bodyType": "Niet geregistreerd",
+              "engines": [
+                {
+                  "label": "0.5L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 499,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "2",
+                    "rdw/lastRegistration": "20010226",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "0.5L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 498,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "20000630",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "SPORTSMAN 500 E",
+          "yearStart": 2005,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "SPORTSMAN 500 E",
+              "yearStart": 2005,
+              "yearEnd": null,
+              "bodyType": "Niet geregistreerd",
+              "engines": [
+                {
+                  "label": "0.5L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 498,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "33",
+                    "rdw/lastRegistration": "20111021",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "SPORTSMAN 570",
+          "yearStart": 2014,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "SPORTSMAN 570",
+              "yearStart": 2014,
+              "yearEnd": null,
+              "bodyType": "Niet geregistreerd",
+              "engines": [
+                {
+                  "label": "0.6L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 567,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "93",
+                    "rdw/lastRegistration": "20250430",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "SPORTSMAN 570 (EPS)",
+          "yearStart": 2022,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "SPORTSMAN 570 (EPS)",
+              "yearStart": 2022,
+              "yearEnd": null,
+              "bodyType": "Niet geregistreerd",
+              "engines": [
+                {
+                  "label": "0.6L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 567,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "22",
+                    "rdw/lastRegistration": "20260527",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "SPORTSMAN 570 EPS",
+          "yearStart": 2014,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "SPORTSMAN 570 EPS",
+              "yearStart": 2014,
+              "yearEnd": null,
+              "bodyType": "Niet geregistreerd",
+              "engines": [
+                {
+                  "label": "0.6L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 567,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "71",
+                    "rdw/lastRegistration": "20260115",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "SPORTSMAN 800",
+          "yearStart": 2006,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "SPORTSMAN 800",
+              "yearStart": 2006,
+              "yearEnd": null,
+              "bodyType": "Niet geregistreerd",
+              "engines": [
+                {
+                  "label": "0.8L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 760,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "3",
+                    "rdw/lastRegistration": "20080108",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "SPORTSMAN 800 E",
+          "yearStart": 2006,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "SPORTSMAN 800 E",
+              "yearStart": 2006,
+              "yearEnd": null,
+              "bodyType": "Niet geregistreerd",
+              "engines": [
+                {
+                  "label": "0.8L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 760,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "15",
+                    "rdw/lastRegistration": "20110103",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "SPORTSMAN 800 E/5",
+          "yearStart": 2006,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "SPORTSMAN 800 E/5",
+              "yearStart": 2006,
+              "yearEnd": null,
+              "bodyType": "Niet geregistreerd",
+              "engines": [
+                {
+                  "label": "0.8L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 760,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "9",
+                    "rdw/lastRegistration": "20070726",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "SPORTSMAN 850 E",
+          "yearStart": 2009,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "SPORTSMAN 850 E",
+              "yearStart": 2009,
+              "yearEnd": null,
+              "bodyType": "Niet geregistreerd",
+              "engines": [
+                {
+                  "label": "0.8L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 850,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "19",
+                    "rdw/lastRegistration": "20110324",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "SPORTSMAN ACE",
+          "yearStart": 2014,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "SPORTSMAN ACE",
+              "yearStart": 2014,
+              "yearEnd": null,
+              "bodyType": "Niet geregistreerd",
+              "engines": [
+                {
+                  "label": "0.3L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 325,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "6",
+                    "rdw/lastRegistration": "20180504",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "SPORTSMAN FOREST 500",
+          "yearStart": 2011,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "SPORTSMAN FOREST 500",
+              "yearStart": 2011,
+              "yearEnd": null,
+              "bodyType": "Niet geregistreerd",
+              "engines": [
+                {
+                  "label": "0.5L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 498,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "13",
+                    "rdw/lastRegistration": "20141013",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "SPORTSMAN FOREST 570",
+          "yearStart": 2013,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "SPORTSMAN FOREST 570",
+              "yearStart": 2013,
+              "yearEnd": null,
+              "bodyType": "Niet geregistreerd",
+              "engines": [
+                {
+                  "label": "0.6L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 567,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "18",
+                    "rdw/lastRegistration": "20180306",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "SPORTSMAN FOREST 800",
+          "yearStart": 2012,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "SPORTSMAN FOREST 800",
+              "yearStart": 2012,
+              "yearEnd": null,
+              "bodyType": "Niet geregistreerd",
+              "engines": [
+                {
+                  "label": "0.8L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 760,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "5",
+                    "rdw/lastRegistration": "20140315",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "SPORTSMAN FOREST 850",
+          "yearStart": 2011,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "SPORTSMAN FOREST 850",
+              "yearStart": 2011,
+              "yearEnd": null,
+              "bodyType": "Niet geregistreerd",
+              "engines": [
+                {
+                  "label": "0.8L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 850,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "15",
+                    "rdw/lastRegistration": "20150506",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "SPORTSMAN XP 1000 S",
+          "yearStart": 2022,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "SPORTSMAN XP 1000 S",
+              "yearStart": 2022,
+              "yearEnd": null,
+              "bodyType": "Niet geregistreerd",
+              "engines": [
+                {
+                  "label": "1.0L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 952,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "13",
+                    "rdw/lastRegistration": "20261022",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "TRAIL BOSS 330 E",
+          "yearStart": 2005,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "TRAIL BOSS 330 E",
+              "yearStart": 2005,
+              "yearEnd": null,
+              "bodyType": "Niet geregistreerd",
+              "engines": [
+                {
+                  "label": "0.3L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 329,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "5",
+                    "rdw/lastRegistration": "20131026",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

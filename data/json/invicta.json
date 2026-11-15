@@ -1,0 +1,16 @@
+{
+  "group": "invicta",
+  "makes": [
+    {
+      "name": "Invicta",
+      "models": [
+        {
+          "name": "Black Prince",
+          "yearStart": 1946,
+          "yearEnd": 1950,
+          "generations": []
+        }
+      ]
+    }
+  ]
+}

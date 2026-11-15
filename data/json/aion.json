@@ -1,0 +1,178 @@
+{
+  "group": "aion",
+  "makes": [
+    {
+      "name": "Aion",
+      "models": [
+        {
+          "name": "Aistaland GT7",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Aistaland GT7",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "GAC Aion i60",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "GAC Aion i60",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "GAC Aion RT",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "GAC Aion RT",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "Hyptec A800",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Hyptec A800",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "Hyptec GT",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Hyptec GT",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "Hyptec HL",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Hyptec HL",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "Hyptec HT",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Hyptec HT",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "Hyptec SSR",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Hyptec SSR",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "LX",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "LX",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "N60",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "N60",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "V",
+          "yearStart": 2025,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "V",
+              "yearStart": 2025,
+              "yearEnd": null,
+              "bodyType": "stationwagen",
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "Y",
+          "yearStart": 2020,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Y",
+              "yearStart": 2020,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

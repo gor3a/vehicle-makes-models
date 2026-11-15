@@ -1,0 +1,2060 @@
+{
+  "group": "daimler",
+  "makes": [
+    {
+      "name": "Daimler",
+      "models": [
+        {
+          "name": "2.5 L V 8",
+          "yearStart": 1963,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "2.5 L V 8",
+              "yearStart": 1963,
+              "yearEnd": null,
+              "bodyType": "sedan",
+              "engines": [
+                {
+                  "label": "2.5L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 2500,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "2",
+                    "rdw/lastRegistration": "19690106",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "2.5L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 2548,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "3",
+                    "rdw/lastRegistration": "19690110",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "2.5L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 2549,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "4",
+                    "rdw/lastRegistration": "19690630",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "250",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "250",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "250 V8",
+          "yearStart": 1965,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "250 V8",
+              "yearStart": 1965,
+              "yearEnd": null,
+              "bodyType": "Niet geregistreerd",
+              "engines": [
+                {
+                  "label": "2.5L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 2548,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "3",
+                    "rdw/lastRegistration": "19690313",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "2.5L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 2500,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19650630",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "3.6",
+          "yearStart": 1987,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "3.6",
+              "yearStart": 1987,
+              "yearEnd": null,
+              "bodyType": "sedan",
+              "engines": [
+                {
+                  "label": "3.6L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 3590,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "27",
+                    "rdw/lastRegistration": "19890630",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "3.6 K6",
+          "yearStart": 1987,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "3.6 K6",
+              "yearStart": 1987,
+              "yearEnd": null,
+              "bodyType": "sedan",
+              "engines": [
+                {
+                  "label": "3.6L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 3590,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "2",
+                    "rdw/lastRegistration": "19890529",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "4.0 E2",
+          "yearStart": 1992,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "4.0 E2",
+              "yearStart": 1992,
+              "yearEnd": null,
+              "bodyType": "sedan",
+              "engines": [
+                {
+                  "label": "4.0L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 3980,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "16",
+                    "rdw/lastRegistration": "19950407",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "4.0 U9",
+          "yearStart": 1989,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "4.0 U9",
+              "yearStart": 1989,
+              "yearEnd": null,
+              "bodyType": "sedan",
+              "engines": [
+                {
+                  "label": "4.0L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 3980,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "44",
+                    "rdw/lastRegistration": "19940525",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "BSA Light Six",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "BSA Light Six",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "Conquest",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Conquest",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "Consort",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Consort",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "Critchley Light car",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Critchley Light car",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "DK400",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "DK400",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "DOUBLE SIX",
+          "yearStart": 1973,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "DOUBLE SIX",
+              "yearStart": 1973,
+              "yearEnd": null,
+              "bodyType": "sedan",
+              "engines": [
+                {
+                  "label": "5.3L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 5340,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19860516",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "5.3L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 5343,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19780314",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "6.0L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 5993,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "31",
+                    "rdw/lastRegistration": "19970329",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "5.3L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 5344,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19751101",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "6.0L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 5989,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19940115",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "5.3L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 5341,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "5",
+                    "rdw/lastRegistration": "19900511",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "5.3L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 5345,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "53",
+                    "rdw/lastRegistration": "19931008",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "6.0L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 5990,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19930602",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "DOUBLE SIX E2",
+          "yearStart": 1993,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "DOUBLE SIX E2",
+              "yearStart": 1993,
+              "yearEnd": null,
+              "bodyType": "sedan",
+              "engines": [
+                {
+                  "label": "6.0L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 5993,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "28",
+                    "rdw/lastRegistration": "19950210",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "DOUBLE SIX K6",
+          "yearStart": 1987,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "DOUBLE SIX K6",
+              "yearStart": 1987,
+              "yearEnd": null,
+              "bodyType": "sedan",
+              "engines": [
+                {
+                  "label": "5.3L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 5345,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "12",
+                    "rdw/lastRegistration": "19901026",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "DOUBLE SIX LWB",
+          "yearStart": 1995,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "DOUBLE SIX LWB",
+              "yearStart": 1995,
+              "yearEnd": null,
+              "bodyType": "sedan",
+              "engines": [
+                {
+                  "label": "6.0L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 5993,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "43",
+                    "rdw/lastRegistration": "19980311",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "DOUBLE SIX U9",
+          "yearStart": 1987,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "DOUBLE SIX U9",
+              "yearStart": 1987,
+              "yearEnd": null,
+              "bodyType": "sedan",
+              "engines": [
+                {
+                  "label": "5.3L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 5345,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "48",
+                    "rdw/lastRegistration": "19940107",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "DOUBLE SIX VAN DEN PLAS",
+          "yearStart": 1973,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "DOUBLE SIX VAN DEN PLAS",
+              "yearStart": 1973,
+              "yearEnd": null,
+              "bodyType": "sedan",
+              "engines": [
+                {
+                  "label": "5.3L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 5343,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "4",
+                    "rdw/lastRegistration": "19780911",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "5.3L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 5344,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19820315",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "DOUBLE SIX VANDEN PLAS",
+          "yearStart": 1973,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "DOUBLE SIX VANDEN PLAS",
+              "yearStart": 1973,
+              "yearEnd": null,
+              "bodyType": "sedan",
+              "engines": [
+                {
+                  "label": "5.3L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 5347,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19730901",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "5.3L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 5345,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "3",
+                    "rdw/lastRegistration": "19810401",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "5.2L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 5245,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19810110",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "5.3L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 5344,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "2",
+                    "rdw/lastRegistration": "19830201",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "5.3L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 5343,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19730125",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "DR450",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "DR450",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "DS420",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "DS420",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "EIGHT",
+          "yearStart": 1997,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "EIGHT",
+              "yearStart": 1997,
+              "yearEnd": null,
+              "bodyType": "sedan",
+              "engines": [
+                {
+                  "label": "4.0L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 3996,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "72",
+                    "rdw/lastRegistration": "20001010",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Fifteen",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Fifteen",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "HEARSE",
+          "yearStart": 1971,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "HEARSE",
+              "yearStart": 1971,
+              "yearEnd": null,
+              "bodyType": "lijkwagen",
+              "engines": [
+                {
+                  "label": "4.2L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 4235,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19711001",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "4.0L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 3980,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19970801",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Lanchester Eighteen 15/18",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Lanchester Eighteen 15/18",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "Lanchester Fourteen",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Lanchester Fourteen",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "Lanchester Light Six",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Lanchester Light Six",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "LIMOUSINE",
+          "yearStart": 1939,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "LIMOUSINE",
+              "yearStart": 1939,
+              "yearEnd": null,
+              "bodyType": "sedan",
+              "engines": [
+                {
+                  "label": "4.2L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 4235,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "4",
+                    "rdw/lastRegistration": "19890612",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "3.6L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 3617,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19390728",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "4.0L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 3996,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "20000101",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "4.3L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 4325,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19900801",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Majestic",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Majestic",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "Majestic Major",
+          "yearStart": 1959,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Majestic Major",
+              "yearStart": 1959,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "New Fifteen",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "New Fifteen",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "Regency",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Regency",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "SIX",
+          "yearStart": 1995,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "SIX",
+              "yearStart": 1995,
+              "yearEnd": null,
+              "bodyType": "coupe",
+              "engines": [
+                {
+                  "label": "4.0L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 3980,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19961010",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "SIX LWB",
+          "yearStart": 1995,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "SIX LWB",
+              "yearStart": 1995,
+              "yearEnd": null,
+              "bodyType": "sedan",
+              "engines": [
+                {
+                  "label": "4.0L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 3980,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "29",
+                    "rdw/lastRegistration": "19970714",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "SOVEREIGN",
+          "yearStart": 1967,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "SOVEREIGN",
+              "yearStart": 1967,
+              "yearEnd": null,
+              "bodyType": "cabriolet",
+              "engines": [
+                {
+                  "label": "4.2L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 4235,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19690509",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "3.6L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 3590,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19890101",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "3.4L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 3400,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19780517",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "SOVEREIGN 4.2",
+          "yearStart": 1967,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "SOVEREIGN 4.2",
+              "yearStart": 1967,
+              "yearEnd": null,
+              "bodyType": "Niet geregistreerd",
+              "engines": [
+                {
+                  "label": "4.2L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 4235,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19770808",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "4.2L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 4232,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "2",
+                    "rdw/lastRegistration": "19811001",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "4.2L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 4200,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19710527",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "SOVEREIGN 4.2 L",
+          "yearStart": 1974,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "SOVEREIGN 4.2 L",
+              "yearStart": 1974,
+              "yearEnd": null,
+              "bodyType": "sedan",
+              "engines": [
+                {
+                  "label": "4.2L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 4232,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19791201",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "4.2L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 4236,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "6",
+                    "rdw/lastRegistration": "19820426",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "4.2L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 4235,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "4",
+                    "rdw/lastRegistration": "19780823",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "4.3L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 4322,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19801201",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "3.0L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 2996,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19761001",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "SP 250",
+          "yearStart": 1959,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "SP 250",
+              "yearStart": 1959,
+              "yearEnd": null,
+              "bodyType": "cabriolet",
+              "engines": [
+                {
+                  "label": "2.5L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 2549,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "3",
+                    "rdw/lastRegistration": "19630228",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "2.5L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 2500,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "4",
+                    "rdw/lastRegistration": "19620514",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "2.5L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 2548,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "3",
+                    "rdw/lastRegistration": "19641102",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "SP250",
+          "yearStart": 1959,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "SP250",
+              "yearStart": 1959,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "SPRINTER",
+          "yearStart": 2010,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "SPRINTER",
+              "yearStart": 2010,
+              "yearEnd": null,
+              "bodyType": "huifopbouw",
+              "engines": [
+                {
+                  "label": "2.1L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 2143,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "2",
+                    "rdw/lastRegistration": "20161207",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "3.0L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 2987,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "20200114",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Super Eight",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Super Eight",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "SUPER V8",
+          "yearStart": 1997,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "SUPER V8",
+              "yearStart": 1997,
+              "yearEnd": null,
+              "bodyType": "sedan",
+              "engines": [
+                {
+                  "label": "4.2L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 4196,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "20070628",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "4.0L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 3996,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "135",
+                    "rdw/lastRegistration": "20020717",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Twenty-Two",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Twenty-Two",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "V8",
+          "yearStart": 1997,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "V8",
+              "yearStart": 1997,
+              "yearEnd": null,
+              "bodyType": "sedan",
+              "engines": [
+                {
+                  "label": "4.0L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 3996,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "23",
+                    "rdw/lastRegistration": "20020530",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "V8  250",
+          "yearStart": 1963,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "V8  250",
+              "yearStart": 1963,
+              "yearEnd": null,
+              "bodyType": "sedan",
+              "engines": [
+                {
+                  "label": "2.5L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 2548,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19670901",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "2.5L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 2504,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19681217",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "2.5L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 2500,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19670630",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "3.4L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 3442,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19680630",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "V8 250 SALOON",
+          "yearStart": 1964,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "V8 250 SALOON",
+              "yearStart": 1964,
+              "yearEnd": null,
+              "bodyType": "Niet geregistreerd",
+              "engines": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

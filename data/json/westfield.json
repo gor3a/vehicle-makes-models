@@ -1,0 +1,1939 @@
+{
+  "group": "westfield",
+  "makes": [
+    {
+      "name": "Westfield",
+      "models": [
+        {
+          "name": "2,0 ZETEC SPORT",
+          "yearStart": 2010,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "2,0 ZETEC SPORT",
+              "yearStart": 2010,
+              "yearEnd": null,
+              "bodyType": "cabriolet",
+              "engines": [
+                {
+                  "label": "2.0L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 1998,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "5",
+                    "rdw/lastRegistration": "20100831",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "2.0 ZETEC SPORT",
+          "yearStart": 2009,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "2.0 ZETEC SPORT",
+              "yearStart": 2009,
+              "yearEnd": null,
+              "bodyType": "cabriolet",
+              "engines": [
+                {
+                  "label": "2.0L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 1998,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "20090723",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "CONVERTIBLE",
+          "yearStart": 1987,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "CONVERTIBLE",
+              "yearStart": 1987,
+              "yearEnd": null,
+              "bodyType": "cabriolet",
+              "engines": [
+                {
+                  "label": "1.8L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 1800,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "2",
+                    "rdw/lastRegistration": "20001001",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "2.0L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 2000,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "20031006",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "2.0L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 1998,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19960419",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "1.6L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 1598,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19900718",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Megabusa",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Megabusa",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "N/A",
+          "yearStart": 2011,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "N/A",
+              "yearStart": 2011,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "1.6L 141 kW Petrol",
+                  "fuelType": "Petrol",
+                  "cylinders": null,
+                  "displacementCc": 1598,
+                  "powerHp": 191.8,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "2",
+                    "eea/lastYear": "2011",
+                    "eea/source": "eea"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Non renseignÃš",
+          "yearStart": 2010,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Non renseignÃš",
+              "yearStart": 2010,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "1.6L 141 kW Petrol",
+                  "fuelType": "Petrol",
+                  "cylinders": null,
+                  "displacementCc": 1598,
+                  "powerHp": 191.8,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "2",
+                    "eea/lastYear": "2011",
+                    "eea/source": "eea"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Non renseignÚ",
+          "yearStart": 2010,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Non renseignÚ",
+              "yearStart": 2010,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "1.6L Petrol",
+                  "fuelType": "Petrol",
+                  "cylinders": null,
+                  "displacementCc": 1598,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "1",
+                    "eea/lastYear": "2010",
+                    "eea/source": "eea"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "SE",
+          "yearStart": 1977,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "SE",
+              "yearStart": 1977,
+              "yearEnd": null,
+              "bodyType": "Niet geregistreerd",
+              "engines": [
+                {
+                  "label": "1.7L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 1686,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19921210",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "1.7L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 1700,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "4",
+                    "rdw/lastRegistration": "19971212",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "1.7L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 1698,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19950202",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "2.0L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 1998,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19880428",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "1.8L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 1796,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19950601",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "2.0L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 2000,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19770221",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "1.6L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 1600,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "7",
+                    "rdw/lastRegistration": "19950630",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "2.0L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 1988,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "20080424",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "SE K6",
+          "yearStart": 1990,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "SE K6",
+              "yearStart": 1990,
+              "yearEnd": null,
+              "bodyType": "cabriolet",
+              "engines": [
+                {
+                  "label": "1.6L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 1596,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "12",
+                    "rdw/lastRegistration": "19930625",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "SE-I K6",
+          "yearStart": 1989,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "SE-I K6",
+              "yearStart": 1989,
+              "yearEnd": null,
+              "bodyType": "cabriolet",
+              "engines": [
+                {
+                  "label": "1.8L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 1796,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19900601",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "1.6L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 1596,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "4",
+                    "rdw/lastRegistration": "19920427",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "SE-I WIDE K6",
+          "yearStart": 1990,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "SE-I WIDE K6",
+              "yearStart": 1990,
+              "yearEnd": null,
+              "bodyType": "cabriolet",
+              "engines": [
+                {
+                  "label": "1.6L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 1596,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "14",
+                    "rdw/lastRegistration": "19930609",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "2.0L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 2000,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19900704",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "SEI",
+          "yearStart": 1990,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "SEI",
+              "yearStart": 1990,
+              "yearEnd": null,
+              "bodyType": "cabriolet",
+              "engines": [
+                {
+                  "label": "2.0L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 1993,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "2",
+                    "rdw/lastRegistration": "20000601",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "2.0L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 1988,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "2",
+                    "rdw/lastRegistration": "19920521",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "2.0L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 1998,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19920301",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "1.6L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 1600,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19920109",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "2.0L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 1999,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19900904",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "1.7L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 1700,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19930110",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "SEight",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "SEight",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "SEIW",
+          "yearStart": 1990,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "SEIW",
+              "yearStart": 1990,
+              "yearEnd": null,
+              "bodyType": "cabriolet",
+              "engines": [
+                {
+                  "label": "1.6L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 1600,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "10",
+                    "rdw/lastRegistration": "19950505",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "2.1L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 2100,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "2",
+                    "rdw/lastRegistration": "19950908",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "1.8L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 1798,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "20070906",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "2.0L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 1989,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "2",
+                    "rdw/lastRegistration": "20090609",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "2.0L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 1998,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19950401",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "1.8L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 1781,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "20070827",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "2.0L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 2000,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "8",
+                    "rdw/lastRegistration": "20130514",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "1.8L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 1796,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "20000701",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "2.0L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 1984,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "2",
+                    "rdw/lastRegistration": "20071018",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "SEVEN",
+          "yearStart": 1987,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "SEVEN",
+              "yearStart": 1987,
+              "yearEnd": null,
+              "bodyType": "cabriolet",
+              "engines": [
+                {
+                  "label": "1.7L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 1700,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19881213",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "2.0L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 1999,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "20111102",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "2.0L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 2000,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "20131001",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "1.8L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 1798,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "20060510",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "2.4L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 2435,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "20060801",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "SPORTS",
+          "yearStart": 1979,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "SPORTS",
+              "yearStart": 1979,
+              "yearEnd": null,
+              "bodyType": "cabriolet",
+              "engines": [
+                {
+                  "label": "2.1L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 2090,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19920901",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "1.6L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 1600,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "7",
+                    "rdw/lastRegistration": "20090201",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "3.5L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 3500,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19951128",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "1.6L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 1595,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "20110720",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "1.8L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 1798,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "20000121",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "2.5L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 2500,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19901114",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "2.1L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 2093,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19940527",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "1.7L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 1698,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19900801",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "1.3L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 1300,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "2",
+                    "rdw/lastRegistration": "20040901",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "1.7L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 1700,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "2",
+                    "rdw/lastRegistration": "19920701",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "1.8L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 1800,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "6",
+                    "rdw/lastRegistration": "20050101",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "2.0L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 1993,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "2",
+                    "rdw/lastRegistration": "19960901",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "2.0L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 1998,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "3",
+                    "rdw/lastRegistration": "20080922",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "1.6L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 1593,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19930501",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "1.6L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 1598,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "2",
+                    "rdw/lastRegistration": "20080724",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "2.0L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 1988,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "8",
+                    "rdw/lastRegistration": "20080623",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "2.0L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 2000,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "7",
+                    "rdw/lastRegistration": "20130514",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "SPORTTURBO",
+          "yearStart": 2015,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "SPORTTURBO",
+              "yearStart": 2015,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "1.6L 141 kW Petrol",
+                  "fuelType": "Petrol",
+                  "cylinders": null,
+                  "displacementCc": 1598,
+                  "powerHp": 191.8,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "2",
+                    "eea/lastYear": "2015",
+                    "eea/source": "eea"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "unknown",
+          "yearStart": 2010,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "unknown",
+              "yearStart": 2010,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "1.3L Petrol",
+                  "fuelType": "Petrol",
+                  "cylinders": null,
+                  "displacementCc": 1275,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "2",
+                    "eea/lastYear": "2013",
+                    "eea/source": "eea"
+                  }
+                },
+                {
+                  "label": "1.3L Petrol",
+                  "fuelType": "Petrol",
+                  "cylinders": null,
+                  "displacementCc": 1298,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "2",
+                    "eea/lastYear": "2010",
+                    "eea/source": "eea"
+                  }
+                },
+                {
+                  "label": "1.6L Petrol",
+                  "fuelType": "Petrol",
+                  "cylinders": null,
+                  "displacementCc": 1598,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "10",
+                    "eea/lastYear": "2011",
+                    "eea/source": "eea"
+                  }
+                },
+                {
+                  "label": "1.6L Petrol",
+                  "fuelType": "Petrol",
+                  "cylinders": null,
+                  "displacementCc": 1600,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "4",
+                    "eea/lastYear": "2011",
+                    "eea/source": "eea"
+                  }
+                },
+                {
+                  "label": "1.8L Petrol",
+                  "fuelType": "Petrol",
+                  "cylinders": null,
+                  "displacementCc": 1796,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "2",
+                    "eea/lastYear": "2012",
+                    "eea/source": "eea"
+                  }
+                },
+                {
+                  "label": "1.8L Petrol",
+                  "fuelType": "Petrol",
+                  "cylinders": null,
+                  "displacementCc": 1839,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "2",
+                    "eea/lastYear": "2010",
+                    "eea/source": "eea"
+                  }
+                },
+                {
+                  "label": "2.0L Petrol",
+                  "fuelType": "Petrol",
+                  "cylinders": null,
+                  "displacementCc": 1988,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "4",
+                    "eea/lastYear": "2013",
+                    "eea/source": "eea"
+                  }
+                },
+                {
+                  "label": "2.0L Petrol",
+                  "fuelType": "Petrol",
+                  "cylinders": null,
+                  "displacementCc": 1997,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "2",
+                    "eea/lastYear": "2013",
+                    "eea/source": "eea"
+                  }
+                },
+                {
+                  "label": "2.0L Petrol",
+                  "fuelType": "Petrol",
+                  "cylinders": null,
+                  "displacementCc": 1998,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "6",
+                    "eea/lastYear": "2013",
+                    "eea/source": "eea"
+                  }
+                },
+                {
+                  "label": "2.0L Petrol",
+                  "fuelType": "Petrol",
+                  "cylinders": null,
+                  "displacementCc": 2000,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "12",
+                    "eea/lastYear": "2013",
+                    "eea/source": "eea"
+                  }
+                },
+                {
+                  "label": "4.6L Petrol",
+                  "fuelType": "Petrol",
+                  "cylinders": null,
+                  "displacementCc": 4600,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "2",
+                    "eea/lastYear": "2011",
+                    "eea/source": "eea"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "XI",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "XI",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "XTR2",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "XTR2",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

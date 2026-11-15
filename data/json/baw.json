@@ -1,0 +1,332 @@
+{
+  "group": "baw",
+  "makes": [
+    {
+      "name": "BAW",
+      "models": [
+        {
+          "name": "212 T01",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "212 T01",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "BAIC B40",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "BAIC B40",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "Beijing Auto E-Series",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Beijing Auto E-Series",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "Beijing BJ 210",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Beijing BJ 210",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "Beijing BJ750",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Beijing BJ750",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "Beijing CB4",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Beijing CB4",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "Beijing Leichi",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Beijing Leichi",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "Beijing Luling",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Beijing Luling",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "Dongfanghong BJ760",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Dongfanghong BJ760",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "Foton SUP VII",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Foton SUP VII",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "Jinggangshan",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Jinggangshan",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "Luba",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Luba",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "PONY",
+          "yearStart": 2024,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "PONY",
+              "yearStart": 2024,
+              "yearEnd": null,
+              "bodyType": "Niet geregistreerd",
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "Qishi",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Qishi",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "Ruisheng Wangpai M7",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Ruisheng Wangpai M7",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "Weijun",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Weijun",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "Weiwang 205",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Weiwang 205",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "Weiwang 306",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Weiwang 306",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "Weiwang 307",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Weiwang 307",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "Weiwang M20",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Weiwang M20",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "Weiwang M50F",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Weiwang M50F",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "Yuanbao",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Yuanbao",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "Yusheng",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Yusheng",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

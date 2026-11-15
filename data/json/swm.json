@@ -1,0 +1,450 @@
+{
+  "group": "swm",
+  "makes": [
+    {
+      "name": "SWM",
+      "models": [
+        {
+          "name": "G01",
+          "yearStart": 2021,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "G01",
+              "yearStart": 2021,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "1.5L 98 kW Lpg",
+                  "fuelType": "Lpg",
+                  "cylinders": null,
+                  "displacementCc": 1499,
+                  "powerHp": 133.3,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "5",
+                    "eea/lastYear": "2022",
+                    "eea/source": "eea"
+                  }
+                },
+                {
+                  "label": "1.5L 98 kW Petrol",
+                  "fuelType": "Petrol",
+                  "cylinders": null,
+                  "displacementCc": 1499,
+                  "powerHp": 133.3,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "37",
+                    "eea/lastYear": "2022",
+                    "eea/source": "eea"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "G01F",
+          "yearStart": 2021,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "G01F",
+              "yearStart": 2021,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "1.5L 98 kW Lpg",
+                  "fuelType": "Lpg",
+                  "cylinders": null,
+                  "displacementCc": 1499,
+                  "powerHp": 133.3,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "3",
+                    "eea/lastYear": "2022",
+                    "eea/source": "eea"
+                  }
+                },
+                {
+                  "label": "1.5L 98 kW Petrol",
+                  "fuelType": "Petrol",
+                  "cylinders": null,
+                  "displacementCc": 1499,
+                  "powerHp": 133.3,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "59",
+                    "eea/lastYear": "2022",
+                    "eea/source": "eea"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "GRAN MILANO",
+          "yearStart": 2016,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "GRAN MILANO",
+              "yearStart": 2016,
+              "yearEnd": null,
+              "bodyType": "Niet geregistreerd",
+              "engines": [
+                {
+                  "label": "0.4L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 445,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "5",
+                    "rdw/lastRegistration": "20190104",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "RS300R",
+          "yearStart": 2016,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "RS300R",
+              "yearStart": 2016,
+              "yearEnd": null,
+              "bodyType": "Niet geregistreerd",
+              "engines": [
+                {
+                  "label": "0.3L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 298,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "7",
+                    "rdw/lastRegistration": "20200723",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "RS500R",
+          "yearStart": 2016,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "RS500R",
+              "yearStart": 2016,
+              "yearEnd": null,
+              "bodyType": "Niet geregistreerd",
+              "engines": [
+                {
+                  "label": "0.5L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 501,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "8",
+                    "rdw/lastRegistration": "20261106",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "RS650R",
+          "yearStart": 2015,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "RS650R",
+              "yearStart": 2015,
+              "yearEnd": null,
+              "bodyType": "Niet geregistreerd",
+              "engines": [
+                {
+                  "label": "0.6L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 600,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "6",
+                    "rdw/lastRegistration": "20161011",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "SILVER VASE",
+          "yearStart": 2016,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "SILVER VASE",
+              "yearStart": 2016,
+              "yearEnd": null,
+              "bodyType": "Niet geregistreerd",
+              "engines": [
+                {
+                  "label": "0.4L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 445,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "6",
+                    "rdw/lastRegistration": "20201001",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "SM650",
+          "yearStart": 2015,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "SM650",
+              "yearStart": 2015,
+              "yearEnd": null,
+              "bodyType": "Niet geregistreerd",
+              "engines": [
+                {
+                  "label": "0.6L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 600,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "6",
+                    "rdw/lastRegistration": "20170106",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "SUPERDUAL T",
+          "yearStart": 2018,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "SUPERDUAL T",
+              "yearStart": 2018,
+              "yearEnd": null,
+              "bodyType": "Niet geregistreerd",
+              "engines": [
+                {
+                  "label": "0.6L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 600,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "7",
+                    "rdw/lastRegistration": "20261111",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "URBAN 525",
+          "yearStart": 2026,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "URBAN 525",
+              "yearStart": 2026,
+              "yearEnd": null,
+              "bodyType": "Niet geregistreerd",
+              "engines": [
+                {
+                  "label": "0.5L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 494,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "6",
+                    "rdw/lastRegistration": "20260723",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "X7",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "X7",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

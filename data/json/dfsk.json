@@ -1,0 +1,2430 @@
+{
+  "group": "dfsk",
+  "makes": [
+    {
+      "name": "DFSK",
+      "models": [
+        {
+          "name": "0901",
+          "yearStart": 2020,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "0901",
+              "yearStart": 2020,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "1.5L 107 kW Petrol",
+                  "fuelType": "Petrol",
+                  "cylinders": null,
+                  "displacementCc": 1499,
+                  "powerHp": 145.5,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "2",
+                    "eea/lastYear": "2020",
+                    "eea/source": "eea"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "580",
+          "yearStart": 2018,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "580",
+              "yearStart": 2018,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "1.5L 69 kW Petrol",
+                  "fuelType": "Petrol",
+                  "cylinders": null,
+                  "displacementCc": 1499,
+                  "powerHp": 93.8,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "2",
+                    "eea/lastYear": "2021",
+                    "eea/source": "eea"
+                  }
+                },
+                {
+                  "label": "1.5L 106 kW Lpg",
+                  "fuelType": "Lpg",
+                  "cylinders": null,
+                  "displacementCc": 1499,
+                  "powerHp": 144.2,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "1",
+                    "eea/lastYear": "2022",
+                    "eea/source": "eea"
+                  }
+                },
+                {
+                  "label": "1.5L 107 kW Diesel",
+                  "fuelType": "Diesel",
+                  "cylinders": null,
+                  "displacementCc": 1499,
+                  "powerHp": 145.5,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "6",
+                    "eea/lastYear": "2021",
+                    "eea/source": "eea"
+                  }
+                },
+                {
+                  "label": "1.5L 107 kW Lpg",
+                  "fuelType": "Lpg",
+                  "cylinders": null,
+                  "displacementCc": 1499,
+                  "powerHp": 145.5,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "296",
+                    "eea/lastYear": "2022",
+                    "eea/source": "eea"
+                  }
+                },
+                {
+                  "label": "1.5L 107 kW Ng-biomethane",
+                  "fuelType": "Ng-biomethane",
+                  "cylinders": null,
+                  "displacementCc": 1499,
+                  "powerHp": 145.5,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "35",
+                    "eea/lastYear": "2022",
+                    "eea/source": "eea"
+                  }
+                },
+                {
+                  "label": "1.5L 107 kW Petrol",
+                  "fuelType": "Petrol",
+                  "cylinders": null,
+                  "displacementCc": 1499,
+                  "powerHp": 145.5,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "1163",
+                    "eea/lastYear": "2022",
+                    "eea/source": "eea"
+                  }
+                },
+                {
+                  "label": "1.5L 107 kW Unknown",
+                  "fuelType": "Unknown",
+                  "cylinders": null,
+                  "displacementCc": 1499,
+                  "powerHp": 145.5,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "2",
+                    "eea/lastYear": "2020",
+                    "eea/source": "eea"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "580 LPG",
+          "yearStart": 2021,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "580 LPG",
+              "yearStart": 2021,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "1.5L 107 kW Lpg",
+                  "fuelType": "Lpg",
+                  "cylinders": null,
+                  "displacementCc": 1499,
+                  "powerHp": 145.5,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "2",
+                    "eea/lastYear": "2021",
+                    "eea/source": "eea"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "AT-IX5 SFG15TA-LVZ",
+          "yearStart": 2020,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "AT-IX5 SFG15TA-LVZ",
+              "yearStart": 2020,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "1.5L 101 kW Petrol",
+                  "fuelType": "Petrol",
+                  "cylinders": null,
+                  "displacementCc": 1499,
+                  "powerHp": 137.4,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "2",
+                    "eea/lastYear": "2020",
+                    "eea/source": "eea"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "C-SERIE",
+          "yearStart": 2014,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "C-SERIE",
+              "yearStart": 2014,
+              "yearEnd": null,
+              "bodyType": "Niet geregistreerd",
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "C32",
+          "yearStart": 2016,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "C32",
+              "yearStart": 2016,
+              "yearEnd": null,
+              "bodyType": "neerklapbare zijschotten",
+              "engines": [
+                {
+                  "label": "1.5L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 1493,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "2",
+                    "rdw/lastRegistration": "20241101",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "C35",
+          "yearStart": 2016,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "C35",
+              "yearStart": 2016,
+              "yearEnd": null,
+              "bodyType": "gesloten opbouw",
+              "engines": [
+                {
+                  "label": "1.5L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 1493,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "8",
+                    "rdw/lastRegistration": "20190829",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "C37",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "C37",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "Dongfeng Fengguang 330",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Dongfeng Fengguang 330",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "Dongfeng Fengguang 360",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Dongfeng Fengguang 360",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "Dongfeng Fengguang S560",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Dongfeng Fengguang S560",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "DXK6471AS3H",
+          "yearStart": 2020,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "DXK6471AS3H",
+              "yearStart": 2020,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "1.5L 101 kW Diesel",
+                  "fuelType": "Diesel",
+                  "cylinders": null,
+                  "displacementCc": 1499,
+                  "powerHp": 137.4,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "6",
+                    "eea/lastYear": "2020",
+                    "eea/source": "eea"
+                  }
+                },
+                {
+                  "label": "1.5L 101 kW Lpg",
+                  "fuelType": "Lpg",
+                  "cylinders": null,
+                  "displacementCc": 1499,
+                  "powerHp": 137.4,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "9",
+                    "eea/lastYear": "2022",
+                    "eea/source": "eea"
+                  }
+                },
+                {
+                  "label": "1.5L 101 kW Ng-biomethane",
+                  "fuelType": "Ng-biomethane",
+                  "cylinders": null,
+                  "displacementCc": 1499,
+                  "powerHp": 137.4,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "43",
+                    "eea/lastYear": "2022",
+                    "eea/source": "eea"
+                  }
+                },
+                {
+                  "label": "1.5L 101 kW Petrol",
+                  "fuelType": "Petrol",
+                  "cylinders": null,
+                  "displacementCc": 1499,
+                  "powerHp": 137.4,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "186",
+                    "eea/lastYear": "2022",
+                    "eea/source": "eea"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "DXK6471ASH",
+          "yearStart": 2020,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "DXK6471ASH",
+              "yearStart": 2020,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "1.5L 101 kW Petrol",
+                  "fuelType": "Petrol",
+                  "cylinders": null,
+                  "displacementCc": 1499,
+                  "powerHp": 137.4,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "2",
+                    "eea/lastYear": "2020",
+                    "eea/source": "eea"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "E5",
+          "yearStart": 2024,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "E5",
+              "yearStart": 2024,
+              "yearEnd": null,
+              "bodyType": "stationwagen",
+              "engines": [
+                {
+                  "label": "1.5L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 1498,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "115",
+                    "rdw/lastRegistration": "20261028",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "FEGON 500",
+          "yearStart": 2022,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "FEGON 500",
+              "yearStart": 2022,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "1.5L 78 kW Petrol",
+                  "fuelType": "Petrol",
+                  "cylinders": null,
+                  "displacementCc": 1498,
+                  "powerHp": 106.1,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "1",
+                    "eea/lastYear": "2022",
+                    "eea/source": "eea"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "FEGON 580",
+          "yearStart": 2022,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "FEGON 580",
+              "yearStart": 2022,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "1.5L 107 kW Petrol",
+                  "fuelType": "Petrol",
+                  "cylinders": null,
+                  "displacementCc": 1499,
+                  "powerHp": 145.5,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "1",
+                    "eea/lastYear": "2022",
+                    "eea/source": "eea"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "FENGON",
+          "yearStart": 2020,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "FENGON",
+              "yearStart": 2020,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "1.5L 101 kW Petrol",
+                  "fuelType": "Petrol",
+                  "cylinders": null,
+                  "displacementCc": 1499,
+                  "powerHp": 137.4,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "4",
+                    "eea/lastYear": "2020",
+                    "eea/source": "eea"
+                  }
+                },
+                {
+                  "label": "1.5L 78 kW Petrol",
+                  "fuelType": "Petrol",
+                  "cylinders": null,
+                  "displacementCc": 1498,
+                  "powerHp": 106.1,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "1",
+                    "eea/lastYear": "2022",
+                    "eea/source": "eea"
+                  }
+                },
+                {
+                  "label": "1.5L 101 kW Lpg",
+                  "fuelType": "Lpg",
+                  "cylinders": null,
+                  "displacementCc": 1499,
+                  "powerHp": 137.4,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "12",
+                    "eea/lastYear": "2021",
+                    "eea/source": "eea"
+                  }
+                },
+                {
+                  "label": "1.5L 107 kW Petrol",
+                  "fuelType": "Petrol",
+                  "cylinders": null,
+                  "displacementCc": 1499,
+                  "powerHp": 145.5,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "1",
+                    "eea/lastYear": "2022",
+                    "eea/source": "eea"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "FENGON 5",
+          "yearStart": 2021,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "FENGON 5",
+              "yearStart": 2021,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "1.5L 101 kW Lpg",
+                  "fuelType": "Lpg",
+                  "cylinders": null,
+                  "displacementCc": 1499,
+                  "powerHp": 137.4,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "16",
+                    "eea/lastYear": "2021",
+                    "eea/source": "eea"
+                  }
+                },
+                {
+                  "label": "1.5L 101 kW Petrol",
+                  "fuelType": "Petrol",
+                  "cylinders": null,
+                  "displacementCc": 1499,
+                  "powerHp": 137.4,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "179",
+                    "eea/lastYear": "2022",
+                    "eea/source": "eea"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "FENGON 500",
+          "yearStart": 2021,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "FENGON 500",
+              "yearStart": 2021,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "1.5L 78 kW Lpg",
+                  "fuelType": "Lpg",
+                  "cylinders": null,
+                  "displacementCc": 1498,
+                  "powerHp": 106.1,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "3",
+                    "eea/lastYear": "2022",
+                    "eea/source": "eea"
+                  }
+                },
+                {
+                  "label": "1.5L 78 kW Petrol",
+                  "fuelType": "Petrol",
+                  "cylinders": null,
+                  "displacementCc": 1498,
+                  "powerHp": 106.1,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "283",
+                    "eea/lastYear": "2022",
+                    "eea/source": "eea"
+                  }
+                },
+                {
+                  "label": "1.5L 78 kW Lpg",
+                  "fuelType": "Lpg",
+                  "cylinders": null,
+                  "displacementCc": 1499,
+                  "powerHp": 106.1,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "1",
+                    "eea/lastYear": "2022",
+                    "eea/source": "eea"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Fengon 580",
+          "yearStart": 2021,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Fengon 580",
+              "yearStart": 2021,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "1.5L 106 kW Lpg",
+                  "fuelType": "Lpg",
+                  "cylinders": null,
+                  "displacementCc": 1499,
+                  "powerHp": 144.2,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "1",
+                    "eea/lastYear": "2022",
+                    "eea/source": "eea"
+                  }
+                },
+                {
+                  "label": "1.5L 107 kW Lpg",
+                  "fuelType": "Lpg",
+                  "cylinders": null,
+                  "displacementCc": 1499,
+                  "powerHp": 145.5,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "8",
+                    "eea/lastYear": "2022",
+                    "eea/source": "eea"
+                  }
+                },
+                {
+                  "label": "1.5L 107 kW Petrol",
+                  "fuelType": "Petrol",
+                  "cylinders": null,
+                  "displacementCc": 1499,
+                  "powerHp": 145.5,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "138",
+                    "eea/lastYear": "2022",
+                    "eea/source": "eea"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "FENGON 7",
+          "yearStart": 2022,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "FENGON 7",
+              "yearStart": 2022,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "2.0L 162 kW Petrol",
+                  "fuelType": "Petrol",
+                  "cylinders": null,
+                  "displacementCc": 1967,
+                  "powerHp": 220.3,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "78",
+                    "eea/lastYear": "2022",
+                    "eea/source": "eea"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Fengon ix5",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Fengon ix5",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "Fengon ix7",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Fengon ix7",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "FENGON LPG",
+          "yearStart": 2021,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "FENGON LPG",
+              "yearStart": 2021,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "1.5L 100 kW Lpg",
+                  "fuelType": "Lpg",
+                  "cylinders": null,
+                  "displacementCc": 1499,
+                  "powerHp": 136,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "2",
+                    "eea/lastYear": "2021",
+                    "eea/source": "eea"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Fengon Mini EV",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Fengon Mini EV",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "Fengon5",
+          "yearStart": 2021,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Fengon5",
+              "yearStart": 2021,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "1.5L 100 kW Lpg",
+                  "fuelType": "Lpg",
+                  "cylinders": null,
+                  "displacementCc": 1499,
+                  "powerHp": 136,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "52",
+                    "eea/lastYear": "2022",
+                    "eea/source": "eea"
+                  }
+                },
+                {
+                  "label": "1.5L 101 kW Lpg",
+                  "fuelType": "Lpg",
+                  "cylinders": null,
+                  "displacementCc": 1499,
+                  "powerHp": 137.4,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "21",
+                    "eea/lastYear": "2022",
+                    "eea/source": "eea"
+                  }
+                },
+                {
+                  "label": "1.5L 101 kW Ng-biomethane",
+                  "fuelType": "Ng-biomethane",
+                  "cylinders": null,
+                  "displacementCc": 1499,
+                  "powerHp": 137.4,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "61",
+                    "eea/lastYear": "2022",
+                    "eea/source": "eea"
+                  }
+                },
+                {
+                  "label": "1.5L 101 kW Petrol",
+                  "fuelType": "Petrol",
+                  "cylinders": null,
+                  "displacementCc": 1499,
+                  "powerHp": 137.4,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "23",
+                    "eea/lastYear": "2022",
+                    "eea/source": "eea"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "FENGON500",
+          "yearStart": 2021,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "FENGON500",
+              "yearStart": 2021,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "1.5L 78 kW Diesel",
+                  "fuelType": "Diesel",
+                  "cylinders": null,
+                  "displacementCc": 1498,
+                  "powerHp": 106.1,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "1",
+                    "eea/lastYear": "2022",
+                    "eea/source": "eea"
+                  }
+                },
+                {
+                  "label": "1.5L 78 kW Petrol",
+                  "fuelType": "Petrol",
+                  "cylinders": null,
+                  "displacementCc": 1498,
+                  "powerHp": 106.1,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "1",
+                    "eea/lastYear": "2022",
+                    "eea/source": "eea"
+                  }
+                },
+                {
+                  "label": "1.5L 78 kW Lpg",
+                  "fuelType": "Lpg",
+                  "cylinders": null,
+                  "displacementCc": 1499,
+                  "powerHp": 106.1,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "14",
+                    "eea/lastYear": "2022",
+                    "eea/source": "eea"
+                  }
+                },
+                {
+                  "label": "1.5L 78 kW Petrol",
+                  "fuelType": "Petrol",
+                  "cylinders": null,
+                  "displacementCc": 1499,
+                  "powerHp": 106.1,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "56",
+                    "eea/lastYear": "2022",
+                    "eea/source": "eea"
+                  }
+                },
+                {
+                  "label": "1.5L 85 kW Lpg",
+                  "fuelType": "Lpg",
+                  "cylinders": null,
+                  "displacementCc": 1499,
+                  "powerHp": 115.6,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "2",
+                    "eea/lastYear": "2021",
+                    "eea/source": "eea"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "GLORY 580",
+          "yearStart": 2020,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "GLORY 580",
+              "yearStart": 2020,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "1.5L 107 kW Lpg",
+                  "fuelType": "Lpg",
+                  "cylinders": null,
+                  "displacementCc": 1499,
+                  "powerHp": 145.5,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "2",
+                    "eea/lastYear": "2020",
+                    "eea/source": "eea"
+                  }
+                },
+                {
+                  "label": "1.5L 107 kW Petrol",
+                  "fuelType": "Petrol",
+                  "cylinders": null,
+                  "displacementCc": 1499,
+                  "powerHp": 145.5,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "2",
+                    "eea/lastYear": "2020",
+                    "eea/source": "eea"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "IS5",
+          "yearStart": 2020,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "IS5",
+              "yearStart": 2020,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "1.5L 101 kW Petrol",
+                  "fuelType": "Petrol",
+                  "cylinders": null,
+                  "displacementCc": 1499,
+                  "powerHp": 137.4,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "2",
+                    "eea/lastYear": "2020",
+                    "eea/source": "eea"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "IX5",
+          "yearStart": 2020,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "IX5",
+              "yearStart": 2020,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "1.5L 101 kW Gnl",
+                  "fuelType": "Gnl",
+                  "cylinders": null,
+                  "displacementCc": 1499,
+                  "powerHp": 137.4,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "2",
+                    "eea/lastYear": "2020",
+                    "eea/source": "eea"
+                  }
+                },
+                {
+                  "label": "1.5L 101 kW Lpg",
+                  "fuelType": "Lpg",
+                  "cylinders": null,
+                  "displacementCc": 1499,
+                  "powerHp": 137.4,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "151",
+                    "eea/lastYear": "2022",
+                    "eea/source": "eea"
+                  }
+                },
+                {
+                  "label": "1.5L 101 kW Ng-biomethane",
+                  "fuelType": "Ng-biomethane",
+                  "cylinders": null,
+                  "displacementCc": 1499,
+                  "powerHp": 137.4,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "4",
+                    "eea/lastYear": "2020",
+                    "eea/source": "eea"
+                  }
+                },
+                {
+                  "label": "1.5L 101 kW Petrol",
+                  "fuelType": "Petrol",
+                  "cylinders": null,
+                  "displacementCc": 1499,
+                  "powerHp": 137.4,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "673",
+                    "eea/lastYear": "2022",
+                    "eea/source": "eea"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "K-SERIE",
+          "yearStart": 2013,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "K-SERIE",
+              "yearStart": 2013,
+              "yearEnd": null,
+              "bodyType": "Niet geregistreerd",
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "K-Series",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "K-Series",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "K01",
+          "yearStart": 2011,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "K01",
+              "yearStart": 2011,
+              "yearEnd": null,
+              "bodyType": "kipper",
+              "engines": [
+                {
+                  "label": "1.3L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 1310,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "20120619",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "1.0L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 1012,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "20160915",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "K01H",
+          "yearStart": 2014,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "K01H",
+              "yearStart": 2014,
+              "yearEnd": null,
+              "bodyType": "niet nader aangeduid",
+              "engines": [
+                {
+                  "label": "1.3L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 1310,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "4",
+                    "rdw/lastRegistration": "20160518",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "1.0L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 1012,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "20150611",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "1.2L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 1240,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "9",
+                    "rdw/lastRegistration": "20240830",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "1.2L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 1200,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "5",
+                    "rdw/lastRegistration": "20190218",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "KUGA",
+          "yearStart": 2020,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "KUGA",
+              "yearStart": 2020,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "2.0L 110 kW Diesel",
+                  "fuelType": "Diesel",
+                  "cylinders": null,
+                  "displacementCc": 1995,
+                  "powerHp": 149.6,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "2",
+                    "eea/lastYear": "2020",
+                    "eea/source": "eea"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "MINI TRUCK",
+          "yearStart": 2012,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "MINI TRUCK",
+              "yearStart": 2012,
+              "yearEnd": null,
+              "bodyType": "Niet geregistreerd",
+              "engines": [
+                {
+                  "label": "1.3L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 1310,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "20120228",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "MOTOR CO LTD",
+          "yearStart": 2020,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "MOTOR CO LTD",
+              "yearStart": 2020,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "1.5L 101 kW Petrol",
+                  "fuelType": "Petrol",
+                  "cylinders": null,
+                  "displacementCc": 1499,
+                  "powerHp": 137.4,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "10",
+                    "eea/lastYear": "2021",
+                    "eea/source": "eea"
+                  }
+                },
+                {
+                  "label": "1.5L 107 kW Lpg",
+                  "fuelType": "Lpg",
+                  "cylinders": null,
+                  "displacementCc": 1499,
+                  "powerHp": 145.5,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "2",
+                    "eea/lastYear": "2020",
+                    "eea/source": "eea"
+                  }
+                },
+                {
+                  "label": "1.5L 107 kW Petrol",
+                  "fuelType": "Petrol",
+                  "cylinders": null,
+                  "displacementCc": 1499,
+                  "powerHp": 145.5,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "9",
+                    "eea/lastYear": "2022",
+                    "eea/source": "eea"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "SERES",
+          "yearStart": 2021,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "SERES",
+              "yearStart": 2021,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "120 kW Electric",
+                  "fuelType": "Electric",
+                  "cylinders": null,
+                  "displacementCc": null,
+                  "powerHp": 163.2,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "62",
+                    "eea/lastYear": "2021",
+                    "eea/source": "eea"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "SERES 2",
+          "yearStart": 2021,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "SERES 2",
+              "yearStart": 2021,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "55 kW Electric",
+                  "fuelType": "Electric",
+                  "cylinders": null,
+                  "displacementCc": null,
+                  "powerHp": 74.8,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "2",
+                    "eea/lastYear": "2021",
+                    "eea/source": "eea"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "SERES 3",
+          "yearStart": 2020,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "SERES 3",
+              "yearStart": 2020,
+              "yearEnd": null,
+              "bodyType": "stationwagen",
+              "engines": [
+                {
+                  "label": "50 kW Electric",
+                  "fuelType": "Electric",
+                  "cylinders": null,
+                  "displacementCc": null,
+                  "powerHp": 68,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "364",
+                    "eea/lastYear": "2022",
+                    "eea/source": "eea"
+                  }
+                },
+                {
+                  "label": "55 kW Electric",
+                  "fuelType": "Electric",
+                  "cylinders": null,
+                  "displacementCc": null,
+                  "powerHp": 74.8,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "277",
+                    "eea/lastYear": "2022",
+                    "eea/source": "eea"
+                  }
+                },
+                {
+                  "label": "55 kW Petrol",
+                  "fuelType": "Petrol",
+                  "cylinders": null,
+                  "displacementCc": null,
+                  "powerHp": 74.8,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "2",
+                    "eea/lastYear": "2021",
+                    "eea/source": "eea"
+                  }
+                },
+                {
+                  "label": "120 kW Electric",
+                  "fuelType": "Electric",
+                  "cylinders": null,
+                  "displacementCc": null,
+                  "powerHp": 163.2,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "510",
+                    "eea/lastYear": "2022",
+                    "eea/source": "eea"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "SERES 3 /",
+          "yearStart": 2021,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "SERES 3 /",
+              "yearStart": 2021,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "50 kW Electric",
+                  "fuelType": "Electric",
+                  "cylinders": null,
+                  "displacementCc": null,
+                  "powerHp": 68,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "9",
+                    "eea/lastYear": "2022",
+                    "eea/source": "eea"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "SERES-3",
+          "yearStart": 2021,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "SERES-3",
+              "yearStart": 2021,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "55 kW Electric",
+                  "fuelType": "Electric",
+                  "cylinders": null,
+                  "displacementCc": null,
+                  "powerHp": 74.8,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "2",
+                    "eea/lastYear": "2021",
+                    "eea/source": "eea"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "SERES3",
+          "yearStart": 2021,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "SERES3",
+              "yearStart": 2021,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "55 kW Electric",
+                  "fuelType": "Electric",
+                  "cylinders": null,
+                  "displacementCc": null,
+                  "powerHp": 74.8,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "8",
+                    "eea/lastYear": "2021",
+                    "eea/source": "eea"
+                  }
+                },
+                {
+                  "label": "120 kW Electric",
+                  "fuelType": "Electric",
+                  "cylinders": null,
+                  "displacementCc": null,
+                  "powerHp": 163.2,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "4",
+                    "eea/lastYear": "2021",
+                    "eea/source": "eea"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "V22",
+          "yearStart": 2014,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "V22",
+              "yearStart": 2014,
+              "yearEnd": null,
+              "bodyType": "open laadvloer",
+              "engines": [
+                {
+                  "label": "1.3L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 1310,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "5",
+                    "rdw/lastRegistration": "20170412",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "V25",
+          "yearStart": 2012,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "V25",
+              "yearStart": 2012,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "1.3L 58 kW Petrol",
+                  "fuelType": "Petrol",
+                  "cylinders": null,
+                  "displacementCc": 1310,
+                  "powerHp": 78.9,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "2",
+                    "eea/lastYear": "2012",
+                    "eea/source": "eea"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "V27",
+          "yearStart": 2013,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "V27",
+              "yearStart": 2013,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "1.3L 58 kW Petrol",
+                  "fuelType": "Petrol",
+                  "cylinders": null,
+                  "displacementCc": 1310,
+                  "powerHp": 78.9,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "2",
+                    "eea/lastYear": "2013",
+                    "eea/source": "eea"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "V27 4X4",
+          "yearStart": 2014,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "V27 4X4",
+              "yearStart": 2014,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "1.3L 58 kW Petrol",
+                  "fuelType": "Petrol",
+                  "cylinders": null,
+                  "displacementCc": 1310,
+                  "powerHp": 78.9,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "2",
+                    "eea/lastYear": "2014",
+                    "eea/source": "eea"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "group": "hispano-suiza",
+  "makes": [
+    {
+      "name": "Hispano Suiza",
+      "models": [
+        {
+          "name": "Hispano-Suiza Alfonso XIII",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": []
+        },
+        {
+          "name": "Hispano-Suiza Carmen",
+          "yearStart": 2019,
+          "yearEnd": null,
+          "generations": []
+        },
+        {
+          "name": "Hispano-Suiza H6",
+          "yearStart": 1919,
+          "yearEnd": 1933,
+          "generations": []
+        },
+        {
+          "name": "Hispano-Suiza J12",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": []
+        },
+        {
+          "name": "Hispano-Suiza K6",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": []
+        },
+        {
+          "name": "Hispano-Suiza V10 Supercharged",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": []
+        }
+      ]
+    }
+  ]
+}

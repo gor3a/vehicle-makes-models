@@ -1,0 +1,1012 @@
+{
+  "group": "tatra",
+  "makes": [
+    {
+      "name": "Tatra",
+      "models": [
+        {
+          "name": "107",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "107",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "11",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "11",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "12",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "12",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "128",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "128",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "13",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "13",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "141",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "141",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "15",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "15",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "17",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "17",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "2-603",
+          "yearStart": 1969,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "2-603",
+              "yearStart": 1969,
+              "yearEnd": null,
+              "bodyType": "Niet geregistreerd",
+              "engines": [
+                {
+                  "label": "2.5L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 2472,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "2",
+                    "rdw/lastRegistration": "19720630",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "201",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "201",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "22",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "22",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "26",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "26",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "30",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "30",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "31",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "31",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "43",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "43",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "52",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "52",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "54",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "54",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "57",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "57",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "57A",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "57A",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "600",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "600",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "601 Monte Carlo",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "601 Monte Carlo",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "602",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "602",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "603",
+          "yearStart": 1959,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "603",
+              "yearStart": 1959,
+              "yearEnd": null,
+              "bodyType": "sedan",
+              "engines": [
+                {
+                  "label": "2.5L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 2472,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19630630",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "603 B5",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "603 B5",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "604",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "604",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "605",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "605",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "607",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "607",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "613",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "613",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "613-2",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "613-2",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "613-3",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "613-3",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "613-4",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "613-4",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "623",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "623",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "70",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "70",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "700",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "700",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "75",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "75",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "77",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "77",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "80",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "80",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "805",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "805",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "81",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "81",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "810",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "810",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "816",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "816",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "82",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "82",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "85",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "85",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "87",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "87",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "8P6R33",
+          "yearStart": 2019,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "8P6R33",
+              "yearStart": 2019,
+              "yearEnd": null,
+              "bodyType": "open laadvloer",
+              "engines": [
+                {
+                  "label": "12.9L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 12902,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "2",
+                    "rdw/lastRegistration": "20230818",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "10.8L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 10837,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "20200123",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "8P6R43",
+          "yearStart": 2019,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "8P6R43",
+              "yearStart": 2019,
+              "yearEnd": null,
+              "bodyType": "kipper",
+              "engines": [
+                {
+                  "label": "10.8L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 10837,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "3",
+                    "rdw/lastRegistration": "20240627",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "12.9L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 12902,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "9",
+                    "rdw/lastRegistration": "20221026",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "8P6R53",
+          "yearStart": 2019,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "8P6R53",
+              "yearStart": 2019,
+              "yearEnd": null,
+              "bodyType": "neerklapbare zijschotten",
+              "engines": [
+                {
+                  "label": "12.9L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 12902,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "20190327",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "90",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "90",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "97",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "97",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "Baghira",
+          "yearStart": 1970,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Baghira",
+              "yearStart": 1970,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "Beta",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Beta",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "Eccora Sport V8",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Eccora Sport V8",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "NW Elektromobil",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "NW Elektromobil",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "PHOENIX",
+          "yearStart": 2016,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "PHOENIX",
+              "yearStart": 2016,
+              "yearEnd": null,
+              "bodyType": "Niet geregistreerd",
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "Prezident",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Prezident",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "T2-603",
+          "yearStart": 1965,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "T2-603",
+              "yearStart": 1965,
+              "yearEnd": null,
+              "bodyType": "Niet geregistreerd",
+              "engines": [
+                {
+                  "label": "2.5L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 2472,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19650101",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "V 855",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "V 855",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "V570",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "V570",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

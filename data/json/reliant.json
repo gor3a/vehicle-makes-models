@@ -1,0 +1,1041 @@
+{
+  "group": "reliant",
+  "makes": [
+    {
+      "name": "Reliant",
+      "models": [
+        {
+          "name": "CLI",
+          "yearStart": 2011,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "CLI",
+              "yearStart": 2011,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "1.1L 76 kW Petrol",
+                  "fuelType": "Petrol",
+                  "cylinders": null,
+                  "displacementCc": 1149,
+                  "powerHp": 103.4,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "1",
+                    "eea/lastYear": "2011",
+                    "eea/source": "eea"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Fox",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Fox",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "FW11",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "FW11",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "KITTEN",
+          "yearStart": 1977,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "KITTEN",
+              "yearStart": 1977,
+              "yearEnd": null,
+              "bodyType": "cabriolet",
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "KITTEN ESTATE",
+          "yearStart": 1977,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "KITTEN ESTATE",
+              "yearStart": 1977,
+              "yearEnd": null,
+              "bodyType": "Niet geregistreerd",
+              "engines": [
+                {
+                  "label": "0.8L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 848,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19770722",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "MEGANE",
+          "yearStart": 2011,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "MEGANE",
+              "yearStart": 2011,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "1.9L 96 kW Diesel",
+                  "fuelType": "Diesel",
+                  "cylinders": null,
+                  "displacementCc": 1870,
+                  "powerHp": 130.6,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "1",
+                    "eea/lastYear": "2011",
+                    "eea/source": "eea"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Rebel",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Rebel",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "Regal",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Regal",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "REGAL 3/30",
+          "yearStart": 1969,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "REGAL 3/30",
+              "yearStart": 1969,
+              "yearEnd": null,
+              "bodyType": "sedan",
+              "engines": [
+                {
+                  "label": "0.6L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 598,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19701127",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "0.7L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 700,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19710901",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "0.7L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 694,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19720608",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Regent",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Regent",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "Rialto",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Rialto",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "RIALTO GLS",
+          "yearStart": 1983,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "RIALTO GLS",
+              "yearStart": 1983,
+              "yearEnd": null,
+              "bodyType": "Niet geregistreerd",
+              "engines": [
+                {
+                  "label": "0.8L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 848,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "79",
+                    "rdw/lastRegistration": "19940912",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "RIALTO LX",
+          "yearStart": 1995,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "RIALTO LX",
+              "yearStart": 1995,
+              "yearEnd": null,
+              "bodyType": "Niet geregistreerd",
+              "engines": [
+                {
+                  "label": "0.8L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 848,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "2",
+                    "rdw/lastRegistration": "19950125",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "ROBIN",
+          "yearStart": 1974,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "ROBIN",
+              "yearStart": 1974,
+              "yearEnd": null,
+              "bodyType": "Niet geregistreerd",
+              "engines": [
+                {
+                  "label": "0.8L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 848,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19790105",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "0.8L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 750,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19741016",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "0.7L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 749,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19740816",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "ROBIN 850",
+          "yearStart": 1976,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "ROBIN 850",
+              "yearStart": 1976,
+              "yearEnd": null,
+              "bodyType": "Niet geregistreerd",
+              "engines": [
+                {
+                  "label": "0.8L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 848,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19780922",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "ROBIN 850 VAN",
+          "yearStart": 1976,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "ROBIN 850 VAN",
+              "yearStart": 1976,
+              "yearEnd": null,
+              "bodyType": "gesloten opbouw",
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "Sabre",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Sabre",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "SCIMITAR",
+          "yearStart": 1966,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "SCIMITAR",
+              "yearStart": 1966,
+              "yearEnd": null,
+              "bodyType": "sedan",
+              "engines": [
+                {
+                  "label": "3.0L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 3000,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19780426",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "3.0L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 2994,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19730323",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "2.9L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 2945,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19730901",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "2.6L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 2553,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19660602",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "1.4L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 1368,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19900813",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "1.4L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 1396,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19940331",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "SCIMITAR 1800 TI",
+          "yearStart": 1987,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "SCIMITAR 1800 TI",
+              "yearStart": 1987,
+              "yearEnd": null,
+              "bodyType": "cabriolet",
+              "engines": [
+                {
+                  "label": "1.8L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 1809,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "8",
+                    "rdw/lastRegistration": "19901219",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "SCIMITAR GTE",
+          "yearStart": 1969,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "SCIMITAR GTE",
+              "yearStart": 1969,
+              "yearEnd": null,
+              "bodyType": "Niet geregistreerd",
+              "engines": [
+                {
+                  "label": "3.0L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 2994,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "2",
+                    "rdw/lastRegistration": "19720803",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "2.8L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 2792,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19811203",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "3.0L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 3000,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19801003",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "SCIMITAR GTE AUTOMATIC",
+          "yearStart": 1970,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "SCIMITAR GTE AUTOMATIC",
+              "yearStart": 1970,
+              "yearEnd": null,
+              "bodyType": "sedan",
+              "engines": [
+                {
+                  "label": "3.0L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 2994,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "2",
+                    "rdw/lastRegistration": "19750922",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "3.0L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 2996,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19720106",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "2.8L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 2792,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "2",
+                    "rdw/lastRegistration": "19830831",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "SCIMITAR GTE OVERDRIVE",
+          "yearStart": 1970,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "SCIMITAR GTE OVERDRIVE",
+              "yearStart": 1970,
+              "yearEnd": null,
+              "bodyType": "hatchback",
+              "engines": [
+                {
+                  "label": "2.9L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 2945,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19811016",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "3.0L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 2994,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "2",
+                    "rdw/lastRegistration": "19790418",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "2.8L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 2792,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19850301",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "SCIMITAR SABRE 1.4",
+          "yearStart": 1994,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "SCIMITAR SABRE 1.4",
+              "yearStart": 1994,
+              "yearEnd": null,
+              "bodyType": "cabriolet",
+              "engines": [
+                {
+                  "label": "1.4L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 1396,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "5",
+                    "rdw/lastRegistration": "19990521",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Scimitar SS1",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Scimitar SS1",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "TW9",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "TW9",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

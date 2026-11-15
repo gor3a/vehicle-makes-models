@@ -1,0 +1,16 @@
+{
+  "group": "callaway",
+  "makes": [
+    {
+      "name": "Callaway",
+      "models": [
+        {
+          "name": "C12",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": []
+        }
+      ]
+    }
+  ]
+}

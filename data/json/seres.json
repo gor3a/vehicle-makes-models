@@ -1,0 +1,198 @@
+{
+  "group": "seres",
+  "makes": [
+    {
+      "name": "Seres",
+      "models": [
+        {
+          "name": "3",
+          "yearStart": 2020,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "3",
+              "yearStart": 2020,
+              "yearEnd": null,
+              "bodyType": "stationwagen",
+              "engines": [
+                {
+                  "label": "55 kW Electric",
+                  "fuelType": "Electric",
+                  "cylinders": null,
+                  "displacementCc": null,
+                  "powerHp": 74.8,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "1",
+                    "eea/lastYear": "2022",
+                    "eea/source": "eea"
+                  }
+                },
+                {
+                  "label": "120 kW Electric",
+                  "fuelType": "Electric",
+                  "cylinders": null,
+                  "displacementCc": null,
+                  "powerHp": 163.2,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "1",
+                    "eea/lastYear": "2022",
+                    "eea/source": "eea"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "5",
+          "yearStart": 2023,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "5",
+              "yearStart": 2023,
+              "yearEnd": null,
+              "bodyType": "stationwagen",
+              "engines": [
+                {
+                  "label": "1.5L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 1499,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "20240809",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "7",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "7",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "DFSK",
+          "yearStart": 2020,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "DFSK",
+              "yearStart": 2020,
+              "yearEnd": null,
+              "bodyType": "stationwagen",
+              "engines": [
+                {
+                  "label": "55 kW Electric",
+                  "fuelType": "Electric",
+                  "cylinders": null,
+                  "displacementCc": null,
+                  "powerHp": 74.8,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "22",
+                    "eea/lastYear": "2020",
+                    "eea/source": "eea"
+                  }
+                },
+                {
+                  "label": "120 kW Electric",
+                  "fuelType": "Electric",
+                  "cylinders": null,
+                  "displacementCc": null,
+                  "powerHp": 163.2,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "15",
+                    "eea/lastYear": "2022",
+                    "eea/source": "eea"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "N/A",
+          "yearStart": 2023,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "N/A",
+              "yearStart": 2023,
+              "yearEnd": null,
+              "bodyType": "stationwagen",
+              "engines": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1209 @@
+{
+  "group": "aixam",
+  "makes": [
+    {
+      "name": "Aixam",
+      "models": [
+        {
+          "name": "300",
+          "yearStart": 2000,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "300",
+              "yearStart": 2000,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "0.4L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 400,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "24",
+                    "rdw/lastRegistration": "20050831",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "400",
+          "yearStart": 1997,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "400",
+              "yearStart": 1997,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "0.4L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 400,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "2",
+                    "rdw/lastRegistration": "20000630",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "0.5L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 500,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19990601",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "A 300",
+          "yearStart": 1998,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "A 300",
+              "yearStart": 1998,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "0.4L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 400,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "32",
+                    "rdw/lastRegistration": "20050831",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "A 540",
+          "yearStart": 1992,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "A 540",
+              "yearStart": 1992,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "0.4L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 400,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "55",
+                    "rdw/lastRegistration": "20050831",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "A.721",
+          "yearStart": 2006,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "A.721",
+              "yearStart": 2006,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "0.4L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 400,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "23",
+                    "rdw/lastRegistration": "20160425",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "A.741",
+          "yearStart": 2005,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "A.741",
+              "yearStart": 2005,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "0.4L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 400,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "30",
+                    "rdw/lastRegistration": "20160914",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "A400",
+          "yearStart": 1996,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "A400",
+              "yearStart": 1996,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "0.4L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 400,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "207",
+                    "rdw/lastRegistration": "20050831",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "C0",
+          "yearStart": 1999,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "C0",
+              "yearStart": 1999,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "0.4L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 400,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "4",
+                    "rdw/lastRegistration": "20050831",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "0.3L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 276,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19990630",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "C3",
+          "yearStart": 2000,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "C3",
+              "yearStart": 2000,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "0.3L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 276,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "20050831",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "0.4L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 400,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "175",
+                    "rdw/lastRegistration": "20171207",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "City",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "City",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "E2",
+          "yearStart": 2003,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "E2",
+              "yearStart": 2003,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "0.4L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 400,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "110",
+                    "rdw/lastRegistration": "20161130",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "E3",
+          "yearStart": 2003,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "E3",
+              "yearStart": 2003,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "0.4L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 400,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "24",
+                    "rdw/lastRegistration": "20060120",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "E4",
+          "yearStart": 2002,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "E4",
+              "yearStart": 2002,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "0.4L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 399,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "20040630",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "0.4L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 400,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "256",
+                    "rdw/lastRegistration": "20170621",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "E6",
+          "yearStart": 2002,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "E6",
+              "yearStart": 2002,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "0.4L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 400,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "22",
+                    "rdw/lastRegistration": "20050831",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "K",
+          "yearStart": 2008,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "K",
+              "yearStart": 2008,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "0.4L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 400,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "243",
+                    "rdw/lastRegistration": "20180814",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "K2",
+          "yearStart": 2007,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "K2",
+              "yearStart": 2007,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "0.4L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 400,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "805",
+                    "rdw/lastRegistration": "20190222",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "M12RS",
+          "yearStart": 2018,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "M12RS",
+              "yearStart": 2018,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "0.5L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 479,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "303",
+                    "rdw/lastRegistration": "20261029",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "MEGA",
+          "yearStart": 1996,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "MEGA",
+              "yearStart": 1996,
+              "yearEnd": null,
+              "bodyType": "cabriolet",
+              "engines": [
+                {
+                  "label": "0.4L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 400,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "20050831",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "1.4L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 1361,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "20001002",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "0.5L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 479,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "20060711",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Méga Monte Carlo",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Méga Monte Carlo",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "MEGA MULTITRUCK",
+          "yearStart": 2003,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "MEGA MULTITRUCK",
+              "yearStart": 2003,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "0.4L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 400,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "27",
+                    "rdw/lastRegistration": "20160803",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Mega Track",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Mega Track",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "MW12",
+          "yearStart": 2014,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "MW12",
+              "yearStart": 2014,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "0.4L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 400,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "93",
+                    "rdw/lastRegistration": "20180322",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "N",
+          "yearStart": 2007,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "N",
+              "yearStart": 2007,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "0.4L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 400,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "7",
+                    "rdw/lastRegistration": "20180620",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "S10",
+          "yearStart": 2023,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "S10",
+              "yearStart": 2023,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "0.5L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 479,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "948",
+                    "rdw/lastRegistration": "20261113",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "S10-2",
+          "yearStart": 2026,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "S10-2",
+              "yearStart": 2026,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "0.5L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 479,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "77",
+                    "rdw/lastRegistration": "20261113",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "S8",
+          "yearStart": 2010,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "S8",
+              "yearStart": 2010,
+              "yearEnd": null,
+              "bodyType": "Niet geregistreerd",
+              "engines": [
+                {
+                  "label": "0.4L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 400,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1663",
+                    "rdw/lastRegistration": "20181127",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "0.6L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 599,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "20110722",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "0.5L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 480,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "20",
+                    "rdw/lastRegistration": "20170518",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "S9",
+          "yearStart": 2016,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "S9",
+              "yearStart": 2016,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "0.0L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 48,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "20231113",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "0.5L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 479,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "2602",
+                    "rdw/lastRegistration": "20251023",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "SCOUTY",
+          "yearStart": 2005,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "SCOUTY",
+              "yearStart": 2005,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "0.4L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 400,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "46",
+                    "rdw/lastRegistration": "20190130",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

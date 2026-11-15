@@ -1,0 +1,71 @@
+{
+  "group": "emc",
+  "makes": [
+    {
+      "name": "EMC",
+      "models": [
+        {
+          "name": "WAVE 3 GPL",
+          "yearStart": 2022,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "WAVE 3 GPL",
+              "yearStart": 2022,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "1.5L 108 kW Lpg",
+                  "fuelType": "Lpg",
+                  "cylinders": null,
+                  "displacementCc": 1498,
+                  "powerHp": 146.9,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "41",
+                    "eea/lastYear": "2022",
+                    "eea/source": "eea"
+                  }
+                },
+                {
+                  "label": "1.5L 83 kW Lpg",
+                  "fuelType": "Lpg",
+                  "cylinders": null,
+                  "displacementCc": 1499,
+                  "powerHp": 112.9,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "66",
+                    "eea/lastYear": "2022",
+                    "eea/source": "eea"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

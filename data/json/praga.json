@@ -1,0 +1,118 @@
+{
+  "group": "praga",
+  "makes": [
+    {
+      "name": "Praga",
+      "models": [
+        {
+          "name": "Alfa",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": []
+        },
+        {
+          "name": "AV",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": []
+        },
+        {
+          "name": "Baby",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": []
+        },
+        {
+          "name": "Bohema",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": []
+        },
+        {
+          "name": "Charon",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": []
+        },
+        {
+          "name": "Grand",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": []
+        },
+        {
+          "name": "IV",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": []
+        },
+        {
+          "name": "Lady",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": []
+        },
+        {
+          "name": "Mignon",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": []
+        },
+        {
+          "name": "Piccolo",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": []
+        },
+        {
+          "name": "R1",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": []
+        },
+        {
+          "name": "R1R",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": []
+        },
+        {
+          "name": "S5T",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": []
+        },
+        {
+          "name": "Super Piccolo",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": []
+        },
+        {
+          "name": "T-6",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": []
+        },
+        {
+          "name": "T-7",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": []
+        },
+        {
+          "name": "T-8",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": []
+        },
+        {
+          "name": "UV 80",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": []
+        }
+      ]
+    }
+  ]
+}

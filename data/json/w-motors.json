@@ -1,0 +1,22 @@
+{
+  "group": "w-motors",
+  "makes": [
+    {
+      "name": "W Motors",
+      "models": [
+        {
+          "name": "Fenyr SuperSport",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": []
+        },
+        {
+          "name": "Lykan HyperSport",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": []
+        }
+      ]
+    }
+  ]
+}

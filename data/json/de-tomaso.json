@@ -1,0 +1,568 @@
+{
+  "group": "de-tomaso",
+  "makes": [
+    {
+      "name": "De Tomaso",
+      "models": [
+        {
+          "name": "DEAUVILLE",
+          "yearStart": 1975,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "DEAUVILLE",
+              "yearStart": 1975,
+              "yearEnd": null,
+              "bodyType": "sedan",
+              "engines": [
+                {
+                  "label": "5.8L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 5764,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19751101",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "5.8L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 5751,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "2",
+                    "rdw/lastRegistration": "19771117",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "5.8L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 5763,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19750714",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "5.8L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 5818,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19750701",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Guarà",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Guarà",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "Longchamp",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Longchamp",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "LONGCHAMP 2+2",
+          "yearStart": 1975,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "LONGCHAMP 2+2",
+              "yearStart": 1975,
+              "yearEnd": null,
+              "bodyType": "sedan",
+              "engines": [
+                {
+                  "label": "5.8L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 5763,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "2",
+                    "rdw/lastRegistration": "19860430",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "5.7L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 5689,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19780906",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Mangusta",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Mangusta",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "P72",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "P72",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "P900",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "P900",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "PANTERA",
+          "yearStart": 1971,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "PANTERA",
+              "yearStart": 1971,
+              "yearEnd": null,
+              "bodyType": "Niet geregistreerd",
+              "engines": [
+                {
+                  "label": "5.8L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 5751,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19730630",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "5.8L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 5763,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19720701",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "5.7L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 5739,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19720701",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "5.7L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 5689,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19900201",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "5.7L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 5700,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19730630",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "5.8L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 5766,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19720228",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "5.8L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 5796,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "3",
+                    "rdw/lastRegistration": "19730228",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "6.8L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 6849,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19720101",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "5.8L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 5800,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "3",
+                    "rdw/lastRegistration": "19740701",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "PANTERA GTS",
+          "yearStart": 1972,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "PANTERA GTS",
+              "yearStart": 1972,
+              "yearEnd": null,
+              "bodyType": "coupe",
+              "engines": [
+                {
+                  "label": "5.8L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 5763,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "2",
+                    "rdw/lastRegistration": "19780323",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "5.7L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 5689,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19780518",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "5.8L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 5766,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19730228",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Vallelunga",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Vallelunga",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,667 @@
+{
+  "group": "geo",
+  "makes": [
+    {
+      "name": "Geo",
+      "models": [
+        {
+          "name": "Chevrolet Prizm",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Chevrolet Prizm",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "Metro",
+          "yearStart": 1989,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Metro",
+              "yearStart": 1989,
+              "yearEnd": null,
+              "bodyType": "Subcompact Cars",
+              "engines": [
+                {
+                  "label": "1.0L Regular Gasoline",
+                  "fuelType": "Regular Gasoline",
+                  "cylinders": 3,
+                  "displacementCc": 1000,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "fueleconomy/cylinders": "3",
+                    "fueleconomy/source": "fueleconomy"
+                  }
+                },
+                {
+                  "label": "1.3L Regular Gasoline",
+                  "fuelType": "Regular Gasoline",
+                  "cylinders": 4,
+                  "displacementCc": 1300,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "fueleconomy/cylinders": "4",
+                    "fueleconomy/source": "fueleconomy"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Metro LSI",
+          "yearStart": 1989,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Metro LSI",
+              "yearStart": 1989,
+              "yearEnd": null,
+              "bodyType": "Subcompact Cars",
+              "engines": [
+                {
+                  "label": "1.0L Regular Gasoline",
+                  "fuelType": "Regular Gasoline",
+                  "cylinders": 3,
+                  "displacementCc": 1000,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "fueleconomy/cylinders": "3",
+                    "fueleconomy/source": "fueleconomy"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Metro LSI Convertible",
+          "yearStart": 1990,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Metro LSI Convertible",
+              "yearStart": 1990,
+              "yearEnd": null,
+              "bodyType": "Two Seaters",
+              "engines": [
+                {
+                  "label": "1.0L Regular Gasoline",
+                  "fuelType": "Regular Gasoline",
+                  "cylinders": 3,
+                  "displacementCc": 1000,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "fueleconomy/cylinders": "3",
+                    "fueleconomy/source": "fueleconomy"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Metro XFI",
+          "yearStart": 1990,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Metro XFI",
+              "yearStart": 1990,
+              "yearEnd": null,
+              "bodyType": "Subcompact Cars",
+              "engines": [
+                {
+                  "label": "1.0L Regular Gasoline",
+                  "fuelType": "Regular Gasoline",
+                  "cylinders": 3,
+                  "displacementCc": 1000,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "fueleconomy/cylinders": "3",
+                    "fueleconomy/source": "fueleconomy"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Prizm",
+          "yearStart": 1989,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Prizm",
+              "yearStart": 1989,
+              "yearEnd": null,
+              "bodyType": "Compact Cars",
+              "engines": [
+                {
+                  "label": "1.6L Regular Gasoline",
+                  "fuelType": "Regular Gasoline",
+                  "cylinders": 4,
+                  "displacementCc": 1600,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "fueleconomy/cylinders": "4",
+                    "fueleconomy/source": "fueleconomy"
+                  }
+                },
+                {
+                  "label": "1.8L Regular Gasoline",
+                  "fuelType": "Regular Gasoline",
+                  "cylinders": 4,
+                  "displacementCc": 1800,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "fueleconomy/cylinders": "4",
+                    "fueleconomy/source": "fueleconomy"
+                  }
+                },
+                {
+                  "label": "1.6L Premium Gasoline",
+                  "fuelType": "Premium Gasoline",
+                  "cylinders": 4,
+                  "displacementCc": 1600,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "fueleconomy/cylinders": "4",
+                    "fueleconomy/source": "fueleconomy"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Spectrum",
+          "yearStart": 1989,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Spectrum",
+              "yearStart": 1989,
+              "yearEnd": null,
+              "bodyType": "Subcompact Cars",
+              "engines": [
+                {
+                  "label": "1.5L Regular Gasoline",
+                  "fuelType": "Regular Gasoline",
+                  "cylinders": 4,
+                  "displacementCc": 1500,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "fueleconomy/cylinders": "4",
+                    "fueleconomy/source": "fueleconomy"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Storm",
+          "yearStart": 1990,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Storm",
+              "yearStart": 1990,
+              "yearEnd": null,
+              "bodyType": "Subcompact Cars",
+              "engines": [
+                {
+                  "label": "1.6L Regular Gasoline",
+                  "fuelType": "Regular Gasoline",
+                  "cylinders": 4,
+                  "displacementCc": 1600,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "fueleconomy/cylinders": "4",
+                    "fueleconomy/source": "fueleconomy"
+                  }
+                },
+                {
+                  "label": "1.8L Regular Gasoline",
+                  "fuelType": "Regular Gasoline",
+                  "cylinders": 4,
+                  "displacementCc": 1800,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "fueleconomy/cylinders": "4",
+                    "fueleconomy/source": "fueleconomy"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Tracker 4WD",
+          "yearStart": 1990,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Tracker 4WD",
+              "yearStart": 1990,
+              "yearEnd": null,
+              "bodyType": "Special Purpose Vehicles",
+              "engines": [
+                {
+                  "label": "1.6L Regular Gasoline",
+                  "fuelType": "Regular Gasoline",
+                  "cylinders": 4,
+                  "displacementCc": 1600,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "fueleconomy/cylinders": "4",
+                    "fueleconomy/source": "fueleconomy"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Tracker Convertible 2WD",
+          "yearStart": 1991,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Tracker Convertible 2WD",
+              "yearStart": 1991,
+              "yearEnd": null,
+              "bodyType": "Special Purpose Vehicles",
+              "engines": [
+                {
+                  "label": "1.6L Regular Gasoline",
+                  "fuelType": "Regular Gasoline",
+                  "cylinders": 4,
+                  "displacementCc": 1600,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "fueleconomy/cylinders": "4",
+                    "fueleconomy/source": "fueleconomy"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Tracker Convertible 4WD",
+          "yearStart": 1989,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Tracker Convertible 4WD",
+              "yearStart": 1989,
+              "yearEnd": null,
+              "bodyType": "Special Purpose Vehicles",
+              "engines": [
+                {
+                  "label": "1.6L Regular Gasoline",
+                  "fuelType": "Regular Gasoline",
+                  "cylinders": 4,
+                  "displacementCc": 1600,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "fueleconomy/cylinders": "4",
+                    "fueleconomy/source": "fueleconomy"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Tracker Convertible 4x4",
+          "yearStart": 1996,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Tracker Convertible 4x4",
+              "yearStart": 1996,
+              "yearEnd": null,
+              "bodyType": "Special Purpose Vehicles",
+              "engines": [
+                {
+                  "label": "1.6L Regular Gasoline",
+                  "fuelType": "Regular Gasoline",
+                  "cylinders": 4,
+                  "displacementCc": 1600,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "fueleconomy/cylinders": "4",
+                    "fueleconomy/source": "fueleconomy"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Tracker Hardtop 4WD",
+          "yearStart": 1989,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Tracker Hardtop 4WD",
+              "yearStart": 1989,
+              "yearEnd": null,
+              "bodyType": "Special Purpose Vehicles",
+              "engines": [
+                {
+                  "label": "1.6L Regular Gasoline",
+                  "fuelType": "Regular Gasoline",
+                  "cylinders": 4,
+                  "displacementCc": 1600,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "fueleconomy/cylinders": "4",
+                    "fueleconomy/source": "fueleconomy"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Tracker Van 2WD",
+          "yearStart": 1996,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Tracker Van 2WD",
+              "yearStart": 1996,
+              "yearEnd": null,
+              "bodyType": "Special Purpose Vehicles",
+              "engines": [
+                {
+                  "label": "1.6L Regular Gasoline",
+                  "fuelType": "Regular Gasoline",
+                  "cylinders": 4,
+                  "displacementCc": 1600,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "fueleconomy/cylinders": "4",
+                    "fueleconomy/source": "fueleconomy"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Tracker Van 4WD",
+          "yearStart": 1992,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Tracker Van 4WD",
+              "yearStart": 1992,
+              "yearEnd": null,
+              "bodyType": "Special Purpose Vehicles",
+              "engines": [
+                {
+                  "label": "1.6L Regular Gasoline",
+                  "fuelType": "Regular Gasoline",
+                  "cylinders": 4,
+                  "displacementCc": 1600,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "fueleconomy/cylinders": "4",
+                    "fueleconomy/source": "fueleconomy"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Tracker Van 4x4",
+          "yearStart": 1996,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Tracker Van 4x4",
+              "yearStart": 1996,
+              "yearEnd": null,
+              "bodyType": "Special Purpose Vehicles",
+              "engines": [
+                {
+                  "label": "1.6L Regular Gasoline",
+                  "fuelType": "Regular Gasoline",
+                  "cylinders": 4,
+                  "displacementCc": 1600,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "fueleconomy/cylinders": "4",
+                    "fueleconomy/source": "fueleconomy"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

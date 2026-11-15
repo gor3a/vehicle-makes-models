@@ -1,0 +1,16 @@
+{
+  "group": "yangwang",
+  "makes": [
+    {
+      "name": "Yangwang",
+      "models": [
+        {
+          "name": "U8",
+          "yearStart": 2023,
+          "yearEnd": null,
+          "generations": []
+        }
+      ]
+    }
+  ]
+}

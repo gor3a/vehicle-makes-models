@@ -1,0 +1,16 @@
+{
+  "group": "brabham",
+  "makes": [
+    {
+      "name": "Brabham",
+      "models": [
+        {
+          "name": "BT18",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": []
+        }
+      ]
+    }
+  ]
+}

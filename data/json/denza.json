@@ -1,0 +1,40 @@
+{
+  "group": "denza",
+  "makes": [
+    {
+      "name": "Denza",
+      "models": [
+        {
+          "name": "D9",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": []
+        },
+        {
+          "name": "N7",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": []
+        },
+        {
+          "name": "N8",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": []
+        },
+        {
+          "name": "Z",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": []
+        },
+        {
+          "name": "Z9",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": []
+        }
+      ]
+    }
+  ]
+}

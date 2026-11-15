@@ -1,0 +1,1505 @@
+{
+  "group": "ligier",
+  "makes": [
+    {
+      "name": "Ligier",
+      "models": [
+        {
+          "name": "162 AMBRA",
+          "yearStart": 1995,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "162 AMBRA",
+              "yearStart": 1995,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "0.5L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 505,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "121",
+                    "rdw/lastRegistration": "20050831",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "BE UP",
+          "yearStart": 2002,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "BE UP",
+              "yearStart": 2002,
+              "yearEnd": null,
+              "bodyType": "Niet geregistreerd",
+              "engines": [
+                {
+                  "label": "0.5L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 505,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "2",
+                    "rdw/lastRegistration": "20160126",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Easymile EZ10",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Easymile EZ10",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "IXO",
+          "yearStart": 2010,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "IXO",
+              "yearStart": 2010,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "0.4L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 440,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "14",
+                    "rdw/lastRegistration": "20130313",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "0.5L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 480,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "2",
+                    "rdw/lastRegistration": "20141222",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "0.5L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 505,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "54",
+                    "rdw/lastRegistration": "20170713",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "IXO DCI",
+          "yearStart": 2010,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "IXO DCI",
+              "yearStart": 2010,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "0.5L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 480,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "52",
+                    "rdw/lastRegistration": "20171124",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "0.4L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 440,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "270",
+                    "rdw/lastRegistration": "20230920",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "JS 162",
+          "yearStart": 1997,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "JS 162",
+              "yearStart": 1997,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "0.5L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 505,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "45",
+                    "rdw/lastRegistration": "20050831",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "JS2",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "JS2",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "JS2 R",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "JS2 R",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "JS20",
+          "yearStart": 2000,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "JS20",
+              "yearStart": 2000,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "0.5L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 505,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "20040224",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "JS28FD",
+          "yearStart": 2004,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "JS28FD",
+              "yearStart": 2004,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "0.0L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 45,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "20160927",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "0.5L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 505,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "299",
+                    "rdw/lastRegistration": "20190320",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "JS30",
+          "yearStart": 2005,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "JS30",
+              "yearStart": 2005,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "0.5L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 505,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "17",
+                    "rdw/lastRegistration": "20170119",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "JS4",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "JS4",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "JS50",
+          "yearStart": 2013,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "JS50",
+              "yearStart": 2013,
+              "yearEnd": null,
+              "bodyType": "Niet geregistreerd",
+              "engines": [
+                {
+                  "label": "0.5L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 478,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "352",
+                    "rdw/lastRegistration": "20250730",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "0.5L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 499,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "132",
+                    "rdw/lastRegistration": "20261114",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "0.5L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 498,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "26",
+                    "rdw/lastRegistration": "20241221",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "0.5L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 480,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "13",
+                    "rdw/lastRegistration": "20170322",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "0.5L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 505,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "20",
+                    "rdw/lastRegistration": "20180816",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "JS50 DCI",
+          "yearStart": 2013,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "JS50 DCI",
+              "yearStart": 2013,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "0.5L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 480,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "99",
+                    "rdw/lastRegistration": "20160902",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "JS50L",
+          "yearStart": 2014,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "JS50L",
+              "yearStart": 2014,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "0.5L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 478,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "391",
+                    "rdw/lastRegistration": "20220221",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "0.5L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 480,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "349",
+                    "rdw/lastRegistration": "20220531",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "0.5L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 505,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "7",
+                    "rdw/lastRegistration": "20170905",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "JS60",
+          "yearStart": 2020,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "JS60",
+              "yearStart": 2020,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "0.5L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 478,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1661",
+                    "rdw/lastRegistration": "20260119",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "0.5L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 498,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "2",
+                    "rdw/lastRegistration": "20230822",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "0.5L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 499,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "3",
+                    "rdw/lastRegistration": "20261110",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "JSRC",
+          "yearStart": 2013,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "JSRC",
+              "yearStart": 2013,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "0.5L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 480,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "61",
+                    "rdw/lastRegistration": "20170828",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "0.4L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 440,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "16",
+                    "rdw/lastRegistration": "20160212",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "0.5L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 505,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "2",
+                    "rdw/lastRegistration": "20140207",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "MYLI",
+          "yearStart": 2023,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "MYLI",
+              "yearStart": 2023,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "0.5L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 499,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "111",
+                    "rdw/lastRegistration": "20261106",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "N/A",
+          "yearStart": 2014,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "N/A",
+              "yearStart": 2014,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "0.5L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 505,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "17",
+                    "rdw/lastRegistration": "20160601",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "NOVA",
+          "yearStart": 2001,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "NOVA",
+              "yearStart": 2001,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "0.0L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 49,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "20020301",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "0.5L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 505,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "75",
+                    "rdw/lastRegistration": "20161018",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "OPTIMAX",
+          "yearStart": 2009,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "OPTIMAX",
+              "yearStart": 2009,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "0.4L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 440,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "20091128",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "0.5L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 505,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "22",
+                    "rdw/lastRegistration": "20120123",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "OPTIMAX DCI",
+          "yearStart": 2010,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "OPTIMAX DCI",
+              "yearStart": 2010,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "0.4L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 440,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "17",
+                    "rdw/lastRegistration": "20160119",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "PRIMA",
+          "yearStart": 1993,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "PRIMA",
+              "yearStart": 1993,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "0.3L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 315,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "17",
+                    "rdw/lastRegistration": "20050831",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "X-TOO",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "X-TOO",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "XTOO",
+          "yearStart": 2008,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "XTOO",
+              "yearStart": 2008,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "0.5L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 505,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "30",
+                    "rdw/lastRegistration": "20160705",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "XTOO MAX",
+          "yearStart": 2006,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "XTOO MAX",
+              "yearStart": 2006,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "0.5L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 505,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "312",
+                    "rdw/lastRegistration": "20170905",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "XTOO R",
+          "yearStart": 2008,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "XTOO R",
+              "yearStart": 2008,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "0.4L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 440,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "4",
+                    "rdw/lastRegistration": "20100209",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "0.5L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 505,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "20170117",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "XTOO R DCI",
+          "yearStart": 2008,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "XTOO R DCI",
+              "yearStart": 2008,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "0.4L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 440,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "154",
+                    "rdw/lastRegistration": "20161201",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "XTOO RS",
+          "yearStart": 2009,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "XTOO RS",
+              "yearStart": 2009,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "0.5L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 505,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "17",
+                    "rdw/lastRegistration": "20120606",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "0.5L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 500,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "20090722",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "XTOO RS DCI",
+          "yearStart": 2009,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "XTOO RS DCI",
+              "yearStart": 2009,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "0.4L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 440,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "95",
+                    "rdw/lastRegistration": "20161207",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "XTOO S",
+          "yearStart": 2009,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "XTOO S",
+              "yearStart": 2009,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "0.5L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 505,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "16",
+                    "rdw/lastRegistration": "20110203",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "0.4L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 440,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "35",
+                    "rdw/lastRegistration": "20170531",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

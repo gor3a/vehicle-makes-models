@@ -1,0 +1,193 @@
+{
+  "group": "e-go",
+  "makes": [
+    {
+      "name": "e.GO",
+      "models": [
+        {
+          "name": "E.WAVE X",
+          "yearStart": 2022,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "E.WAVE X",
+              "yearStart": 2022,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "44 kW Electric",
+                  "fuelType": "Electric",
+                  "cylinders": null,
+                  "displacementCc": null,
+                  "powerHp": 59.8,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "3",
+                    "eea/lastYear": "2022",
+                    "eea/source": "eea"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "LIFE",
+          "yearStart": 2019,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "LIFE",
+              "yearStart": 2019,
+              "yearEnd": null,
+              "bodyType": "hatchback",
+              "engines": [
+                {
+                  "label": "Electric",
+                  "fuelType": "Electric",
+                  "cylinders": null,
+                  "displacementCc": null,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "28",
+                    "eea/lastYear": "2021",
+                    "eea/source": "eea"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "LIFE FIRST EDITION",
+          "yearStart": 2019,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "LIFE FIRST EDITION",
+              "yearStart": 2019,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "53 kW Electric",
+                  "fuelType": "Electric",
+                  "cylinders": null,
+                  "displacementCc": null,
+                  "powerHp": 72.1,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "2",
+                    "eea/lastYear": "2021",
+                    "eea/source": "eea"
+                  }
+                },
+                {
+                  "label": "57 kW Electric",
+                  "fuelType": "Electric",
+                  "cylinders": null,
+                  "displacementCc": null,
+                  "powerHp": 77.5,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "443",
+                    "eea/lastYear": "2022",
+                    "eea/source": "eea"
+                  }
+                },
+                {
+                  "label": "41 kW Electric",
+                  "fuelType": "Electric",
+                  "cylinders": null,
+                  "displacementCc": null,
+                  "powerHp": 55.8,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "2",
+                    "eea/lastYear": "2020",
+                    "eea/source": "eea"
+                  }
+                },
+                {
+                  "label": "75 kW Electric",
+                  "fuelType": "Electric",
+                  "cylinders": null,
+                  "displacementCc": null,
+                  "powerHp": 102,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "2",
+                    "eea/lastYear": "2019",
+                    "eea/source": "eea"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

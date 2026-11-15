@@ -1,0 +1,16 @@
+{
+  "group": "bac",
+  "makes": [
+    {
+      "name": "BAC",
+      "models": [
+        {
+          "name": "Mono",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": []
+        }
+      ]
+    }
+  ]
+}

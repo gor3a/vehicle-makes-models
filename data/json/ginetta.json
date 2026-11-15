@@ -1,0 +1,220 @@
+{
+  "group": "ginetta",
+  "makes": [
+    {
+      "name": "Ginetta",
+      "models": [
+        {
+          "name": "F400",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "F400",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "G15",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "G15",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "G32",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "G32",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "G4",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "G4",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "G40",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "G40",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "G50",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "G50",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "G55",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "G55",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "G56",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "G56",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "G60",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "G60",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "unknown",
+          "yearStart": 2011,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "unknown",
+              "yearStart": 2011,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "2.0L Petrol",
+                  "fuelType": "Petrol",
+                  "cylinders": null,
+                  "displacementCc": 1998,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "4",
+                    "eea/lastYear": "2012",
+                    "eea/source": "eea"
+                  }
+                },
+                {
+                  "label": "2.0L Petrol",
+                  "fuelType": "Petrol",
+                  "cylinders": null,
+                  "displacementCc": 2000,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "6",
+                    "eea/lastYear": "2013",
+                    "eea/source": "eea"
+                  }
+                },
+                {
+                  "label": "3.7L Petrol",
+                  "fuelType": "Petrol",
+                  "cylinders": null,
+                  "displacementCc": 3700,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "6",
+                    "eea/lastYear": "2013",
+                    "eea/source": "eea"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

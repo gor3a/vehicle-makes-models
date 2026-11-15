@@ -1,0 +1,944 @@
+{
+  "group": "faw",
+  "makes": [
+    {
+      "name": "FAW",
+      "models": [
+        {
+          "name": "Bestune B50",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Bestune B50",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "Bestune Pony",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Bestune Pony",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "Bestune T33",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Bestune T33",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "Bestune T77",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Bestune T77",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "BESTUNE T77 PRO",
+          "yearStart": 2021,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "BESTUNE T77 PRO",
+              "yearStart": 2021,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "1.5L 118 kW Petrol",
+                  "fuelType": "Petrol",
+                  "cylinders": null,
+                  "displacementCc": 1498,
+                  "powerHp": 160.5,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "6",
+                    "eea/lastYear": "2021",
+                    "eea/source": "eea"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "BESTUNE T77 PRO PREMIUM",
+          "yearStart": 2021,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "BESTUNE T77 PRO PREMIUM",
+              "yearStart": 2021,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "1.5L 117 kW Lpg",
+                  "fuelType": "Lpg",
+                  "cylinders": null,
+                  "displacementCc": 1498,
+                  "powerHp": 159.1,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "3",
+                    "eea/lastYear": "2022",
+                    "eea/source": "eea"
+                  }
+                },
+                {
+                  "label": "1.5L 118 kW Petrol",
+                  "fuelType": "Petrol",
+                  "cylinders": null,
+                  "displacementCc": 1498,
+                  "powerHp": 160.5,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "73",
+                    "eea/lastYear": "2022",
+                    "eea/source": "eea"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Bestune T99",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Bestune T99",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "Besturn B30",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Besturn B30",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "Besturn B90",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Besturn B90",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "Besturn X40",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Besturn X40",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "Besturn X80",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Besturn X80",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "Dongfanghong BJ760",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Dongfanghong BJ760",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "Dongfeng CA71",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Dongfeng CA71",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "E-HS9",
+          "yearStart": 2022,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "E-HS9",
+              "yearStart": 2022,
+              "yearEnd": null,
+              "bodyType": "stationwagen",
+              "engines": [
+                {
+                  "label": "160 kW Electric",
+                  "fuelType": "Electric",
+                  "cylinders": null,
+                  "displacementCc": null,
+                  "powerHp": 217.6,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "642",
+                    "eea/lastYear": "2022",
+                    "eea/source": "eea"
+                  }
+                },
+                {
+                  "label": "245 kW Electric",
+                  "fuelType": "Electric",
+                  "cylinders": null,
+                  "displacementCc": null,
+                  "powerHp": 333.2,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "4",
+                    "eea/lastYear": "2022",
+                    "eea/source": "eea"
+                  }
+                },
+                {
+                  "label": "405 kW Electric",
+                  "fuelType": "Electric",
+                  "cylinders": null,
+                  "displacementCc": null,
+                  "powerHp": 550.8,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "39",
+                    "eea/lastYear": "2022",
+                    "eea/source": "eea"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "EHS9",
+          "yearStart": 2021,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "EHS9",
+              "yearStart": 2021,
+              "yearEnd": null,
+              "bodyType": "stationwagen",
+              "engines": [
+                {
+                  "label": "160 kW Electric",
+                  "fuelType": "Electric",
+                  "cylinders": null,
+                  "displacementCc": null,
+                  "powerHp": 217.6,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "1",
+                    "eea/lastYear": "2022",
+                    "eea/source": "eea"
+                  }
+                },
+                {
+                  "label": "245 kW Electric",
+                  "fuelType": "Electric",
+                  "cylinders": null,
+                  "displacementCc": null,
+                  "powerHp": 333.2,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "13",
+                    "eea/lastYear": "2022",
+                    "eea/source": "eea"
+                  }
+                },
+                {
+                  "label": "320 kW Electric",
+                  "fuelType": "Electric",
+                  "cylinders": null,
+                  "displacementCc": null,
+                  "powerHp": 435.2,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "108",
+                    "eea/lastYear": "2022",
+                    "eea/source": "eea"
+                  }
+                },
+                {
+                  "label": "405 kW Electric",
+                  "fuelType": "Electric",
+                  "cylinders": null,
+                  "displacementCc": null,
+                  "powerHp": 550.8,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "1347",
+                    "eea/lastYear": "2022",
+                    "eea/source": "eea"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Hongqi 774",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Hongqi 774",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "Hongqi CA7180 series",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Hongqi CA7180 series",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "Hongqi CA72",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Hongqi CA72",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "Hongqi CA7228",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Hongqi CA7228",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "Hongqi CA7460",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Hongqi CA7460",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "Hongqi CA770",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Hongqi CA770",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "Hongqi CA771",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Hongqi CA771",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "Hongqi CA773",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Hongqi CA773",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "Hongqi E-QM5",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Hongqi E-QM5",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "Hongqi EH7",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Hongqi EH7",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "HONGQI EHS7",
+          "yearStart": 2025,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "HONGQI EHS7",
+              "yearStart": 2025,
+              "yearEnd": null,
+              "bodyType": "stationwagen",
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "Hongqi Guoya",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Hongqi Guoya",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "Hongqi H7",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Hongqi H7",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "Hongqi H9",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Hongqi H9",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "Hongqi HQ3",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Hongqi HQ3",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "Hongqi HQ9",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Hongqi HQ9",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "Hongqi HQE",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Hongqi HQE",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "Hongqi HS5",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Hongqi HS5",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "Hongqi L5",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Hongqi L5",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "Hongqi LS5",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Hongqi LS5",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "Hongqi LS7",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Hongqi LS7",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "Hongqi Tiangong 08",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Hongqi Tiangong 08",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "Jiefang CA-30",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Jiefang CA-30",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "Junpai A50",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Junpai A50",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "Junpai A70",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Junpai A70",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "Junpai CX65",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Junpai CX65",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "Junpai D60",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Junpai D60",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "Junpai D80",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Junpai D80",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "Senia R9",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Senia R9",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "Senya R7",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Senya R7",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "Senya S80",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Senya S80",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "SiTech DEV1",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "SiTech DEV1",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "Toyota Corolla EX",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Toyota Corolla EX",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "Xiali N5",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Xiali N5",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "Xiali N7",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Xiali N7",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

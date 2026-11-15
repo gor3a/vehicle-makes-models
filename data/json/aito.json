@@ -1,0 +1,40 @@
+{
+  "group": "aito",
+  "makes": [
+    {
+      "name": "AITO",
+      "models": [
+        {
+          "name": "M5",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": []
+        },
+        {
+          "name": "M6",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": []
+        },
+        {
+          "name": "M7",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": []
+        },
+        {
+          "name": "M8",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": []
+        },
+        {
+          "name": "M9",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": []
+        }
+      ]
+    }
+  ]
+}

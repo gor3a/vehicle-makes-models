@@ -1,0 +1,345 @@
+{
+  "group": "bertone",
+  "makes": [
+    {
+      "name": "Bertone",
+      "models": [
+        {
+          "name": ".",
+          "yearStart": 2011,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": ".",
+              "yearStart": 2011,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "1.5L 85 kW Petrol",
+                  "fuelType": "Petrol",
+                  "cylinders": null,
+                  "displacementCc": 1498,
+                  "powerHp": 115.6,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "2",
+                    "eea/lastYear": "2011",
+                    "eea/source": "eea"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Arnolt-Bristol",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Arnolt-Bristol",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "Blitz",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Blitz",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "FREECLEMBER",
+          "yearStart": 2013,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "FREECLEMBER",
+              "yearStart": 2013,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": [
+                {
+                  "label": "1.6L 73 kW Petrol",
+                  "fuelType": "Petrol",
+                  "cylinders": null,
+                  "displacementCc": 1596,
+                  "powerHp": 99.3,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "eea/count": "2",
+                    "eea/lastYear": "2013",
+                    "eea/source": "eea"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Freeclimber",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Freeclimber",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "Freeclimber 2",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Freeclimber 2",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "GB110",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "GB110",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "Genesis",
+          "yearStart": null,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "Genesis",
+              "yearStart": null,
+              "yearEnd": null,
+              "bodyType": null,
+              "engines": []
+            }
+          ]
+        },
+        {
+          "name": "RITMO CABRIO",
+          "yearStart": 1982,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "RITMO CABRIO",
+              "yearStart": 1982,
+              "yearEnd": null,
+              "bodyType": "cabriolet",
+              "engines": [
+                {
+                  "label": "1.5L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 1498,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "21",
+                    "rdw/lastRegistration": "19860929",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "RITMO CABRIO 100S",
+          "yearStart": 1986,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "RITMO CABRIO 100S",
+              "yearStart": 1986,
+              "yearEnd": null,
+              "bodyType": "cabriolet",
+              "engines": [
+                {
+                  "label": "1.6L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 1585,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "5",
+                    "rdw/lastRegistration": "19871001",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "X 1-9",
+          "yearStart": 1981,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "X 1-9",
+              "yearStart": 1981,
+              "yearEnd": null,
+              "bodyType": "Niet geregistreerd",
+              "engines": [
+                {
+                  "label": "1.5L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 1465,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19820429",
+                    "rdw/source": "rdw"
+                  }
+                },
+                {
+                  "label": "1.5L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 1498,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19870203",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "X 1/9 K6",
+          "yearStart": 1984,
+          "yearEnd": null,
+          "generations": [
+            {
+              "name": "X 1/9 K6",
+              "yearStart": 1984,
+              "yearEnd": null,
+              "bodyType": "Niet geregistreerd",
+              "engines": [
+                {
+                  "label": "1.5L",
+                  "fuelType": null,
+                  "cylinders": null,
+                  "displacementCc": 1498,
+                  "powerHp": null,
+                  "torqueNm": null,
+                  "transmission": null,
+                  "drivetrain": null,
+                  "zeroToHundredKmhS": null,
+                  "topSpeedKmh": null,
+                  "fuelEconomyCombinedL100": null,
+                  "lengthMm": null,
+                  "widthMm": null,
+                  "heightMm": null,
+                  "wheelbaseMm": null,
+                  "curbWeightKg": null,
+                  "specs": {
+                    "rdw/count": "1",
+                    "rdw/lastRegistration": "19880720",
+                    "rdw/source": "rdw"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
