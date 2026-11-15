@@ -17,9 +17,8 @@ Under the following terms:
 
 - **Attribution** — You must give appropriate credit to the
   "vehicle-makes-models" project and to autoevolution.com as the upstream
-  source of make/model/generation/engine data, plus the open data sources
-  listed under "Sources" below for the brands that use them. Provide a link
-  to this repository and indicate if changes were made.
+  source of make/model/generation/engine data. Provide a link to this
+  repository and indicate if changes were made.
 - **Share-Alike** — If you publicly use any adapted version of this database,
   or works produced from an adapted database, you must also offer that adapted
   database under the ODbL.
@@ -35,18 +34,6 @@ canonical link above.
 Make/model/generation/engine facts were compiled, collapsed, and normalized
 from publicly available information on autoevolution.com. Egypt-market
 additions (e.g. Speranza, El Nasr) are original curation by this project.
-
-A further set of brands that autoevolution.com does not cover (see
-`data/open-data-sources.json` for the per-brand list) was compiled from open
-data, with years derived from vehicle registrations and therefore approximate:
-
-- RDW open data (Dutch vehicle registry, "Gekentekende voertuigen") — public
-  domain / CC0, attribution: Team Open Data RDW.
-- European Environment Agency / European Commission DG CLIMA, "Monitoring of
-  CO2 emissions from passenger cars" — CC BY 4.0. Contains data from the
-  European Environment Agency.
-- Wikidata — CC0 (model names and, where present, production dates).
-- U.S. EPA / DOE fueleconomy.gov — U.S. government public domain (Geo).
 
 The code in this repository (everything outside `data/`) is licensed
 separately under the MIT License — see `LICENSE`.
